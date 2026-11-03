@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "7da6f0c1e4a81d48984fbfbd5f59b3b5c71297aaea84dda7f2e5f26b24d479ef",
-  "fetched_at": "2026-11-03T18:19:40.448Z",
-  "file_last_modified": "Tue, 03 Nov 2026 18:19:37 GMT"
+  "sha256": "49343b4da8ec05d7fe3ca9c2d4055c63fd34a178514899068a2ea5cecf64b4c7",
+  "fetched_at": "2026-11-03T18:21:42.067Z",
+  "file_last_modified": "Tue, 03 Nov 2026 18:21:41 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1123,83 +1123,104 @@
     {
      "name": "Marissa Renee Flores",
      "party": "IND",
-     "votes": 925,
-     "pct": 10.93
+     "votes": 1397,
+     "pct": 11.43
     },
     {
      "name": "Ralph Naraja Yumul",
      "party": "IND",
-     "votes": 823,
-     "pct": 9.73
+     "votes": 1233,
+     "pct": 10.09
     },
     {
      "name": "Elias Malite Rangamar",
      "party": "IND",
-     "votes": 816,
-     "pct": 9.64
+     "votes": 1180,
+     "pct": 9.65
     },
     {
      "name": "Edward C. Arriola Jr.",
      "party": "REP",
-     "votes": 765,
-     "pct": 9.04
-    },
-    {
-     "name": "Andrew Lujan Orsini",
-     "party": "REP",
-     "votes": 740,
-     "pct": 8.75
-    },
-    {
-     "name": "Yvette Reyes Sablan",
-     "party": "REP",
-     "votes": 715,
-     "pct": 8.45
+     "votes": 1086,
+     "pct": 8.88
     },
     {
      "name": "Steve Kap Soo Jang",
      "party": "IND",
-     "votes": 696,
-     "pct": 8.23
+     "votes": 1071,
+     "pct": 8.76
+    },
+    {
+     "name": "Andrew Lujan Orsini",
+     "party": "REP",
+     "votes": 1029,
+     "pct": 8.42
+    },
+    {
+     "name": "Yvette Reyes Sablan",
+     "party": "REP",
+     "votes": 987,
+     "pct": 8.07
     },
     {
      "name": "Denita Kaipat Yangetmai",
      "party": "DEM",
-     "votes": 653,
-     "pct": 7.72
+     "votes": 951,
+     "pct": 7.78
     },
     {
      "name": "Quaid Taima Ogumoro Ngirchongor",
      "party": "REP",
-     "votes": 638,
-     "pct": 7.54
+     "votes": 864,
+     "pct": 7.07
     },
     {
      "name": "Carlos Ebert Santos",
      "party": "IND",
-     "votes": 588,
-     "pct": 6.95
+     "votes": 835,
+     "pct": 6.83
     },
     {
      "name": "Del Ariel Benson",
      "party": "REP",
-     "votes": 586,
-     "pct": 6.93
+     "votes": 812,
+     "pct": 6.64
     },
     {
      "name": "Gabriel \"Boki\" Babauta",
      "party": "DEM",
-     "votes": 516,
-     "pct": 6.1
+     "votes": 781,
+     "pct": 6.39
     }
    ],
    "write_in": 0,
-   "total_votes": 8461,
+   "total_votes": 12226,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED3B": {
+     "votes": {
+      "Steve Kap Soo Jang": 375,
+      "Elias Malite Rangamar": 364,
+      "Edward C. Arriola Jr.": 321,
+      "Gabriel \"Boki\" Babauta": 265,
+      "Quaid Taima Ogumoro Ngirchongor": 226,
+      "Denita Kaipat Yangetmai": 298,
+      "Ralph Naraja Yumul": 410,
+      "Marissa Renee Flores": 472,
+      "Yvette Reyes Sablan": 272,
+      "Andrew Lujan Orsini": 289,
+      "Carlos Ebert Santos": 247,
+      "Del Ariel Benson": 226
+     },
+     "write_in": null,
+     "total_votes": 3765,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Steve Kap Soo Jang": 633,
@@ -1796,17 +1817,27 @@
     {
      "name": "Daniel Ogo Quitugua",
      "party": "NP",
-     "votes": 5501,
+     "votes": 6084,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 5501,
+   "total_votes": 6084,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 6,
+   "precincts_in_report": 7,
    "by_precinct": {
+    "ED3B": {
+     "votes": {
+      "Daniel Ogo Quitugua": 583
+     },
+     "write_in": null,
+     "total_votes": 583,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4A": {
      "votes": {
       "Daniel Ogo Quitugua": 259
@@ -2022,23 +2053,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 7939,
-     "pct": 85.71
+     "votes": 8517,
+     "pct": 85.36
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 1324,
-     "pct": 14.29
+     "votes": 1461,
+     "pct": 14.64
     }
    ],
    "write_in": 0,
-   "total_votes": 9263,
+   "total_votes": 9978,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 8,
+   "precincts_in_report": 9,
    "by_precinct": {
+    "ED3B": {
+     "votes": {
+      "YES": 578,
+      "NO": 137
+     },
+     "write_in": null,
+     "total_votes": 715,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4A": {
      "votes": {
       "YES": 279,
@@ -2400,24 +2442,24 @@
    "contest": "Justice Retention: Alexandro Cruz Castro",
    "office": "Justice Retention: Alexandro Cruz Castro",
    "party": null,
-   "level": "review",
+   "level": "clinched",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 85.7,
+   "leader_pct": 85.4,
    "runner_up": "NO",
-   "runner_up_pct": 14.3,
+   "runner_up_pct": 14.6,
    "third": null,
    "third_pct": null,
-   "margin": 6615,
-   "counted_pct": 75.1,
-   "precincts_reported": 8,
+   "margin": 7056,
+   "counted_pct": 82.7,
+   "precincts_reported": 9,
    "precincts_total": 15,
-   "precincts_led": 8,
-   "precincts_with_votes": 8,
+   "precincts_led": 9,
+   "precincts_with_votes": 9,
    "runner_up_needs_pct": null,
-   "runner_up_best_pct": 18,
-   "runner_up_best_at": "ED5",
-   "est_votes_out": 3072
+   "runner_up_best_pct": 19.2,
+   "runner_up_best_at": "ED3B",
+   "est_votes_out": 2081
   },
   {
    "id": "constitutional-convention",
