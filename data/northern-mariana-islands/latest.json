@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "57ddcb22d87a2e5d07d663d38c763f2e72dd8fc0cf66bc9a6b7f99f0b46d9870",
-  "fetched_at": "2026-11-03T15:32:39.811Z",
-  "file_last_modified": "Tue, 03 Nov 2026 15:31:46 GMT"
+  "sha256": "e710a7bd6e8f84e2d1b9610aa87f4afa99e2a42710ec2628fc5c9f7153e9329e",
+  "fetched_at": "2026-11-03T16:09:42.996Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:09:05 GMT"
  },
  "report": {
   "title": "Election results",
@@ -87,24 +87,24 @@
     {
      "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
      "party": "REP",
-     "votes": 2778,
-     "pct": 49.98
+     "votes": 3611,
+     "pct": 53.77
     },
     {
      "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
      "party": "IND",
-     "votes": 2158,
-     "pct": 38.83
+     "votes": 2415,
+     "pct": 35.96
     },
     {
      "name": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
      "party": "IND",
-     "votes": 622,
-     "pct": 11.19
+     "votes": 690,
+     "pct": 10.27
     }
    ],
    "write_in": 0,
-   "total_votes": 5558,
+   "total_votes": 6716,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -112,12 +112,12 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 2158,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 2778,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 622
+      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 2415,
+      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 3611,
+      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 690
      },
      "write_in": null,
-     "total_votes": 5558,
+     "total_votes": 6716,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1227,21 +1227,21 @@
    "level": "none",
    "majority_needed": true,
    "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
-   "leader_pct": 50,
+   "leader_pct": 53.8,
    "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-   "runner_up_pct": 38.8,
+   "runner_up_pct": 36,
    "third": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
-   "third_pct": 11.2,
-   "margin": 620,
+   "third_pct": 10.3,
+   "margin": 1196,
    "counted_pct": 6.9,
    "precincts_reported": 1,
    "precincts_total": 15,
    "precincts_led": 1,
    "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.4,
-   "runner_up_best_pct": 43.7,
+   "runner_up_needs_pct": 50.6,
+   "runner_up_best_pct": 40.1,
    "runner_up_best_at": "EV",
-   "est_votes_out": 75033
+   "est_votes_out": 90666
   },
   {
    "id": "washington-delegate",
