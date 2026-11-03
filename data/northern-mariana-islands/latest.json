@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "d506a7052610a6912379ee7177e1c57f90e73a4f48fc8fd7ad9bd98c2e870f5e",
-  "fetched_at": "2026-11-03T16:48:39.831Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:48:05 GMT"
+  "sha256": "0d4742fa62f307fab5396cc956d259ca8e0581eff9560f1b1f00671b8244607b",
+  "fetched_at": "2026-11-03T17:00:42.470Z",
+  "file_last_modified": "Tue, 03 Nov 2026 17:00:13 GMT"
  },
  "report": {
   "title": "Election results",
@@ -87,29 +87,41 @@
     {
      "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
      "party": "REP",
-     "votes": 4025,
-     "pct": 52.95
+     "votes": 4227,
+     "pct": 53.38
     },
     {
      "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
      "party": "IND",
-     "votes": 2754,
-     "pct": 36.23
+     "votes": 2848,
+     "pct": 35.97
     },
     {
      "name": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
      "party": "IND",
-     "votes": 823,
-     "pct": 10.83
+     "votes": 843,
+     "pct": 10.65
     }
    ],
    "write_in": 0,
-   "total_votes": 7602,
+   "total_votes": 7918,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 94,
+      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 202,
+      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 20
+     },
+     "write_in": null,
+     "total_votes": 316,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 2415,
@@ -146,23 +158,34 @@
     {
      "name": "Kimberly King-Hinds",
      "party": "REP",
-     "votes": 4999,
-     "pct": 66.38
+     "votes": 5242,
+     "pct": 66.83
     },
     {
      "name": "Galvin Sablan Deleon Guerrero",
      "party": "DEM",
-     "votes": 2532,
-     "pct": 33.62
+     "votes": 2602,
+     "pct": 33.17
     }
    ],
    "write_in": 0,
-   "total_votes": 7531,
+   "total_votes": 7844,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "Kimberly King-Hinds": 243,
+      "Galvin Sablan Deleon Guerrero": 70
+     },
+     "write_in": null,
+     "total_votes": 313,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Kimberly King-Hinds": 4388,
@@ -339,29 +362,41 @@
     {
      "name": "Donald Manalang Manglona",
      "party": "IND",
-     "votes": 624,
-     "pct": 42.05
+     "votes": 858,
+     "pct": 42.04
     },
     {
      "name": "Tito Songao Hocog II",
      "party": "REP",
-     "votes": 570,
-     "pct": 38.41
+     "votes": 773,
+     "pct": 37.87
     },
     {
      "name": "Robert Harrison Atalig Myers Jr.",
      "party": "IND",
-     "votes": 290,
-     "pct": 19.54
+     "votes": 410,
+     "pct": 20.09
     }
    ],
    "write_in": 0,
-   "total_votes": 1484,
+   "total_votes": 2041,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "Tito Songao Hocog II": 203,
+      "Robert Harrison Atalig Myers Jr.": 120,
+      "Donald Manalang Manglona": 234
+     },
+     "write_in": null,
+     "total_votes": 557,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Tito Songao Hocog II": 459,
@@ -543,17 +578,27 @@
     {
      "name": "Aubry Manglona Hocog",
      "party": "REP",
-     "votes": 819,
+     "votes": 1111,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 819,
+   "total_votes": 1111,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "Aubry Manglona Hocog": 292
+     },
+     "write_in": null,
+     "total_votes": 292,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Aubry Manglona Hocog": 660
@@ -1347,29 +1392,41 @@
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 3252,
-     "pct": 43.67
+     "votes": 3434,
+     "pct": 44.3
     },
     {
      "name": "Jonathan Robert Glass",
      "party": "NP",
-     "votes": 2163,
-     "pct": 29.05
+     "votes": 2242,
+     "pct": 28.92
     },
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 2032,
-     "pct": 27.29
+     "votes": 2076,
+     "pct": 26.78
     }
    ],
    "write_in": 0,
-   "total_votes": 7447,
+   "total_votes": 7752,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "Michael Norita Evangelista": 44,
+      "Joaquin Deleon Guerrero Torres": 182,
+      "Jonathan Robert Glass": 79
+     },
+     "write_in": null,
+     "total_votes": 305,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Michael Norita Evangelista": 1784,
@@ -1508,48 +1565,48 @@
    "contest": "Governor/Lt. Governor",
    "office": "Governor/Lt. Governor",
    "party": null,
-   "level": "none",
+   "level": "review",
    "majority_needed": true,
    "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
-   "leader_pct": 52.9,
+   "leader_pct": 53.4,
    "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-   "runner_up_pct": 36.2,
+   "runner_up_pct": 36,
    "third": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
-   "third_pct": 10.8,
-   "margin": 1271,
-   "counted_pct": 13.3,
-   "precincts_reported": 2,
+   "third_pct": 10.6,
+   "margin": 1379,
+   "counted_pct": 70.7,
+   "precincts_reported": 3,
    "precincts_total": 15,
-   "precincts_led": 2,
-   "precincts_with_votes": 2,
-   "runner_up_needs_pct": 51.2,
+   "precincts_led": 3,
+   "precincts_with_votes": 3,
+   "runner_up_needs_pct": 68.8,
    "runner_up_best_pct": 45,
    "runner_up_best_at": "ABS",
-   "est_votes_out": 49413
+   "est_votes_out": 3281
   },
   {
    "id": "washington-delegate",
    "contest": "Washington Delegate",
    "office": "Washington Delegate",
    "party": null,
-   "level": "none",
+   "level": "review",
    "majority_needed": false,
    "leader": "Kimberly King-Hinds",
-   "leader_pct": 66.4,
+   "leader_pct": 66.8,
    "runner_up": "Galvin Sablan Deleon Guerrero",
-   "runner_up_pct": 33.6,
+   "runner_up_pct": 33.2,
    "third": null,
    "third_pct": null,
-   "margin": 2467,
-   "counted_pct": 13.3,
-   "precincts_reported": 2,
+   "margin": 2640,
+   "counted_pct": 70.7,
+   "precincts_reported": 3,
    "precincts_total": 15,
-   "precincts_led": 2,
-   "precincts_with_votes": 2,
-   "runner_up_needs_pct": 52,
+   "precincts_led": 3,
+   "precincts_with_votes": 3,
+   "runner_up_needs_pct": 82.5,
    "runner_up_best_pct": 34,
    "runner_up_best_at": "EV",
-   "est_votes_out": 48952
+   "est_votes_out": 3250
   },
   {
    "id": "senate-rota",
@@ -1561,19 +1618,19 @@
    "leader": "Donald Manalang Manglona",
    "leader_pct": 42,
    "runner_up": "Tito Songao Hocog II",
-   "runner_up_pct": 38.4,
+   "runner_up_pct": 37.9,
    "third": "Robert Harrison Atalig Myers Jr.",
-   "third_pct": 19.5,
-   "margin": 54,
-   "counted_pct": 13.3,
-   "precincts_reported": 2,
+   "third_pct": 20.1,
+   "margin": 85,
+   "counted_pct": 26.1,
+   "precincts_reported": 3,
    "precincts_total": 15,
-   "precincts_led": 2,
-   "precincts_with_votes": 2,
-   "runner_up_needs_pct": 50.3,
+   "precincts_led": 3,
+   "precincts_with_votes": 3,
+   "runner_up_needs_pct": 50.7,
    "runner_up_best_pct": 47.9,
    "runner_up_best_at": "EV",
-   "est_votes_out": 9646
+   "est_votes_out": 5784
   },
   {
    "id": "mayor-saipan",
@@ -1628,24 +1685,24 @@
    "contest": "Attorney General",
    "office": "Attorney General",
    "party": null,
-   "level": "none",
+   "level": "review",
    "majority_needed": false,
    "leader": "Joaquin Deleon Guerrero Torres",
-   "leader_pct": 43.7,
+   "leader_pct": 44.3,
    "runner_up": "Jonathan Robert Glass",
-   "runner_up_pct": 29,
+   "runner_up_pct": 28.9,
    "third": "Michael Norita Evangelista",
-   "third_pct": 27.3,
-   "margin": 1089,
-   "counted_pct": 13.3,
-   "precincts_reported": 2,
+   "third_pct": 26.8,
+   "margin": 1192,
+   "counted_pct": 71,
+   "precincts_reported": 3,
    "precincts_total": 15,
-   "precincts_led": 2,
-   "precincts_with_votes": 2,
-   "runner_up_needs_pct": 51.2,
+   "precincts_led": 3,
+   "precincts_with_votes": 3,
+   "runner_up_needs_pct": 70.6,
    "runner_up_best_pct": 46.4,
    "runner_up_best_at": "ABS",
-   "est_votes_out": 48406
+   "est_votes_out": 3167
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
