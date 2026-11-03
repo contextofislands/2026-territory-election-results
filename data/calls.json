@@ -1,0 +1,84 @@
+{
+ "calls": [
+  {
+   "code": "MP",
+   "race": "Senate - Tinian",
+   "call": "Final",
+   "winner": "Jude Untalan Hofschneider",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Senate - Tinian",
+   "call": "Final",
+   "winner": "Francisco Quichuchu Cruz",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Mayor - Tinian",
+   "call": "Final",
+   "winner": "Antonio San Nicolas Borja",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Mayor - Rota",
+   "call": "Final",
+   "winner": "Aubry Manglona Hocog",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House- Tinian & Aguiguan - Election District 6",
+   "call": "Final",
+   "winner": "Joseph Romaldo Evangelista Santos",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Rota - Election District 7",
+   "call": "Final",
+   "winner": "Julie Marie Atalig Ogo",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Saipan & Northern Islands - Municipal Council",
+   "call": "Final",
+   "winner": "Antonia Manibusan Tudela",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Saipan & Northern Islands - Municipal Council",
+   "call": "Final",
+   "winner": "Marian Deleon Guerrero Tudela",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Saipan & Northern Islands - Municipal Council",
+   "call": "Final",
+   "winner": "Anthony Tenorio Benavente",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Saipan & Northern Islands - Board of Education",
+   "call": "Final",
+   "winner": "Daniel Ogo Quitugua",
+   "runoff_opponent": "",
+   "majority": ""
+  }
+ ]
+}
