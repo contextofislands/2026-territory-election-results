@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "4bd44ae196b40bcca0f14ec64571b5c2882b98113d8728d701ad4845c3ef0cb8",
-  "fetched_at": "2026-11-03T17:15:40.620Z",
-  "file_last_modified": "Tue, 03 Nov 2026 17:15:17 GMT"
+  "sha256": "e067ee40b4274cf643500378258bbec8c3fe8a4bde4aba11346108bd7e3aff30",
+  "fetched_at": "2026-11-03T17:16:40.003Z",
+  "file_last_modified": "Tue, 03 Nov 2026 17:16:17 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1142,17 +1142,27 @@
     {
      "name": "Joseph Romaldo Evangelista Santos",
      "party": "REP",
-     "votes": 703,
+     "votes": 909,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 703,
+   "total_votes": 909,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED6": {
+     "votes": {
+      "Joseph Romaldo Evangelista Santos": 206
+     },
+     "write_in": null,
+     "total_votes": 206,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Joseph Romaldo Evangelista Santos": 589
@@ -1650,23 +1660,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 4601,
-     "pct": 63.58
+     "votes": 4701,
+     "pct": 63.15
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 2635,
-     "pct": 36.42
+     "votes": 2743,
+     "pct": 36.85
     }
    ],
    "write_in": 0,
-   "total_votes": 7236,
+   "total_votes": 7444,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 3,
+   "precincts_in_report": 4,
    "by_precinct": {
+    "ED6": {
+     "votes": {
+      "YES": 100,
+      "NO": 108
+     },
+     "write_in": null,
+     "total_votes": 208,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED7": {
      "votes": {
       "YES": 210,
@@ -1883,21 +1904,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 63.6,
+   "leader_pct": 63.2,
    "runner_up": "NO",
-   "runner_up_pct": 36.4,
+   "runner_up_pct": 36.8,
    "third": null,
    "third_pct": null,
-   "margin": 1966,
-   "counted_pct": 71.9,
-   "precincts_reported": 3,
+   "margin": 1958,
+   "counted_pct": 75.6,
+   "precincts_reported": 4,
    "precincts_total": 15,
    "precincts_led": 3,
-   "precincts_with_votes": 3,
-   "runner_up_needs_pct": 77.7,
-   "runner_up_best_pct": 44,
-   "runner_up_best_at": "ABS",
-   "est_votes_out": 2835
+   "precincts_with_votes": 4,
+   "runner_up_needs_pct": 82.6,
+   "runner_up_best_pct": 51.9,
+   "runner_up_best_at": "ED6",
+   "est_votes_out": 2403
   }
  ]
 }
