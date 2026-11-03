@@ -135,6 +135,7 @@ MP,ABS,House - Saipan - Election District 5,,House - Saipan - Election District 
 MP,ABS,House - Saipan - Election District 5,,House - Saipan - Election District 5,Angelo Atalig Camacho,61
 MP,ABS,House - Saipan - Election District 5,,House - Saipan - Election District 5,Ted Anthony Deleon Guerrero,47
 MP,ABS,House - Saipan - Election District 5,,House - Saipan - Election District 5,Peter Francis Reyes Muna,39
+MP,ED6,House- Tinian & Aguiguan - Election District 6,,House- Tinian & Aguiguan - Election District 6,Joseph Romaldo Evangelista Santos,206
 MP,EV,House- Tinian & Aguiguan - Election District 6,,House- Tinian & Aguiguan - Election District 6,Joseph Romaldo Evangelista Santos,589
 MP,ABS,House- Tinian & Aguiguan - Election District 6,,House- Tinian & Aguiguan - Election District 6,Joseph Romaldo Evangelista Santos,114
 MP,ED7,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,261
@@ -189,6 +190,8 @@ MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cru
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,935
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,758
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,93
+MP,ED6,Constitutional Convention,,Constitutional Convention,YES,100
+MP,ED6,Constitutional Convention,,Constitutional Convention,NO,108
 MP,ED7,Constitutional Convention,,Constitutional Convention,YES,210
 MP,ED7,Constitutional Convention,,Constitutional Convention,NO,63
 MP,EV,Constitutional Convention,,Constitutional Convention,YES,3925
