@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "0d4742fa62f307fab5396cc956d259ca8e0581eff9560f1b1f00671b8244607b",
-  "fetched_at": "2026-11-03T17:00:42.470Z",
-  "file_last_modified": "Tue, 03 Nov 2026 17:00:13 GMT"
+  "sha256": "4fadbf9977169805a8dde2c00e0cca5a526d2b4ef11b1f34c0abd4b4a88447a9",
+  "fetched_at": "2026-11-03T17:01:41.694Z",
+  "file_last_modified": "Tue, 03 Nov 2026 17:01:29 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1129,17 +1129,27 @@
     {
      "name": "Julie Marie Atalig Ogo",
      "party": "IND",
-     "votes": 701,
+     "votes": 962,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 701,
+   "total_votes": 962,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "Julie Marie Atalig Ogo": 261
+     },
+     "write_in": null,
+     "total_votes": 261,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Julie Marie Atalig Ogo": 563
@@ -1290,29 +1300,41 @@
     {
      "name": "Jonovan Hocog Lizama",
      "party": "NP",
-     "votes": 710,
-     "pct": 34.25
+     "votes": 966,
+     "pct": 34.3
     },
     {
      "name": "Sandra Mesngon Masga",
      "party": "NP",
-     "votes": 697,
-     "pct": 33.62
+     "votes": 942,
+     "pct": 33.45
     },
     {
      "name": "Tillie Castro Taimanao",
      "party": "NP",
-     "votes": 666,
-     "pct": 32.13
+     "votes": 908,
+     "pct": 32.24
     }
    ],
    "write_in": 0,
-   "total_votes": 2073,
+   "total_votes": 2816,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "Jonovan Hocog Lizama": 256,
+      "Tillie Castro Taimanao": 242,
+      "Sandra Mesngon Masga": 245
+     },
+     "write_in": null,
+     "total_votes": 743,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Jonovan Hocog Lizama": 574,
@@ -1463,23 +1485,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 6095,
-     "pct": 85.57
+     "votes": 6355,
+     "pct": 85.82
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 1028,
-     "pct": 14.43
+     "votes": 1050,
+     "pct": 14.18
     }
    ],
    "write_in": 0,
-   "total_votes": 7123,
+   "total_votes": 7405,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "YES": 260,
+      "NO": 22
+     },
+     "write_in": null,
+     "total_votes": 282,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "YES": 5337,
@@ -1514,23 +1547,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 4391,
-     "pct": 63.06
+     "votes": 4601,
+     "pct": 63.58
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 2572,
-     "pct": 36.94
+     "votes": 2635,
+     "pct": 36.42
     }
    ],
    "write_in": 0,
-   "total_votes": 6963,
+   "total_votes": 7236,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED7": {
+     "votes": {
+      "YES": 210,
+      "NO": 63
+     },
+     "write_in": null,
+     "total_votes": 273,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "YES": 3925,
@@ -1709,48 +1753,48 @@
    "contest": "Justice Retention: Alexandro Cruz Castro",
    "office": "Justice Retention: Alexandro Cruz Castro",
    "party": null,
-   "level": "none",
+   "level": "clinched",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 85.6,
+   "leader_pct": 85.8,
    "runner_up": "NO",
-   "runner_up_pct": 14.4,
+   "runner_up_pct": 14.2,
    "third": null,
    "third_pct": null,
-   "margin": 5067,
-   "counted_pct": 13.3,
-   "precincts_reported": 2,
+   "margin": 5305,
+   "counted_pct": 71.7,
+   "precincts_reported": 3,
    "precincts_total": 15,
-   "precincts_led": 2,
-   "precincts_with_votes": 2,
-   "runner_up_needs_pct": 54.4,
+   "precincts_led": 3,
+   "precincts_with_votes": 3,
+   "runner_up_needs_pct": null,
    "runner_up_best_pct": 14.9,
    "runner_up_best_at": "EV",
-   "est_votes_out": 46300
+   "est_votes_out": 2928
   },
   {
    "id": "constitutional-convention",
    "contest": "Constitutional Convention",
    "office": "Constitutional Convention",
    "party": null,
-   "level": "none",
+   "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 63.1,
+   "leader_pct": 63.6,
    "runner_up": "NO",
-   "runner_up_pct": 36.9,
+   "runner_up_pct": 36.4,
    "third": null,
    "third_pct": null,
-   "margin": 1819,
-   "counted_pct": 13.3,
-   "precincts_reported": 2,
+   "margin": 1966,
+   "counted_pct": 71.9,
+   "precincts_reported": 3,
    "precincts_total": 15,
-   "precincts_led": 2,
-   "precincts_with_votes": 2,
-   "runner_up_needs_pct": 51.6,
+   "precincts_led": 3,
+   "precincts_with_votes": 3,
+   "runner_up_needs_pct": 77.7,
    "runner_up_best_pct": 44,
    "runner_up_best_at": "ABS",
-   "est_votes_out": 45260
+   "est_votes_out": 2835
   }
  ]
 }
