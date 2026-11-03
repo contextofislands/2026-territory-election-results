@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "727d5fff0630fce44390304b48103defec5b13b2ba268092d9d722769d665054",
-  "fetched_at": "2026-11-03T18:40:12.805Z",
-  "file_last_modified": "Tue, 03 Nov 2026 18:39:04 GMT"
+  "sha256": "8f0a7fe5fb2e01ae8d819d0958ca42c16e7c3867246f5f67f20f433b5cf43901",
+  "fetched_at": "2026-11-03T18:41:40.565Z",
+  "file_last_modified": "Tue, 03 Nov 2026 18:41:28 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1164,29 +1164,41 @@
     {
      "name": "John Paul Sablan",
      "party": "IND",
-     "votes": 379,
-     "pct": 39.27
+     "votes": 670,
+     "pct": 40.73
     },
     {
      "name": "Daniel Iwashita Aquino Jr.",
      "party": "IND",
-     "votes": 354,
-     "pct": 36.68
+     "votes": 606,
+     "pct": 36.84
     },
     {
      "name": "Keith Cabrera Ada",
      "party": "REP",
-     "votes": 232,
-     "pct": 24.04
+     "votes": 369,
+     "pct": 22.43
     }
    ],
    "write_in": 0,
-   "total_votes": 965,
+   "total_votes": 1645,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED2": {
+     "votes": {
+      "John Paul Sablan": 291,
+      "Daniel Iwashita Aquino Jr.": 252,
+      "Keith Cabrera Ada": 137
+     },
+     "write_in": null,
+     "total_votes": 680,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "John Paul Sablan": 364,
@@ -1962,17 +1974,27 @@
     {
      "name": "Daniel Ogo Quitugua",
      "party": "NP",
-     "votes": 6317,
+     "votes": 6620,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 6317,
+   "total_votes": 6620,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 8,
+   "precincts_in_report": 9,
    "by_precinct": {
+    "ED2": {
+     "votes": {
+      "Daniel Ogo Quitugua": 303
+     },
+     "write_in": null,
+     "total_votes": 303,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED3A": {
      "votes": {
       "Daniel Ogo Quitugua": 233
@@ -2232,23 +2254,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 8758,
-     "pct": 85.31
+     "votes": 9075,
+     "pct": 85.29
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 1508,
-     "pct": 14.69
+     "votes": 1565,
+     "pct": 14.71
     }
    ],
    "write_in": 0,
-   "total_votes": 10266,
+   "total_votes": 10640,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 10,
+   "precincts_in_report": 11,
    "by_precinct": {
+    "ED2": {
+     "votes": {
+      "YES": 317,
+      "NO": 57
+     },
+     "write_in": null,
+     "total_votes": 374,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED3A": {
      "votes": {
       "YES": 241,
@@ -2371,23 +2404,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 6439,
-     "pct": 63.94
+     "votes": 6680,
+     "pct": 64.03
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 3632,
-     "pct": 36.06
+     "votes": 3753,
+     "pct": 35.97
     }
    ],
    "write_in": 0,
-   "total_votes": 10071,
+   "total_votes": 10433,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 10,
+   "precincts_in_report": 11,
    "by_precinct": {
+    "ED2": {
+     "votes": {
+      "YES": 241,
+      "NO": 121
+     },
+     "write_in": null,
+     "total_votes": 362,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED3A": {
      "votes": {
       "YES": 172,
@@ -2662,16 +2706,16 @@
    "runner_up_pct": 14.7,
    "third": null,
    "third_pct": null,
-   "margin": 7250,
-   "counted_pct": 84.8,
-   "precincts_reported": 10,
+   "margin": 7510,
+   "counted_pct": 88.3,
+   "precincts_reported": 11,
    "precincts_total": 15,
-   "precincts_led": 10,
-   "precincts_with_votes": 10,
+   "precincts_led": 11,
+   "precincts_with_votes": 11,
    "runner_up_needs_pct": null,
    "runner_up_best_pct": 19.2,
    "runner_up_best_at": "ED3B",
-   "est_votes_out": 1838
+   "est_votes_out": 1415
   },
   {
    "id": "constitutional-convention",
@@ -2681,21 +2725,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 63.9,
+   "leader_pct": 64,
    "runner_up": "NO",
-   "runner_up_pct": 36.1,
+   "runner_up_pct": 36,
    "third": null,
    "third_pct": null,
-   "margin": 2807,
-   "counted_pct": 84.7,
-   "precincts_reported": 10,
+   "margin": 2927,
+   "counted_pct": 88.2,
+   "precincts_reported": 11,
    "precincts_total": 15,
-   "precincts_led": 9,
-   "precincts_with_votes": 10,
+   "precincts_led": 10,
+   "precincts_with_votes": 11,
    "runner_up_needs_pct": null,
    "runner_up_best_pct": 51.9,
    "runner_up_best_at": "ED6",
-   "est_votes_out": 1817
+   "est_votes_out": 1397
   }
  ]
 }
