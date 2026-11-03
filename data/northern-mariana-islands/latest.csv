@@ -126,6 +126,7 @@ MP,ABS,House - Saipan - Election District 5,,House - Saipan - Election District 
 MP,ABS,House - Saipan - Election District 5,,House - Saipan - Election District 5,Peter Francis Reyes Muna,39
 MP,EV,House- Tinian & Aguiguan - Election District 6,,House- Tinian & Aguiguan - Election District 6,Joseph Romaldo Evangelista Santos,589
 MP,ABS,House- Tinian & Aguiguan - Election District 6,,House- Tinian & Aguiguan - Election District 6,Joseph Romaldo Evangelista Santos,114
+MP,ED7,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,261
 MP,EV,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,563
 MP,ABS,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,138
 MP,EV,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Anthony Tenorio Benavente,3400
@@ -140,6 +141,9 @@ MP,EV,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Counc
 MP,ABS,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Anne Marie Cruz San Nicolas,113
 MP,ABS,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Chad Ellie Palacios,113
 MP,ABS,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Wally Flores Villagomez,103
+MP,ED7,Rota - Municipal Council,,Rota - Municipal Council,Jonovan Hocog Lizama,256
+MP,ED7,Rota - Municipal Council,,Rota - Municipal Council,Sandra Mesngon Masga,245
+MP,ED7,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,242
 MP,EV,Rota - Municipal Council,,Rota - Municipal Council,Jonovan Hocog Lizama,574
 MP,EV,Rota - Municipal Council,,Rota - Municipal Council,Sandra Mesngon Masga,551
 MP,EV,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,523
@@ -157,10 +161,14 @@ MP,EV,Attorney General,,Attorney General,Michael Norita Evangelista,1784
 MP,ABS,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,337
 MP,ABS,Attorney General,,Attorney General,Jonathan Robert Glass,292
 MP,ABS,Attorney General,,Attorney General,Michael Norita Evangelista,248
+MP,ED7,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,260
+MP,ED7,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,22
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,5337
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,935
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,758
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,93
+MP,ED7,Constitutional Convention,,Constitutional Convention,YES,210
+MP,ED7,Constitutional Convention,,Constitutional Convention,NO,63
 MP,EV,Constitutional Convention,,Constitutional Convention,YES,3925
 MP,EV,Constitutional Convention,,Constitutional Convention,NO,2206
 MP,ABS,Constitutional Convention,,Constitutional Convention,YES,466
