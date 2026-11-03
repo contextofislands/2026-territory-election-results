@@ -34,6 +34,13 @@ MP,EV,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,4388
 MP,EV,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,2260
 MP,ABS,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,611
 MP,ABS,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,272
+MP,ED4B,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,135
+MP,ED4B,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,144
+MP,ED4B,Senate - Saipan,,Senate - Saipan,Marco Peter,69
+MP,ED4B,Senate - Saipan,,Senate - Saipan,Corina Lorraine Magofna,65
+MP,ED4B,Senate - Saipan,,Senate - Saipan,Vicente Castro Camacho,52
+MP,ED4B,Senate - Saipan,,Senate - Saipan,Crispin Manglona Sablan,30
+MP,ED4B,Senate - Saipan,,Senate - Saipan,Edwin Raymond Borja Quitugua,12
 MP,ED4C,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,92
 MP,ED4C,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,66
 MP,ED4C,Senate - Saipan,,Senate - Saipan,Marco Peter,44
@@ -77,6 +84,8 @@ MP,EV,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,239
 MP,ABS,Senate - Rota,,Senate - Rota,Donald Manalang Manglona,125
 MP,ABS,Senate - Rota,,Senate - Rota,Tito Songao Hocog II,111
 MP,ABS,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,51
+MP,ED4B,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",210
+MP,ED4B,Mayor - Saipan,,Mayor - Saipan,Joseph Muna Mendiola,57
 MP,ED4C,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",128
 MP,ED4C,Mayor - Saipan,,Mayor - Saipan,Joseph Muna Mendiola,16
 MP,ED5,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",728
@@ -178,6 +187,9 @@ MP,ABS,House- Tinian & Aguiguan - Election District 6,,House- Tinian & Aguiguan 
 MP,ED7,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,261
 MP,EV,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,563
 MP,ABS,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,138
+MP,ED4B,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Anthony Tenorio Benavente,204
+MP,ED4B,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Marian Deleon Guerrero Tudela,167
+MP,ED4B,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Antonia Manibusan Tudela,160
 MP,ED4C,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Anthony Tenorio Benavente,101
 MP,ED4C,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Marian Deleon Guerrero Tudela,97
 MP,ED4C,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Antonia Manibusan Tudela,82
@@ -208,6 +220,7 @@ MP,EV,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Jonovan Hocog Lizama,136
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Sandra Mesngon Masga,146
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,143
+MP,ED4B,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,217
 MP,ED4C,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,117
 MP,ED5,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,737
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
@@ -233,6 +246,8 @@ MP,EV,Attorney General,,Attorney General,Michael Norita Evangelista,1784
 MP,ABS,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,337
 MP,ABS,Attorney General,,Attorney General,Jonathan Robert Glass,292
 MP,ABS,Attorney General,,Attorney General,Michael Norita Evangelista,248
+MP,ED4B,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,240
+MP,ED4B,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,24
 MP,ED4C,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,123
 MP,ED4C,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,19
 MP,ED5,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,763
