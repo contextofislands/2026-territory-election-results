@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "9a1c9679a9fba30f18a9906205024dee644598ac8b3efee6bd86661054e223d8",
-  "fetched_at": "2026-11-03T16:17:42.037Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:17:27 GMT"
+  "sha256": "1a0e63643a0b420d20c0e99f101cec42cf22fce77b24cc8d40ae8bcb7ad56e04",
+  "fetched_at": "2026-11-03T16:19:40.030Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:19:32 GMT"
  },
  "report": {
   "title": "Election results",
@@ -289,24 +289,24 @@
     {
      "name": "Donald Manalang Manglona",
      "party": "IND",
-     "votes": 101,
-     "pct": 45.29
+     "votes": 499,
+     "pct": 41.69
     },
     {
      "name": "Tito Songao Hocog II",
      "party": "REP",
-     "votes": 87,
-     "pct": 39.01
+     "votes": 459,
+     "pct": 38.35
     },
     {
      "name": "Robert Harrison Atalig Myers Jr.",
      "party": "IND",
-     "votes": 35,
-     "pct": 15.7
+     "votes": 239,
+     "pct": 19.97
     }
    ],
    "write_in": 0,
-   "total_votes": 223,
+   "total_votes": 1197,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -314,12 +314,12 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Tito Songao Hocog II": 87,
-      "Robert Harrison Atalig Myers Jr.": 35,
-      "Donald Manalang Manglona": 101
+      "Tito Songao Hocog II": 459,
+      "Robert Harrison Atalig Myers Jr.": 239,
+      "Donald Manalang Manglona": 499
      },
      "write_in": null,
-     "total_votes": 223,
+     "total_votes": 1197,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -449,12 +449,12 @@
     {
      "name": "Aubry Manglona Hocog",
      "party": "REP",
-     "votes": 126,
+     "votes": 660,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 126,
+   "total_votes": 660,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -462,10 +462,10 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Aubry Manglona Hocog": 126
+      "Aubry Manglona Hocog": 660
      },
      "write_in": null,
-     "total_votes": 126,
+     "total_votes": 660,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1017,24 +1017,24 @@
     {
      "name": "Jonovan Hocog Lizama",
      "party": "NP",
-     "votes": 106,
-     "pct": 34.87
+     "votes": 573,
+     "pct": 34.79
     },
     {
      "name": "Sandra Mesngon Masga",
      "party": "NP",
-     "votes": 103,
-     "pct": 33.88
+     "votes": 551,
+     "pct": 33.45
     },
     {
      "name": "Tillie Castro Taimanao",
      "party": "NP",
-     "votes": 95,
-     "pct": 31.25
+     "votes": 523,
+     "pct": 31.75
     }
    ],
    "write_in": 0,
-   "total_votes": 304,
+   "total_votes": 1647,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -1042,12 +1042,12 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Jonovan Hocog Lizama": 106,
-      "Tillie Castro Taimanao": 95,
-      "Sandra Mesngon Masga": 103
+      "Jonovan Hocog Lizama": 573,
+      "Tillie Castro Taimanao": 523,
+      "Sandra Mesngon Masga": 551
      },
      "write_in": null,
-     "total_votes": 304,
+     "total_votes": 1647,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1275,21 +1275,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Donald Manalang Manglona",
-   "leader_pct": 45.3,
+   "leader_pct": 41.7,
    "runner_up": "Tito Songao Hocog II",
-   "runner_up_pct": 39,
+   "runner_up_pct": 38.3,
    "third": "Robert Harrison Atalig Myers Jr.",
-   "third_pct": 15.7,
-   "margin": 14,
+   "third_pct": 20,
+   "margin": 40,
    "counted_pct": 6.9,
    "precincts_reported": 1,
    "precincts_total": 15,
    "precincts_led": 1,
    "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.2,
-   "runner_up_best_pct": 46.3,
+   "runner_up_needs_pct": 50.1,
+   "runner_up_best_pct": 47.9,
    "runner_up_best_at": "EV",
-   "est_votes_out": 3011
+   "est_votes_out": 16160
   },
   {
    "id": "mayor-saipan",
