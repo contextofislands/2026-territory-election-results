@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "8b660439599ce42d6702e25be112509e22f84751aa43f5c752f6e47246256023",
-  "fetched_at": "2026-11-03T19:08:40.705Z",
-  "file_last_modified": "Tue, 03 Nov 2026 19:08:39 GMT"
+  "sha256": "a4c72e9df3f90b7d388ef353a218269febaf1fdca444772291a1d72e5fabe6f8",
+  "fetched_at": "2026-11-03T19:09:39.941Z",
+  "file_last_modified": "Tue, 03 Nov 2026 19:09:16 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1125,89 +1125,111 @@
     {
      "name": "Roy Christoper Aldan Ada",
      "party": "REP",
-     "votes": 1193,
-     "pct": 10.02
+     "votes": 1397,
+     "pct": 9.9
     },
     {
      "name": "Vincent \"Kobre\" Seman Aldan",
      "party": "IND",
-     "votes": 1066,
-     "pct": 8.96
-    },
-    {
-     "name": "Janet Ulloa Maratita",
-     "party": "IND",
-     "votes": 1008,
-     "pct": 8.47
+     "votes": 1306,
+     "pct": 9.26
     },
     {
      "name": "Diego Vincent Fejeran Camacho",
      "party": "IND",
-     "votes": 1001,
-     "pct": 8.41
+     "votes": 1247,
+     "pct": 8.84
+    },
+    {
+     "name": "Janet Ulloa Maratita",
+     "party": "IND",
+     "votes": 1167,
+     "pct": 8.27
     },
     {
      "name": "Raymond Ulloa Palacios",
      "party": "IND",
-     "votes": 972,
-     "pct": 8.17
-    },
-    {
-     "name": "Cecilia Taitano Fitial",
-     "party": "REP",
-     "votes": 971,
-     "pct": 8.16
-    },
-    {
-     "name": "John DLG Demapan Jr.",
-     "party": "REP",
-     "votes": 945,
-     "pct": 7.94
+     "votes": 1164,
+     "pct": 8.25
     },
     {
      "name": "Roman Cepeda Benavente",
      "party": "IND",
-     "votes": 930,
-     "pct": 7.81
+     "votes": 1135,
+     "pct": 8.05
+    },
+    {
+     "name": "Cecilia Taitano Fitial",
+     "party": "REP",
+     "votes": 1114,
+     "pct": 7.9
     },
     {
      "name": "Joseph Arriola Flores",
      "party": "IND",
-     "votes": 898,
-     "pct": 7.55
+     "votes": 1086,
+     "pct": 7.7
+    },
+    {
+     "name": "John DLG Demapan Jr.",
+     "party": "REP",
+     "votes": 1085,
+     "pct": 7.69
     },
     {
      "name": "Patrick Matagolai Cepeda",
      "party": "REP",
-     "votes": 861,
-     "pct": 7.23
-    },
-    {
-     "name": "Benusto Piteg",
-     "party": "REP",
-     "votes": 770,
-     "pct": 6.47
+     "votes": 986,
+     "pct": 6.99
     },
     {
      "name": "Ricardo Castro Cruz Jr.",
      "party": "DEM",
-     "votes": 749,
-     "pct": 6.29
+     "votes": 908,
+     "pct": 6.44
+    },
+    {
+     "name": "Benusto Piteg",
+     "party": "REP",
+     "votes": 894,
+     "pct": 6.34
     },
     {
      "name": "Alfredo Javier Cabael",
      "party": "REP",
-     "votes": 537,
-     "pct": 4.51
+     "votes": 619,
+     "pct": 4.39
     }
    ],
    "write_in": 0,
-   "total_votes": 11901,
+   "total_votes": 14108,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 3,
+   "precincts_in_report": 4,
    "by_precinct": {
+    "ED1B": {
+     "votes": {
+      "Roy Christoper Aldan Ada": 204,
+      "Ricardo Castro Cruz Jr.": 159,
+      "Janet Ulloa Maratita": 159,
+      "Raymond Ulloa Palacios": 192,
+      "Roman Cepeda Benavente": 205,
+      "Joseph Arriola Flores": 188,
+      "Alfredo Javier Cabael": 82,
+      "Benusto Piteg": 124,
+      "Diego Vincent Fejeran Camacho": 246,
+      "Patrick Matagolai Cepeda": 125,
+      "John DLG Demapan Jr.": 140,
+      "Vincent \"Kobre\" Seman Aldan": 240,
+      "Cecilia Taitano Fitial": 143
+     },
+     "write_in": null,
+     "total_votes": 2207,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED1C": {
      "votes": {
       "Roy Christoper Aldan Ada": 197,
@@ -2616,23 +2638,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 6932,
-     "pct": 63.76
+     "votes": 7188,
+     "pct": 63.71
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 3940,
-     "pct": 36.24
+     "votes": 4095,
+     "pct": 36.29
     }
    ],
    "write_in": 0,
-   "total_votes": 10872,
+   "total_votes": 11283,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 12,
+   "precincts_in_report": 13,
    "by_precinct": {
+    "ED1B": {
+     "votes": {
+      "YES": 256,
+      "NO": 155
+     },
+     "write_in": null,
+     "total_votes": 411,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED1C": {
      "votes": {
       "YES": 252,
@@ -2948,21 +2981,21 @@
    "level": "clinched",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 63.8,
+   "leader_pct": 63.7,
    "runner_up": "NO",
-   "runner_up_pct": 36.2,
+   "runner_up_pct": 36.3,
    "third": null,
    "third_pct": null,
-   "margin": 2992,
-   "counted_pct": 91.1,
-   "precincts_reported": 12,
+   "margin": 3093,
+   "counted_pct": 97.7,
+   "precincts_reported": 13,
    "precincts_total": 15,
-   "precincts_led": 11,
-   "precincts_with_votes": 12,
+   "precincts_led": 12,
+   "precincts_with_votes": 13,
    "runner_up_needs_pct": null,
    "runner_up_best_pct": 51.9,
    "runner_up_best_at": "ED6",
-   "est_votes_out": 1065
+   "est_votes_out": 268
   }
  ]
 }
