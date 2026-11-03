@@ -1,4 +1,7 @@
 territory,precinct,contest,party,office,candidate,votes
+MP,ED1B,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,182
+MP,ED1B,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,203
+MP,ED1B,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,66
 MP,ED1C,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,203
 MP,ED1C,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,213
 MP,ED1C,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,51
@@ -35,6 +38,8 @@ MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Ed
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,414
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,339
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,133
+MP,ED1B,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,243
+MP,ED1B,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,194
 MP,ED1C,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,269
 MP,ED1C,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,193
 MP,ED2,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,225
@@ -59,6 +64,13 @@ MP,EV,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,4388
 MP,EV,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,2260
 MP,ABS,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,611
 MP,ABS,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,272
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,211
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,240
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Marco Peter,88
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Corina Lorraine Magofna,95
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Vicente Castro Camacho,82
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Crispin Manglona Sablan,57
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Edwin Raymond Borja Quitugua,37
 MP,ED1C,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,216
 MP,ED1C,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,227
 MP,ED1C,Senate - Saipan,,Senate - Saipan,Marco Peter,110
@@ -361,6 +373,9 @@ MP,ED4C,Saipan & Northern Islands - Board of Education,,Saipan & Northern Island
 MP,ED5,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,737
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
+MP,ED1B,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,142
+MP,ED1B,Attorney General,,Attorney General,Michael Norita Evangelista,141
+MP,ED1B,Attorney General,,Attorney General,Jonathan Robert Glass,154
 MP,ED1C,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,155
 MP,ED1C,Attorney General,,Attorney General,Michael Norita Evangelista,150
 MP,ED1C,Attorney General,,Attorney General,Jonathan Robert Glass,149
