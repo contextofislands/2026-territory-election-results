@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "745b6d193ab052eaf067a539750e59a1543fc7a632b740a42cdeeb5f60fb887e",
-  "fetched_at": "2026-11-03T16:30:40.720Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:30:36 GMT"
+  "sha256": "2ee3e56beac5e57c51c6b16517e4905d2792aa6166a065c3163065e1e7e4d9bc",
+  "fetched_at": "2026-11-03T16:38:40.384Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:37:44 GMT"
  },
  "report": {
   "title": "Election results",
@@ -87,28 +87,28 @@
     {
      "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
      "party": "REP",
-     "votes": 3611,
-     "pct": 53.77
+     "votes": 4025,
+     "pct": 52.95
     },
     {
      "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
      "party": "IND",
-     "votes": 2415,
-     "pct": 35.96
+     "votes": 2754,
+     "pct": 36.23
     },
     {
      "name": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
      "party": "IND",
-     "votes": 690,
-     "pct": 10.27
+     "votes": 823,
+     "pct": 10.83
     }
    ],
    "write_in": 0,
-   "total_votes": 6716,
+   "total_votes": 7602,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -118,6 +118,18 @@
      },
      "write_in": null,
      "total_votes": 6716,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 339,
+      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 414,
+      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 133
+     },
+     "write_in": null,
+     "total_votes": 886,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1097,28 +1109,28 @@
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 2915,
-     "pct": 44.37
+     "votes": 3252,
+     "pct": 43.67
     },
     {
      "name": "Jonathan Robert Glass",
      "party": "NP",
-     "votes": 1871,
-     "pct": 28.48
+     "votes": 2163,
+     "pct": 29.05
     },
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 1784,
-     "pct": 27.15
+     "votes": 2032,
+     "pct": 27.29
     }
    ],
    "write_in": 0,
-   "total_votes": 6570,
+   "total_votes": 7447,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1128,6 +1140,18 @@
      },
      "write_in": null,
      "total_votes": 6570,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Michael Norita Evangelista": 248,
+      "Joaquin Deleon Guerrero Torres": 337,
+      "Jonathan Robert Glass": 292
+     },
+     "write_in": null,
+     "total_votes": 877,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1227,21 +1251,21 @@
    "level": "none",
    "majority_needed": true,
    "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
-   "leader_pct": 53.8,
+   "leader_pct": 52.9,
    "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-   "runner_up_pct": 36,
+   "runner_up_pct": 36.2,
    "third": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
-   "third_pct": 10.3,
-   "margin": 1196,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "third_pct": 10.8,
+   "margin": 1271,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.6,
-   "runner_up_best_pct": 40.1,
-   "runner_up_best_at": "EV",
-   "est_votes_out": 90666
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 51.2,
+   "runner_up_best_pct": 45,
+   "runner_up_best_at": "ABS",
+   "est_votes_out": 49413
   },
   {
    "id": "washington-delegate",
@@ -1347,21 +1371,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Joaquin Deleon Guerrero Torres",
-   "leader_pct": 44.4,
+   "leader_pct": 43.7,
    "runner_up": "Jonathan Robert Glass",
-   "runner_up_pct": 28.5,
+   "runner_up_pct": 29,
    "third": "Michael Norita Evangelista",
-   "third_pct": 27.2,
-   "margin": 1044,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "third_pct": 27.3,
+   "margin": 1089,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.6,
-   "runner_up_best_pct": 39.1,
-   "runner_up_best_at": "EV",
-   "est_votes_out": 88695
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 51.2,
+   "runner_up_best_pct": 46.4,
+   "runner_up_best_at": "ABS",
+   "est_votes_out": 48406
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
