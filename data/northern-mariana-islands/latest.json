@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "34534441f4df561b1ddf0f07e58b4623f32062cdd17148851a6611f80a32f47e",
-  "fetched_at": "2026-11-03T12:02:40.229Z",
-  "file_last_modified": "Tue, 03 Nov 2026 12:02:40 GMT"
+  "sha256": "e07af6aaa9a436ed10a2960f1e4f808dc0d3668d326481f14012d69a6d5543cd",
+  "fetched_at": "2026-11-03T12:03:39.756Z",
+  "file_last_modified": "Tue, 03 Nov 2026 12:03:39 GMT"
  },
  "report": {
   "title": "Election results",
@@ -674,72 +674,6 @@
    "name": "0 votes (67)",
    "party": null,
    "office": "0 votes (67)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-68",
-   "name": "0 votes (68)",
-   "party": null,
-   "office": "0 votes (68)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-69",
-   "name": "0 votes (69)",
-   "party": null,
-   "office": "0 votes (69)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-70",
-   "name": "0 votes (70)",
-   "party": null,
-   "office": "0 votes (70)",
    "vote_for": null,
    "candidates": [
     {
