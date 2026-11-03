@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "decf1c3fe9dfe17862a824ee60a236e8c9902c3816147108fcc41d0ed3fc9ffc",
-  "fetched_at": "2026-11-03T16:11:40.378Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:11:08 GMT"
+  "sha256": "6b96b0836fcc6376c58987046520304acd6d1d91a6cf662c3f057b09083737c4",
+  "fetched_at": "2026-11-03T16:13:42.017Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:13:12 GMT"
  },
  "report": {
   "title": "Election results",
@@ -134,18 +134,18 @@
     {
      "name": "Kimberly King-Hinds",
      "party": "REP",
-     "votes": 3441,
-     "pct": 62.59
+     "votes": 4388,
+     "pct": 66
     },
     {
      "name": "Galvin Sablan Deleon Guerrero",
      "party": "DEM",
-     "votes": 2057,
-     "pct": 37.41
+     "votes": 2260,
+     "pct": 34
     }
    ],
    "write_in": 0,
-   "total_votes": 5498,
+   "total_votes": 6648,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -153,11 +153,11 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Kimberly King-Hinds": 3441,
-      "Galvin Sablan Deleon Guerrero": 2057
+      "Kimberly King-Hinds": 4388,
+      "Galvin Sablan Deleon Guerrero": 2260
      },
      "write_in": null,
-     "total_votes": 5498,
+     "total_votes": 6648,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -249,18 +249,18 @@
     {
      "name": "Frank Quichuchu Cruz",
      "party": "REP",
-     "votes": 100,
-     "pct": 51.28
+     "votes": 580,
+     "pct": 52.21
     },
     {
      "name": "Jude Untalan Hofschneider",
      "party": "REP",
-     "votes": 95,
-     "pct": 48.72
+     "votes": 531,
+     "pct": 47.79
     }
    ],
    "write_in": 0,
-   "total_votes": 195,
+   "total_votes": 1111,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -268,11 +268,11 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Jude Untalan Hofschneider": 95,
-      "Frank Quichuchu Cruz": 100
+      "Jude Untalan Hofschneider": 531,
+      "Frank Quichuchu Cruz": 580
      },
      "write_in": null,
-     "total_votes": 195,
+     "total_votes": 1111,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1251,21 +1251,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Kimberly King-Hinds",
-   "leader_pct": 62.6,
+   "leader_pct": 66,
    "runner_up": "Galvin Sablan Deleon Guerrero",
-   "runner_up_pct": 37.4,
+   "runner_up_pct": 34,
    "third": null,
    "third_pct": null,
-   "margin": 1384,
+   "margin": 2128,
    "counted_pct": 6.9,
    "precincts_reported": 1,
    "precincts_total": 15,
    "precincts_led": 1,
    "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.7,
-   "runner_up_best_pct": 37.4,
+   "runner_up_needs_pct": 50.9,
+   "runner_up_best_pct": 34,
    "runner_up_best_at": "EV",
-   "est_votes_out": 74223
+   "est_votes_out": 89748
   },
   {
    "id": "senate-rota",
