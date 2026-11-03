@@ -14,6 +14,8 @@ MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Ed
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,414
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,339
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,133
+MP,ED6,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,211
+MP,ED6,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,19
 MP,ED7,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,243
 MP,ED7,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,70
 MP,EV,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,4388
@@ -34,6 +36,8 @@ MP,ABS,Senate - Saipan,,Senate - Saipan,Corina Lorraine Magofna,131
 MP,ABS,Senate - Saipan,,Senate - Saipan,Crispin Manglona Sablan,71
 MP,ABS,Senate - Saipan,,Senate - Saipan,Vicente Castro Camacho,75
 MP,ABS,Senate - Saipan,,Senate - Saipan,Edwin Raymond Borja Quitugua,33
+MP,ED6,Senate - Tinian,,Senate - Tinian,Frank Quichuchu Cruz,201
+MP,ED6,Senate - Tinian,,Senate - Tinian,Jude Untalan Hofschneider,178
 MP,EV,Senate - Tinian,,Senate - Tinian,Frank Quichuchu Cruz,580
 MP,EV,Senate - Tinian,,Senate - Tinian,Jude Untalan Hofschneider,531
 MP,ABS,Senate - Tinian,,Senate - Tinian,Frank Quichuchu Cruz,111
@@ -55,6 +59,7 @@ MP,EV,Mayor - Northern Islands,,Mayor - Northern Islands,Keli Aiken Tenorio,81
 MP,EV,Mayor - Northern Islands,,Mayor - Northern Islands,Valentino Taisacan Jr.,53
 MP,ABS,Mayor - Northern Islands,,Mayor - Northern Islands,Keli Aiken Tenorio,7
 MP,ABS,Mayor - Northern Islands,,Mayor - Northern Islands,Valentino Taisacan Jr.,5
+MP,ED6,Mayor - Tinian,,Mayor - Tinian,Antonio San Nicolas Borja,219
 MP,EV,Mayor - Tinian,,Mayor - Tinian,Antonio San Nicolas Borja,639
 MP,ABS,Mayor - Tinian,,Mayor - Tinian,Antonio San Nicolas Borja,118
 MP,ED7,Mayor - Rota,,Mayor - Rota,Aubry Manglona Hocog,292
@@ -141,6 +146,9 @@ MP,EV,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands -
 MP,ABS,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Anthony Tenorio Benavente,414
 MP,ABS,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Marian Deleon Guerrero Tudela,386
 MP,ABS,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Antonia Manibusan Tudela,367
+MP,ED6,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Anne Marie Cruz San Nicolas,189
+MP,ED6,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Chad Ellie Palacios,196
+MP,ED6,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Wally Flores Villagomez,178
 MP,EV,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Anne Marie Cruz San Nicolas,553
 MP,EV,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Chad Ellie Palacios,543
 MP,EV,Tinian & Aguiguan - Municipal Council,,Tinian & Aguiguan - Municipal Council,Wally Flores Villagomez,501
@@ -161,6 +169,9 @@ MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands
 MP,ED5,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,175
 MP,ED5,Attorney General,,Attorney General,Jonathan Robert Glass,28
 MP,ED5,Attorney General,,Attorney General,Michael Norita Evangelista,23
+MP,ED6,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,175
+MP,ED6,Attorney General,,Attorney General,Jonathan Robert Glass,28
+MP,ED6,Attorney General,,Attorney General,Michael Norita Evangelista,23
 MP,ED7,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,182
 MP,ED7,Attorney General,,Attorney General,Jonathan Robert Glass,79
 MP,ED7,Attorney General,,Attorney General,Michael Norita Evangelista,44
@@ -170,6 +181,8 @@ MP,EV,Attorney General,,Attorney General,Michael Norita Evangelista,1784
 MP,ABS,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,337
 MP,ABS,Attorney General,,Attorney General,Jonathan Robert Glass,292
 MP,ABS,Attorney General,,Attorney General,Michael Norita Evangelista,248
+MP,ED6,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,179
+MP,ED6,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,24
 MP,ED7,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,260
 MP,ED7,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,22
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,5337
