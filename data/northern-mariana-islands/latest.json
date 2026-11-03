@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "2ee3e56beac5e57c51c6b16517e4905d2792aa6166a065c3163065e1e7e4d9bc",
-  "fetched_at": "2026-11-03T16:38:40.384Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:37:44 GMT"
+  "sha256": "7e95832f5747ead680d9a311d6c3572928dd6ae51ea956b3cf03d1b25d204008",
+  "fetched_at": "2026-11-03T16:40:39.733Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:39:50 GMT"
  },
  "report": {
   "title": "Election results",
@@ -146,22 +146,22 @@
     {
      "name": "Kimberly King-Hinds",
      "party": "REP",
-     "votes": 4388,
-     "pct": 66
+     "votes": 4999,
+     "pct": 66.38
     },
     {
      "name": "Galvin Sablan Deleon Guerrero",
      "party": "DEM",
-     "votes": 2260,
-     "pct": 34
+     "votes": 2532,
+     "pct": 33.62
     }
    ],
    "write_in": 0,
-   "total_votes": 6648,
+   "total_votes": 7531,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -170,6 +170,17 @@
      },
      "write_in": null,
      "total_votes": 6648,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Kimberly King-Hinds": 611,
+      "Galvin Sablan Deleon Guerrero": 272
+     },
+     "write_in": null,
+     "total_votes": 883,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -186,52 +197,52 @@
     {
      "name": "Vinnie Vinson Flores Sablan",
      "party": "REP",
-     "votes": 2828,
-     "pct": 29.41
+     "votes": 3139,
+     "pct": 29.45
     },
     {
      "name": "Celina Roberto Babauta",
      "party": "DEM",
-     "votes": 2207,
-     "pct": 22.95
+     "votes": 2452,
+     "pct": 23.01
     },
     {
      "name": "Marco Peter",
      "party": "REP",
-     "votes": 1748,
-     "pct": 18.18
+     "votes": 1924,
+     "pct": 18.05
     },
     {
      "name": "Corina Lorraine Magofna",
      "party": "IND",
-     "votes": 1107,
-     "pct": 11.51
+     "votes": 1238,
+     "pct": 11.62
     },
     {
      "name": "Crispin Manglona Sablan",
      "party": "IND",
-     "votes": 695,
-     "pct": 7.23
+     "votes": 766,
+     "pct": 7.19
     },
     {
      "name": "Vicente Castro Camacho",
      "party": "IND",
-     "votes": 687,
+     "votes": 762,
      "pct": 7.15
     },
     {
      "name": "Edwin Raymond Borja Quitugua",
      "party": "IND",
-     "votes": 343,
-     "pct": 3.57
+     "votes": 376,
+     "pct": 3.53
     }
    ],
    "write_in": 0,
-   "total_votes": 9615,
+   "total_votes": 10657,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -248,6 +259,22 @@
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Edwin Raymond Borja Quitugua": 33,
+      "Crispin Manglona Sablan": 71,
+      "Vicente Castro Camacho": 75,
+      "Celina Roberto Babauta": 245,
+      "Marco Peter": 176,
+      "Vinnie Vinson Flores Sablan": 311,
+      "Corina Lorraine Magofna": 131
+     },
+     "write_in": null,
+     "total_votes": 1042,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
     }
    }
   },
@@ -261,22 +288,22 @@
     {
      "name": "Frank Quichuchu Cruz",
      "party": "REP",
-     "votes": 580,
-     "pct": 52.21
+     "votes": 691,
+     "pct": 52.39
     },
     {
      "name": "Jude Untalan Hofschneider",
      "party": "REP",
-     "votes": 531,
-     "pct": 47.79
+     "votes": 628,
+     "pct": 47.61
     }
    ],
    "write_in": 0,
-   "total_votes": 1111,
+   "total_votes": 1319,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -285,6 +312,17 @@
      },
      "write_in": null,
      "total_votes": 1111,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Jude Untalan Hofschneider": 97,
+      "Frank Quichuchu Cruz": 111
+     },
+     "write_in": null,
+     "total_votes": 208,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -301,28 +339,28 @@
     {
      "name": "Donald Manalang Manglona",
      "party": "IND",
-     "votes": 499,
-     "pct": 41.69
+     "votes": 624,
+     "pct": 42.05
     },
     {
      "name": "Tito Songao Hocog II",
      "party": "REP",
-     "votes": 459,
-     "pct": 38.35
+     "votes": 570,
+     "pct": 38.41
     },
     {
      "name": "Robert Harrison Atalig Myers Jr.",
      "party": "IND",
-     "votes": 239,
-     "pct": 19.97
+     "votes": 290,
+     "pct": 19.54
     }
    ],
    "write_in": 0,
-   "total_votes": 1197,
+   "total_votes": 1484,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -332,6 +370,18 @@
      },
      "write_in": null,
      "total_votes": 1197,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Tito Songao Hocog II": 111,
+      "Robert Harrison Atalig Myers Jr.": 51,
+      "Donald Manalang Manglona": 125
+     },
+     "write_in": null,
+     "total_votes": 287,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -348,22 +398,22 @@
     {
      "name": "Ramon \"RB\" Jose Blas Camacho",
      "party": "IND",
-     "votes": 4145,
-     "pct": 83.52
+     "votes": 4615,
+     "pct": 83.97
     },
     {
      "name": "Joseph Muna Mendiola",
      "party": "IND",
-     "votes": 818,
-     "pct": 16.48
+     "votes": 881,
+     "pct": 16.03
     }
    ],
    "write_in": 0,
-   "total_votes": 4963,
+   "total_votes": 5496,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -372,6 +422,17 @@
      },
      "write_in": null,
      "total_votes": 4963,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Joseph Muna Mendiola": 63,
+      "Ramon \"RB\" Jose Blas Camacho": 470
+     },
+     "write_in": null,
+     "total_votes": 533,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1275,21 +1336,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Kimberly King-Hinds",
-   "leader_pct": 66,
+   "leader_pct": 66.4,
    "runner_up": "Galvin Sablan Deleon Guerrero",
-   "runner_up_pct": 34,
+   "runner_up_pct": 33.6,
    "third": null,
    "third_pct": null,
-   "margin": 2128,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "margin": 2467,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.9,
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 52,
    "runner_up_best_pct": 34,
    "runner_up_best_at": "EV",
-   "est_votes_out": 89748
+   "est_votes_out": 48952
   },
   {
    "id": "senate-rota",
@@ -1299,21 +1360,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Donald Manalang Manglona",
-   "leader_pct": 41.7,
+   "leader_pct": 42,
    "runner_up": "Tito Songao Hocog II",
-   "runner_up_pct": 38.3,
+   "runner_up_pct": 38.4,
    "third": "Robert Harrison Atalig Myers Jr.",
-   "third_pct": 20,
-   "margin": 40,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "third_pct": 19.5,
+   "margin": 54,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.1,
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 50.3,
    "runner_up_best_pct": 47.9,
    "runner_up_best_at": "EV",
-   "est_votes_out": 16160
+   "est_votes_out": 9646
   },
   {
    "id": "mayor-saipan",
@@ -1323,21 +1384,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Ramon \"RB\" Jose Blas Camacho",
-   "leader_pct": 83.5,
+   "leader_pct": 84,
    "runner_up": "Joseph Muna Mendiola",
-   "runner_up_pct": 16.5,
+   "runner_up_pct": 16,
    "third": null,
    "third_pct": null,
-   "margin": 3327,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "margin": 3734,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 52,
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 54.2,
    "runner_up_best_pct": 16.5,
    "runner_up_best_at": "EV",
-   "est_votes_out": 67001
+   "est_votes_out": 35724
   },
   {
    "id": "mayor-northern-islands",
