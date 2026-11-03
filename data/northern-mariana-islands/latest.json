@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "6b96b0836fcc6376c58987046520304acd6d1d91a6cf662c3f057b09083737c4",
-  "fetched_at": "2026-11-03T16:13:42.017Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:13:12 GMT"
+  "sha256": "065c604132bdb329fc91058546e99c7323c42298644d775b7106c15eed2e4a58",
+  "fetched_at": "2026-11-03T16:15:43.089Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:15:15 GMT"
  },
  "report": {
   "title": "Election results",
@@ -416,12 +416,12 @@
     {
      "name": "Antonio San Nicolas Borja",
      "party": "REP",
-     "votes": 115,
+     "votes": 639,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 115,
+   "total_votes": 639,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -429,10 +429,10 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Antonio San Nicolas Borja": 115
+      "Antonio San Nicolas Borja": 639
      },
      "write_in": null,
-     "total_votes": 115,
+     "total_votes": 639,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -970,24 +970,24 @@
     {
      "name": "Anne Marie Cruz San Nicolas",
      "party": "NP",
-     "votes": 105,
-     "pct": 36.71
+     "votes": 553,
+     "pct": 34.63
     },
     {
      "name": "Chad Ellie Palacios",
      "party": "NP",
-     "votes": 93,
-     "pct": 32.52
+     "votes": 543,
+     "pct": 34
     },
     {
      "name": "Wally Flores Villagomez",
      "party": "NP",
-     "votes": 88,
-     "pct": 30.77
+     "votes": 501,
+     "pct": 31.37
     }
    ],
    "write_in": 0,
-   "total_votes": 286,
+   "total_votes": 1597,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -995,12 +995,12 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Chad Ellie Palacios": 93,
-      "Anne Marie Cruz San Nicolas": 105,
-      "Wally Flores Villagomez": 88
+      "Chad Ellie Palacios": 543,
+      "Anne Marie Cruz San Nicolas": 553,
+      "Wally Flores Villagomez": 501
      },
      "write_in": null,
-     "total_votes": 286,
+     "total_votes": 1597,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
