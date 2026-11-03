@@ -3,21 +3,21 @@
  "territory_name": "Guam",
  "source": {
   "agency": "Guam Election Commission",
-  "url": "https://drive.google.com/file/d/14aF8IpDgLDc-qawFgNGSuVlVr0slazeU/view?usp=sharing",
-  "sha256": "41a46f21b6d06e41f86c3f3b194b168c3f60195ad3d1d76fa7d04da188b8e79e",
-  "fetched_at": "2026-11-03T15:36:38.328Z",
-  "file_last_modified": "Tue, 03 Nov 2026 15:36:01 GMT",
+  "url": "https://drive.google.com/file/d/1W-fv2yWtBiTlXEpWbQWUPFRO3N1jUp_a/view?usp=sharing",
+  "sha256": "e1cca4274dfc854f703da935836e797f2b3ddf431cb0f608c66bc06cfadad446",
+  "fetched_at": "2026-11-03T18:16:40.550Z",
+  "file_last_modified": "Tue, 03 Nov 2026 18:11:52 GMT",
   "page": "https://gec.guam.gov/2026-general-election-info/"
  },
  "report": {
-  "title": "Summary Results Report",
+  "title": "Precints Results Report",
   "status": "UNOFFICIAL",
   "election": "2026 General Election",
   "election_date": "November 3, 2026",
-  "jurisdiction": "GUAM",
-  "type": "Election Summary",
-  "generated": "11/04/2026 01:30AM",
-  "pages": 3
+  "jurisdiction": "Guam",
+  "type": "Precinct Summary",
+  "generated": "11/04/2026 03:50AM",
+  "pages": 177
  },
  "statistics": {
   "totals": {
@@ -26,9 +26,424 @@
    "Ballots Cast - Blank": 9,
    "Voter Turnout - Total": 53.11
   },
-  "by_precinct": {}
+  "by_precinct": {
+   "PRECINCT 1": {
+    "Registered Voters - Total": 393,
+    "Ballots Cast - Total": 243,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 61.83
+   },
+   "PRECINCT 2": {
+    "Registered Voters - Total": 898,
+    "Ballots Cast - Total": 567,
+    "Ballots Cast - Blank": 1,
+    "Voter Turnout - Total": 63.14
+   },
+   "PRECINCT 3": {
+    "Registered Voters - Total": 856,
+    "Ballots Cast - Total": 510,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 59.58
+   },
+   "PRECINCT 4": {
+    "Registered Voters - Total": 1110,
+    "Ballots Cast - Total": 630,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 56.76
+   },
+   "PRECINCT 4A": {
+    "Registered Voters - Total": 992,
+    "Ballots Cast - Total": 542,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 54.64
+   },
+   "PRECINCT 5": {
+    "Registered Voters - Total": 905,
+    "Ballots Cast - Total": 534,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 59.01
+   },
+   "PRECINCT 5A": {
+    "Registered Voters - Total": 1023,
+    "Ballots Cast - Total": 590,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 57.67
+   },
+   "PRECINCT 6": {
+    "Registered Voters - Total": 450,
+    "Ballots Cast - Total": 271,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 60.22
+   },
+   "PRECINCT 7": {
+    "Registered Voters - Total": 939,
+    "Ballots Cast - Total": 585,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 62.3
+   },
+   "PRECINCT 8": {
+    "Registered Voters - Total": 770,
+    "Ballots Cast - Total": 495,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 64.29
+   },
+   "PRECINCT 8A": {
+    "Registered Voters - Total": 687,
+    "Ballots Cast - Total": 444,
+    "Ballots Cast - Blank": 1,
+    "Voter Turnout - Total": 64.63
+   },
+   "PRECINCT 9": {
+    "Registered Voters - Total": 1011,
+    "Ballots Cast - Total": 574,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 56.78
+   },
+   "PRECINCT 9A": {
+    "Registered Voters - Total": 828,
+    "Ballots Cast - Total": 500,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 60.39
+   },
+   "PRECINCT 10": {
+    "Registered Voters - Total": 1037,
+    "Ballots Cast - Total": 629,
+    "Ballots Cast - Blank": 1,
+    "Voter Turnout - Total": 60.66
+   },
+   "PRECINCT 10A": {
+    "Registered Voters - Total": 994,
+    "Ballots Cast - Total": 581,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 58.45
+   },
+   "PRECINCT 10B": {
+    "Registered Voters - Total": 1020,
+    "Ballots Cast - Total": 612,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 60
+   },
+   "PRECINCT 11": {
+    "Registered Voters - Total": 989,
+    "Ballots Cast - Total": 617,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 62.39
+   },
+   "PRECINCT 11A": {
+    "Registered Voters - Total": 952,
+    "Ballots Cast - Total": 568,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 59.66
+   },
+   "PRECINCT 11B": {
+    "Registered Voters - Total": 989,
+    "Ballots Cast - Total": 602,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 60.87
+   },
+   "PRECINCT 12": {
+    "Registered Voters - Total": 872,
+    "Ballots Cast - Total": 554,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 63.53
+   },
+   "PRECINCT 12A": {
+    "Registered Voters - Total": 809,
+    "Ballots Cast - Total": 494,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 61.06
+   },
+   "PRECINCT 13": {
+    "Registered Voters - Total": 803,
+    "Ballots Cast - Total": 528,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 65.75
+   },
+   "PRECINCT 13A": {
+    "Registered Voters - Total": 773,
+    "Ballots Cast - Total": 487,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 63
+   },
+   "PRECINCT 14": {
+    "Registered Voters - Total": 1161,
+    "Ballots Cast - Total": 683,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 58.83
+   },
+   "PRECINCT 14A": {
+    "Registered Voters - Total": 1167,
+    "Ballots Cast - Total": 634,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 54.33
+   },
+   "PRECINCT 15": {
+    "Registered Voters - Total": 978,
+    "Ballots Cast - Total": 583,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 59.61
+   },
+   "PRECINCT 15A": {
+    "Registered Voters - Total": 985,
+    "Ballots Cast - Total": 519,
+    "Ballots Cast - Blank": 1,
+    "Voter Turnout - Total": 52.69
+   },
+   "PRECINCT 15B": {
+    "Registered Voters - Total": 1011,
+    "Ballots Cast - Total": 593,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 58.65
+   },
+   "PRECINCT 15C": {
+    "Registered Voters - Total": 1082,
+    "Ballots Cast - Total": 631,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 58.32
+   },
+   "PRECINCT 16": {
+    "Registered Voters - Total": 1030,
+    "Ballots Cast - Total": 585,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 56.8
+   },
+   "PRECINCT 16A": {
+    "Registered Voters - Total": 1100,
+    "Ballots Cast - Total": 617,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 56.09
+   },
+   "PRECINCT 16B": {
+    "Registered Voters - Total": 1115,
+    "Ballots Cast - Total": 556,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 49.87
+   },
+   "PRECINCT 16C": {
+    "Registered Voters - Total": 963,
+    "Ballots Cast - Total": 508,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 52.75
+   },
+   "PRECINCT 16D": {
+    "Registered Voters - Total": 1094,
+    "Ballots Cast - Total": 581,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 53.11
+   },
+   "PRECINCT 17": {
+    "Registered Voters - Total": 1119,
+    "Ballots Cast - Total": 535,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 47.81
+   },
+   "PRECINCT 17A": {
+    "Registered Voters - Total": 1092,
+    "Ballots Cast - Total": 535,
+    "Ballots Cast - Blank": 1,
+    "Voter Turnout - Total": 48.99
+   },
+   "PRECINCT 17B": {
+    "Registered Voters - Total": 1102,
+    "Ballots Cast - Total": 449,
+    "Ballots Cast - Blank": 1,
+    "Voter Turnout - Total": 40.74
+   },
+   "PRECINCT 17C": {
+    "Registered Voters - Total": 1113,
+    "Ballots Cast - Total": 519,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 46.63
+   },
+   "PRECINCT 17D": {
+    "Registered Voters - Total": 1143,
+    "Ballots Cast - Total": 512,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 44.79
+   },
+   "PRECINCT 18": {
+    "Registered Voters - Total": 1270,
+    "Ballots Cast - Total": 593,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 46.69
+   },
+   "PRECINCT 18A": {
+    "Registered Voters - Total": 1253,
+    "Ballots Cast - Total": 624,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 49.8
+   },
+   "PRECINCT 18B": {
+    "Registered Voters - Total": 1236,
+    "Ballots Cast - Total": 587,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 47.49
+   },
+   "PRECINCT 18C": {
+    "Registered Voters - Total": 959,
+    "Ballots Cast - Total": 437,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 45.57
+   },
+   "PRECINCT 18D": {
+    "Registered Voters - Total": 1030,
+    "Ballots Cast - Total": 474,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 46.02
+   },
+   "PRECINCT 18E": {
+    "Registered Voters - Total": 988,
+    "Ballots Cast - Total": 451,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 45.65
+   },
+   "PRECINCT 18F": {
+    "Registered Voters - Total": 1016,
+    "Ballots Cast - Total": 436,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 42.91
+   },
+   "PRECINCT 18G": {
+    "Registered Voters - Total": 988,
+    "Ballots Cast - Total": 435,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 44.03
+   },
+   "PRECINCT 18H": {
+    "Registered Voters - Total": 1039,
+    "Ballots Cast - Total": 447,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 43.02
+   },
+   "PRECINCT 18I": {
+    "Registered Voters - Total": 1003,
+    "Ballots Cast - Total": 488,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 48.65
+   },
+   "PRECINCT 18J": {
+    "Registered Voters - Total": 1159,
+    "Ballots Cast - Total": 557,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 48.06
+   },
+   "PRECINCT 18K": {
+    "Registered Voters - Total": 1345,
+    "Ballots Cast - Total": 617,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 45.87
+   },
+   "PRECINCT 18L": {
+    "Registered Voters - Total": 1389,
+    "Ballots Cast - Total": 642,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 46.22
+   },
+   "PRECINCT 19": {
+    "Registered Voters - Total": 1106,
+    "Ballots Cast - Total": 507,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 45.84
+   },
+   "PRECINCT 19A": {
+    "Registered Voters - Total": 1192,
+    "Ballots Cast - Total": 599,
+    "Ballots Cast - Blank": 1,
+    "Voter Turnout - Total": 50.25
+   },
+   "PRECINCT 19B": {
+    "Registered Voters - Total": 1170,
+    "Ballots Cast - Total": 558,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 47.69
+   },
+   "PRECINCT 19C": {
+    "Registered Voters - Total": 989,
+    "Ballots Cast - Total": 499,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 50.46
+   },
+   "PRECINCT 19D": {
+    "Registered Voters - Total": 861,
+    "Ballots Cast - Total": 412,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 47.85
+   },
+   "PRECINCT 19E": {
+    "Registered Voters - Total": 897,
+    "Ballots Cast - Total": 428,
+    "Ballots Cast - Blank": 2,
+    "Voter Turnout - Total": 47.71
+   },
+   "PRECINCT 19F": {
+    "Registered Voters - Total": 901,
+    "Ballots Cast - Total": 426,
+    "Ballots Cast - Blank": 0,
+    "Voter Turnout - Total": 47.28
+   }
+  }
  },
- "precincts": [],
+ "precincts": [
+  "PRECINCT 1",
+  "PRECINCT 2",
+  "PRECINCT 3",
+  "PRECINCT 4",
+  "PRECINCT 4A",
+  "PRECINCT 5",
+  "PRECINCT 5A",
+  "PRECINCT 6",
+  "PRECINCT 7",
+  "PRECINCT 8",
+  "PRECINCT 8A",
+  "PRECINCT 9",
+  "PRECINCT 9A",
+  "PRECINCT 10",
+  "PRECINCT 10A",
+  "PRECINCT 10B",
+  "PRECINCT 11",
+  "PRECINCT 11A",
+  "PRECINCT 11B",
+  "PRECINCT 12",
+  "PRECINCT 12A",
+  "PRECINCT 13",
+  "PRECINCT 13A",
+  "PRECINCT 14",
+  "PRECINCT 14A",
+  "PRECINCT 15",
+  "PRECINCT 15A",
+  "PRECINCT 15B",
+  "PRECINCT 15C",
+  "PRECINCT 16",
+  "PRECINCT 16A",
+  "PRECINCT 16B",
+  "PRECINCT 16C",
+  "PRECINCT 16D",
+  "PRECINCT 17",
+  "PRECINCT 17A",
+  "PRECINCT 17B",
+  "PRECINCT 17C",
+  "PRECINCT 17D",
+  "PRECINCT 18",
+  "PRECINCT 18A",
+  "PRECINCT 18B",
+  "PRECINCT 18C",
+  "PRECINCT 18D",
+  "PRECINCT 18E",
+  "PRECINCT 18F",
+  "PRECINCT 18G",
+  "PRECINCT 18H",
+  "PRECINCT 18I",
+  "PRECINCT 18J",
+  "PRECINCT 18K",
+  "PRECINCT 18L",
+  "PRECINCT 19",
+  "PRECINCT 19A",
+  "PRECINCT 19B",
+  "PRECINCT 19C",
+  "PRECINCT 19D",
+  "PRECINCT 19E",
+  "PRECINCT 19F"
+ ],
  "contests": [
   {
    "id": "governor-lieutenant-governor-of-guam",
@@ -55,8 +470,658 @@
    "overvotes": 69,
    "undervotes": 351,
    "contest_totals": 31414,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 59,
+   "by_precinct": {
+    "PRECINCT 1": {
+     "votes": {
+      "TERLAJE/PEREZ": 125,
+      "ADA/CALVO": 115
+     },
+     "write_in": 0,
+     "total_votes": 240,
+     "overvotes": 1,
+     "undervotes": 2,
+     "contest_totals": 243
+    },
+    "PRECINCT 2": {
+     "votes": {
+      "TERLAJE/PEREZ": 293,
+      "ADA/CALVO": 266
+     },
+     "write_in": 3,
+     "total_votes": 562,
+     "overvotes": 0,
+     "undervotes": 5,
+     "contest_totals": 567
+    },
+    "PRECINCT 3": {
+     "votes": {
+      "ADA/CALVO": 286,
+      "TERLAJE/PEREZ": 219
+     },
+     "write_in": 5,
+     "total_votes": 510,
+     "overvotes": 0,
+     "undervotes": 0,
+     "contest_totals": 510
+    },
+    "PRECINCT 4": {
+     "votes": {
+      "ADA/CALVO": 348,
+      "TERLAJE/PEREZ": 274
+     },
+     "write_in": 1,
+     "total_votes": 623,
+     "overvotes": 2,
+     "undervotes": 5,
+     "contest_totals": 630
+    },
+    "PRECINCT 4A": {
+     "votes": {
+      "ADA/CALVO": 282,
+      "TERLAJE/PEREZ": 254
+     },
+     "write_in": 1,
+     "total_votes": 537,
+     "overvotes": 1,
+     "undervotes": 4,
+     "contest_totals": 542
+    },
+    "PRECINCT 5": {
+     "votes": {
+      "ADA/CALVO": 277,
+      "TERLAJE/PEREZ": 250
+     },
+     "write_in": 4,
+     "total_votes": 531,
+     "overvotes": 1,
+     "undervotes": 2,
+     "contest_totals": 534
+    },
+    "PRECINCT 5A": {
+     "votes": {
+      "TERLAJE/PEREZ": 314,
+      "ADA/CALVO": 257
+     },
+     "write_in": 2,
+     "total_votes": 573,
+     "overvotes": 0,
+     "undervotes": 17,
+     "contest_totals": 590
+    },
+    "PRECINCT 6": {
+     "votes": {
+      "ADA/CALVO": 180,
+      "TERLAJE/PEREZ": 86
+     },
+     "write_in": 0,
+     "total_votes": 266,
+     "overvotes": 0,
+     "undervotes": 5,
+     "contest_totals": 271
+    },
+    "PRECINCT 7": {
+     "votes": {
+      "TERLAJE/PEREZ": 364,
+      "ADA/CALVO": 210
+     },
+     "write_in": 3,
+     "total_votes": 577,
+     "overvotes": 1,
+     "undervotes": 7,
+     "contest_totals": 585
+    },
+    "PRECINCT 8": {
+     "votes": {
+      "ADA/CALVO": 256,
+      "TERLAJE/PEREZ": 235
+     },
+     "write_in": 0,
+     "total_votes": 491,
+     "overvotes": 0,
+     "undervotes": 4,
+     "contest_totals": 495
+    },
+    "PRECINCT 8A": {
+     "votes": {
+      "TERLAJE/PEREZ": 229,
+      "ADA/CALVO": 208
+     },
+     "write_in": 1,
+     "total_votes": 438,
+     "overvotes": 0,
+     "undervotes": 6,
+     "contest_totals": 444
+    },
+    "PRECINCT 9": {
+     "votes": {
+      "TERLAJE/PEREZ": 323,
+      "ADA/CALVO": 238
+     },
+     "write_in": 7,
+     "total_votes": 568,
+     "overvotes": 0,
+     "undervotes": 6,
+     "contest_totals": 574
+    },
+    "PRECINCT 9A": {
+     "votes": {
+      "TERLAJE/PEREZ": 259,
+      "ADA/CALVO": 228
+     },
+     "write_in": 4,
+     "total_votes": 491,
+     "overvotes": 0,
+     "undervotes": 9,
+     "contest_totals": 500
+    },
+    "PRECINCT 10": {
+     "votes": {
+      "TERLAJE/PEREZ": 339,
+      "ADA/CALVO": 281
+     },
+     "write_in": 3,
+     "total_votes": 623,
+     "overvotes": 0,
+     "undervotes": 6,
+     "contest_totals": 629
+    },
+    "PRECINCT 10A": {
+     "votes": {
+      "TERLAJE/PEREZ": 319,
+      "ADA/CALVO": 256
+     },
+     "write_in": 2,
+     "total_votes": 577,
+     "overvotes": 0,
+     "undervotes": 4,
+     "contest_totals": 581
+    },
+    "PRECINCT 10B": {
+     "votes": {
+      "TERLAJE/PEREZ": 379,
+      "ADA/CALVO": 228
+     },
+     "write_in": 0,
+     "total_votes": 607,
+     "overvotes": 1,
+     "undervotes": 4,
+     "contest_totals": 612
+    },
+    "PRECINCT 11": {
+     "votes": {
+      "ADA/CALVO": 321,
+      "TERLAJE/PEREZ": 286
+     },
+     "write_in": 2,
+     "total_votes": 609,
+     "overvotes": 2,
+     "undervotes": 6,
+     "contest_totals": 617
+    },
+    "PRECINCT 11A": {
+     "votes": {
+      "ADA/CALVO": 294,
+      "TERLAJE/PEREZ": 267
+     },
+     "write_in": 2,
+     "total_votes": 563,
+     "overvotes": 0,
+     "undervotes": 5,
+     "contest_totals": 568
+    },
+    "PRECINCT 11B": {
+     "votes": {
+      "ADA/CALVO": 301,
+      "TERLAJE/PEREZ": 293
+     },
+     "write_in": 2,
+     "total_votes": 596,
+     "overvotes": 0,
+     "undervotes": 6,
+     "contest_totals": 602
+    },
+    "PRECINCT 12": {
+     "votes": {
+      "TERLAJE/PEREZ": 274,
+      "ADA/CALVO": 268
+     },
+     "write_in": 1,
+     "total_votes": 543,
+     "overvotes": 1,
+     "undervotes": 10,
+     "contest_totals": 554
+    },
+    "PRECINCT 12A": {
+     "votes": {
+      "ADA/CALVO": 251,
+      "TERLAJE/PEREZ": 233
+     },
+     "write_in": 4,
+     "total_votes": 488,
+     "overvotes": 0,
+     "undervotes": 6,
+     "contest_totals": 494
+    },
+    "PRECINCT 13": {
+     "votes": {
+      "ADA/CALVO": 278,
+      "TERLAJE/PEREZ": 235
+     },
+     "write_in": 7,
+     "total_votes": 520,
+     "overvotes": 0,
+     "undervotes": 8,
+     "contest_totals": 528
+    },
+    "PRECINCT 13A": {
+     "votes": {
+      "ADA/CALVO": 241,
+      "TERLAJE/PEREZ": 237
+     },
+     "write_in": 2,
+     "total_votes": 480,
+     "overvotes": 0,
+     "undervotes": 7,
+     "contest_totals": 487
+    },
+    "PRECINCT 14": {
+     "votes": {
+      "ADA/CALVO": 382,
+      "TERLAJE/PEREZ": 286
+     },
+     "write_in": 3,
+     "total_votes": 671,
+     "overvotes": 1,
+     "undervotes": 11,
+     "contest_totals": 683
+    },
+    "PRECINCT 14A": {
+     "votes": {
+      "ADA/CALVO": 351,
+      "TERLAJE/PEREZ": 268
+     },
+     "write_in": 1,
+     "total_votes": 620,
+     "overvotes": 3,
+     "undervotes": 11,
+     "contest_totals": 634
+    },
+    "PRECINCT 15": {
+     "votes": {
+      "ADA/CALVO": 328,
+      "TERLAJE/PEREZ": 246
+     },
+     "write_in": 3,
+     "total_votes": 577,
+     "overvotes": 2,
+     "undervotes": 4,
+     "contest_totals": 583
+    },
+    "PRECINCT 15A": {
+     "votes": {
+      "TERLAJE/PEREZ": 266,
+      "ADA/CALVO": 242
+     },
+     "write_in": 5,
+     "total_votes": 513,
+     "overvotes": 1,
+     "undervotes": 5,
+     "contest_totals": 519
+    },
+    "PRECINCT 15B": {
+     "votes": {
+      "ADA/CALVO": 302,
+      "TERLAJE/PEREZ": 279
+     },
+     "write_in": 4,
+     "total_votes": 585,
+     "overvotes": 0,
+     "undervotes": 8,
+     "contest_totals": 593
+    },
+    "PRECINCT 15C": {
+     "votes": {
+      "ADA/CALVO": 333,
+      "TERLAJE/PEREZ": 289
+     },
+     "write_in": 2,
+     "total_votes": 624,
+     "overvotes": 2,
+     "undervotes": 5,
+     "contest_totals": 631
+    },
+    "PRECINCT 16": {
+     "votes": {
+      "TERLAJE/PEREZ": 286,
+      "ADA/CALVO": 284
+     },
+     "write_in": 4,
+     "total_votes": 574,
+     "overvotes": 0,
+     "undervotes": 11,
+     "contest_totals": 585
+    },
+    "PRECINCT 16A": {
+     "votes": {
+      "ADA/CALVO": 314,
+      "TERLAJE/PEREZ": 294
+     },
+     "write_in": 2,
+     "total_votes": 610,
+     "overvotes": 1,
+     "undervotes": 6,
+     "contest_totals": 617
+    },
+    "PRECINCT 16B": {
+     "votes": {
+      "ADA/CALVO": 287,
+      "TERLAJE/PEREZ": 263
+     },
+     "write_in": 0,
+     "total_votes": 550,
+     "overvotes": 0,
+     "undervotes": 6,
+     "contest_totals": 556
+    },
+    "PRECINCT 16C": {
+     "votes": {
+      "TERLAJE/PEREZ": 254,
+      "ADA/CALVO": 243
+     },
+     "write_in": 3,
+     "total_votes": 500,
+     "overvotes": 0,
+     "undervotes": 8,
+     "contest_totals": 508
+    },
+    "PRECINCT 16D": {
+     "votes": {
+      "TERLAJE/PEREZ": 303,
+      "ADA/CALVO": 274
+     },
+     "write_in": 1,
+     "total_votes": 578,
+     "overvotes": 1,
+     "undervotes": 2,
+     "contest_totals": 581
+    },
+    "PRECINCT 17": {
+     "votes": {
+      "ADA/CALVO": 300,
+      "TERLAJE/PEREZ": 216
+     },
+     "write_in": 5,
+     "total_votes": 521,
+     "overvotes": 1,
+     "undervotes": 13,
+     "contest_totals": 535
+    },
+    "PRECINCT 17A": {
+     "votes": {
+      "ADA/CALVO": 305,
+      "TERLAJE/PEREZ": 212
+     },
+     "write_in": 4,
+     "total_votes": 521,
+     "overvotes": 1,
+     "undervotes": 13,
+     "contest_totals": 535
+    },
+    "PRECINCT 17B": {
+     "votes": {
+      "ADA/CALVO": 250,
+      "TERLAJE/PEREZ": 188
+     },
+     "write_in": 3,
+     "total_votes": 441,
+     "overvotes": 3,
+     "undervotes": 5,
+     "contest_totals": 449
+    },
+    "PRECINCT 17C": {
+     "votes": {
+      "ADA/CALVO": 314,
+      "TERLAJE/PEREZ": 199
+     },
+     "write_in": 2,
+     "total_votes": 515,
+     "overvotes": 1,
+     "undervotes": 3,
+     "contest_totals": 519
+    },
+    "PRECINCT 17D": {
+     "votes": {
+      "ADA/CALVO": 283,
+      "TERLAJE/PEREZ": 221
+     },
+     "write_in": 4,
+     "total_votes": 508,
+     "overvotes": 1,
+     "undervotes": 3,
+     "contest_totals": 512
+    },
+    "PRECINCT 18": {
+     "votes": {
+      "ADA/CALVO": 323,
+      "TERLAJE/PEREZ": 261
+     },
+     "write_in": 2,
+     "total_votes": 586,
+     "overvotes": 1,
+     "undervotes": 6,
+     "contest_totals": 593
+    },
+    "PRECINCT 18A": {
+     "votes": {
+      "ADA/CALVO": 347,
+      "TERLAJE/PEREZ": 267
+     },
+     "write_in": 1,
+     "total_votes": 615,
+     "overvotes": 2,
+     "undervotes": 7,
+     "contest_totals": 624
+    },
+    "PRECINCT 18B": {
+     "votes": {
+      "ADA/CALVO": 306,
+      "TERLAJE/PEREZ": 275
+     },
+     "write_in": 1,
+     "total_votes": 582,
+     "overvotes": 2,
+     "undervotes": 3,
+     "contest_totals": 587
+    },
+    "PRECINCT 18C": {
+     "votes": {
+      "ADA/CALVO": 240,
+      "TERLAJE/PEREZ": 186
+     },
+     "write_in": 1,
+     "total_votes": 427,
+     "overvotes": 2,
+     "undervotes": 8,
+     "contest_totals": 437
+    },
+    "PRECINCT 18D": {
+     "votes": {
+      "ADA/CALVO": 255,
+      "TERLAJE/PEREZ": 210
+     },
+     "write_in": 1,
+     "total_votes": 466,
+     "overvotes": 2,
+     "undervotes": 6,
+     "contest_totals": 474
+    },
+    "PRECINCT 18E": {
+     "votes": {
+      "TERLAJE/PEREZ": 230,
+      "ADA/CALVO": 217
+     },
+     "write_in": 0,
+     "total_votes": 447,
+     "overvotes": 1,
+     "undervotes": 3,
+     "contest_totals": 451
+    },
+    "PRECINCT 18F": {
+     "votes": {
+      "ADA/CALVO": 223,
+      "TERLAJE/PEREZ": 207
+     },
+     "write_in": 0,
+     "total_votes": 430,
+     "overvotes": 2,
+     "undervotes": 4,
+     "contest_totals": 436
+    },
+    "PRECINCT 18G": {
+     "votes": {
+      "TERLAJE/PEREZ": 221,
+      "ADA/CALVO": 208
+     },
+     "write_in": 1,
+     "total_votes": 430,
+     "overvotes": 2,
+     "undervotes": 3,
+     "contest_totals": 435
+    },
+    "PRECINCT 18H": {
+     "votes": {
+      "ADA/CALVO": 227,
+      "TERLAJE/PEREZ": 210
+     },
+     "write_in": 1,
+     "total_votes": 438,
+     "overvotes": 2,
+     "undervotes": 7,
+     "contest_totals": 447
+    },
+    "PRECINCT 18I": {
+     "votes": {
+      "ADA/CALVO": 266,
+      "TERLAJE/PEREZ": 212
+     },
+     "write_in": 0,
+     "total_votes": 478,
+     "overvotes": 4,
+     "undervotes": 6,
+     "contest_totals": 488
+    },
+    "PRECINCT 18J": {
+     "votes": {
+      "TERLAJE/PEREZ": 291,
+      "ADA/CALVO": 263
+     },
+     "write_in": 0,
+     "total_votes": 554,
+     "overvotes": 0,
+     "undervotes": 3,
+     "contest_totals": 557
+    },
+    "PRECINCT 18K": {
+     "votes": {
+      "ADA/CALVO": 324,
+      "TERLAJE/PEREZ": 283
+     },
+     "write_in": 2,
+     "total_votes": 609,
+     "overvotes": 2,
+     "undervotes": 6,
+     "contest_totals": 617
+    },
+    "PRECINCT 18L": {
+     "votes": {
+      "ADA/CALVO": 350,
+      "TERLAJE/PEREZ": 287
+     },
+     "write_in": 2,
+     "total_votes": 639,
+     "overvotes": 0,
+     "undervotes": 3,
+     "contest_totals": 642
+    },
+    "PRECINCT 19": {
+     "votes": {
+      "ADA/CALVO": 263,
+      "TERLAJE/PEREZ": 228
+     },
+     "write_in": 0,
+     "total_votes": 491,
+     "overvotes": 7,
+     "undervotes": 9,
+     "contest_totals": 507
+    },
+    "PRECINCT 19A": {
+     "votes": {
+      "ADA/CALVO": 312,
+      "TERLAJE/PEREZ": 277
+     },
+     "write_in": 1,
+     "total_votes": 590,
+     "overvotes": 5,
+     "undervotes": 4,
+     "contest_totals": 599
+    },
+    "PRECINCT 19B": {
+     "votes": {
+      "TERLAJE/PEREZ": 287,
+      "ADA/CALVO": 268
+     },
+     "write_in": 2,
+     "total_votes": 557,
+     "overvotes": 0,
+     "undervotes": 1,
+     "contest_totals": 558
+    },
+    "PRECINCT 19C": {
+     "votes": {
+      "ADA/CALVO": 288,
+      "TERLAJE/PEREZ": 200
+     },
+     "write_in": 2,
+     "total_votes": 490,
+     "overvotes": 1,
+     "undervotes": 8,
+     "contest_totals": 499
+    },
+    "PRECINCT 19D": {
+     "votes": {
+      "ADA/CALVO": 204,
+      "TERLAJE/PEREZ": 197
+     },
+     "write_in": 4,
+     "total_votes": 405,
+     "overvotes": 4,
+     "undervotes": 3,
+     "contest_totals": 412
+    },
+    "PRECINCT 19E": {
+     "votes": {
+      "ADA/CALVO": 214,
+      "TERLAJE/PEREZ": 206
+     },
+     "write_in": 1,
+     "total_votes": 421,
+     "overvotes": 0,
+     "undervotes": 7,
+     "contest_totals": 428
+    },
+    "PRECINCT 19F": {
+     "votes": {
+      "TERLAJE/PEREZ": 233,
+      "ADA/CALVO": 185
+     },
+     "write_in": 0,
+     "total_votes": 418,
+     "overvotes": 2,
+     "undervotes": 6,
+     "contest_totals": 426
+    }
+   }
   },
   {
    "id": "delegate-to-congress",
@@ -83,8 +1148,658 @@
    "overvotes": 79,
    "undervotes": 658,
    "contest_totals": 31414,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 59,
+   "by_precinct": {
+    "PRECINCT 1": {
+     "votes": {
+      "MOYLAN, James Craig": 123,
+      "LIMTIACO, Alicia Anne Garrido": 107
+     },
+     "write_in": 1,
+     "total_votes": 231,
+     "overvotes": 0,
+     "undervotes": 12,
+     "contest_totals": 243
+    },
+    "PRECINCT 2": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 335,
+      "MOYLAN, James Craig": 221
+     },
+     "write_in": 0,
+     "total_votes": 556,
+     "overvotes": 0,
+     "undervotes": 11,
+     "contest_totals": 567
+    },
+    "PRECINCT 3": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 285,
+      "MOYLAN, James Craig": 213
+     },
+     "write_in": 4,
+     "total_votes": 502,
+     "overvotes": 0,
+     "undervotes": 8,
+     "contest_totals": 510
+    },
+    "PRECINCT 4": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 351,
+      "MOYLAN, James Craig": 249
+     },
+     "write_in": 2,
+     "total_votes": 602,
+     "overvotes": 1,
+     "undervotes": 27,
+     "contest_totals": 630
+    },
+    "PRECINCT 4A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 264,
+      "MOYLAN, James Craig": 259
+     },
+     "write_in": 2,
+     "total_votes": 525,
+     "overvotes": 1,
+     "undervotes": 16,
+     "contest_totals": 542
+    },
+    "PRECINCT 5": {
+     "votes": {
+      "MOYLAN, James Craig": 271,
+      "LIMTIACO, Alicia Anne Garrido": 252
+     },
+     "write_in": 0,
+     "total_votes": 523,
+     "overvotes": 1,
+     "undervotes": 10,
+     "contest_totals": 534
+    },
+    "PRECINCT 5A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 320,
+      "MOYLAN, James Craig": 255
+     },
+     "write_in": 0,
+     "total_votes": 575,
+     "overvotes": 1,
+     "undervotes": 14,
+     "contest_totals": 590
+    },
+    "PRECINCT 6": {
+     "votes": {
+      "MOYLAN, James Craig": 128,
+      "LIMTIACO, Alicia Anne Garrido": 125
+     },
+     "write_in": 1,
+     "total_votes": 254,
+     "overvotes": 0,
+     "undervotes": 17,
+     "contest_totals": 271
+    },
+    "PRECINCT 7": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 327,
+      "MOYLAN, James Craig": 245
+     },
+     "write_in": 0,
+     "total_votes": 572,
+     "overvotes": 1,
+     "undervotes": 12,
+     "contest_totals": 585
+    },
+    "PRECINCT 8": {
+     "votes": {
+      "MOYLAN, James Craig": 245,
+      "LIMTIACO, Alicia Anne Garrido": 239
+     },
+     "write_in": 0,
+     "total_votes": 484,
+     "overvotes": 0,
+     "undervotes": 11,
+     "contest_totals": 495
+    },
+    "PRECINCT 8A": {
+     "votes": {
+      "MOYLAN, James Craig": 216,
+      "LIMTIACO, Alicia Anne Garrido": 212
+     },
+     "write_in": 1,
+     "total_votes": 429,
+     "overvotes": 1,
+     "undervotes": 14,
+     "contest_totals": 444
+    },
+    "PRECINCT 9": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 335,
+      "MOYLAN, James Craig": 226
+     },
+     "write_in": 0,
+     "total_votes": 561,
+     "overvotes": 0,
+     "undervotes": 13,
+     "contest_totals": 574
+    },
+    "PRECINCT 9A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 259,
+      "MOYLAN, James Craig": 230
+     },
+     "write_in": 0,
+     "total_votes": 489,
+     "overvotes": 1,
+     "undervotes": 10,
+     "contest_totals": 500
+    },
+    "PRECINCT 10": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 344,
+      "MOYLAN, James Craig": 278
+     },
+     "write_in": 0,
+     "total_votes": 622,
+     "overvotes": 0,
+     "undervotes": 7,
+     "contest_totals": 629
+    },
+    "PRECINCT 10A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 338,
+      "MOYLAN, James Craig": 226
+     },
+     "write_in": 1,
+     "total_votes": 565,
+     "overvotes": 1,
+     "undervotes": 15,
+     "contest_totals": 581
+    },
+    "PRECINCT 10B": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 359,
+      "MOYLAN, James Craig": 239
+     },
+     "write_in": 1,
+     "total_votes": 599,
+     "overvotes": 0,
+     "undervotes": 13,
+     "contest_totals": 612
+    },
+    "PRECINCT 11": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 308,
+      "MOYLAN, James Craig": 294
+     },
+     "write_in": 1,
+     "total_votes": 603,
+     "overvotes": 1,
+     "undervotes": 13,
+     "contest_totals": 617
+    },
+    "PRECINCT 11A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 308,
+      "MOYLAN, James Craig": 250
+     },
+     "write_in": 2,
+     "total_votes": 560,
+     "overvotes": 3,
+     "undervotes": 5,
+     "contest_totals": 568
+    },
+    "PRECINCT 11B": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 298,
+      "MOYLAN, James Craig": 296
+     },
+     "write_in": 0,
+     "total_votes": 594,
+     "overvotes": 0,
+     "undervotes": 8,
+     "contest_totals": 602
+    },
+    "PRECINCT 12": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 313,
+      "MOYLAN, James Craig": 230
+     },
+     "write_in": 0,
+     "total_votes": 543,
+     "overvotes": 2,
+     "undervotes": 9,
+     "contest_totals": 554
+    },
+    "PRECINCT 12A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 272,
+      "MOYLAN, James Craig": 211
+     },
+     "write_in": 0,
+     "total_votes": 483,
+     "overvotes": 0,
+     "undervotes": 11,
+     "contest_totals": 494
+    },
+    "PRECINCT 13": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 284,
+      "MOYLAN, James Craig": 230
+     },
+     "write_in": 2,
+     "total_votes": 516,
+     "overvotes": 0,
+     "undervotes": 12,
+     "contest_totals": 528
+    },
+    "PRECINCT 13A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 273,
+      "MOYLAN, James Craig": 210
+     },
+     "write_in": 0,
+     "total_votes": 483,
+     "overvotes": 0,
+     "undervotes": 4,
+     "contest_totals": 487
+    },
+    "PRECINCT 14": {
+     "votes": {
+      "MOYLAN, James Craig": 335,
+      "LIMTIACO, Alicia Anne Garrido": 333
+     },
+     "write_in": 0,
+     "total_votes": 668,
+     "overvotes": 1,
+     "undervotes": 14,
+     "contest_totals": 683
+    },
+    "PRECINCT 14A": {
+     "votes": {
+      "MOYLAN, James Craig": 330,
+      "LIMTIACO, Alicia Anne Garrido": 288
+     },
+     "write_in": 0,
+     "total_votes": 618,
+     "overvotes": 2,
+     "undervotes": 14,
+     "contest_totals": 634
+    },
+    "PRECINCT 15": {
+     "votes": {
+      "MOYLAN, James Craig": 286,
+      "LIMTIACO, Alicia Anne Garrido": 283
+     },
+     "write_in": 1,
+     "total_votes": 570,
+     "overvotes": 4,
+     "undervotes": 9,
+     "contest_totals": 583
+    },
+    "PRECINCT 15A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 267,
+      "MOYLAN, James Craig": 239
+     },
+     "write_in": 2,
+     "total_votes": 508,
+     "overvotes": 0,
+     "undervotes": 11,
+     "contest_totals": 519
+    },
+    "PRECINCT 15B": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 293,
+      "MOYLAN, James Craig": 287
+     },
+     "write_in": 0,
+     "total_votes": 580,
+     "overvotes": 0,
+     "undervotes": 13,
+     "contest_totals": 593
+    },
+    "PRECINCT 15C": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 308,
+      "MOYLAN, James Craig": 306
+     },
+     "write_in": 1,
+     "total_votes": 615,
+     "overvotes": 3,
+     "undervotes": 13,
+     "contest_totals": 631
+    },
+    "PRECINCT 16": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 306,
+      "MOYLAN, James Craig": 265
+     },
+     "write_in": 0,
+     "total_votes": 571,
+     "overvotes": 1,
+     "undervotes": 13,
+     "contest_totals": 585
+    },
+    "PRECINCT 16A": {
+     "votes": {
+      "MOYLAN, James Craig": 303,
+      "LIMTIACO, Alicia Anne Garrido": 297
+     },
+     "write_in": 0,
+     "total_votes": 600,
+     "overvotes": 0,
+     "undervotes": 17,
+     "contest_totals": 617
+    },
+    "PRECINCT 16B": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 295,
+      "MOYLAN, James Craig": 250
+     },
+     "write_in": 0,
+     "total_votes": 545,
+     "overvotes": 0,
+     "undervotes": 11,
+     "contest_totals": 556
+    },
+    "PRECINCT 16C": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 285,
+      "MOYLAN, James Craig": 214
+     },
+     "write_in": 0,
+     "total_votes": 499,
+     "overvotes": 0,
+     "undervotes": 9,
+     "contest_totals": 508
+    },
+    "PRECINCT 16D": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 287,
+      "MOYLAN, James Craig": 282
+     },
+     "write_in": 1,
+     "total_votes": 570,
+     "overvotes": 1,
+     "undervotes": 10,
+     "contest_totals": 581
+    },
+    "PRECINCT 17": {
+     "votes": {
+      "MOYLAN, James Craig": 269,
+      "LIMTIACO, Alicia Anne Garrido": 255
+     },
+     "write_in": 1,
+     "total_votes": 525,
+     "overvotes": 1,
+     "undervotes": 9,
+     "contest_totals": 535
+    },
+    "PRECINCT 17A": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 261,
+      "MOYLAN, James Craig": 255
+     },
+     "write_in": 1,
+     "total_votes": 517,
+     "overvotes": 2,
+     "undervotes": 16,
+     "contest_totals": 535
+    },
+    "PRECINCT 17B": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 219,
+      "MOYLAN, James Craig": 213
+     },
+     "write_in": 2,
+     "total_votes": 434,
+     "overvotes": 3,
+     "undervotes": 12,
+     "contest_totals": 449
+    },
+    "PRECINCT 17C": {
+     "votes": {
+      "MOYLAN, James Craig": 270,
+      "LIMTIACO, Alicia Anne Garrido": 237
+     },
+     "write_in": 0,
+     "total_votes": 507,
+     "overvotes": 1,
+     "undervotes": 11,
+     "contest_totals": 519
+    },
+    "PRECINCT 17D": {
+     "votes": {
+      "MOYLAN, James Craig": 254,
+      "LIMTIACO, Alicia Anne Garrido": 245
+     },
+     "write_in": 1,
+     "total_votes": 500,
+     "overvotes": 2,
+     "undervotes": 10,
+     "contest_totals": 512
+    },
+    "PRECINCT 18": {
+     "votes": {
+      "MOYLAN, James Craig": 305,
+      "LIMTIACO, Alicia Anne Garrido": 272
+     },
+     "write_in": 1,
+     "total_votes": 578,
+     "overvotes": 1,
+     "undervotes": 14,
+     "contest_totals": 593
+    },
+    "PRECINCT 18A": {
+     "votes": {
+      "MOYLAN, James Craig": 339,
+      "LIMTIACO, Alicia Anne Garrido": 269
+     },
+     "write_in": 1,
+     "total_votes": 609,
+     "overvotes": 6,
+     "undervotes": 9,
+     "contest_totals": 624
+    },
+    "PRECINCT 18B": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 303,
+      "MOYLAN, James Craig": 266
+     },
+     "write_in": 2,
+     "total_votes": 571,
+     "overvotes": 2,
+     "undervotes": 14,
+     "contest_totals": 587
+    },
+    "PRECINCT 18C": {
+     "votes": {
+      "MOYLAN, James Craig": 244,
+      "LIMTIACO, Alicia Anne Garrido": 180
+     },
+     "write_in": 1,
+     "total_votes": 425,
+     "overvotes": 1,
+     "undervotes": 11,
+     "contest_totals": 437
+    },
+    "PRECINCT 18D": {
+     "votes": {
+      "MOYLAN, James Craig": 253,
+      "LIMTIACO, Alicia Anne Garrido": 205
+     },
+     "write_in": 1,
+     "total_votes": 459,
+     "overvotes": 2,
+     "undervotes": 13,
+     "contest_totals": 474
+    },
+    "PRECINCT 18E": {
+     "votes": {
+      "MOYLAN, James Craig": 235,
+      "LIMTIACO, Alicia Anne Garrido": 208
+     },
+     "write_in": 2,
+     "total_votes": 445,
+     "overvotes": 1,
+     "undervotes": 5,
+     "contest_totals": 451
+    },
+    "PRECINCT 18F": {
+     "votes": {
+      "MOYLAN, James Craig": 244,
+      "LIMTIACO, Alicia Anne Garrido": 181
+     },
+     "write_in": 0,
+     "total_votes": 425,
+     "overvotes": 3,
+     "undervotes": 8,
+     "contest_totals": 436
+    },
+    "PRECINCT 18G": {
+     "votes": {
+      "MOYLAN, James Craig": 214,
+      "LIMTIACO, Alicia Anne Garrido": 213
+     },
+     "write_in": 0,
+     "total_votes": 427,
+     "overvotes": 1,
+     "undervotes": 7,
+     "contest_totals": 435
+    },
+    "PRECINCT 18H": {
+     "votes": {
+      "MOYLAN, James Craig": 231,
+      "LIMTIACO, Alicia Anne Garrido": 203
+     },
+     "write_in": 1,
+     "total_votes": 435,
+     "overvotes": 2,
+     "undervotes": 10,
+     "contest_totals": 447
+    },
+    "PRECINCT 18I": {
+     "votes": {
+      "MOYLAN, James Craig": 255,
+      "LIMTIACO, Alicia Anne Garrido": 220
+     },
+     "write_in": 1,
+     "total_votes": 476,
+     "overvotes": 1,
+     "undervotes": 11,
+     "contest_totals": 488
+    },
+    "PRECINCT 18J": {
+     "votes": {
+      "MOYLAN, James Craig": 287,
+      "LIMTIACO, Alicia Anne Garrido": 263
+     },
+     "write_in": 1,
+     "total_votes": 551,
+     "overvotes": 2,
+     "undervotes": 4,
+     "contest_totals": 557
+    },
+    "PRECINCT 18K": {
+     "votes": {
+      "MOYLAN, James Craig": 328,
+      "LIMTIACO, Alicia Anne Garrido": 272
+     },
+     "write_in": 1,
+     "total_votes": 601,
+     "overvotes": 3,
+     "undervotes": 13,
+     "contest_totals": 617
+    },
+    "PRECINCT 18L": {
+     "votes": {
+      "MOYLAN, James Craig": 354,
+      "LIMTIACO, Alicia Anne Garrido": 276
+     },
+     "write_in": 2,
+     "total_votes": 632,
+     "overvotes": 2,
+     "undervotes": 8,
+     "contest_totals": 642
+    },
+    "PRECINCT 19": {
+     "votes": {
+      "MOYLAN, James Craig": 275,
+      "LIMTIACO, Alicia Anne Garrido": 221
+     },
+     "write_in": 0,
+     "total_votes": 496,
+     "overvotes": 3,
+     "undervotes": 8,
+     "contest_totals": 507
+    },
+    "PRECINCT 19A": {
+     "votes": {
+      "MOYLAN, James Craig": 294,
+      "LIMTIACO, Alicia Anne Garrido": 284
+     },
+     "write_in": 2,
+     "total_votes": 580,
+     "overvotes": 8,
+     "undervotes": 11,
+     "contest_totals": 599
+    },
+    "PRECINCT 19B": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 293,
+      "MOYLAN, James Craig": 256
+     },
+     "write_in": 1,
+     "total_votes": 550,
+     "overvotes": 0,
+     "undervotes": 8,
+     "contest_totals": 558
+    },
+    "PRECINCT 19C": {
+     "votes": {
+      "MOYLAN, James Craig": 274,
+      "LIMTIACO, Alicia Anne Garrido": 212
+     },
+     "write_in": 0,
+     "total_votes": 486,
+     "overvotes": 1,
+     "undervotes": 12,
+     "contest_totals": 499
+    },
+    "PRECINCT 19D": {
+     "votes": {
+      "LIMTIACO, Alicia Anne Garrido": 201,
+      "MOYLAN, James Craig": 198
+     },
+     "write_in": 2,
+     "total_votes": 401,
+     "overvotes": 3,
+     "undervotes": 8,
+     "contest_totals": 412
+    },
+    "PRECINCT 19E": {
+     "votes": {
+      "MOYLAN, James Craig": 219,
+      "LIMTIACO, Alicia Anne Garrido": 197
+     },
+     "write_in": 2,
+     "total_votes": 418,
+     "overvotes": 0,
+     "undervotes": 10,
+     "contest_totals": 428
+    },
+    "PRECINCT 19F": {
+     "votes": {
+      "MOYLAN, James Craig": 209,
+      "LIMTIACO, Alicia Anne Garrido": 205
+     },
+     "write_in": 0,
+     "total_votes": 414,
+     "overvotes": 2,
+     "undervotes": 10,
+     "contest_totals": 426
+    }
+   }
   },
   {
    "id": "guam-legislature",
@@ -226,7 +1941,13 @@
      "pct": 2.8
     },
     {
-     "name": "NEDEDOG, Sarah Mattie Villaranda Thomas DEM CRUZ, Joaquin Alan",
+     "name": "NEDEDOG, Sarah Mattie Villaranda Thomas",
+     "party": "DEM",
+     "votes": 9502,
+     "pct": 2.79
+    },
+    {
+     "name": "CRUZ, Joaquin Alan",
      "party": "DEM",
      "votes": 9393,
      "pct": 2.76
@@ -273,8 +1994,2310 @@
    "overvotes": 4350,
    "undervotes": 126889,
    "contest_totals": 471210,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 59,
+   "by_precinct": {
+    "PRECINCT 1": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 151,
+      "DUENAS, Christopher M.": 117,
+      "SHELTON, Amanda L.": 112,
+      "GUMATAOTAO, Eulogio S.": 111,
+      "TAITAGUE, Telo Teresa": 106,
+      "LUJAN, Jesse Michael A.": 104,
+      "NELSON, Telena Monique Cruz": 104,
+      "SGAMBELLURI, Raffaele M.": 101,
+      "MATANANE, Sabrina Salas": 100,
+      "BORJA, Vincent Anthony Velasco": 99,
+      "NGUYEN, Hoa Van": 99,
+      "RIDGELL, Clynton E.": 88,
+      "CASTRO, William Mendiola": 87,
+      "QUINATA, Donna Rita Muna": 86,
+      "CALVO, Shelly Vargas": 84,
+      "BORJA, Louisa Jean": 82,
+      "SABLAN, Angel Anthony R.": 82,
+      "PARKINSON, William Mark": 76,
+      "PEREZ, Kallen Marie E.": 76,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 68,
+      "BORDALLO, Fred E. Jr.": 65,
+      "SAVARES, Jonathan James": 63,
+      "CALVO, Gregorio Salas": 62,
+      "CRUZ, Joaquin Alan": 62,
+      "TAIJERON, Anthony W.": 60,
+      "QUINATA, Roy Anthony": 60,
+      "MORTERA, Matteo Thomas": 57,
+      "TAITAGUE, Joaquin Manuel": 56,
+      "SANTOS, Angela Therese A.M.": 52,
+      "ARRIOLA, Joseph B.D.": 48
+     },
+     "write_in": 1,
+     "total_votes": 2519,
+     "overvotes": 45,
+     "undervotes": 1081,
+     "contest_totals": 3645
+    },
+    "PRECINCT 2": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 365,
+      "SHELTON, Amanda L.": 348,
+      "NELSON, Telena Monique Cruz": 273,
+      "TAITAGUE, Telo Teresa": 233,
+      "QUINATA, Donna Rita Muna": 231,
+      "MATANANE, Sabrina Salas": 230,
+      "RIDGELL, Clynton E.": 230,
+      "DUENAS, Christopher M.": 225,
+      "PEREZ, Kallen Marie E.": 225,
+      "LUJAN, Jesse Michael A.": 223,
+      "PARKINSON, William Mark": 217,
+      "SABLAN, Angel Anthony R.": 215,
+      "CRUZ, Joaquin Alan": 212,
+      "NGUYEN, Hoa Van": 209,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 201,
+      "BORJA, Vincent Anthony Velasco": 198,
+      "BORDALLO, Fred E. Jr.": 197,
+      "GUMATAOTAO, Eulogio S.": 185,
+      "TAIJERON, Anthony W.": 184,
+      "CALVO, Shelly Vargas": 183,
+      "SGAMBELLURI, Raffaele M.": 179,
+      "SANTOS, Angela Therese A.M.": 179,
+      "CASTRO, William Mendiola": 176,
+      "QUINATA, Roy Anthony": 171,
+      "BORJA, Louisa Jean": 163,
+      "TAITAGUE, Joaquin Manuel": 154,
+      "SAVARES, Jonathan James": 145,
+      "CALVO, Gregorio Salas": 100,
+      "MORTERA, Matteo Thomas": 90,
+      "ARRIOLA, Joseph B.D.": 86
+     },
+     "write_in": 3,
+     "total_votes": 6030,
+     "overvotes": 60,
+     "undervotes": 2415,
+     "contest_totals": 8505
+    },
+    "PRECINCT 3": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 294,
+      "SHELTON, Amanda L.": 246,
+      "DUENAS, Christopher M.": 243,
+      "NGUYEN, Hoa Van": 236,
+      "MATANANE, Sabrina Salas": 234,
+      "NELSON, Telena Monique Cruz": 207,
+      "LUJAN, Jesse Michael A.": 205,
+      "RIDGELL, Clynton E.": 205,
+      "TAITAGUE, Telo Teresa": 198,
+      "GUMATAOTAO, Eulogio S.": 196,
+      "QUINATA, Donna Rita Muna": 196,
+      "SGAMBELLURI, Raffaele M.": 191,
+      "BORJA, Vincent Anthony Velasco": 184,
+      "PEREZ, Kallen Marie E.": 184,
+      "PARKINSON, William Mark": 183,
+      "CALVO, Shelly Vargas": 174,
+      "CASTRO, William Mendiola": 167,
+      "CRUZ, Joaquin Alan": 167,
+      "BORJA, Louisa Jean": 166,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 150,
+      "SAVARES, Jonathan James": 149,
+      "QUINATA, Roy Anthony": 149,
+      "BORDALLO, Fred E. Jr.": 144,
+      "TAIJERON, Anthony W.": 141,
+      "SABLAN, Angel Anthony R.": 137,
+      "SANTOS, Angela Therese A.M.": 126,
+      "CALVO, Gregorio Salas": 125,
+      "TAITAGUE, Joaquin Manuel": 120,
+      "MORTERA, Matteo Thomas": 115,
+      "ARRIOLA, Joseph B.D.": 87
+     },
+     "write_in": 13,
+     "total_votes": 5332,
+     "overvotes": 75,
+     "undervotes": 2243,
+     "contest_totals": 7650
+    },
+    "PRECINCT 4": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 417,
+      "LUJAN, Jesse Michael A.": 308,
+      "MATANANE, Sabrina Salas": 306,
+      "SHELTON, Amanda L.": 292,
+      "DUENAS, Christopher M.": 261,
+      "TAITAGUE, Telo Teresa": 254,
+      "NELSON, Telena Monique Cruz": 251,
+      "QUINATA, Donna Rita Muna": 249,
+      "PARKINSON, William Mark": 248,
+      "SAVARES, Jonathan James": 231,
+      "NGUYEN, Hoa Van": 231,
+      "RIDGELL, Clynton E.": 228,
+      "BORJA, Vincent Anthony Velasco": 226,
+      "GUMATAOTAO, Eulogio S.": 214,
+      "CALVO, Shelly Vargas": 206,
+      "CASTRO, William Mendiola": 201,
+      "SGAMBELLURI, Raffaele M.": 196,
+      "SABLAN, Angel Anthony R.": 193,
+      "BORJA, Louisa Jean": 190,
+      "QUINATA, Roy Anthony": 189,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 189,
+      "CRUZ, Joaquin Alan": 181,
+      "BORDALLO, Fred E. Jr.": 175,
+      "PEREZ, Kallen Marie E.": 174,
+      "SANTOS, Angela Therese A.M.": 167,
+      "TAIJERON, Anthony W.": 162,
+      "TAITAGUE, Joaquin Manuel": 131,
+      "CALVO, Gregorio Salas": 126,
+      "MORTERA, Matteo Thomas": 122,
+      "ARRIOLA, Joseph B.D.": 100
+     },
+     "write_in": 7,
+     "total_votes": 6425,
+     "overvotes": 120,
+     "undervotes": 2905,
+     "contest_totals": 9450
+    },
+    "PRECINCT 4A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 360,
+      "SHELTON, Amanda L.": 267,
+      "LUJAN, Jesse Michael A.": 259,
+      "MATANANE, Sabrina Salas": 256,
+      "NELSON, Telena Monique Cruz": 242,
+      "PARKINSON, William Mark": 239,
+      "TAITAGUE, Telo Teresa": 237,
+      "QUINATA, Donna Rita Muna": 225,
+      "DUENAS, Christopher M.": 224,
+      "RIDGELL, Clynton E.": 215,
+      "SAVARES, Jonathan James": 212,
+      "BORJA, Vincent Anthony Velasco": 204,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 202,
+      "SABLAN, Angel Anthony R.": 197,
+      "PEREZ, Kallen Marie E.": 195,
+      "QUINATA, Roy Anthony": 195,
+      "CASTRO, William Mendiola": 188,
+      "TAIJERON, Anthony W.": 188,
+      "CALVO, Shelly Vargas": 186,
+      "NGUYEN, Hoa Van": 184,
+      "TAITAGUE, Joaquin Manuel": 182,
+      "CRUZ, Joaquin Alan": 181,
+      "GUMATAOTAO, Eulogio S.": 179,
+      "SGAMBELLURI, Raffaele M.": 174,
+      "BORDALLO, Fred E. Jr.": 172,
+      "BORJA, Louisa Jean": 162,
+      "SANTOS, Angela Therese A.M.": 153,
+      "CALVO, Gregorio Salas": 124,
+      "MORTERA, Matteo Thomas": 101,
+      "ARRIOLA, Joseph B.D.": 81
+     },
+     "write_in": 8,
+     "total_votes": 5992,
+     "overvotes": 60,
+     "undervotes": 2078,
+     "contest_totals": 8130
+    },
+    "PRECINCT 5": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 357,
+      "SHELTON, Amanda L.": 270,
+      "LUJAN, Jesse Michael A.": 253,
+      "MATANANE, Sabrina Salas": 236,
+      "PARKINSON, William Mark": 230,
+      "TAITAGUE, Telo Teresa": 224,
+      "DUENAS, Christopher M.": 223,
+      "NELSON, Telena Monique Cruz": 223,
+      "NGUYEN, Hoa Van": 217,
+      "QUINATA, Donna Rita Muna": 217,
+      "RIDGELL, Clynton E.": 211,
+      "GUMATAOTAO, Eulogio S.": 207,
+      "BORJA, Vincent Anthony Velasco": 194,
+      "PEREZ, Kallen Marie E.": 193,
+      "BORDALLO, Fred E. Jr.": 177,
+      "TAIJERON, Anthony W.": 177,
+      "SABLAN, Angel Anthony R.": 177,
+      "BORJA, Louisa Jean": 168,
+      "CALVO, Shelly Vargas": 167,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 157,
+      "CASTRO, William Mendiola": 155,
+      "TAITAGUE, Joaquin Manuel": 155,
+      "QUINATA, Roy Anthony": 155,
+      "SGAMBELLURI, Raffaele M.": 152,
+      "CRUZ, Joaquin Alan": 149,
+      "SAVARES, Jonathan James": 147,
+      "SANTOS, Angela Therese A.M.": 140,
+      "CALVO, Gregorio Salas": 114,
+      "MORTERA, Matteo Thomas": 101,
+      "ARRIOLA, Joseph B.D.": 72
+     },
+     "write_in": 2,
+     "total_votes": 5620,
+     "overvotes": 60,
+     "undervotes": 2330,
+     "contest_totals": 8010
+    },
+    "PRECINCT 5A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 388,
+      "SHELTON, Amanda L.": 281,
+      "NELSON, Telena Monique Cruz": 266,
+      "MATANANE, Sabrina Salas": 242,
+      "PEREZ, Kallen Marie E.": 235,
+      "LUJAN, Jesse Michael A.": 232,
+      "RIDGELL, Clynton E.": 229,
+      "NGUYEN, Hoa Van": 225,
+      "PARKINSON, William Mark": 225,
+      "TAITAGUE, Telo Teresa": 218,
+      "DUENAS, Christopher M.": 215,
+      "QUINATA, Donna Rita Muna": 214,
+      "QUINATA, Roy Anthony": 208,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 203,
+      "SABLAN, Angel Anthony R.": 202,
+      "GUMATAOTAO, Eulogio S.": 198,
+      "BORDALLO, Fred E. Jr.": 197,
+      "CRUZ, Joaquin Alan": 190,
+      "TAIJERON, Anthony W.": 189,
+      "BORJA, Vincent Anthony Velasco": 186,
+      "SANTOS, Angela Therese A.M.": 181,
+      "TAITAGUE, Joaquin Manuel": 180,
+      "CALVO, Shelly Vargas": 170,
+      "CASTRO, William Mendiola": 169,
+      "SGAMBELLURI, Raffaele M.": 169,
+      "SAVARES, Jonathan James": 165,
+      "BORJA, Louisa Jean": 151,
+      "MORTERA, Matteo Thomas": 119,
+      "CALVO, Gregorio Salas": 107,
+      "ARRIOLA, Joseph B.D.": 87
+     },
+     "write_in": 6,
+     "total_votes": 6047,
+     "overvotes": 120,
+     "undervotes": 2683,
+     "contest_totals": 8850
+    },
+    "PRECINCT 6": {
+     "votes": {
+      "QUINATA, Roy Anthony": 175,
+      "BARNETT, Darrel Christopher": 171,
+      "QUINATA, Donna Rita Muna": 168,
+      "SHELTON, Amanda L.": 131,
+      "CASTRO, William Mendiola": 127,
+      "TAITAGUE, Joaquin Manuel": 117,
+      "LUJAN, Jesse Michael A.": 115,
+      "DUENAS, Christopher M.": 112,
+      "TAITAGUE, Telo Teresa": 107,
+      "MATANANE, Sabrina Salas": 105,
+      "TAIJERON, Anthony W.": 104,
+      "NELSON, Telena Monique Cruz": 100,
+      "CRUZ, Joaquin Alan": 99,
+      "SABLAN, Angel Anthony R.": 92,
+      "RIDGELL, Clynton E.": 90,
+      "SAVARES, Jonathan James": 88,
+      "SGAMBELLURI, Raffaele M.": 84,
+      "NGUYEN, Hoa Van": 83,
+      "BORJA, Vincent Anthony Velasco": 80,
+      "BORJA, Louisa Jean": 79,
+      "CALVO, Shelly Vargas": 76,
+      "PARKINSON, William Mark": 75,
+      "GUMATAOTAO, Eulogio S.": 63,
+      "PEREZ, Kallen Marie E.": 61,
+      "BORDALLO, Fred E. Jr.": 60,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 57,
+      "SANTOS, Angela Therese A.M.": 56,
+      "MORTERA, Matteo Thomas": 48,
+      "CALVO, Gregorio Salas": 42,
+      "ARRIOLA, Joseph B.D.": 41
+     },
+     "write_in": 1,
+     "total_votes": 2807,
+     "overvotes": 45,
+     "undervotes": 1213,
+     "contest_totals": 4065
+    },
+    "PRECINCT 7": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 439,
+      "TAIJERON, Anthony W.": 369,
+      "RIDGELL, Clynton E.": 354,
+      "QUINATA, Donna Rita Muna": 302,
+      "SHELTON, Amanda L.": 299,
+      "NELSON, Telena Monique Cruz": 266,
+      "PARKINSON, William Mark": 263,
+      "QUINATA, Roy Anthony": 256,
+      "SABLAN, Angel Anthony R.": 240,
+      "SANTOS, Angela Therese A.M.": 228,
+      "TAITAGUE, Telo Teresa": 223,
+      "MATANANE, Sabrina Salas": 220,
+      "TAITAGUE, Joaquin Manuel": 211,
+      "PEREZ, Kallen Marie E.": 210,
+      "LUJAN, Jesse Michael A.": 203,
+      "CRUZ, Joaquin Alan": 203,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 203,
+      "DUENAS, Christopher M.": 192,
+      "CASTRO, William Mendiola": 177,
+      "BORJA, Vincent Anthony Velasco": 174,
+      "BORDALLO, Fred E. Jr.": 165,
+      "NGUYEN, Hoa Van": 159,
+      "BORJA, Louisa Jean": 149,
+      "CALVO, Shelly Vargas": 147,
+      "SAVARES, Jonathan James": 146,
+      "SGAMBELLURI, Raffaele M.": 132,
+      "GUMATAOTAO, Eulogio S.": 122,
+      "CALVO, Gregorio Salas": 82,
+      "MORTERA, Matteo Thomas": 72,
+      "ARRIOLA, Joseph B.D.": 65
+     },
+     "write_in": 1,
+     "total_votes": 6272,
+     "overvotes": 150,
+     "undervotes": 2353,
+     "contest_totals": 8775
+    },
+    "PRECINCT 8": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 348,
+      "TAITAGUE, Joaquin Manuel": 296,
+      "SHELTON, Amanda L.": 242,
+      "TAITAGUE, Telo Teresa": 219,
+      "NELSON, Telena Monique Cruz": 216,
+      "RIDGELL, Clynton E.": 216,
+      "TAIJERON, Anthony W.": 214,
+      "QUINATA, Donna Rita Muna": 212,
+      "PARKINSON, William Mark": 211,
+      "DUENAS, Christopher M.": 200,
+      "LUJAN, Jesse Michael A.": 191,
+      "SABLAN, Angel Anthony R.": 191,
+      "MATANANE, Sabrina Salas": 186,
+      "PEREZ, Kallen Marie E.": 184,
+      "QUINATA, Roy Anthony": 182,
+      "BORJA, Vincent Anthony Velasco": 167,
+      "GUMATAOTAO, Eulogio S.": 156,
+      "CRUZ, Joaquin Alan": 154,
+      "BORDALLO, Fred E. Jr.": 145,
+      "SANTOS, Angela Therese A.M.": 145,
+      "CASTRO, William Mendiola": 144,
+      "NGUYEN, Hoa Van": 137,
+      "BORJA, Louisa Jean": 132,
+      "CALVO, Shelly Vargas": 131,
+      "SGAMBELLURI, Raffaele M.": 131,
+      "SAVARES, Jonathan James": 130,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 119,
+      "MORTERA, Matteo Thomas": 92,
+      "CALVO, Gregorio Salas": 87,
+      "ARRIOLA, Joseph B.D.": 62
+     },
+     "write_in": 5,
+     "total_votes": 5245,
+     "overvotes": 150,
+     "undervotes": 2030,
+     "contest_totals": 7425
+    },
+    "PRECINCT 8A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 316,
+      "TAITAGUE, Joaquin Manuel": 304,
+      "QUINATA, Donna Rita Muna": 218,
+      "SHELTON, Amanda L.": 209,
+      "TAITAGUE, Telo Teresa": 203,
+      "RIDGELL, Clynton E.": 202,
+      "TAIJERON, Anthony W.": 201,
+      "NELSON, Telena Monique Cruz": 198,
+      "QUINATA, Roy Anthony": 189,
+      "PARKINSON, William Mark": 181,
+      "DUENAS, Christopher M.": 178,
+      "PEREZ, Kallen Marie E.": 177,
+      "MATANANE, Sabrina Salas": 170,
+      "LUJAN, Jesse Michael A.": 163,
+      "SABLAN, Angel Anthony R.": 160,
+      "CRUZ, Joaquin Alan": 141,
+      "SANTOS, Angela Therese A.M.": 139,
+      "GUMATAOTAO, Eulogio S.": 136,
+      "BORJA, Vincent Anthony Velasco": 135,
+      "BORDALLO, Fred E. Jr.": 135,
+      "NGUYEN, Hoa Van": 132,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 126,
+      "CASTRO, William Mendiola": 121,
+      "SGAMBELLURI, Raffaele M.": 119,
+      "CALVO, Shelly Vargas": 108,
+      "SAVARES, Jonathan James": 96,
+      "BORJA, Louisa Jean": 91,
+      "CALVO, Gregorio Salas": 70,
+      "MORTERA, Matteo Thomas": 68,
+      "ARRIOLA, Joseph B.D.": 57
+     },
+     "write_in": 8,
+     "total_votes": 4751,
+     "overvotes": 45,
+     "undervotes": 1864,
+     "contest_totals": 6660
+    },
+    "PRECINCT 9": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 380,
+      "NELSON, Telena Monique Cruz": 289,
+      "QUINATA, Donna Rita Muna": 287,
+      "RIDGELL, Clynton E.": 284,
+      "SHELTON, Amanda L.": 283,
+      "GUMATAOTAO, Eulogio S.": 275,
+      "MATANANE, Sabrina Salas": 259,
+      "PARKINSON, William Mark": 230,
+      "PEREZ, Kallen Marie E.": 230,
+      "TAITAGUE, Telo Teresa": 227,
+      "SABLAN, Angel Anthony R.": 226,
+      "TAITAGUE, Joaquin Manuel": 222,
+      "LUJAN, Jesse Michael A.": 212,
+      "BORJA, Vincent Anthony Velasco": 210,
+      "TAIJERON, Anthony W.": 208,
+      "DUENAS, Christopher M.": 207,
+      "QUINATA, Roy Anthony": 207,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 204,
+      "CASTRO, William Mendiola": 200,
+      "SGAMBELLURI, Raffaele M.": 195,
+      "BORDALLO, Fred E. Jr.": 194,
+      "CRUZ, Joaquin Alan": 192,
+      "NGUYEN, Hoa Van": 185,
+      "SANTOS, Angela Therese A.M.": 185,
+      "CALVO, Shelly Vargas": 162,
+      "BORJA, Louisa Jean": 159,
+      "SAVARES, Jonathan James": 153,
+      "MORTERA, Matteo Thomas": 104,
+      "ARRIOLA, Joseph B.D.": 81,
+      "CALVO, Gregorio Salas": 76
+     },
+     "write_in": 11,
+     "total_votes": 6337,
+     "overvotes": 75,
+     "undervotes": 2198,
+     "contest_totals": 8610
+    },
+    "PRECINCT 9A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 315,
+      "QUINATA, Donna Rita Muna": 255,
+      "GUMATAOTAO, Eulogio S.": 254,
+      "RIDGELL, Clynton E.": 251,
+      "SHELTON, Amanda L.": 236,
+      "NELSON, Telena Monique Cruz": 228,
+      "TAITAGUE, Telo Teresa": 207,
+      "TAIJERON, Anthony W.": 207,
+      "DUENAS, Christopher M.": 206,
+      "MATANANE, Sabrina Salas": 206,
+      "TAITAGUE, Joaquin Manuel": 204,
+      "SGAMBELLURI, Raffaele M.": 199,
+      "SABLAN, Angel Anthony R.": 196,
+      "PARKINSON, William Mark": 195,
+      "NGUYEN, Hoa Van": 190,
+      "LUJAN, Jesse Michael A.": 190,
+      "PEREZ, Kallen Marie E.": 181,
+      "QUINATA, Roy Anthony": 170,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 162,
+      "BORJA, Vincent Anthony Velasco": 159,
+      "BORJA, Louisa Jean": 154,
+      "CASTRO, William Mendiola": 153,
+      "BORDALLO, Fred E. Jr.": 151,
+      "SAVARES, Jonathan James": 144,
+      "SANTOS, Angela Therese A.M.": 138,
+      "CRUZ, Joaquin Alan": 134,
+      "CALVO, Shelly Vargas": 132,
+      "CALVO, Gregorio Salas": 109,
+      "MORTERA, Matteo Thomas": 102,
+      "ARRIOLA, Joseph B.D.": 75
+     },
+     "write_in": 12,
+     "total_votes": 5515,
+     "overvotes": 90,
+     "undervotes": 1895,
+     "contest_totals": 7500
+    },
+    "PRECINCT 10": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 453,
+      "SHELTON, Amanda L.": 331,
+      "NELSON, Telena Monique Cruz": 284,
+      "MATANANE, Sabrina Salas": 275,
+      "RIDGELL, Clynton E.": 272,
+      "TAITAGUE, Telo Teresa": 266,
+      "LUJAN, Jesse Michael A.": 266,
+      "PARKINSON, William Mark": 257,
+      "QUINATA, Donna Rita Muna": 254,
+      "DUENAS, Christopher M.": 253,
+      "BORJA, Vincent Anthony Velasco": 247,
+      "PEREZ, Kallen Marie E.": 244,
+      "QUINATA, Roy Anthony": 231,
+      "NGUYEN, Hoa Van": 230,
+      "CRUZ, Joaquin Alan": 216,
+      "TAIJERON, Anthony W.": 214,
+      "SABLAN, Angel Anthony R.": 212,
+      "GUMATAOTAO, Eulogio S.": 208,
+      "SGAMBELLURI, Raffaele M.": 198,
+      "CASTRO, William Mendiola": 194,
+      "SANTOS, Angela Therese A.M.": 191,
+      "CALVO, Shelly Vargas": 189,
+      "BORDALLO, Fred E. Jr.": 186,
+      "BORJA, Louisa Jean": 185,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 185,
+      "TAITAGUE, Joaquin Manuel": 183,
+      "SAVARES, Jonathan James": 175,
+      "MORTERA, Matteo Thomas": 143,
+      "CALVO, Gregorio Salas": 109,
+      "ARRIOLA, Joseph B.D.": 93
+     },
+     "write_in": 4,
+     "total_votes": 6748,
+     "overvotes": 60,
+     "undervotes": 2627,
+     "contest_totals": 9435
+    },
+    "PRECINCT 10A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 405,
+      "SHELTON, Amanda L.": 299,
+      "RIDGELL, Clynton E.": 271,
+      "QUINATA, Donna Rita Muna": 265,
+      "NELSON, Telena Monique Cruz": 259,
+      "MATANANE, Sabrina Salas": 241,
+      "PARKINSON, William Mark": 236,
+      "TAITAGUE, Telo Teresa": 235,
+      "LUJAN, Jesse Michael A.": 235,
+      "PEREZ, Kallen Marie E.": 231,
+      "BORJA, Vincent Anthony Velasco": 229,
+      "NGUYEN, Hoa Van": 222,
+      "DUENAS, Christopher M.": 221,
+      "TAIJERON, Anthony W.": 209,
+      "GUMATAOTAO, Eulogio S.": 207,
+      "QUINATA, Roy Anthony": 204,
+      "CASTRO, William Mendiola": 201,
+      "CRUZ, Joaquin Alan": 196,
+      "BORDALLO, Fred E. Jr.": 183,
+      "SABLAN, Angel Anthony R.": 181,
+      "SANTOS, Angela Therese A.M.": 180,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 180,
+      "BORJA, Louisa Jean": 178,
+      "TAITAGUE, Joaquin Manuel": 178,
+      "SGAMBELLURI, Raffaele M.": 171,
+      "CALVO, Shelly Vargas": 154,
+      "SAVARES, Jonathan James": 144,
+      "MORTERA, Matteo Thomas": 126,
+      "CALVO, Gregorio Salas": 92,
+      "ARRIOLA, Joseph B.D.": 91
+     },
+     "write_in": 4,
+     "total_votes": 6228,
+     "overvotes": 60,
+     "undervotes": 2427,
+     "contest_totals": 8715
+    },
+    "PRECINCT 10B": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 432,
+      "SHELTON, Amanda L.": 304,
+      "RIDGELL, Clynton E.": 296,
+      "NELSON, Telena Monique Cruz": 268,
+      "QUINATA, Donna Rita Muna": 251,
+      "PARKINSON, William Mark": 245,
+      "MATANANE, Sabrina Salas": 243,
+      "PEREZ, Kallen Marie E.": 237,
+      "TAITAGUE, Telo Teresa": 234,
+      "BORJA, Vincent Anthony Velasco": 231,
+      "DUENAS, Christopher M.": 227,
+      "LUJAN, Jesse Michael A.": 227,
+      "TAIJERON, Anthony W.": 225,
+      "SABLAN, Angel Anthony R.": 222,
+      "NGUYEN, Hoa Van": 219,
+      "QUINATA, Roy Anthony": 218,
+      "GUMATAOTAO, Eulogio S.": 216,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 212,
+      "TAITAGUE, Joaquin Manuel": 207,
+      "SANTOS, Angela Therese A.M.": 207,
+      "CRUZ, Joaquin Alan": 198,
+      "CASTRO, William Mendiola": 197,
+      "BORDALLO, Fred E. Jr.": 197,
+      "BORJA, Louisa Jean": 178,
+      "SGAMBELLURI, Raffaele M.": 177,
+      "CALVO, Shelly Vargas": 147,
+      "SAVARES, Jonathan James": 139,
+      "MORTERA, Matteo Thomas": 135,
+      "CALVO, Gregorio Salas": 95,
+      "ARRIOLA, Joseph B.D.": 87
+     },
+     "write_in": 6,
+     "total_votes": 6477,
+     "overvotes": 60,
+     "undervotes": 2643,
+     "contest_totals": 9180
+    },
+    "PRECINCT 11": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 392,
+      "SHELTON, Amanda L.": 310,
+      "NGUYEN, Hoa Van": 293,
+      "NELSON, Telena Monique Cruz": 293,
+      "MATANANE, Sabrina Salas": 278,
+      "BORJA, Vincent Anthony Velasco": 276,
+      "DUENAS, Christopher M.": 275,
+      "LUJAN, Jesse Michael A.": 272,
+      "PARKINSON, William Mark": 266,
+      "RIDGELL, Clynton E.": 246,
+      "TAITAGUE, Telo Teresa": 241,
+      "GUMATAOTAO, Eulogio S.": 240,
+      "QUINATA, Donna Rita Muna": 237,
+      "PEREZ, Kallen Marie E.": 214,
+      "CASTRO, William Mendiola": 213,
+      "SGAMBELLURI, Raffaele M.": 213,
+      "CALVO, Shelly Vargas": 203,
+      "BORDALLO, Fred E. Jr.": 203,
+      "BORJA, Louisa Jean": 202,
+      "QUINATA, Roy Anthony": 202,
+      "SABLAN, Angel Anthony R.": 199,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 199,
+      "TAIJERON, Anthony W.": 196,
+      "CRUZ, Joaquin Alan": 190,
+      "SANTOS, Angela Therese A.M.": 179,
+      "SAVARES, Jonathan James": 177,
+      "TAITAGUE, Joaquin Manuel": 157,
+      "MORTERA, Matteo Thomas": 127,
+      "CALVO, Gregorio Salas": 125,
+      "ARRIOLA, Joseph B.D.": 93
+     },
+     "write_in": 13,
+     "total_votes": 6724,
+     "overvotes": 60,
+     "undervotes": 2471,
+     "contest_totals": 9255
+    },
+    "PRECINCT 11A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 377,
+      "SHELTON, Amanda L.": 278,
+      "NGUYEN, Hoa Van": 266,
+      "MATANANE, Sabrina Salas": 265,
+      "DUENAS, Christopher M.": 255,
+      "LUJAN, Jesse Michael A.": 249,
+      "NELSON, Telena Monique Cruz": 248,
+      "TAITAGUE, Telo Teresa": 247,
+      "RIDGELL, Clynton E.": 243,
+      "QUINATA, Donna Rita Muna": 234,
+      "PARKINSON, William Mark": 234,
+      "BORJA, Vincent Anthony Velasco": 227,
+      "PEREZ, Kallen Marie E.": 225,
+      "GUMATAOTAO, Eulogio S.": 217,
+      "SGAMBELLURI, Raffaele M.": 213,
+      "BORJA, Louisa Jean": 208,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 200,
+      "CALVO, Shelly Vargas": 197,
+      "CASTRO, William Mendiola": 193,
+      "QUINATA, Roy Anthony": 190,
+      "TAIJERON, Anthony W.": 180,
+      "SANTOS, Angela Therese A.M.": 177,
+      "CRUZ, Joaquin Alan": 176,
+      "SAVARES, Jonathan James": 175,
+      "SABLAN, Angel Anthony R.": 174,
+      "BORDALLO, Fred E. Jr.": 172,
+      "CALVO, Gregorio Salas": 138,
+      "TAITAGUE, Joaquin Manuel": 134,
+      "MORTERA, Matteo Thomas": 130,
+      "ARRIOLA, Joseph B.D.": 108
+     },
+     "write_in": 8,
+     "total_votes": 6338,
+     "overvotes": 60,
+     "undervotes": 2122,
+     "contest_totals": 8520
+    },
+    "PRECINCT 11B": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 365,
+      "SHELTON, Amanda L.": 298,
+      "BORJA, Vincent Anthony Velasco": 283,
+      "NELSON, Telena Monique Cruz": 278,
+      "RIDGELL, Clynton E.": 275,
+      "DUENAS, Christopher M.": 270,
+      "NGUYEN, Hoa Van": 262,
+      "QUINATA, Donna Rita Muna": 257,
+      "LUJAN, Jesse Michael A.": 247,
+      "MATANANE, Sabrina Salas": 240,
+      "TAITAGUE, Telo Teresa": 237,
+      "BORJA, Louisa Jean": 229,
+      "PARKINSON, William Mark": 223,
+      "PEREZ, Kallen Marie E.": 220,
+      "GUMATAOTAO, Eulogio S.": 219,
+      "SGAMBELLURI, Raffaele M.": 212,
+      "BORDALLO, Fred E. Jr.": 206,
+      "SABLAN, Angel Anthony R.": 205,
+      "QUINATA, Roy Anthony": 203,
+      "CRUZ, Joaquin Alan": 200,
+      "CALVO, Shelly Vargas": 189,
+      "CASTRO, William Mendiola": 188,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 187,
+      "SANTOS, Angela Therese A.M.": 181,
+      "TAIJERON, Anthony W.": 178,
+      "TAITAGUE, Joaquin Manuel": 169,
+      "SAVARES, Jonathan James": 162,
+      "MORTERA, Matteo Thomas": 138,
+      "CALVO, Gregorio Salas": 116,
+      "ARRIOLA, Joseph B.D.": 94
+     },
+     "write_in": 5,
+     "total_votes": 6536,
+     "overvotes": 30,
+     "undervotes": 2464,
+     "contest_totals": 9030
+    },
+    "PRECINCT 12": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 372,
+      "SHELTON, Amanda L.": 287,
+      "NELSON, Telena Monique Cruz": 265,
+      "RIDGELL, Clynton E.": 258,
+      "PARKINSON, William Mark": 253,
+      "MATANANE, Sabrina Salas": 249,
+      "DUENAS, Christopher M.": 246,
+      "LUJAN, Jesse Michael A.": 237,
+      "NGUYEN, Hoa Van": 234,
+      "PEREZ, Kallen Marie E.": 233,
+      "TAITAGUE, Telo Teresa": 226,
+      "QUINATA, Donna Rita Muna": 223,
+      "BORJA, Vincent Anthony Velasco": 213,
+      "SGAMBELLURI, Raffaele M.": 200,
+      "CRUZ, Joaquin Alan": 200,
+      "GUMATAOTAO, Eulogio S.": 199,
+      "CASTRO, William Mendiola": 197,
+      "QUINATA, Roy Anthony": 195,
+      "SABLAN, Angel Anthony R.": 194,
+      "BORJA, Louisa Jean": 183,
+      "CALVO, Shelly Vargas": 180,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 177,
+      "BORDALLO, Fred E. Jr.": 176,
+      "SAVARES, Jonathan James": 175,
+      "SANTOS, Angela Therese A.M.": 174,
+      "TAIJERON, Anthony W.": 164,
+      "MORTERA, Matteo Thomas": 138,
+      "TAITAGUE, Joaquin Manuel": 137,
+      "CALVO, Gregorio Salas": 109,
+      "ARRIOLA, Joseph B.D.": 93
+     },
+     "write_in": 12,
+     "total_votes": 6199,
+     "overvotes": 45,
+     "undervotes": 2066,
+     "contest_totals": 8310
+    },
+    "PRECINCT 12A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 305,
+      "SHELTON, Amanda L.": 258,
+      "NELSON, Telena Monique Cruz": 230,
+      "QUINATA, Donna Rita Muna": 224,
+      "PEREZ, Kallen Marie E.": 212,
+      "RIDGELL, Clynton E.": 211,
+      "MATANANE, Sabrina Salas": 206,
+      "TAITAGUE, Telo Teresa": 201,
+      "PARKINSON, William Mark": 197,
+      "DUENAS, Christopher M.": 195,
+      "GUMATAOTAO, Eulogio S.": 194,
+      "LUJAN, Jesse Michael A.": 194,
+      "BORJA, Vincent Anthony Velasco": 192,
+      "NGUYEN, Hoa Van": 182,
+      "SGAMBELLURI, Raffaele M.": 181,
+      "SABLAN, Angel Anthony R.": 181,
+      "BORJA, Louisa Jean": 173,
+      "CASTRO, William Mendiola": 167,
+      "CALVO, Shelly Vargas": 166,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 166,
+      "QUINATA, Roy Anthony": 158,
+      "SANTOS, Angela Therese A.M.": 158,
+      "TAITAGUE, Joaquin Manuel": 152,
+      "CRUZ, Joaquin Alan": 149,
+      "BORDALLO, Fred E. Jr.": 147,
+      "TAIJERON, Anthony W.": 143,
+      "SAVARES, Jonathan James": 130,
+      "MORTERA, Matteo Thomas": 106,
+      "CALVO, Gregorio Salas": 94,
+      "ARRIOLA, Joseph B.D.": 71
+     },
+     "write_in": 9,
+     "total_votes": 5352,
+     "overvotes": 30,
+     "undervotes": 2028,
+     "contest_totals": 7410
+    },
+    "PRECINCT 13": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 326,
+      "SHELTON, Amanda L.": 263,
+      "NELSON, Telena Monique Cruz": 231,
+      "RIDGELL, Clynton E.": 230,
+      "NGUYEN, Hoa Van": 229,
+      "QUINATA, Donna Rita Muna": 227,
+      "LUJAN, Jesse Michael A.": 221,
+      "SGAMBELLURI, Raffaele M.": 221,
+      "MATANANE, Sabrina Salas": 220,
+      "DUENAS, Christopher M.": 216,
+      "BORJA, Vincent Anthony Velasco": 201,
+      "PEREZ, Kallen Marie E.": 200,
+      "PARKINSON, William Mark": 197,
+      "GUMATAOTAO, Eulogio S.": 192,
+      "TAITAGUE, Telo Teresa": 187,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 186,
+      "SABLAN, Angel Anthony R.": 181,
+      "BORDALLO, Fred E. Jr.": 176,
+      "BORJA, Louisa Jean": 170,
+      "CALVO, Shelly Vargas": 169,
+      "QUINATA, Roy Anthony": 169,
+      "CRUZ, Joaquin Alan": 163,
+      "SAVARES, Jonathan James": 161,
+      "CASTRO, William Mendiola": 154,
+      "TAIJERON, Anthony W.": 144,
+      "SANTOS, Angela Therese A.M.": 139,
+      "TAITAGUE, Joaquin Manuel": 117,
+      "MORTERA, Matteo Thomas": 110,
+      "CALVO, Gregorio Salas": 105,
+      "ARRIOLA, Joseph B.D.": 69
+     },
+     "write_in": 13,
+     "total_votes": 5587,
+     "overvotes": 45,
+     "undervotes": 2288,
+     "contest_totals": 7920
+    },
+    "PRECINCT 13A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 297,
+      "SHELTON, Amanda L.": 263,
+      "NELSON, Telena Monique Cruz": 214,
+      "QUINATA, Donna Rita Muna": 210,
+      "DUENAS, Christopher M.": 203,
+      "RIDGELL, Clynton E.": 203,
+      "GUMATAOTAO, Eulogio S.": 197,
+      "NGUYEN, Hoa Van": 197,
+      "PEREZ, Kallen Marie E.": 196,
+      "SGAMBELLURI, Raffaele M.": 194,
+      "MATANANE, Sabrina Salas": 188,
+      "LUJAN, Jesse Michael A.": 180,
+      "SABLAN, Angel Anthony R.": 177,
+      "BORJA, Vincent Anthony Velasco": 174,
+      "PARKINSON, William Mark": 169,
+      "TAITAGUE, Telo Teresa": 162,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 155,
+      "QUINATA, Roy Anthony": 154,
+      "CALVO, Shelly Vargas": 144,
+      "CASTRO, William Mendiola": 139,
+      "SAVARES, Jonathan James": 138,
+      "BORJA, Louisa Jean": 138,
+      "BORDALLO, Fred E. Jr.": 135,
+      "SANTOS, Angela Therese A.M.": 134,
+      "CRUZ, Joaquin Alan": 132,
+      "TAITAGUE, Joaquin Manuel": 121,
+      "TAIJERON, Anthony W.": 118,
+      "MORTERA, Matteo Thomas": 113,
+      "CALVO, Gregorio Salas": 98,
+      "ARRIOLA, Joseph B.D.": 74
+     },
+     "write_in": 6,
+     "total_votes": 5023,
+     "overvotes": 30,
+     "undervotes": 2252,
+     "contest_totals": 7305
+    },
+    "PRECINCT 14": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 423,
+      "SHELTON, Amanda L.": 347,
+      "MATANANE, Sabrina Salas": 331,
+      "DUENAS, Christopher M.": 307,
+      "PARKINSON, William Mark": 307,
+      "QUINATA, Donna Rita Muna": 302,
+      "LUJAN, Jesse Michael A.": 295,
+      "NELSON, Telena Monique Cruz": 295,
+      "BORJA, Vincent Anthony Velasco": 280,
+      "RIDGELL, Clynton E.": 277,
+      "NGUYEN, Hoa Van": 276,
+      "TAITAGUE, Telo Teresa": 269,
+      "SGAMBELLURI, Raffaele M.": 269,
+      "GUMATAOTAO, Eulogio S.": 265,
+      "CASTRO, William Mendiola": 261,
+      "SABLAN, Angel Anthony R.": 253,
+      "CALVO, Shelly Vargas": 249,
+      "BORJA, Louisa Jean": 241,
+      "CRUZ, Joaquin Alan": 230,
+      "PEREZ, Kallen Marie E.": 230,
+      "QUINATA, Roy Anthony": 224,
+      "SAVARES, Jonathan James": 200,
+      "MORTERA, Matteo Thomas": 199,
+      "BORDALLO, Fred E. Jr.": 192,
+      "SANTOS, Angela Therese A.M.": 187,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 177,
+      "CALVO, Gregorio Salas": 174,
+      "TAITAGUE, Joaquin Manuel": 161,
+      "TAIJERON, Anthony W.": 160,
+      "ARRIOLA, Joseph B.D.": 123
+     },
+     "write_in": 17,
+     "total_votes": 7521,
+     "overvotes": 60,
+     "undervotes": 2664,
+     "contest_totals": 10245
+    },
+    "PRECINCT 14A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 375,
+      "MATANANE, Sabrina Salas": 301,
+      "SHELTON, Amanda L.": 299,
+      "LUJAN, Jesse Michael A.": 296,
+      "TAITAGUE, Telo Teresa": 290,
+      "DUENAS, Christopher M.": 279,
+      "PARKINSON, William Mark": 267,
+      "NELSON, Telena Monique Cruz": 258,
+      "NGUYEN, Hoa Van": 255,
+      "BORJA, Vincent Anthony Velasco": 253,
+      "CALVO, Shelly Vargas": 247,
+      "GUMATAOTAO, Eulogio S.": 242,
+      "SGAMBELLURI, Raffaele M.": 240,
+      "QUINATA, Donna Rita Muna": 238,
+      "RIDGELL, Clynton E.": 234,
+      "PEREZ, Kallen Marie E.": 232,
+      "CASTRO, William Mendiola": 224,
+      "BORJA, Louisa Jean": 221,
+      "SAVARES, Jonathan James": 217,
+      "SABLAN, Angel Anthony R.": 198,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 198,
+      "SANTOS, Angela Therese A.M.": 193,
+      "QUINATA, Roy Anthony": 184,
+      "BORDALLO, Fred E. Jr.": 182,
+      "MORTERA, Matteo Thomas": 180,
+      "TAIJERON, Anthony W.": 174,
+      "CALVO, Gregorio Salas": 171,
+      "CRUZ, Joaquin Alan": 171,
+      "TAITAGUE, Joaquin Manuel": 157,
+      "ARRIOLA, Joseph B.D.": 139
+     },
+     "write_in": 17,
+     "total_votes": 6932,
+     "overvotes": 90,
+     "undervotes": 2488,
+     "contest_totals": 9510
+    },
+    "PRECINCT 15": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 350,
+      "SHELTON, Amanda L.": 311,
+      "DUENAS, Christopher M.": 288,
+      "LUJAN, Jesse Michael A.": 260,
+      "NELSON, Telena Monique Cruz": 260,
+      "QUINATA, Donna Rita Muna": 257,
+      "CASTRO, William Mendiola": 252,
+      "MATANANE, Sabrina Salas": 252,
+      "PARKINSON, William Mark": 243,
+      "TAITAGUE, Telo Teresa": 232,
+      "BORJA, Vincent Anthony Velasco": 230,
+      "RIDGELL, Clynton E.": 228,
+      "NGUYEN, Hoa Van": 222,
+      "GUMATAOTAO, Eulogio S.": 210,
+      "QUINATA, Roy Anthony": 203,
+      "CALVO, Shelly Vargas": 202,
+      "SGAMBELLURI, Raffaele M.": 202,
+      "SABLAN, Angel Anthony R.": 201,
+      "BORJA, Louisa Jean": 192,
+      "SAVARES, Jonathan James": 180,
+      "PEREZ, Kallen Marie E.": 180,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 179,
+      "CRUZ, Joaquin Alan": 175,
+      "SANTOS, Angela Therese A.M.": 171,
+      "BORDALLO, Fred E. Jr.": 169,
+      "TAIJERON, Anthony W.": 168,
+      "MORTERA, Matteo Thomas": 151,
+      "TAITAGUE, Joaquin Manuel": 138,
+      "CALVO, Gregorio Salas": 124,
+      "ARRIOLA, Joseph B.D.": 110
+     },
+     "write_in": 4,
+     "total_votes": 6344,
+     "overvotes": 105,
+     "undervotes": 2296,
+     "contest_totals": 8745
+    },
+    "PRECINCT 15A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 318,
+      "SHELTON, Amanda L.": 260,
+      "NELSON, Telena Monique Cruz": 251,
+      "DUENAS, Christopher M.": 241,
+      "NGUYEN, Hoa Van": 226,
+      "BORJA, Vincent Anthony Velasco": 225,
+      "MATANANE, Sabrina Salas": 225,
+      "TAITAGUE, Telo Teresa": 224,
+      "PARKINSON, William Mark": 224,
+      "RIDGELL, Clynton E.": 222,
+      "LUJAN, Jesse Michael A.": 219,
+      "QUINATA, Donna Rita Muna": 210,
+      "PEREZ, Kallen Marie E.": 207,
+      "SANTOS, Angela Therese A.M.": 193,
+      "CASTRO, William Mendiola": 192,
+      "SABLAN, Angel Anthony R.": 190,
+      "SGAMBELLURI, Raffaele M.": 189,
+      "GUMATAOTAO, Eulogio S.": 185,
+      "BORJA, Louisa Jean": 179,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 167,
+      "CRUZ, Joaquin Alan": 163,
+      "TAIJERON, Anthony W.": 154,
+      "QUINATA, Roy Anthony": 154,
+      "BORDALLO, Fred E. Jr.": 152,
+      "CALVO, Shelly Vargas": 149,
+      "SAVARES, Jonathan James": 145,
+      "MORTERA, Matteo Thomas": 130,
+      "TAITAGUE, Joaquin Manuel": 128,
+      "CALVO, Gregorio Salas": 110,
+      "ARRIOLA, Joseph B.D.": 86
+     },
+     "write_in": 10,
+     "total_votes": 5728,
+     "overvotes": 15,
+     "undervotes": 2042,
+     "contest_totals": 7785
+    },
+    "PRECINCT 15B": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 357,
+      "SHELTON, Amanda L.": 297,
+      "TAITAGUE, Telo Teresa": 269,
+      "NELSON, Telena Monique Cruz": 264,
+      "DUENAS, Christopher M.": 255,
+      "LUJAN, Jesse Michael A.": 248,
+      "CASTRO, William Mendiola": 246,
+      "NGUYEN, Hoa Van": 240,
+      "MATANANE, Sabrina Salas": 239,
+      "BORJA, Vincent Anthony Velasco": 238,
+      "PEREZ, Kallen Marie E.": 238,
+      "QUINATA, Donna Rita Muna": 236,
+      "PARKINSON, William Mark": 224,
+      "SGAMBELLURI, Raffaele M.": 215,
+      "RIDGELL, Clynton E.": 214,
+      "GUMATAOTAO, Eulogio S.": 212,
+      "SABLAN, Angel Anthony R.": 212,
+      "CALVO, Shelly Vargas": 203,
+      "BORJA, Louisa Jean": 202,
+      "SANTOS, Angela Therese A.M.": 190,
+      "QUINATA, Roy Anthony": 187,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 183,
+      "SAVARES, Jonathan James": 174,
+      "BORDALLO, Fred E. Jr.": 174,
+      "TAIJERON, Anthony W.": 153,
+      "CRUZ, Joaquin Alan": 145,
+      "TAITAGUE, Joaquin Manuel": 140,
+      "MORTERA, Matteo Thomas": 132,
+      "CALVO, Gregorio Salas": 129,
+      "ARRIOLA, Joseph B.D.": 94
+     },
+     "write_in": 17,
+     "total_votes": 6327,
+     "overvotes": 75,
+     "undervotes": 2493,
+     "contest_totals": 8895
+    },
+    "PRECINCT 15C": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 385,
+      "DUENAS, Christopher M.": 297,
+      "SHELTON, Amanda L.": 288,
+      "NELSON, Telena Monique Cruz": 279,
+      "NGUYEN, Hoa Van": 276,
+      "MATANANE, Sabrina Salas": 272,
+      "TAITAGUE, Telo Teresa": 270,
+      "BORJA, Vincent Anthony Velasco": 270,
+      "LUJAN, Jesse Michael A.": 266,
+      "RIDGELL, Clynton E.": 258,
+      "GUMATAOTAO, Eulogio S.": 247,
+      "PARKINSON, William Mark": 239,
+      "QUINATA, Donna Rita Muna": 230,
+      "PEREZ, Kallen Marie E.": 229,
+      "CASTRO, William Mendiola": 225,
+      "CALVO, Shelly Vargas": 220,
+      "SGAMBELLURI, Raffaele M.": 216,
+      "SANTOS, Angela Therese A.M.": 206,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 193,
+      "QUINATA, Roy Anthony": 191,
+      "BORJA, Louisa Jean": 188,
+      "TAIJERON, Anthony W.": 182,
+      "SAVARES, Jonathan James": 176,
+      "SABLAN, Angel Anthony R.": 175,
+      "CRUZ, Joaquin Alan": 174,
+      "BORDALLO, Fred E. Jr.": 173,
+      "MORTERA, Matteo Thomas": 163,
+      "CALVO, Gregorio Salas": 146,
+      "TAITAGUE, Joaquin Manuel": 145,
+      "ARRIOLA, Joseph B.D.": 96
+     },
+     "write_in": 18,
+     "total_votes": 6693,
+     "overvotes": 75,
+     "undervotes": 2697,
+     "contest_totals": 9465
+    },
+    "PRECINCT 16": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 351,
+      "SHELTON, Amanda L.": 301,
+      "NGUYEN, Hoa Van": 280,
+      "MATANANE, Sabrina Salas": 264,
+      "LUJAN, Jesse Michael A.": 257,
+      "BORJA, Vincent Anthony Velasco": 254,
+      "NELSON, Telena Monique Cruz": 252,
+      "DUENAS, Christopher M.": 250,
+      "QUINATA, Donna Rita Muna": 250,
+      "BORJA, Louisa Jean": 244,
+      "TAITAGUE, Telo Teresa": 236,
+      "PARKINSON, William Mark": 228,
+      "RIDGELL, Clynton E.": 226,
+      "SGAMBELLURI, Raffaele M.": 224,
+      "PEREZ, Kallen Marie E.": 211,
+      "CALVO, Shelly Vargas": 207,
+      "CASTRO, William Mendiola": 204,
+      "SABLAN, Angel Anthony R.": 203,
+      "SAVARES, Jonathan James": 200,
+      "GUMATAOTAO, Eulogio S.": 200,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 195,
+      "SANTOS, Angela Therese A.M.": 180,
+      "BORDALLO, Fred E. Jr.": 171,
+      "CRUZ, Joaquin Alan": 171,
+      "QUINATA, Roy Anthony": 169,
+      "TAIJERON, Anthony W.": 159,
+      "CALVO, Gregorio Salas": 134,
+      "MORTERA, Matteo Thomas": 132,
+      "TAITAGUE, Joaquin Manuel": 128,
+      "ARRIOLA, Joseph B.D.": 111
+     },
+     "write_in": 6,
+     "total_votes": 6398,
+     "overvotes": 30,
+     "undervotes": 2347,
+     "contest_totals": 8775
+    },
+    "PRECINCT 16A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 397,
+      "SHELTON, Amanda L.": 319,
+      "MATANANE, Sabrina Salas": 308,
+      "DUENAS, Christopher M.": 301,
+      "LUJAN, Jesse Michael A.": 276,
+      "BORJA, Vincent Anthony Velasco": 275,
+      "NELSON, Telena Monique Cruz": 274,
+      "NGUYEN, Hoa Van": 273,
+      "PARKINSON, William Mark": 270,
+      "TAITAGUE, Telo Teresa": 267,
+      "QUINATA, Donna Rita Muna": 251,
+      "RIDGELL, Clynton E.": 251,
+      "CASTRO, William Mendiola": 239,
+      "BORJA, Louisa Jean": 230,
+      "CALVO, Shelly Vargas": 226,
+      "SGAMBELLURI, Raffaele M.": 217,
+      "CRUZ, Joaquin Alan": 216,
+      "PEREZ, Kallen Marie E.": 214,
+      "GUMATAOTAO, Eulogio S.": 212,
+      "QUINATA, Roy Anthony": 208,
+      "SABLAN, Angel Anthony R.": 191,
+      "SANTOS, Angela Therese A.M.": 189,
+      "BORDALLO, Fred E. Jr.": 186,
+      "SAVARES, Jonathan James": 176,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 174,
+      "TAIJERON, Anthony W.": 166,
+      "MORTERA, Matteo Thomas": 147,
+      "CALVO, Gregorio Salas": 141,
+      "TAITAGUE, Joaquin Manuel": 129,
+      "ARRIOLA, Joseph B.D.": 112
+     },
+     "write_in": 16,
+     "total_votes": 6851,
+     "overvotes": 90,
+     "undervotes": 2314,
+     "contest_totals": 9255
+    },
+    "PRECINCT 16B": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 358,
+      "SHELTON, Amanda L.": 267,
+      "NGUYEN, Hoa Van": 263,
+      "MATANANE, Sabrina Salas": 255,
+      "QUINATA, Donna Rita Muna": 255,
+      "NELSON, Telena Monique Cruz": 254,
+      "BORJA, Vincent Anthony Velasco": 250,
+      "PARKINSON, William Mark": 240,
+      "LUJAN, Jesse Michael A.": 237,
+      "RIDGELL, Clynton E.": 235,
+      "TAITAGUE, Telo Teresa": 229,
+      "DUENAS, Christopher M.": 228,
+      "SGAMBELLURI, Raffaele M.": 224,
+      "PEREZ, Kallen Marie E.": 222,
+      "CASTRO, William Mendiola": 214,
+      "BORJA, Louisa Jean": 211,
+      "GUMATAOTAO, Eulogio S.": 207,
+      "CALVO, Shelly Vargas": 204,
+      "SABLAN, Angel Anthony R.": 195,
+      "SANTOS, Angela Therese A.M.": 186,
+      "SAVARES, Jonathan James": 178,
+      "CRUZ, Joaquin Alan": 177,
+      "QUINATA, Roy Anthony": 174,
+      "BORDALLO, Fred E. Jr.": 173,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 172,
+      "TAIJERON, Anthony W.": 171,
+      "MORTERA, Matteo Thomas": 153,
+      "TAITAGUE, Joaquin Manuel": 151,
+      "CALVO, Gregorio Salas": 144,
+      "ARRIOLA, Joseph B.D.": 99
+     },
+     "write_in": 2,
+     "total_votes": 6328,
+     "overvotes": 75,
+     "undervotes": 1937,
+     "contest_totals": 8340
+    },
+    "PRECINCT 16C": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 338,
+      "SHELTON, Amanda L.": 277,
+      "MATANANE, Sabrina Salas": 251,
+      "RIDGELL, Clynton E.": 236,
+      "QUINATA, Donna Rita Muna": 235,
+      "NELSON, Telena Monique Cruz": 235,
+      "LUJAN, Jesse Michael A.": 229,
+      "NGUYEN, Hoa Van": 214,
+      "PARKINSON, William Mark": 210,
+      "DUENAS, Christopher M.": 207,
+      "BORJA, Vincent Anthony Velasco": 207,
+      "TAITAGUE, Telo Teresa": 200,
+      "GUMATAOTAO, Eulogio S.": 191,
+      "SABLAN, Angel Anthony R.": 183,
+      "CASTRO, William Mendiola": 180,
+      "CALVO, Shelly Vargas": 177,
+      "PEREZ, Kallen Marie E.": 177,
+      "BORJA, Louisa Jean": 171,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 169,
+      "QUINATA, Roy Anthony": 161,
+      "TAIJERON, Anthony W.": 159,
+      "SANTOS, Angela Therese A.M.": 159,
+      "BORDALLO, Fred E. Jr.": 156,
+      "SGAMBELLURI, Raffaele M.": 151,
+      "CRUZ, Joaquin Alan": 151,
+      "TAITAGUE, Joaquin Manuel": 143,
+      "SAVARES, Jonathan James": 139,
+      "MORTERA, Matteo Thomas": 115,
+      "CALVO, Gregorio Salas": 91,
+      "ARRIOLA, Joseph B.D.": 59
+     },
+     "write_in": 4,
+     "total_votes": 5575,
+     "overvotes": 45,
+     "undervotes": 2000,
+     "contest_totals": 7620
+    },
+    "PRECINCT 16D": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 364,
+      "SHELTON, Amanda L.": 294,
+      "NGUYEN, Hoa Van": 273,
+      "DUENAS, Christopher M.": 269,
+      "MATANANE, Sabrina Salas": 269,
+      "BORJA, Vincent Anthony Velasco": 262,
+      "TAITAGUE, Telo Teresa": 255,
+      "LUJAN, Jesse Michael A.": 250,
+      "PARKINSON, William Mark": 240,
+      "QUINATA, Donna Rita Muna": 234,
+      "NELSON, Telena Monique Cruz": 234,
+      "CALVO, Shelly Vargas": 217,
+      "PEREZ, Kallen Marie E.": 215,
+      "GUMATAOTAO, Eulogio S.": 210,
+      "RIDGELL, Clynton E.": 201,
+      "BORJA, Louisa Jean": 197,
+      "SGAMBELLURI, Raffaele M.": 189,
+      "SABLAN, Angel Anthony R.": 186,
+      "SAVARES, Jonathan James": 183,
+      "QUINATA, Roy Anthony": 182,
+      "CASTRO, William Mendiola": 177,
+      "BORDALLO, Fred E. Jr.": 176,
+      "CRUZ, Joaquin Alan": 176,
+      "SANTOS, Angela Therese A.M.": 165,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 163,
+      "MORTERA, Matteo Thomas": 157,
+      "TAITAGUE, Joaquin Manuel": 144,
+      "TAIJERON, Anthony W.": 144,
+      "CALVO, Gregorio Salas": 140,
+      "ARRIOLA, Joseph B.D.": 106
+     },
+     "write_in": 7,
+     "total_votes": 6279,
+     "overvotes": 75,
+     "undervotes": 2361,
+     "contest_totals": 8715
+    },
+    "PRECINCT 17": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 261,
+      "DUENAS, Christopher M.": 255,
+      "NGUYEN, Hoa Van": 253,
+      "LUJAN, Jesse Michael A.": 252,
+      "SHELTON, Amanda L.": 240,
+      "MATANANE, Sabrina Salas": 237,
+      "TAITAGUE, Telo Teresa": 226,
+      "GUMATAOTAO, Eulogio S.": 218,
+      "BORJA, Vincent Anthony Velasco": 216,
+      "SGAMBELLURI, Raffaele M.": 212,
+      "CALVO, Shelly Vargas": 205,
+      "QUINATA, Donna Rita Muna": 204,
+      "RIDGELL, Clynton E.": 203,
+      "BORJA, Louisa Jean": 199,
+      "CASTRO, William Mendiola": 196,
+      "NELSON, Telena Monique Cruz": 193,
+      "SAVARES, Jonathan James": 188,
+      "PARKINSON, William Mark": 188,
+      "PEREZ, Kallen Marie E.": 181,
+      "BORDALLO, Fred E. Jr.": 174,
+      "QUINATA, Roy Anthony": 159,
+      "CRUZ, Joaquin Alan": 157,
+      "CALVO, Gregorio Salas": 150,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 143,
+      "SABLAN, Angel Anthony R.": 140,
+      "MORTERA, Matteo Thomas": 138,
+      "TAIJERON, Anthony W.": 126,
+      "TAITAGUE, Joaquin Manuel": 120,
+      "SANTOS, Angela Therese A.M.": 115,
+      "ARRIOLA, Joseph B.D.": 113
+     },
+     "write_in": 11,
+     "total_votes": 5673,
+     "overvotes": 75,
+     "undervotes": 2277,
+     "contest_totals": 8025
+    },
+    "PRECINCT 17A": {
+     "votes": {
+      "DUENAS, Christopher M.": 255,
+      "MATANANE, Sabrina Salas": 250,
+      "LUJAN, Jesse Michael A.": 249,
+      "SHELTON, Amanda L.": 249,
+      "TAITAGUE, Telo Teresa": 245,
+      "BARNETT, Darrel Christopher": 242,
+      "CALVO, Shelly Vargas": 237,
+      "NGUYEN, Hoa Van": 227,
+      "RIDGELL, Clynton E.": 208,
+      "BORJA, Louisa Jean": 204,
+      "BORJA, Vincent Anthony Velasco": 204,
+      "QUINATA, Donna Rita Muna": 203,
+      "PARKINSON, William Mark": 201,
+      "PEREZ, Kallen Marie E.": 192,
+      "NELSON, Telena Monique Cruz": 189,
+      "SGAMBELLURI, Raffaele M.": 184,
+      "GUMATAOTAO, Eulogio S.": 182,
+      "CASTRO, William Mendiola": 179,
+      "SAVARES, Jonathan James": 168,
+      "BORDALLO, Fred E. Jr.": 165,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 165,
+      "CALVO, Gregorio Salas": 162,
+      "QUINATA, Roy Anthony": 159,
+      "MORTERA, Matteo Thomas": 139,
+      "CRUZ, Joaquin Alan": 132,
+      "SABLAN, Angel Anthony R.": 132,
+      "SANTOS, Angela Therese A.M.": 131,
+      "TAITAGUE, Joaquin Manuel": 125,
+      "TAIJERON, Anthony W.": 115,
+      "ARRIOLA, Joseph B.D.": 101
+     },
+     "write_in": 9,
+     "total_votes": 5603,
+     "overvotes": 30,
+     "undervotes": 2392,
+     "contest_totals": 8025
+    },
+    "PRECINCT 17B": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 235,
+      "DUENAS, Christopher M.": 229,
+      "LUJAN, Jesse Michael A.": 225,
+      "NGUYEN, Hoa Van": 221,
+      "SHELTON, Amanda L.": 219,
+      "TAITAGUE, Telo Teresa": 204,
+      "MATANANE, Sabrina Salas": 202,
+      "CALVO, Shelly Vargas": 191,
+      "BORJA, Vincent Anthony Velasco": 189,
+      "BORJA, Louisa Jean": 188,
+      "GUMATAOTAO, Eulogio S.": 180,
+      "PARKINSON, William Mark": 178,
+      "RIDGELL, Clynton E.": 177,
+      "NELSON, Telena Monique Cruz": 172,
+      "QUINATA, Donna Rita Muna": 170,
+      "SGAMBELLURI, Raffaele M.": 158,
+      "CASTRO, William Mendiola": 155,
+      "PEREZ, Kallen Marie E.": 147,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 139,
+      "SAVARES, Jonathan James": 137,
+      "BORDALLO, Fred E. Jr.": 134,
+      "QUINATA, Roy Anthony": 131,
+      "SABLAN, Angel Anthony R.": 129,
+      "MORTERA, Matteo Thomas": 121,
+      "CALVO, Gregorio Salas": 114,
+      "SANTOS, Angela Therese A.M.": 114,
+      "CRUZ, Joaquin Alan": 110,
+      "TAIJERON, Anthony W.": 106,
+      "ARRIOLA, Joseph B.D.": 98,
+      "TAITAGUE, Joaquin Manuel": 96
+     },
+     "write_in": 6,
+     "total_votes": 4875,
+     "overvotes": 15,
+     "undervotes": 1845,
+     "contest_totals": 6735
+    },
+    "PRECINCT 17C": {
+     "votes": {
+      "LUJAN, Jesse Michael A.": 272,
+      "BARNETT, Darrel Christopher": 269,
+      "DUENAS, Christopher M.": 268,
+      "MATANANE, Sabrina Salas": 255,
+      "SHELTON, Amanda L.": 253,
+      "NGUYEN, Hoa Van": 250,
+      "TAITAGUE, Telo Teresa": 234,
+      "CALVO, Shelly Vargas": 234,
+      "QUINATA, Donna Rita Muna": 224,
+      "NELSON, Telena Monique Cruz": 217,
+      "SGAMBELLURI, Raffaele M.": 204,
+      "BORJA, Vincent Anthony Velasco": 199,
+      "RIDGELL, Clynton E.": 196,
+      "PARKINSON, William Mark": 195,
+      "BORJA, Louisa Jean": 194,
+      "CASTRO, William Mendiola": 187,
+      "GUMATAOTAO, Eulogio S.": 183,
+      "SAVARES, Jonathan James": 180,
+      "PEREZ, Kallen Marie E.": 171,
+      "QUINATA, Roy Anthony": 165,
+      "SABLAN, Angel Anthony R.": 164,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 161,
+      "BORDALLO, Fred E. Jr.": 157,
+      "CALVO, Gregorio Salas": 153,
+      "MORTERA, Matteo Thomas": 136,
+      "CRUZ, Joaquin Alan": 127,
+      "SANTOS, Angela Therese A.M.": 121,
+      "TAITAGUE, Joaquin Manuel": 113,
+      "TAIJERON, Anthony W.": 113,
+      "ARRIOLA, Joseph B.D.": 91
+     },
+     "write_in": 9,
+     "total_votes": 5695,
+     "overvotes": 60,
+     "undervotes": 2030,
+     "contest_totals": 7785
+    },
+    "PRECINCT 17D": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 276,
+      "DUENAS, Christopher M.": 261,
+      "NGUYEN, Hoa Van": 259,
+      "LUJAN, Jesse Michael A.": 256,
+      "MATANANE, Sabrina Salas": 251,
+      "SHELTON, Amanda L.": 226,
+      "TAITAGUE, Telo Teresa": 218,
+      "GUMATAOTAO, Eulogio S.": 214,
+      "CALVO, Shelly Vargas": 208,
+      "BORJA, Vincent Anthony Velasco": 206,
+      "NELSON, Telena Monique Cruz": 197,
+      "QUINATA, Donna Rita Muna": 196,
+      "PARKINSON, William Mark": 195,
+      "CASTRO, William Mendiola": 194,
+      "SGAMBELLURI, Raffaele M.": 183,
+      "SAVARES, Jonathan James": 180,
+      "RIDGELL, Clynton E.": 179,
+      "PEREZ, Kallen Marie E.": 174,
+      "BORDALLO, Fred E. Jr.": 160,
+      "BORJA, Louisa Jean": 159,
+      "CALVO, Gregorio Salas": 154,
+      "QUINATA, Roy Anthony": 145,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 143,
+      "MORTERA, Matteo Thomas": 131,
+      "CRUZ, Joaquin Alan": 129,
+      "SABLAN, Angel Anthony R.": 126,
+      "SANTOS, Angela Therese A.M.": 120,
+      "TAIJERON, Anthony W.": 103,
+      "ARRIOLA, Joseph B.D.": 102,
+      "TAITAGUE, Joaquin Manuel": 95
+     },
+     "write_in": 11,
+     "total_votes": 5451,
+     "overvotes": 60,
+     "undervotes": 2169,
+     "contest_totals": 7680
+    },
+    "PRECINCT 18": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 358,
+      "SHELTON, Amanda L.": 292,
+      "LUJAN, Jesse Michael A.": 288,
+      "NGUYEN, Hoa Van": 287,
+      "PARKINSON, William Mark": 275,
+      "TAITAGUE, Telo Teresa": 273,
+      "MATANANE, Sabrina Salas": 273,
+      "CALVO, Shelly Vargas": 268,
+      "DUENAS, Christopher M.": 263,
+      "NELSON, Telena Monique Cruz": 252,
+      "SAVARES, Jonathan James": 247,
+      "BORJA, Vincent Anthony Velasco": 213,
+      "CASTRO, William Mendiola": 211,
+      "RIDGELL, Clynton E.": 202,
+      "QUINATA, Donna Rita Muna": 198,
+      "BORJA, Louisa Jean": 196,
+      "BORDALLO, Fred E. Jr.": 190,
+      "GUMATAOTAO, Eulogio S.": 184,
+      "PEREZ, Kallen Marie E.": 173,
+      "QUINATA, Roy Anthony": 170,
+      "SABLAN, Angel Anthony R.": 170,
+      "SGAMBELLURI, Raffaele M.": 169,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 169,
+      "CRUZ, Joaquin Alan": 168,
+      "SANTOS, Angela Therese A.M.": 162,
+      "CALVO, Gregorio Salas": 150,
+      "MORTERA, Matteo Thomas": 142,
+      "TAIJERON, Anthony W.": 135,
+      "TAITAGUE, Joaquin Manuel": 118,
+      "ARRIOLA, Joseph B.D.": 100
+     },
+     "write_in": 6,
+     "total_votes": 6302,
+     "overvotes": 105,
+     "undervotes": 2488,
+     "contest_totals": 8895
+    },
+    "PRECINCT 18A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 381,
+      "SHELTON, Amanda L.": 316,
+      "LUJAN, Jesse Michael A.": 305,
+      "PARKINSON, William Mark": 296,
+      "CALVO, Shelly Vargas": 294,
+      "SAVARES, Jonathan James": 291,
+      "TAITAGUE, Telo Teresa": 284,
+      "MATANANE, Sabrina Salas": 272,
+      "DUENAS, Christopher M.": 266,
+      "NGUYEN, Hoa Van": 264,
+      "BORJA, Vincent Anthony Velasco": 259,
+      "NELSON, Telena Monique Cruz": 254,
+      "BORJA, Louisa Jean": 242,
+      "QUINATA, Donna Rita Muna": 233,
+      "RIDGELL, Clynton E.": 224,
+      "CASTRO, William Mendiola": 222,
+      "SABLAN, Angel Anthony R.": 208,
+      "QUINATA, Roy Anthony": 204,
+      "PEREZ, Kallen Marie E.": 202,
+      "GUMATAOTAO, Eulogio S.": 200,
+      "SGAMBELLURI, Raffaele M.": 196,
+      "BORDALLO, Fred E. Jr.": 185,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 177,
+      "CALVO, Gregorio Salas": 165,
+      "SANTOS, Angela Therese A.M.": 161,
+      "CRUZ, Joaquin Alan": 150,
+      "MORTERA, Matteo Thomas": 130,
+      "TAITAGUE, Joaquin Manuel": 122,
+      "TAIJERON, Anthony W.": 122,
+      "ARRIOLA, Joseph B.D.": 104
+     },
+     "write_in": 14,
+     "total_votes": 6743,
+     "overvotes": 120,
+     "undervotes": 2497,
+     "contest_totals": 9360
+    },
+    "PRECINCT 18B": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 377,
+      "SHELTON, Amanda L.": 308,
+      "TAITAGUE, Telo Teresa": 278,
+      "LUJAN, Jesse Michael A.": 276,
+      "MATANANE, Sabrina Salas": 276,
+      "DUENAS, Christopher M.": 268,
+      "PARKINSON, William Mark": 262,
+      "NELSON, Telena Monique Cruz": 256,
+      "SAVARES, Jonathan James": 253,
+      "CALVO, Shelly Vargas": 251,
+      "NGUYEN, Hoa Van": 251,
+      "BORJA, Vincent Anthony Velasco": 239,
+      "SABLAN, Angel Anthony R.": 239,
+      "QUINATA, Donna Rita Muna": 223,
+      "RIDGELL, Clynton E.": 222,
+      "CASTRO, William Mendiola": 221,
+      "QUINATA, Roy Anthony": 214,
+      "PEREZ, Kallen Marie E.": 209,
+      "BORJA, Louisa Jean": 190,
+      "GUMATAOTAO, Eulogio S.": 189,
+      "SANTOS, Angela Therese A.M.": 187,
+      "BORDALLO, Fred E. Jr.": 180,
+      "CRUZ, Joaquin Alan": 180,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 177,
+      "SGAMBELLURI, Raffaele M.": 174,
+      "CALVO, Gregorio Salas": 147,
+      "TAIJERON, Anthony W.": 143,
+      "TAITAGUE, Joaquin Manuel": 127,
+      "ARRIOLA, Joseph B.D.": 120,
+      "MORTERA, Matteo Thomas": 116
+     },
+     "write_in": 4,
+     "total_votes": 6557,
+     "overvotes": 75,
+     "undervotes": 2173,
+     "contest_totals": 8805
+    },
+    "PRECINCT 18C": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 255,
+      "LUJAN, Jesse Michael A.": 234,
+      "SHELTON, Amanda L.": 233,
+      "DUENAS, Christopher M.": 225,
+      "PARKINSON, William Mark": 225,
+      "NGUYEN, Hoa Van": 218,
+      "TAITAGUE, Telo Teresa": 206,
+      "MATANANE, Sabrina Salas": 203,
+      "CALVO, Shelly Vargas": 197,
+      "SAVARES, Jonathan James": 196,
+      "CASTRO, William Mendiola": 180,
+      "QUINATA, Donna Rita Muna": 176,
+      "BORJA, Vincent Anthony Velasco": 172,
+      "NELSON, Telena Monique Cruz": 167,
+      "RIDGELL, Clynton E.": 162,
+      "PEREZ, Kallen Marie E.": 151,
+      "BORJA, Louisa Jean": 147,
+      "GUMATAOTAO, Eulogio S.": 144,
+      "SABLAN, Angel Anthony R.": 143,
+      "SGAMBELLURI, Raffaele M.": 132,
+      "QUINATA, Roy Anthony": 127,
+      "SANTOS, Angela Therese A.M.": 121,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 118,
+      "CRUZ, Joaquin Alan": 116,
+      "BORDALLO, Fred E. Jr.": 114,
+      "CALVO, Gregorio Salas": 112,
+      "TAIJERON, Anthony W.": 109,
+      "MORTERA, Matteo Thomas": 102,
+      "TAITAGUE, Joaquin Manuel": 87,
+      "ARRIOLA, Joseph B.D.": 81
+     },
+     "write_in": 2,
+     "total_votes": 4855,
+     "overvotes": 90,
+     "undervotes": 1610,
+     "contest_totals": 6555
+    },
+    "PRECINCT 18D": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 284,
+      "SHELTON, Amanda L.": 243,
+      "LUJAN, Jesse Michael A.": 233,
+      "PARKINSON, William Mark": 222,
+      "TAITAGUE, Telo Teresa": 221,
+      "MATANANE, Sabrina Salas": 215,
+      "CALVO, Shelly Vargas": 206,
+      "NGUYEN, Hoa Van": 204,
+      "DUENAS, Christopher M.": 198,
+      "SAVARES, Jonathan James": 192,
+      "RIDGELL, Clynton E.": 178,
+      "CASTRO, William Mendiola": 175,
+      "BORJA, Vincent Anthony Velasco": 172,
+      "NELSON, Telena Monique Cruz": 170,
+      "PEREZ, Kallen Marie E.": 165,
+      "SABLAN, Angel Anthony R.": 164,
+      "QUINATA, Donna Rita Muna": 160,
+      "GUMATAOTAO, Eulogio S.": 153,
+      "QUINATA, Roy Anthony": 151,
+      "BORJA, Louisa Jean": 149,
+      "SGAMBELLURI, Raffaele M.": 139,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 134,
+      "CRUZ, Joaquin Alan": 130,
+      "BORDALLO, Fred E. Jr.": 128,
+      "SANTOS, Angela Therese A.M.": 122,
+      "CALVO, Gregorio Salas": 111,
+      "TAITAGUE, Joaquin Manuel": 101,
+      "TAIJERON, Anthony W.": 96,
+      "MORTERA, Matteo Thomas": 95,
+      "ARRIOLA, Joseph B.D.": 93
+     },
+     "write_in": 10,
+     "total_votes": 5014,
+     "overvotes": 120,
+     "undervotes": 1976,
+     "contest_totals": 7110
+    },
+    "PRECINCT 18E": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 298,
+      "SHELTON, Amanda L.": 244,
+      "LUJAN, Jesse Michael A.": 232,
+      "MATANANE, Sabrina Salas": 230,
+      "TAITAGUE, Telo Teresa": 228,
+      "CALVO, Shelly Vargas": 213,
+      "DUENAS, Christopher M.": 211,
+      "NGUYEN, Hoa Van": 208,
+      "SAVARES, Jonathan James": 205,
+      "NELSON, Telena Monique Cruz": 204,
+      "BORJA, Vincent Anthony Velasco": 199,
+      "PARKINSON, William Mark": 198,
+      "RIDGELL, Clynton E.": 169,
+      "BORJA, Louisa Jean": 164,
+      "SABLAN, Angel Anthony R.": 162,
+      "GUMATAOTAO, Eulogio S.": 158,
+      "QUINATA, Donna Rita Muna": 157,
+      "CASTRO, William Mendiola": 154,
+      "PEREZ, Kallen Marie E.": 147,
+      "BORDALLO, Fred E. Jr.": 136,
+      "CRUZ, Joaquin Alan": 134,
+      "QUINATA, Roy Anthony": 132,
+      "SGAMBELLURI, Raffaele M.": 131,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 131,
+      "SANTOS, Angela Therese A.M.": 122,
+      "CALVO, Gregorio Salas": 115,
+      "TAIJERON, Anthony W.": 111,
+      "MORTERA, Matteo Thomas": 110,
+      "TAITAGUE, Joaquin Manuel": 104,
+      "ARRIOLA, Joseph B.D.": 95
+     },
+     "write_in": 16,
+     "total_votes": 5118,
+     "overvotes": 90,
+     "undervotes": 1557,
+     "contest_totals": 6765
+    },
+    "PRECINCT 18F": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 294,
+      "SHELTON, Amanda L.": 231,
+      "LUJAN, Jesse Michael A.": 225,
+      "CALVO, Shelly Vargas": 214,
+      "MATANANE, Sabrina Salas": 212,
+      "TAITAGUE, Telo Teresa": 211,
+      "PARKINSON, William Mark": 209,
+      "DUENAS, Christopher M.": 206,
+      "SAVARES, Jonathan James": 201,
+      "NGUYEN, Hoa Van": 192,
+      "NELSON, Telena Monique Cruz": 174,
+      "CASTRO, William Mendiola": 171,
+      "BORJA, Vincent Anthony Velasco": 169,
+      "QUINATA, Donna Rita Muna": 154,
+      "QUINATA, Roy Anthony": 152,
+      "RIDGELL, Clynton E.": 151,
+      "BORJA, Louisa Jean": 147,
+      "PEREZ, Kallen Marie E.": 144,
+      "GUMATAOTAO, Eulogio S.": 143,
+      "SGAMBELLURI, Raffaele M.": 138,
+      "SABLAN, Angel Anthony R.": 138,
+      "SANTOS, Angela Therese A.M.": 128,
+      "BORDALLO, Fred E. Jr.": 126,
+      "CALVO, Gregorio Salas": 118,
+      "TAIJERON, Anthony W.": 118,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 118,
+      "CRUZ, Joaquin Alan": 115,
+      "MORTERA, Matteo Thomas": 97,
+      "ARRIOLA, Joseph B.D.": 92,
+      "TAITAGUE, Joaquin Manuel": 86
+     },
+     "write_in": 8,
+     "total_votes": 4882,
+     "overvotes": 75,
+     "undervotes": 1583,
+     "contest_totals": 6540
+    },
+    "PRECINCT 18G": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 267,
+      "SHELTON, Amanda L.": 229,
+      "LUJAN, Jesse Michael A.": 208,
+      "PARKINSON, William Mark": 206,
+      "NGUYEN, Hoa Van": 202,
+      "MATANANE, Sabrina Salas": 199,
+      "TAITAGUE, Telo Teresa": 190,
+      "DUENAS, Christopher M.": 185,
+      "NELSON, Telena Monique Cruz": 180,
+      "CALVO, Shelly Vargas": 179,
+      "RIDGELL, Clynton E.": 176,
+      "BORJA, Vincent Anthony Velasco": 173,
+      "SAVARES, Jonathan James": 172,
+      "QUINATA, Donna Rita Muna": 159,
+      "BORDALLO, Fred E. Jr.": 152,
+      "SABLAN, Angel Anthony R.": 148,
+      "BORJA, Louisa Jean": 146,
+      "CASTRO, William Mendiola": 146,
+      "PEREZ, Kallen Marie E.": 138,
+      "QUINATA, Roy Anthony": 136,
+      "GUMATAOTAO, Eulogio S.": 135,
+      "CRUZ, Joaquin Alan": 129,
+      "SGAMBELLURI, Raffaele M.": 126,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 119,
+      "SANTOS, Angela Therese A.M.": 108,
+      "TAIJERON, Anthony W.": 105,
+      "CALVO, Gregorio Salas": 104,
+      "TAITAGUE, Joaquin Manuel": 101,
+      "MORTERA, Matteo Thomas": 77,
+      "ARRIOLA, Joseph B.D.": 62
+     },
+     "write_in": 7,
+     "total_votes": 4664,
+     "overvotes": 30,
+     "undervotes": 1831,
+     "contest_totals": 6525
+    },
+    "PRECINCT 18H": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 273,
+      "SHELTON, Amanda L.": 257,
+      "TAITAGUE, Telo Teresa": 223,
+      "MATANANE, Sabrina Salas": 216,
+      "LUJAN, Jesse Michael A.": 214,
+      "NGUYEN, Hoa Van": 211,
+      "PARKINSON, William Mark": 209,
+      "DUENAS, Christopher M.": 193,
+      "SAVARES, Jonathan James": 192,
+      "CALVO, Shelly Vargas": 186,
+      "NELSON, Telena Monique Cruz": 184,
+      "QUINATA, Donna Rita Muna": 175,
+      "BORJA, Vincent Anthony Velasco": 171,
+      "RIDGELL, Clynton E.": 167,
+      "SABLAN, Angel Anthony R.": 160,
+      "BORJA, Louisa Jean": 158,
+      "SGAMBELLURI, Raffaele M.": 156,
+      "PEREZ, Kallen Marie E.": 154,
+      "GUMATAOTAO, Eulogio S.": 149,
+      "SANTOS, Angela Therese A.M.": 149,
+      "CASTRO, William Mendiola": 148,
+      "QUINATA, Roy Anthony": 133,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 131,
+      "BORDALLO, Fred E. Jr.": 129,
+      "CRUZ, Joaquin Alan": 124,
+      "CALVO, Gregorio Salas": 96,
+      "MORTERA, Matteo Thomas": 95,
+      "TAIJERON, Anthony W.": 89,
+      "TAITAGUE, Joaquin Manuel": 86,
+      "ARRIOLA, Joseph B.D.": 77
+     },
+     "write_in": 13,
+     "total_votes": 4918,
+     "overvotes": 30,
+     "undervotes": 1757,
+     "contest_totals": 6705
+    },
+    "PRECINCT 18I": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 301,
+      "SHELTON, Amanda L.": 255,
+      "LUJAN, Jesse Michael A.": 249,
+      "SAVARES, Jonathan James": 242,
+      "MATANANE, Sabrina Salas": 236,
+      "DUENAS, Christopher M.": 227,
+      "NGUYEN, Hoa Van": 221,
+      "CALVO, Shelly Vargas": 216,
+      "TAITAGUE, Telo Teresa": 212,
+      "PARKINSON, William Mark": 208,
+      "BORJA, Vincent Anthony Velasco": 200,
+      "NELSON, Telena Monique Cruz": 200,
+      "BORJA, Louisa Jean": 187,
+      "CASTRO, William Mendiola": 185,
+      "GUMATAOTAO, Eulogio S.": 179,
+      "RIDGELL, Clynton E.": 169,
+      "PEREZ, Kallen Marie E.": 166,
+      "QUINATA, Roy Anthony": 163,
+      "QUINATA, Donna Rita Muna": 161,
+      "SGAMBELLURI, Raffaele M.": 154,
+      "SABLAN, Angel Anthony R.": 154,
+      "CALVO, Gregorio Salas": 142,
+      "CRUZ, Joaquin Alan": 136,
+      "BORDALLO, Fred E. Jr.": 130,
+      "TAIJERON, Anthony W.": 129,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 127,
+      "SANTOS, Angela Therese A.M.": 124,
+      "MORTERA, Matteo Thomas": 121,
+      "TAITAGUE, Joaquin Manuel": 107,
+      "ARRIOLA, Joseph B.D.": 92
+     },
+     "write_in": 2,
+     "total_votes": 5395,
+     "overvotes": 120,
+     "undervotes": 1805,
+     "contest_totals": 7320
+    },
+    "PRECINCT 18J": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 357,
+      "SHELTON, Amanda L.": 284,
+      "MATANANE, Sabrina Salas": 252,
+      "LUJAN, Jesse Michael A.": 242,
+      "DUENAS, Christopher M.": 240,
+      "PARKINSON, William Mark": 239,
+      "NGUYEN, Hoa Van": 238,
+      "TAITAGUE, Telo Teresa": 236,
+      "NELSON, Telena Monique Cruz": 227,
+      "SAVARES, Jonathan James": 221,
+      "CALVO, Shelly Vargas": 218,
+      "QUINATA, Donna Rita Muna": 214,
+      "RIDGELL, Clynton E.": 209,
+      "BORJA, Vincent Anthony Velasco": 203,
+      "CASTRO, William Mendiola": 199,
+      "SABLAN, Angel Anthony R.": 196,
+      "PEREZ, Kallen Marie E.": 176,
+      "BORDALLO, Fred E. Jr.": 174,
+      "CRUZ, Joaquin Alan": 174,
+      "GUMATAOTAO, Eulogio S.": 170,
+      "QUINATA, Roy Anthony": 169,
+      "BORJA, Louisa Jean": 168,
+      "TAIJERON, Anthony W.": 164,
+      "SANTOS, Angela Therese A.M.": 163,
+      "SGAMBELLURI, Raffaele M.": 161,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 159,
+      "CALVO, Gregorio Salas": 130,
+      "TAITAGUE, Joaquin Manuel": 119,
+      "MORTERA, Matteo Thomas": 116,
+      "ARRIOLA, Joseph B.D.": 84
+     },
+     "write_in": 6,
+     "total_votes": 5908,
+     "overvotes": 150,
+     "undervotes": 2297,
+     "contest_totals": 8355
+    },
+    "PRECINCT 18K": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 389,
+      "SHELTON, Amanda L.": 326,
+      "MATANANE, Sabrina Salas": 301,
+      "NGUYEN, Hoa Van": 284,
+      "LUJAN, Jesse Michael A.": 280,
+      "DUENAS, Christopher M.": 279,
+      "SAVARES, Jonathan James": 271,
+      "CALVO, Shelly Vargas": 256,
+      "NELSON, Telena Monique Cruz": 256,
+      "TAITAGUE, Telo Teresa": 255,
+      "PARKINSON, William Mark": 255,
+      "BORJA, Vincent Anthony Velasco": 249,
+      "BORJA, Louisa Jean": 236,
+      "SABLAN, Angel Anthony R.": 236,
+      "QUINATA, Donna Rita Muna": 230,
+      "CASTRO, William Mendiola": 216,
+      "RIDGELL, Clynton E.": 205,
+      "GUMATAOTAO, Eulogio S.": 198,
+      "BORDALLO, Fred E. Jr.": 198,
+      "PEREZ, Kallen Marie E.": 197,
+      "SGAMBELLURI, Raffaele M.": 195,
+      "QUINATA, Roy Anthony": 195,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 192,
+      "SANTOS, Angela Therese A.M.": 183,
+      "CALVO, Gregorio Salas": 176,
+      "CRUZ, Joaquin Alan": 175,
+      "MORTERA, Matteo Thomas": 151,
+      "TAIJERON, Anthony W.": 150,
+      "TAITAGUE, Joaquin Manuel": 137,
+      "ARRIOLA, Joseph B.D.": 127
+     },
+     "write_in": 4,
+     "total_votes": 6802,
+     "overvotes": 60,
+     "undervotes": 2393,
+     "contest_totals": 9255
+    },
+    "PRECINCT 18L": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 397,
+      "NGUYEN, Hoa Van": 329,
+      "SHELTON, Amanda L.": 324,
+      "MATANANE, Sabrina Salas": 308,
+      "LUJAN, Jesse Michael A.": 302,
+      "SAVARES, Jonathan James": 299,
+      "DUENAS, Christopher M.": 296,
+      "CALVO, Shelly Vargas": 295,
+      "TAITAGUE, Telo Teresa": 283,
+      "PARKINSON, William Mark": 270,
+      "NELSON, Telena Monique Cruz": 260,
+      "BORJA, Vincent Anthony Velasco": 243,
+      "CASTRO, William Mendiola": 240,
+      "BORJA, Louisa Jean": 239,
+      "QUINATA, Donna Rita Muna": 237,
+      "PEREZ, Kallen Marie E.": 226,
+      "RIDGELL, Clynton E.": 213,
+      "SGAMBELLURI, Raffaele M.": 209,
+      "GUMATAOTAO, Eulogio S.": 205,
+      "QUINATA, Roy Anthony": 203,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 191,
+      "BORDALLO, Fred E. Jr.": 189,
+      "SABLAN, Angel Anthony R.": 184,
+      "CALVO, Gregorio Salas": 180,
+      "MORTERA, Matteo Thomas": 179,
+      "CRUZ, Joaquin Alan": 170,
+      "TAIJERON, Anthony W.": 169,
+      "SANTOS, Angela Therese A.M.": 158,
+      "ARRIOLA, Joseph B.D.": 139,
+      "TAITAGUE, Joaquin Manuel": 122
+     },
+     "write_in": 3,
+     "total_votes": 7062,
+     "overvotes": 195,
+     "undervotes": 2373,
+     "contest_totals": 9630
+    },
+    "PRECINCT 19": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 320,
+      "SHELTON, Amanda L.": 265,
+      "MATANANE, Sabrina Salas": 252,
+      "DUENAS, Christopher M.": 250,
+      "PARKINSON, William Mark": 242,
+      "TAITAGUE, Telo Teresa": 233,
+      "LUJAN, Jesse Michael A.": 233,
+      "NGUYEN, Hoa Van": 226,
+      "CALVO, Shelly Vargas": 221,
+      "NELSON, Telena Monique Cruz": 205,
+      "BORJA, Vincent Anthony Velasco": 202,
+      "RIDGELL, Clynton E.": 199,
+      "CASTRO, William Mendiola": 195,
+      "GUMATAOTAO, Eulogio S.": 193,
+      "QUINATA, Donna Rita Muna": 193,
+      "QUINATA, Roy Anthony": 190,
+      "SAVARES, Jonathan James": 187,
+      "BORJA, Louisa Jean": 187,
+      "SABLAN, Angel Anthony R.": 185,
+      "PEREZ, Kallen Marie E.": 182,
+      "SGAMBELLURI, Raffaele M.": 170,
+      "BORDALLO, Fred E. Jr.": 167,
+      "CALVO, Gregorio Salas": 148,
+      "CRUZ, Joaquin Alan": 147,
+      "SANTOS, Angela Therese A.M.": 141,
+      "TAIJERON, Anthony W.": 138,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 135,
+      "MORTERA, Matteo Thomas": 118,
+      "TAITAGUE, Joaquin Manuel": 108,
+      "ARRIOLA, Joseph B.D.": 106
+     },
+     "write_in": 10,
+     "total_votes": 5748,
+     "overvotes": 60,
+     "undervotes": 1797,
+     "contest_totals": 7605
+    },
+    "PRECINCT 19A": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 400,
+      "MATANANE, Sabrina Salas": 304,
+      "SHELTON, Amanda L.": 301,
+      "NGUYEN, Hoa Van": 286,
+      "DUENAS, Christopher M.": 283,
+      "LUJAN, Jesse Michael A.": 277,
+      "PARKINSON, William Mark": 275,
+      "TAITAGUE, Telo Teresa": 274,
+      "CALVO, Shelly Vargas": 255,
+      "NELSON, Telena Monique Cruz": 254,
+      "BORJA, Vincent Anthony Velasco": 248,
+      "QUINATA, Donna Rita Muna": 234,
+      "SABLAN, Angel Anthony R.": 223,
+      "CASTRO, William Mendiola": 220,
+      "SAVARES, Jonathan James": 219,
+      "QUINATA, Roy Anthony": 216,
+      "RIDGELL, Clynton E.": 206,
+      "GUMATAOTAO, Eulogio S.": 202,
+      "PEREZ, Kallen Marie E.": 198,
+      "BORJA, Louisa Jean": 197,
+      "CRUZ, Joaquin Alan": 189,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 179,
+      "BORDALLO, Fred E. Jr.": 168,
+      "SGAMBELLURI, Raffaele M.": 167,
+      "TAIJERON, Anthony W.": 156,
+      "SANTOS, Angela Therese A.M.": 153,
+      "CALVO, Gregorio Salas": 152,
+      "MORTERA, Matteo Thomas": 125,
+      "TAITAGUE, Joaquin Manuel": 103,
+      "ARRIOLA, Joseph B.D.": 86
+     },
+     "write_in": 15,
+     "total_votes": 6565,
+     "overvotes": 105,
+     "undervotes": 2315,
+     "contest_totals": 8985
+    },
+    "PRECINCT 19B": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 391,
+      "MATANANE, Sabrina Salas": 301,
+      "SHELTON, Amanda L.": 283,
+      "NGUYEN, Hoa Van": 269,
+      "PARKINSON, William Mark": 264,
+      "LUJAN, Jesse Michael A.": 255,
+      "NELSON, Telena Monique Cruz": 253,
+      "TAITAGUE, Telo Teresa": 250,
+      "RIDGELL, Clynton E.": 248,
+      "SABLAN, Angel Anthony R.": 240,
+      "DUENAS, Christopher M.": 231,
+      "QUINATA, Donna Rita Muna": 223,
+      "CALVO, Shelly Vargas": 221,
+      "PEREZ, Kallen Marie E.": 215,
+      "BORJA, Vincent Anthony Velasco": 211,
+      "QUINATA, Roy Anthony": 211,
+      "BORJA, Louisa Jean": 204,
+      "CASTRO, William Mendiola": 188,
+      "BORDALLO, Fred E. Jr.": 188,
+      "CRUZ, Joaquin Alan": 178,
+      "SAVARES, Jonathan James": 176,
+      "SGAMBELLURI, Raffaele M.": 169,
+      "GUMATAOTAO, Eulogio S.": 166,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 166,
+      "SANTOS, Angela Therese A.M.": 157,
+      "CALVO, Gregorio Salas": 147,
+      "TAIJERON, Anthony W.": 135,
+      "TAITAGUE, Joaquin Manuel": 125,
+      "MORTERA, Matteo Thomas": 105,
+      "ARRIOLA, Joseph B.D.": 85
+     },
+     "write_in": 14,
+     "total_votes": 6269,
+     "overvotes": 60,
+     "undervotes": 2041,
+     "contest_totals": 8370
+    },
+    "PRECINCT 19C": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 302,
+      "MATANANE, Sabrina Salas": 270,
+      "LUJAN, Jesse Michael A.": 242,
+      "SHELTON, Amanda L.": 239,
+      "NGUYEN, Hoa Van": 236,
+      "DUENAS, Christopher M.": 235,
+      "TAITAGUE, Telo Teresa": 214,
+      "CALVO, Shelly Vargas": 212,
+      "BORJA, Vincent Anthony Velasco": 203,
+      "PARKINSON, William Mark": 203,
+      "SABLAN, Angel Anthony R.": 203,
+      "NELSON, Telena Monique Cruz": 188,
+      "QUINATA, Donna Rita Muna": 182,
+      "SAVARES, Jonathan James": 181,
+      "BORJA, Louisa Jean": 178,
+      "QUINATA, Roy Anthony": 175,
+      "RIDGELL, Clynton E.": 169,
+      "GUMATAOTAO, Eulogio S.": 167,
+      "CASTRO, William Mendiola": 160,
+      "PEREZ, Kallen Marie E.": 156,
+      "SGAMBELLURI, Raffaele M.": 142,
+      "CRUZ, Joaquin Alan": 138,
+      "BORDALLO, Fred E. Jr.": 128,
+      "CALVO, Gregorio Salas": 127,
+      "SANTOS, Angela Therese A.M.": 124,
+      "MORTERA, Matteo Thomas": 122,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 112,
+      "ARRIOLA, Joseph B.D.": 104,
+      "TAIJERON, Anthony W.": 99,
+      "TAITAGUE, Joaquin Manuel": 94
+     },
+     "write_in": 8,
+     "total_votes": 5313,
+     "overvotes": 150,
+     "undervotes": 2022,
+     "contest_totals": 7485
+    },
+    "PRECINCT 19D": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 274,
+      "SHELTON, Amanda L.": 216,
+      "NELSON, Telena Monique Cruz": 191,
+      "PARKINSON, William Mark": 190,
+      "MATANANE, Sabrina Salas": 189,
+      "LUJAN, Jesse Michael A.": 174,
+      "TAITAGUE, Telo Teresa": 168,
+      "NGUYEN, Hoa Van": 167,
+      "DUENAS, Christopher M.": 158,
+      "SAVARES, Jonathan James": 155,
+      "QUINATA, Donna Rita Muna": 152,
+      "PEREZ, Kallen Marie E.": 150,
+      "RIDGELL, Clynton E.": 150,
+      "SABLAN, Angel Anthony R.": 149,
+      "BORJA, Vincent Anthony Velasco": 147,
+      "CALVO, Shelly Vargas": 146,
+      "QUINATA, Roy Anthony": 141,
+      "BORDALLO, Fred E. Jr.": 135,
+      "BORJA, Louisa Jean": 125,
+      "SANTOS, Angela Therese A.M.": 124,
+      "SGAMBELLURI, Raffaele M.": 123,
+      "CASTRO, William Mendiola": 122,
+      "CRUZ, Joaquin Alan": 115,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 110,
+      "CALVO, Gregorio Salas": 105,
+      "GUMATAOTAO, Eulogio S.": 104,
+      "TAIJERON, Anthony W.": 102,
+      "TAITAGUE, Joaquin Manuel": 89,
+      "MORTERA, Matteo Thomas": 80,
+      "ARRIOLA, Joseph B.D.": 73
+     },
+     "write_in": 10,
+     "total_votes": 4334,
+     "overvotes": 75,
+     "undervotes": 1771,
+     "contest_totals": 6180
+    },
+    "PRECINCT 19E": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 284,
+      "SHELTON, Amanda L.": 202,
+      "MATANANE, Sabrina Salas": 189,
+      "LUJAN, Jesse Michael A.": 186,
+      "NGUYEN, Hoa Van": 183,
+      "NELSON, Telena Monique Cruz": 178,
+      "DUENAS, Christopher M.": 172,
+      "SABLAN, Angel Anthony R.": 170,
+      "PARKINSON, William Mark": 165,
+      "TAITAGUE, Telo Teresa": 161,
+      "SAVARES, Jonathan James": 160,
+      "CALVO, Shelly Vargas": 157,
+      "BORJA, Vincent Anthony Velasco": 156,
+      "PEREZ, Kallen Marie E.": 147,
+      "QUINATA, Roy Anthony": 146,
+      "CASTRO, William Mendiola": 141,
+      "RIDGELL, Clynton E.": 140,
+      "BORJA, Louisa Jean": 132,
+      "GUMATAOTAO, Eulogio S.": 124,
+      "SGAMBELLURI, Raffaele M.": 124,
+      "BORDALLO, Fred E. Jr.": 121,
+      "CALVO, Gregorio Salas": 113,
+      "SANTOS, Angela Therese A.M.": 109,
+      "CRUZ, Joaquin Alan": 107,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 107,
+      "QUINATA, Donna Rita Muna": 106,
+      "TAIJERON, Anthony W.": 98,
+      "MORTERA, Matteo Thomas": 84,
+      "TAITAGUE, Joaquin Manuel": 70,
+      "ARRIOLA, Joseph B.D.": 64
+     },
+     "write_in": 8,
+     "total_votes": 4304,
+     "overvotes": 30,
+     "undervotes": 2086,
+     "contest_totals": 6420
+    },
+    "PRECINCT 19F": {
+     "votes": {
+      "BARNETT, Darrel Christopher": 257,
+      "SHELTON, Amanda L.": 233,
+      "NGUYEN, Hoa Van": 224,
+      "PARKINSON, William Mark": 208,
+      "DUENAS, Christopher M.": 206,
+      "MATANANE, Sabrina Salas": 205,
+      "LUJAN, Jesse Michael A.": 189,
+      "CALVO, Shelly Vargas": 183,
+      "RIDGELL, Clynton E.": 183,
+      "SABLAN, Angel Anthony R.": 180,
+      "NELSON, Telena Monique Cruz": 178,
+      "SAVARES, Jonathan James": 171,
+      "TAITAGUE, Telo Teresa": 170,
+      "QUINATA, Donna Rita Muna": 166,
+      "BORJA, Vincent Anthony Velasco": 159,
+      "CASTRO, William Mendiola": 157,
+      "BORJA, Louisa Jean": 156,
+      "QUINATA, Roy Anthony": 153,
+      "PEREZ, Kallen Marie E.": 150,
+      "SGAMBELLURI, Raffaele M.": 144,
+      "BORDALLO, Fred E. Jr.": 144,
+      "NEDEDOG, Sarah Mattie Villaranda Thomas": 141,
+      "CRUZ, Joaquin Alan": 129,
+      "GUMATAOTAO, Eulogio S.": 125,
+      "TAIJERON, Anthony W.": 116,
+      "CALVO, Gregorio Salas": 114,
+      "MORTERA, Matteo Thomas": 99,
+      "SANTOS, Angela Therese A.M.": 99,
+      "TAITAGUE, Joaquin Manuel": 94,
+      "ARRIOLA, Joseph B.D.": 87
+     },
+     "write_in": 21,
+     "total_votes": 4841,
+     "overvotes": 60,
+     "undervotes": 1489,
+     "contest_totals": 6390
+    }
+   }
   },
   {
    "id": "attorney-general-of-guam",
@@ -319,8 +4342,835 @@
    "overvotes": 178,
    "undervotes": 982,
    "contest_totals": 31414,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 59,
+   "by_precinct": {
+    "PRECINCT 1": {
+     "votes": {
+      "TYDINGCO, Phillip James": 108,
+      "MOYLAN, Douglas B.": 70,
+      "FISHER, Thomas Joseph": 22,
+      "SANTOS, Peter John": 22,
+      "PAULUHN, Jordan Lawrence": 13
+     },
+     "write_in": 0,
+     "total_votes": 235,
+     "overvotes": 0,
+     "undervotes": 8,
+     "contest_totals": 243
+    },
+    "PRECINCT 2": {
+     "votes": {
+      "TYDINGCO, Phillip James": 266,
+      "MOYLAN, Douglas B.": 135,
+      "FISHER, Thomas Joseph": 73,
+      "SANTOS, Peter John": 46,
+      "PAULUHN, Jordan Lawrence": 26
+     },
+     "write_in": 0,
+     "total_votes": 546,
+     "overvotes": 2,
+     "undervotes": 19,
+     "contest_totals": 567
+    },
+    "PRECINCT 3": {
+     "votes": {
+      "TYDINGCO, Phillip James": 220,
+      "MOYLAN, Douglas B.": 144,
+      "FISHER, Thomas Joseph": 57,
+      "SANTOS, Peter John": 35,
+      "PAULUHN, Jordan Lawrence": 30
+     },
+     "write_in": 0,
+     "total_votes": 486,
+     "overvotes": 1,
+     "undervotes": 23,
+     "contest_totals": 510
+    },
+    "PRECINCT 4": {
+     "votes": {
+      "TYDINGCO, Phillip James": 200,
+      "MOYLAN, Douglas B.": 183,
+      "SANTOS, Peter John": 112,
+      "FISHER, Thomas Joseph": 71,
+      "PAULUHN, Jordan Lawrence": 28
+     },
+     "write_in": 1,
+     "total_votes": 595,
+     "overvotes": 2,
+     "undervotes": 33,
+     "contest_totals": 630
+    },
+    "PRECINCT 4A": {
+     "votes": {
+      "MOYLAN, Douglas B.": 173,
+      "TYDINGCO, Phillip James": 146,
+      "SANTOS, Peter John": 119,
+      "FISHER, Thomas Joseph": 62,
+      "PAULUHN, Jordan Lawrence": 18
+     },
+     "write_in": 1,
+     "total_votes": 519,
+     "overvotes": 4,
+     "undervotes": 19,
+     "contest_totals": 542
+    },
+    "PRECINCT 5": {
+     "votes": {
+      "TYDINGCO, Phillip James": 191,
+      "MOYLAN, Douglas B.": 147,
+      "SANTOS, Peter John": 102,
+      "FISHER, Thomas Joseph": 62,
+      "PAULUHN, Jordan Lawrence": 17
+     },
+     "write_in": 0,
+     "total_votes": 519,
+     "overvotes": 2,
+     "undervotes": 13,
+     "contest_totals": 534
+    },
+    "PRECINCT 5A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 233,
+      "MOYLAN, Douglas B.": 143,
+      "SANTOS, Peter John": 103,
+      "FISHER, Thomas Joseph": 65,
+      "PAULUHN, Jordan Lawrence": 20
+     },
+     "write_in": 0,
+     "total_votes": 564,
+     "overvotes": 3,
+     "undervotes": 23,
+     "contest_totals": 590
+    },
+    "PRECINCT 6": {
+     "votes": {
+      "TYDINGCO, Phillip James": 97,
+      "MOYLAN, Douglas B.": 71,
+      "SANTOS, Peter John": 36,
+      "FISHER, Thomas Joseph": 26,
+      "PAULUHN, Jordan Lawrence": 22
+     },
+     "write_in": 0,
+     "total_votes": 252,
+     "overvotes": 2,
+     "undervotes": 17,
+     "contest_totals": 271
+    },
+    "PRECINCT 7": {
+     "votes": {
+      "TYDINGCO, Phillip James": 193,
+      "MOYLAN, Douglas B.": 166,
+      "SANTOS, Peter John": 89,
+      "FISHER, Thomas Joseph": 80,
+      "PAULUHN, Jordan Lawrence": 29
+     },
+     "write_in": 0,
+     "total_votes": 557,
+     "overvotes": 2,
+     "undervotes": 26,
+     "contest_totals": 585
+    },
+    "PRECINCT 8": {
+     "votes": {
+      "TYDINGCO, Phillip James": 154,
+      "MOYLAN, Douglas B.": 136,
+      "FISHER, Thomas Joseph": 82,
+      "SANTOS, Peter John": 77,
+      "PAULUHN, Jordan Lawrence": 16
+     },
+     "write_in": 0,
+     "total_votes": 465,
+     "overvotes": 2,
+     "undervotes": 28,
+     "contest_totals": 495
+    },
+    "PRECINCT 8A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 143,
+      "MOYLAN, Douglas B.": 121,
+      "SANTOS, Peter John": 68,
+      "FISHER, Thomas Joseph": 66,
+      "PAULUHN, Jordan Lawrence": 23
+     },
+     "write_in": 1,
+     "total_votes": 422,
+     "overvotes": 0,
+     "undervotes": 22,
+     "contest_totals": 444
+    },
+    "PRECINCT 9": {
+     "votes": {
+      "TYDINGCO, Phillip James": 229,
+      "MOYLAN, Douglas B.": 137,
+      "FISHER, Thomas Joseph": 90,
+      "SANTOS, Peter John": 85,
+      "PAULUHN, Jordan Lawrence": 17
+     },
+     "write_in": 1,
+     "total_votes": 559,
+     "overvotes": 2,
+     "undervotes": 13,
+     "contest_totals": 574
+    },
+    "PRECINCT 9A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 208,
+      "FISHER, Thomas Joseph": 103,
+      "MOYLAN, Douglas B.": 93,
+      "SANTOS, Peter John": 63,
+      "PAULUHN, Jordan Lawrence": 16
+     },
+     "write_in": 0,
+     "total_votes": 483,
+     "overvotes": 5,
+     "undervotes": 12,
+     "contest_totals": 500
+    },
+    "PRECINCT 10": {
+     "votes": {
+      "TYDINGCO, Phillip James": 281,
+      "MOYLAN, Douglas B.": 135,
+      "FISHER, Thomas Joseph": 86,
+      "SANTOS, Peter John": 75,
+      "PAULUHN, Jordan Lawrence": 30
+     },
+     "write_in": 0,
+     "total_votes": 607,
+     "overvotes": 2,
+     "undervotes": 20,
+     "contest_totals": 629
+    },
+    "PRECINCT 10A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 242,
+      "MOYLAN, Douglas B.": 143,
+      "SANTOS, Peter John": 76,
+      "FISHER, Thomas Joseph": 73,
+      "PAULUHN, Jordan Lawrence": 28
+     },
+     "write_in": 0,
+     "total_votes": 562,
+     "overvotes": 2,
+     "undervotes": 17,
+     "contest_totals": 581
+    },
+    "PRECINCT 10B": {
+     "votes": {
+      "TYDINGCO, Phillip James": 221,
+      "MOYLAN, Douglas B.": 159,
+      "SANTOS, Peter John": 119,
+      "FISHER, Thomas Joseph": 78,
+      "PAULUHN, Jordan Lawrence": 24
+     },
+     "write_in": 0,
+     "total_votes": 601,
+     "overvotes": 1,
+     "undervotes": 10,
+     "contest_totals": 612
+    },
+    "PRECINCT 11": {
+     "votes": {
+      "TYDINGCO, Phillip James": 253,
+      "MOYLAN, Douglas B.": 178,
+      "FISHER, Thomas Joseph": 82,
+      "SANTOS, Peter John": 62,
+      "PAULUHN, Jordan Lawrence": 24
+     },
+     "write_in": 0,
+     "total_votes": 599,
+     "overvotes": 2,
+     "undervotes": 16,
+     "contest_totals": 617
+    },
+    "PRECINCT 11A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 252,
+      "MOYLAN, Douglas B.": 159,
+      "FISHER, Thomas Joseph": 68,
+      "SANTOS, Peter John": 49,
+      "PAULUHN, Jordan Lawrence": 22
+     },
+     "write_in": 0,
+     "total_votes": 550,
+     "overvotes": 1,
+     "undervotes": 17,
+     "contest_totals": 568
+    },
+    "PRECINCT 11B": {
+     "votes": {
+      "TYDINGCO, Phillip James": 264,
+      "MOYLAN, Douglas B.": 167,
+      "FISHER, Thomas Joseph": 71,
+      "SANTOS, Peter John": 66,
+      "PAULUHN, Jordan Lawrence": 20
+     },
+     "write_in": 0,
+     "total_votes": 588,
+     "overvotes": 2,
+     "undervotes": 12,
+     "contest_totals": 602
+    },
+    "PRECINCT 12": {
+     "votes": {
+      "TYDINGCO, Phillip James": 257,
+      "MOYLAN, Douglas B.": 123,
+      "FISHER, Thomas Joseph": 73,
+      "SANTOS, Peter John": 65,
+      "PAULUHN, Jordan Lawrence": 21
+     },
+     "write_in": 3,
+     "total_votes": 542,
+     "overvotes": 0,
+     "undervotes": 12,
+     "contest_totals": 554
+    },
+    "PRECINCT 12A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 200,
+      "MOYLAN, Douglas B.": 116,
+      "FISHER, Thomas Joseph": 88,
+      "SANTOS, Peter John": 46,
+      "PAULUHN, Jordan Lawrence": 26
+     },
+     "write_in": 0,
+     "total_votes": 476,
+     "overvotes": 0,
+     "undervotes": 18,
+     "contest_totals": 494
+    },
+    "PRECINCT 13": {
+     "votes": {
+      "TYDINGCO, Phillip James": 248,
+      "MOYLAN, Douglas B.": 146,
+      "SANTOS, Peter John": 48,
+      "FISHER, Thomas Joseph": 43,
+      "PAULUHN, Jordan Lawrence": 27
+     },
+     "write_in": 0,
+     "total_votes": 512,
+     "overvotes": 1,
+     "undervotes": 15,
+     "contest_totals": 528
+    },
+    "PRECINCT 13A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 247,
+      "MOYLAN, Douglas B.": 96,
+      "FISHER, Thomas Joseph": 61,
+      "SANTOS, Peter John": 48,
+      "PAULUHN, Jordan Lawrence": 22
+     },
+     "write_in": 0,
+     "total_votes": 474,
+     "overvotes": 0,
+     "undervotes": 13,
+     "contest_totals": 487
+    },
+    "PRECINCT 14": {
+     "votes": {
+      "TYDINGCO, Phillip James": 300,
+      "MOYLAN, Douglas B.": 187,
+      "FISHER, Thomas Joseph": 70,
+      "SANTOS, Peter John": 70,
+      "PAULUHN, Jordan Lawrence": 31
+     },
+     "write_in": 1,
+     "total_votes": 659,
+     "overvotes": 4,
+     "undervotes": 20,
+     "contest_totals": 683
+    },
+    "PRECINCT 14A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 262,
+      "MOYLAN, Douglas B.": 205,
+      "FISHER, Thomas Joseph": 78,
+      "SANTOS, Peter John": 52,
+      "PAULUHN, Jordan Lawrence": 20
+     },
+     "write_in": 0,
+     "total_votes": 617,
+     "overvotes": 4,
+     "undervotes": 13,
+     "contest_totals": 634
+    },
+    "PRECINCT 15": {
+     "votes": {
+      "TYDINGCO, Phillip James": 239,
+      "MOYLAN, Douglas B.": 177,
+      "SANTOS, Peter John": 61,
+      "FISHER, Thomas Joseph": 59,
+      "PAULUHN, Jordan Lawrence": 31
+     },
+     "write_in": 0,
+     "total_votes": 567,
+     "overvotes": 2,
+     "undervotes": 14,
+     "contest_totals": 583
+    },
+    "PRECINCT 15A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 222,
+      "MOYLAN, Douglas B.": 141,
+      "FISHER, Thomas Joseph": 62,
+      "SANTOS, Peter John": 44,
+      "PAULUHN, Jordan Lawrence": 32
+     },
+     "write_in": 0,
+     "total_votes": 501,
+     "overvotes": 3,
+     "undervotes": 15,
+     "contest_totals": 519
+    },
+    "PRECINCT 15B": {
+     "votes": {
+      "TYDINGCO, Phillip James": 258,
+      "MOYLAN, Douglas B.": 162,
+      "FISHER, Thomas Joseph": 67,
+      "SANTOS, Peter John": 59,
+      "PAULUHN, Jordan Lawrence": 29
+     },
+     "write_in": 0,
+     "total_votes": 575,
+     "overvotes": 0,
+     "undervotes": 18,
+     "contest_totals": 593
+    },
+    "PRECINCT 15C": {
+     "votes": {
+      "TYDINGCO, Phillip James": 242,
+      "MOYLAN, Douglas B.": 187,
+      "FISHER, Thomas Joseph": 66,
+      "SANTOS, Peter John": 66,
+      "PAULUHN, Jordan Lawrence": 41
+     },
+     "write_in": 0,
+     "total_votes": 602,
+     "overvotes": 5,
+     "undervotes": 24,
+     "contest_totals": 631
+    },
+    "PRECINCT 16": {
+     "votes": {
+      "TYDINGCO, Phillip James": 233,
+      "MOYLAN, Douglas B.": 180,
+      "FISHER, Thomas Joseph": 75,
+      "SANTOS, Peter John": 53,
+      "PAULUHN, Jordan Lawrence": 29
+     },
+     "write_in": 0,
+     "total_votes": 570,
+     "overvotes": 1,
+     "undervotes": 14,
+     "contest_totals": 585
+    },
+    "PRECINCT 16A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 219,
+      "MOYLAN, Douglas B.": 211,
+      "FISHER, Thomas Joseph": 84,
+      "SANTOS, Peter John": 61,
+      "PAULUHN, Jordan Lawrence": 32
+     },
+     "write_in": 0,
+     "total_votes": 607,
+     "overvotes": 1,
+     "undervotes": 9,
+     "contest_totals": 617
+    },
+    "PRECINCT 16B": {
+     "votes": {
+      "TYDINGCO, Phillip James": 254,
+      "MOYLAN, Douglas B.": 163,
+      "FISHER, Thomas Joseph": 47,
+      "SANTOS, Peter John": 39,
+      "PAULUHN, Jordan Lawrence": 31
+     },
+     "write_in": 2,
+     "total_votes": 536,
+     "overvotes": 2,
+     "undervotes": 18,
+     "contest_totals": 556
+    },
+    "PRECINCT 16C": {
+     "votes": {
+      "TYDINGCO, Phillip James": 188,
+      "MOYLAN, Douglas B.": 148,
+      "SANTOS, Peter John": 64,
+      "FISHER, Thomas Joseph": 62,
+      "PAULUHN, Jordan Lawrence": 25
+     },
+     "write_in": 0,
+     "total_votes": 487,
+     "overvotes": 3,
+     "undervotes": 18,
+     "contest_totals": 508
+    },
+    "PRECINCT 16D": {
+     "votes": {
+      "TYDINGCO, Phillip James": 217,
+      "MOYLAN, Douglas B.": 180,
+      "SANTOS, Peter John": 68,
+      "FISHER, Thomas Joseph": 65,
+      "PAULUHN, Jordan Lawrence": 31
+     },
+     "write_in": 1,
+     "total_votes": 562,
+     "overvotes": 3,
+     "undervotes": 16,
+     "contest_totals": 581
+    },
+    "PRECINCT 17": {
+     "votes": {
+      "TYDINGCO, Phillip James": 224,
+      "MOYLAN, Douglas B.": 173,
+      "FISHER, Thomas Joseph": 69,
+      "SANTOS, Peter John": 35,
+      "PAULUHN, Jordan Lawrence": 17
+     },
+     "write_in": 0,
+     "total_votes": 518,
+     "overvotes": 1,
+     "undervotes": 16,
+     "contest_totals": 535
+    },
+    "PRECINCT 17A": {
+     "votes": {
+      "TYDINGCO, Phillip James": 241,
+      "MOYLAN, Douglas B.": 169,
+      "FISHER, Thomas Joseph": 47,
+      "SANTOS, Peter John": 29,
+      "PAULUHN, Jordan Lawrence": 27
+     },
+     "write_in": 0,
+     "total_votes": 513,
+     "overvotes": 4,
+     "undervotes": 18,
+     "contest_totals": 535
+    },
+    "PRECINCT 17B": {
+     "votes": {
+      "TYDINGCO, Phillip James": 185,
+      "MOYLAN, Douglas B.": 140,
+      "FISHER, Thomas Joseph": 54,
+      "SANTOS, Peter John": 32,
+      "PAULUHN, Jordan Lawrence": 23
+     },
+     "write_in": 0,
+     "total_votes": 434,
+     "overvotes": 4,
+     "undervotes": 11,
+     "contest_totals": 449
+    },
+    "PRECINCT 17C": {
+     "votes": {
+      "TYDINGCO, Phillip James": 212,
+      "MOYLAN, Douglas B.": 170,
+      "FISHER, Thomas Joseph": 51,
+      "PAULUHN, Jordan Lawrence": 34,
+      "SANTOS, Peter John": 31
+     },
+     "write_in": 1,
+     "total_votes": 499,
+     "overvotes": 2,
+     "undervotes": 18,
+     "contest_totals": 519
+    },
+    "PRECINCT 17D": {
+     "votes": {
+      "TYDINGCO, Phillip James": 205,
+      "MOYLAN, Douglas B.": 173,
+      "FISHER, Thomas Joseph": 54,
+      "PAULUHN, Jordan Lawrence": 33,
+      "SANTOS, Peter John": 28
+     },
+     "write_in": 0,
+     "total_votes": 493,
+     "overvotes": 4,
+     "undervotes": 15,
+     "contest_totals": 512
+    },
+    "PRECINCT 18": {
+     "votes": {
+      "MOYLAN, Douglas B.": 246,
+      "TYDINGCO, Phillip James": 178,
+      "FISHER, Thomas Joseph": 90,
+      "SANTOS, Peter John": 41,
+      "PAULUHN, Jordan Lawrence": 17
+     },
+     "write_in": 0,
+     "total_votes": 572,
+     "overvotes": 7,
+     "undervotes": 14,
+     "contest_totals": 593
+    },
+    "PRECINCT 18A": {
+     "votes": {
+      "MOYLAN, Douglas B.": 251,
+      "TYDINGCO, Phillip James": 187,
+      "SANTOS, Peter John": 74,
+      "FISHER, Thomas Joseph": 63,
+      "PAULUHN, Jordan Lawrence": 17
+     },
+     "write_in": 1,
+     "total_votes": 593,
+     "overvotes": 4,
+     "undervotes": 27,
+     "contest_totals": 624
+    },
+    "PRECINCT 18B": {
+     "votes": {
+      "MOYLAN, Douglas B.": 234,
+      "TYDINGCO, Phillip James": 178,
+      "SANTOS, Peter John": 72,
+      "FISHER, Thomas Joseph": 55,
+      "PAULUHN, Jordan Lawrence": 29
+     },
+     "write_in": 1,
+     "total_votes": 569,
+     "overvotes": 1,
+     "undervotes": 17,
+     "contest_totals": 587
+    },
+    "PRECINCT 18C": {
+     "votes": {
+      "MOYLAN, Douglas B.": 191,
+      "TYDINGCO, Phillip James": 140,
+      "FISHER, Thomas Joseph": 37,
+      "SANTOS, Peter John": 32,
+      "PAULUHN, Jordan Lawrence": 19
+     },
+     "write_in": 0,
+     "total_votes": 419,
+     "overvotes": 2,
+     "undervotes": 16,
+     "contest_totals": 437
+    },
+    "PRECINCT 18D": {
+     "votes": {
+      "MOYLAN, Douglas B.": 220,
+      "TYDINGCO, Phillip James": 131,
+      "FISHER, Thomas Joseph": 45,
+      "SANTOS, Peter John": 39,
+      "PAULUHN, Jordan Lawrence": 14
+     },
+     "write_in": 1,
+     "total_votes": 450,
+     "overvotes": 9,
+     "undervotes": 15,
+     "contest_totals": 474
+    },
+    "PRECINCT 18E": {
+     "votes": {
+      "MOYLAN, Douglas B.": 203,
+      "TYDINGCO, Phillip James": 128,
+      "FISHER, Thomas Joseph": 50,
+      "SANTOS, Peter John": 33,
+      "PAULUHN, Jordan Lawrence": 19
+     },
+     "write_in": 0,
+     "total_votes": 433,
+     "overvotes": 4,
+     "undervotes": 14,
+     "contest_totals": 451
+    },
+    "PRECINCT 18F": {
+     "votes": {
+      "MOYLAN, Douglas B.": 192,
+      "TYDINGCO, Phillip James": 122,
+      "FISHER, Thomas Joseph": 51,
+      "SANTOS, Peter John": 38,
+      "PAULUHN, Jordan Lawrence": 17
+     },
+     "write_in": 1,
+     "total_votes": 421,
+     "overvotes": 4,
+     "undervotes": 11,
+     "contest_totals": 436
+    },
+    "PRECINCT 18G": {
+     "votes": {
+      "MOYLAN, Douglas B.": 183,
+      "TYDINGCO, Phillip James": 113,
+      "FISHER, Thomas Joseph": 64,
+      "SANTOS, Peter John": 34,
+      "PAULUHN, Jordan Lawrence": 22
+     },
+     "write_in": 0,
+     "total_votes": 416,
+     "overvotes": 2,
+     "undervotes": 17,
+     "contest_totals": 435
+    },
+    "PRECINCT 18H": {
+     "votes": {
+      "MOYLAN, Douglas B.": 200,
+      "TYDINGCO, Phillip James": 109,
+      "FISHER, Thomas Joseph": 59,
+      "SANTOS, Peter John": 41,
+      "PAULUHN, Jordan Lawrence": 15
+     },
+     "write_in": 1,
+     "total_votes": 425,
+     "overvotes": 4,
+     "undervotes": 18,
+     "contest_totals": 447
+    },
+    "PRECINCT 18I": {
+     "votes": {
+      "MOYLAN, Douglas B.": 208,
+      "TYDINGCO, Phillip James": 156,
+      "FISHER, Thomas Joseph": 54,
+      "SANTOS, Peter John": 32,
+      "PAULUHN, Jordan Lawrence": 16
+     },
+     "write_in": 0,
+     "total_votes": 466,
+     "overvotes": 4,
+     "undervotes": 18,
+     "contest_totals": 488
+    },
+    "PRECINCT 18J": {
+     "votes": {
+      "MOYLAN, Douglas B.": 194,
+      "TYDINGCO, Phillip James": 180,
+      "FISHER, Thomas Joseph": 78,
+      "SANTOS, Peter John": 60,
+      "PAULUHN, Jordan Lawrence": 27
+     },
+     "write_in": 1,
+     "total_votes": 540,
+     "overvotes": 5,
+     "undervotes": 12,
+     "contest_totals": 557
+    },
+    "PRECINCT 18K": {
+     "votes": {
+      "MOYLAN, Douglas B.": 233,
+      "TYDINGCO, Phillip James": 194,
+      "FISHER, Thomas Joseph": 74,
+      "SANTOS, Peter John": 58,
+      "PAULUHN, Jordan Lawrence": 34
+     },
+     "write_in": 1,
+     "total_votes": 594,
+     "overvotes": 5,
+     "undervotes": 18,
+     "contest_totals": 617
+    },
+    "PRECINCT 18L": {
+     "votes": {
+      "MOYLAN, Douglas B.": 287,
+      "TYDINGCO, Phillip James": 177,
+      "FISHER, Thomas Joseph": 83,
+      "SANTOS, Peter John": 40,
+      "PAULUHN, Jordan Lawrence": 29
+     },
+     "write_in": 0,
+     "total_votes": 616,
+     "overvotes": 11,
+     "undervotes": 15,
+     "contest_totals": 642
+    },
+    "PRECINCT 19": {
+     "votes": {
+      "MOYLAN, Douglas B.": 197,
+      "TYDINGCO, Phillip James": 135,
+      "FISHER, Thomas Joseph": 76,
+      "SANTOS, Peter John": 44,
+      "PAULUHN, Jordan Lawrence": 28
+     },
+     "write_in": 0,
+     "total_votes": 480,
+     "overvotes": 10,
+     "undervotes": 17,
+     "contest_totals": 507
+    },
+    "PRECINCT 19A": {
+     "votes": {
+      "MOYLAN, Douglas B.": 237,
+      "TYDINGCO, Phillip James": 207,
+      "FISHER, Thomas Joseph": 60,
+      "SANTOS, Peter John": 52,
+      "PAULUHN, Jordan Lawrence": 26
+     },
+     "write_in": 0,
+     "total_votes": 582,
+     "overvotes": 6,
+     "undervotes": 11,
+     "contest_totals": 599
+    },
+    "PRECINCT 19B": {
+     "votes": {
+      "MOYLAN, Douglas B.": 187,
+      "TYDINGCO, Phillip James": 174,
+      "FISHER, Thomas Joseph": 75,
+      "SANTOS, Peter John": 72,
+      "PAULUHN, Jordan Lawrence": 32
+     },
+     "write_in": 0,
+     "total_votes": 540,
+     "overvotes": 6,
+     "undervotes": 12,
+     "contest_totals": 558
+    },
+    "PRECINCT 19C": {
+     "votes": {
+      "MOYLAN, Douglas B.": 194,
+      "TYDINGCO, Phillip James": 145,
+      "FISHER, Thomas Joseph": 56,
+      "SANTOS, Peter John": 50,
+      "PAULUHN, Jordan Lawrence": 29
+     },
+     "write_in": 1,
+     "total_votes": 475,
+     "overvotes": 5,
+     "undervotes": 19,
+     "contest_totals": 499
+    },
+    "PRECINCT 19D": {
+     "votes": {
+      "MOYLAN, Douglas B.": 148,
+      "TYDINGCO, Phillip James": 114,
+      "FISHER, Thomas Joseph": 65,
+      "SANTOS, Peter John": 42,
+      "PAULUHN, Jordan Lawrence": 21
+     },
+     "write_in": 0,
+     "total_votes": 390,
+     "overvotes": 3,
+     "undervotes": 19,
+     "contest_totals": 412
+    },
+    "PRECINCT 19E": {
+     "votes": {
+      "MOYLAN, Douglas B.": 160,
+      "TYDINGCO, Phillip James": 111,
+      "SANTOS, Peter John": 59,
+      "FISHER, Thomas Joseph": 55,
+      "PAULUHN, Jordan Lawrence": 23
+     },
+     "write_in": 0,
+     "total_votes": 408,
+     "overvotes": 3,
+     "undervotes": 17,
+     "contest_totals": 428
+    },
+    "PRECINCT 19F": {
+     "votes": {
+      "TYDINGCO, Phillip James": 150,
+      "MOYLAN, Douglas B.": 136,
+      "FISHER, Thomas Joseph": 60,
+      "SANTOS, Peter John": 37,
+      "PAULUHN, Jordan Lawrence": 29
+     },
+     "write_in": 0,
+     "total_votes": 412,
+     "overvotes": 2,
+     "undervotes": 12,
+     "contest_totals": 426
+    }
+   }
   },
   {
    "id": "consolidated-commission-on-utilities",
@@ -365,8 +5215,835 @@
    "overvotes": 408,
    "undervotes": 33177,
    "contest_totals": 94242,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 59,
+   "by_precinct": {
+    "PRECINCT 1": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 116,
+      "SANCHEZ, Simon A.": 106,
+      "SANTOS, Francis Edward Borja": 102,
+      "PEREZ, Kenneth Robert": 70,
+      "ADONAY, Roy Salvador Agudon": 57
+     },
+     "write_in": 0,
+     "total_votes": 451,
+     "overvotes": 0,
+     "undervotes": 278,
+     "contest_totals": 729
+    },
+    "PRECINCT 2": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 287,
+      "SANTOS, Francis Edward Borja": 253,
+      "SANCHEZ, Simon A.": 251,
+      "PEREZ, Kenneth Robert": 193,
+      "ADONAY, Roy Salvador Agudon": 120
+     },
+     "write_in": 3,
+     "total_votes": 1107,
+     "overvotes": 6,
+     "undervotes": 588,
+     "contest_totals": 1701
+    },
+    "PRECINCT 3": {
+     "votes": {
+      "SANCHEZ, Simon A.": 243,
+      "SANTOS, Francis Edward Borja": 218,
+      "LIMTIACO, Michael Troy": 214,
+      "PEREZ, Kenneth Robert": 151,
+      "ADONAY, Roy Salvador Agudon": 137
+     },
+     "write_in": 3,
+     "total_votes": 966,
+     "overvotes": 0,
+     "undervotes": 564,
+     "contest_totals": 1530
+    },
+    "PRECINCT 4": {
+     "votes": {
+      "SANCHEZ, Simon A.": 241,
+      "LIMTIACO, Michael Troy": 229,
+      "SANTOS, Francis Edward Borja": 229,
+      "ADONAY, Roy Salvador Agudon": 199,
+      "PEREZ, Kenneth Robert": 158
+     },
+     "write_in": 3,
+     "total_votes": 1059,
+     "overvotes": 9,
+     "undervotes": 822,
+     "contest_totals": 1890
+    },
+    "PRECINCT 4A": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 221,
+      "SANCHEZ, Simon A.": 217,
+      "SANTOS, Francis Edward Borja": 203,
+      "PEREZ, Kenneth Robert": 175,
+      "ADONAY, Roy Salvador Agudon": 168
+     },
+     "write_in": 3,
+     "total_votes": 987,
+     "overvotes": 6,
+     "undervotes": 633,
+     "contest_totals": 1626
+    },
+    "PRECINCT 5": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 225,
+      "SANCHEZ, Simon A.": 224,
+      "SANTOS, Francis Edward Borja": 216,
+      "PEREZ, Kenneth Robert": 181,
+      "ADONAY, Roy Salvador Agudon": 155
+     },
+     "write_in": 2,
+     "total_votes": 1003,
+     "overvotes": 6,
+     "undervotes": 593,
+     "contest_totals": 1602
+    },
+    "PRECINCT 5A": {
+     "votes": {
+      "SANTOS, Francis Edward Borja": 250,
+      "SANCHEZ, Simon A.": 247,
+      "LIMTIACO, Michael Troy": 245,
+      "PEREZ, Kenneth Robert": 201,
+      "ADONAY, Roy Salvador Agudon": 178
+     },
+     "write_in": 3,
+     "total_votes": 1124,
+     "overvotes": 3,
+     "undervotes": 643,
+     "contest_totals": 1770
+    },
+    "PRECINCT 6": {
+     "votes": {
+      "SANCHEZ, Simon A.": 122,
+      "LIMTIACO, Michael Troy": 108,
+      "SANTOS, Francis Edward Borja": 86,
+      "PEREZ, Kenneth Robert": 57,
+      "ADONAY, Roy Salvador Agudon": 30
+     },
+     "write_in": 2,
+     "total_votes": 405,
+     "overvotes": 0,
+     "undervotes": 408,
+     "contest_totals": 813
+    },
+    "PRECINCT 7": {
+     "votes": {
+      "SANCHEZ, Simon A.": 263,
+      "LIMTIACO, Michael Troy": 230,
+      "SANTOS, Francis Edward Borja": 230,
+      "PEREZ, Kenneth Robert": 191,
+      "ADONAY, Roy Salvador Agudon": 118
+     },
+     "write_in": 1,
+     "total_votes": 1033,
+     "overvotes": 0,
+     "undervotes": 722,
+     "contest_totals": 1755
+    },
+    "PRECINCT 8": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 212,
+      "SANCHEZ, Simon A.": 210,
+      "SANTOS, Francis Edward Borja": 181,
+      "PEREZ, Kenneth Robert": 144,
+      "ADONAY, Roy Salvador Agudon": 86
+     },
+     "write_in": 0,
+     "total_votes": 833,
+     "overvotes": 12,
+     "undervotes": 640,
+     "contest_totals": 1485
+    },
+    "PRECINCT 8A": {
+     "votes": {
+      "SANTOS, Francis Edward Borja": 199,
+      "LIMTIACO, Michael Troy": 194,
+      "SANCHEZ, Simon A.": 169,
+      "PEREZ, Kenneth Robert": 124,
+      "ADONAY, Roy Salvador Agudon": 87
+     },
+     "write_in": 4,
+     "total_votes": 777,
+     "overvotes": 12,
+     "undervotes": 543,
+     "contest_totals": 1332
+    },
+    "PRECINCT 9": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 271,
+      "SANCHEZ, Simon A.": 267,
+      "SANTOS, Francis Edward Borja": 245,
+      "PEREZ, Kenneth Robert": 223,
+      "ADONAY, Roy Salvador Agudon": 136
+     },
+     "write_in": 6,
+     "total_votes": 1148,
+     "overvotes": 9,
+     "undervotes": 565,
+     "contest_totals": 1722
+    },
+    "PRECINCT 9A": {
+     "votes": {
+      "SANCHEZ, Simon A.": 257,
+      "LIMTIACO, Michael Troy": 218,
+      "SANTOS, Francis Edward Borja": 212,
+      "PEREZ, Kenneth Robert": 174,
+      "ADONAY, Roy Salvador Agudon": 117
+     },
+     "write_in": 3,
+     "total_votes": 981,
+     "overvotes": 9,
+     "undervotes": 510,
+     "contest_totals": 1500
+    },
+    "PRECINCT 10": {
+     "votes": {
+      "SANTOS, Francis Edward Borja": 281,
+      "SANCHEZ, Simon A.": 274,
+      "LIMTIACO, Michael Troy": 268,
+      "PEREZ, Kenneth Robert": 213,
+      "ADONAY, Roy Salvador Agudon": 144
+     },
+     "write_in": 2,
+     "total_votes": 1182,
+     "overvotes": 3,
+     "undervotes": 702,
+     "contest_totals": 1887
+    },
+    "PRECINCT 10A": {
+     "votes": {
+      "SANCHEZ, Simon A.": 288,
+      "SANTOS, Francis Edward Borja": 262,
+      "LIMTIACO, Michael Troy": 259,
+      "PEREZ, Kenneth Robert": 213,
+      "ADONAY, Roy Salvador Agudon": 150
+     },
+     "write_in": 1,
+     "total_votes": 1173,
+     "overvotes": 0,
+     "undervotes": 570,
+     "contest_totals": 1743
+    },
+    "PRECINCT 10B": {
+     "votes": {
+      "SANCHEZ, Simon A.": 276,
+      "LIMTIACO, Michael Troy": 272,
+      "SANTOS, Francis Edward Borja": 270,
+      "PEREZ, Kenneth Robert": 214,
+      "ADONAY, Roy Salvador Agudon": 132
+     },
+     "write_in": 0,
+     "total_votes": 1164,
+     "overvotes": 9,
+     "undervotes": 663,
+     "contest_totals": 1836
+    },
+    "PRECINCT 11": {
+     "votes": {
+      "SANCHEZ, Simon A.": 280,
+      "LIMTIACO, Michael Troy": 252,
+      "SANTOS, Francis Edward Borja": 243,
+      "PEREZ, Kenneth Robert": 228,
+      "ADONAY, Roy Salvador Agudon": 166
+     },
+     "write_in": 6,
+     "total_votes": 1175,
+     "overvotes": 9,
+     "undervotes": 667,
+     "contest_totals": 1851
+    },
+    "PRECINCT 11A": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 260,
+      "SANCHEZ, Simon A.": 258,
+      "SANTOS, Francis Edward Borja": 258,
+      "PEREZ, Kenneth Robert": 194,
+      "ADONAY, Roy Salvador Agudon": 155
+     },
+     "write_in": 4,
+     "total_votes": 1129,
+     "overvotes": 9,
+     "undervotes": 566,
+     "contest_totals": 1704
+    },
+    "PRECINCT 11B": {
+     "votes": {
+      "SANCHEZ, Simon A.": 289,
+      "LIMTIACO, Michael Troy": 273,
+      "SANTOS, Francis Edward Borja": 270,
+      "PEREZ, Kenneth Robert": 215,
+      "ADONAY, Roy Salvador Agudon": 152
+     },
+     "write_in": 2,
+     "total_votes": 1201,
+     "overvotes": 3,
+     "undervotes": 602,
+     "contest_totals": 1806
+    },
+    "PRECINCT 12": {
+     "votes": {
+      "SANCHEZ, Simon A.": 274,
+      "SANTOS, Francis Edward Borja": 262,
+      "LIMTIACO, Michael Troy": 260,
+      "PEREZ, Kenneth Robert": 226,
+      "ADONAY, Roy Salvador Agudon": 149
+     },
+     "write_in": 3,
+     "total_votes": 1174,
+     "overvotes": 3,
+     "undervotes": 485,
+     "contest_totals": 1662
+    },
+    "PRECINCT 12A": {
+     "votes": {
+      "SANTOS, Francis Edward Borja": 232,
+      "SANCHEZ, Simon A.": 224,
+      "LIMTIACO, Michael Troy": 222,
+      "PEREZ, Kenneth Robert": 172,
+      "ADONAY, Roy Salvador Agudon": 105
+     },
+     "write_in": 3,
+     "total_votes": 958,
+     "overvotes": 6,
+     "undervotes": 518,
+     "contest_totals": 1482
+    },
+    "PRECINCT 13": {
+     "votes": {
+      "SANTOS, Francis Edward Borja": 253,
+      "LIMTIACO, Michael Troy": 246,
+      "SANCHEZ, Simon A.": 240,
+      "PEREZ, Kenneth Robert": 170,
+      "ADONAY, Roy Salvador Agudon": 133
+     },
+     "write_in": 2,
+     "total_votes": 1044,
+     "overvotes": 12,
+     "undervotes": 528,
+     "contest_totals": 1584
+    },
+    "PRECINCT 13A": {
+     "votes": {
+      "SANTOS, Francis Edward Borja": 244,
+      "SANCHEZ, Simon A.": 231,
+      "LIMTIACO, Michael Troy": 218,
+      "PEREZ, Kenneth Robert": 150,
+      "ADONAY, Roy Salvador Agudon": 102
+     },
+     "write_in": 3,
+     "total_votes": 948,
+     "overvotes": 6,
+     "undervotes": 507,
+     "contest_totals": 1461
+    },
+    "PRECINCT 14": {
+     "votes": {
+      "SANCHEZ, Simon A.": 354,
+      "LIMTIACO, Michael Troy": 337,
+      "SANTOS, Francis Edward Borja": 270,
+      "PEREZ, Kenneth Robert": 224,
+      "ADONAY, Roy Salvador Agudon": 169
+     },
+     "write_in": 5,
+     "total_votes": 1359,
+     "overvotes": 6,
+     "undervotes": 684,
+     "contest_totals": 2049
+    },
+    "PRECINCT 14A": {
+     "votes": {
+      "SANCHEZ, Simon A.": 317,
+      "LIMTIACO, Michael Troy": 314,
+      "SANTOS, Francis Edward Borja": 260,
+      "PEREZ, Kenneth Robert": 200,
+      "ADONAY, Roy Salvador Agudon": 185
+     },
+     "write_in": 3,
+     "total_votes": 1279,
+     "overvotes": 3,
+     "undervotes": 620,
+     "contest_totals": 1902
+    },
+    "PRECINCT 15": {
+     "votes": {
+      "SANCHEZ, Simon A.": 328,
+      "LIMTIACO, Michael Troy": 282,
+      "SANTOS, Francis Edward Borja": 282,
+      "PEREZ, Kenneth Robert": 193,
+      "ADONAY, Roy Salvador Agudon": 160
+     },
+     "write_in": 4,
+     "total_votes": 1249,
+     "overvotes": 0,
+     "undervotes": 500,
+     "contest_totals": 1749
+    },
+    "PRECINCT 15A": {
+     "votes": {
+      "SANCHEZ, Simon A.": 251,
+      "LIMTIACO, Michael Troy": 238,
+      "SANTOS, Francis Edward Borja": 219,
+      "PEREZ, Kenneth Robert": 188,
+      "ADONAY, Roy Salvador Agudon": 143
+     },
+     "write_in": 3,
+     "total_votes": 1042,
+     "overvotes": 9,
+     "undervotes": 506,
+     "contest_totals": 1557
+    },
+    "PRECINCT 15B": {
+     "votes": {
+      "SANCHEZ, Simon A.": 283,
+      "LIMTIACO, Michael Troy": 262,
+      "SANTOS, Francis Edward Borja": 226,
+      "PEREZ, Kenneth Robert": 218,
+      "ADONAY, Roy Salvador Agudon": 164
+     },
+     "write_in": 3,
+     "total_votes": 1156,
+     "overvotes": 6,
+     "undervotes": 617,
+     "contest_totals": 1779
+    },
+    "PRECINCT 15C": {
+     "votes": {
+      "SANCHEZ, Simon A.": 284,
+      "LIMTIACO, Michael Troy": 263,
+      "SANTOS, Francis Edward Borja": 254,
+      "PEREZ, Kenneth Robert": 192,
+      "ADONAY, Roy Salvador Agudon": 156
+     },
+     "write_in": 2,
+     "total_votes": 1151,
+     "overvotes": 6,
+     "undervotes": 736,
+     "contest_totals": 1893
+    },
+    "PRECINCT 16": {
+     "votes": {
+      "SANCHEZ, Simon A.": 274,
+      "LIMTIACO, Michael Troy": 272,
+      "SANTOS, Francis Edward Borja": 263,
+      "PEREZ, Kenneth Robert": 197,
+      "ADONAY, Roy Salvador Agudon": 184
+     },
+     "write_in": 1,
+     "total_votes": 1191,
+     "overvotes": 6,
+     "undervotes": 558,
+     "contest_totals": 1755
+    },
+    "PRECINCT 16A": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 293,
+      "SANCHEZ, Simon A.": 285,
+      "SANTOS, Francis Edward Borja": 265,
+      "PEREZ, Kenneth Robert": 216,
+      "ADONAY, Roy Salvador Agudon": 186
+     },
+     "write_in": 4,
+     "total_votes": 1249,
+     "overvotes": 6,
+     "undervotes": 596,
+     "contest_totals": 1851
+    },
+    "PRECINCT 16B": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 251,
+      "SANCHEZ, Simon A.": 246,
+      "SANTOS, Francis Edward Borja": 228,
+      "PEREZ, Kenneth Robert": 198,
+      "ADONAY, Roy Salvador Agudon": 183
+     },
+     "write_in": 1,
+     "total_votes": 1107,
+     "overvotes": 12,
+     "undervotes": 549,
+     "contest_totals": 1668
+    },
+    "PRECINCT 16C": {
+     "votes": {
+      "SANCHEZ, Simon A.": 235,
+      "LIMTIACO, Michael Troy": 227,
+      "SANTOS, Francis Edward Borja": 196,
+      "PEREZ, Kenneth Robert": 164,
+      "ADONAY, Roy Salvador Agudon": 157
+     },
+     "write_in": 4,
+     "total_votes": 983,
+     "overvotes": 3,
+     "undervotes": 538,
+     "contest_totals": 1524
+    },
+    "PRECINCT 16D": {
+     "votes": {
+      "SANCHEZ, Simon A.": 263,
+      "LIMTIACO, Michael Troy": 260,
+      "SANTOS, Francis Edward Borja": 239,
+      "PEREZ, Kenneth Robert": 204,
+      "ADONAY, Roy Salvador Agudon": 184
+     },
+     "write_in": 1,
+     "total_votes": 1151,
+     "overvotes": 3,
+     "undervotes": 589,
+     "contest_totals": 1743
+    },
+    "PRECINCT 17": {
+     "votes": {
+      "SANCHEZ, Simon A.": 279,
+      "LIMTIACO, Michael Troy": 250,
+      "SANTOS, Francis Edward Borja": 219,
+      "ADONAY, Roy Salvador Agudon": 160,
+      "PEREZ, Kenneth Robert": 156
+     },
+     "write_in": 8,
+     "total_votes": 1072,
+     "overvotes": 12,
+     "undervotes": 521,
+     "contest_totals": 1605
+    },
+    "PRECINCT 17A": {
+     "votes": {
+      "SANCHEZ, Simon A.": 254,
+      "LIMTIACO, Michael Troy": 223,
+      "SANTOS, Francis Edward Borja": 196,
+      "ADONAY, Roy Salvador Agudon": 157,
+      "PEREZ, Kenneth Robert": 146
+     },
+     "write_in": 2,
+     "total_votes": 978,
+     "overvotes": 12,
+     "undervotes": 615,
+     "contest_totals": 1605
+    },
+    "PRECINCT 17B": {
+     "votes": {
+      "SANCHEZ, Simon A.": 215,
+      "LIMTIACO, Michael Troy": 212,
+      "SANTOS, Francis Edward Borja": 168,
+      "PEREZ, Kenneth Robert": 149,
+      "ADONAY, Roy Salvador Agudon": 149
+     },
+     "write_in": 3,
+     "total_votes": 896,
+     "overvotes": 3,
+     "undervotes": 448,
+     "contest_totals": 1347
+    },
+    "PRECINCT 17C": {
+     "votes": {
+      "SANCHEZ, Simon A.": 254,
+      "LIMTIACO, Michael Troy": 239,
+      "SANTOS, Francis Edward Borja": 206,
+      "ADONAY, Roy Salvador Agudon": 167,
+      "PEREZ, Kenneth Robert": 164
+     },
+     "write_in": 2,
+     "total_votes": 1032,
+     "overvotes": 12,
+     "undervotes": 513,
+     "contest_totals": 1557
+    },
+    "PRECINCT 17D": {
+     "votes": {
+      "SANCHEZ, Simon A.": 255,
+      "LIMTIACO, Michael Troy": 218,
+      "SANTOS, Francis Edward Borja": 194,
+      "ADONAY, Roy Salvador Agudon": 179,
+      "PEREZ, Kenneth Robert": 156
+     },
+     "write_in": 0,
+     "total_votes": 1002,
+     "overvotes": 3,
+     "undervotes": 531,
+     "contest_totals": 1536
+    },
+    "PRECINCT 18": {
+     "votes": {
+      "SANCHEZ, Simon A.": 277,
+      "LIMTIACO, Michael Troy": 242,
+      "ADONAY, Roy Salvador Agudon": 220,
+      "SANTOS, Francis Edward Borja": 195,
+      "PEREZ, Kenneth Robert": 177
+     },
+     "write_in": 2,
+     "total_votes": 1113,
+     "overvotes": 12,
+     "undervotes": 654,
+     "contest_totals": 1779
+    },
+    "PRECINCT 18A": {
+     "votes": {
+      "SANCHEZ, Simon A.": 273,
+      "LIMTIACO, Michael Troy": 250,
+      "ADONAY, Roy Salvador Agudon": 220,
+      "SANTOS, Francis Edward Borja": 215,
+      "PEREZ, Kenneth Robert": 177
+     },
+     "write_in": 3,
+     "total_votes": 1138,
+     "overvotes": 3,
+     "undervotes": 731,
+     "contest_totals": 1872
+    },
+    "PRECINCT 18B": {
+     "votes": {
+      "SANCHEZ, Simon A.": 271,
+      "LIMTIACO, Michael Troy": 263,
+      "SANTOS, Francis Edward Borja": 226,
+      "PEREZ, Kenneth Robert": 198,
+      "ADONAY, Roy Salvador Agudon": 175
+     },
+     "write_in": 2,
+     "total_votes": 1135,
+     "overvotes": 15,
+     "undervotes": 611,
+     "contest_totals": 1761
+    },
+    "PRECINCT 18C": {
+     "votes": {
+      "SANCHEZ, Simon A.": 206,
+      "LIMTIACO, Michael Troy": 188,
+      "ADONAY, Roy Salvador Agudon": 183,
+      "SANTOS, Francis Edward Borja": 138,
+      "PEREZ, Kenneth Robert": 131
+     },
+     "write_in": 2,
+     "total_votes": 848,
+     "overvotes": 3,
+     "undervotes": 460,
+     "contest_totals": 1311
+    },
+    "PRECINCT 18D": {
+     "votes": {
+      "SANCHEZ, Simon A.": 217,
+      "LIMTIACO, Michael Troy": 193,
+      "ADONAY, Roy Salvador Agudon": 192,
+      "SANTOS, Francis Edward Borja": 156,
+      "PEREZ, Kenneth Robert": 141
+     },
+     "write_in": 1,
+     "total_votes": 900,
+     "overvotes": 9,
+     "undervotes": 513,
+     "contest_totals": 1422
+    },
+    "PRECINCT 18E": {
+     "votes": {
+      "SANCHEZ, Simon A.": 210,
+      "LIMTIACO, Michael Troy": 199,
+      "SANTOS, Francis Edward Borja": 162,
+      "ADONAY, Roy Salvador Agudon": 161,
+      "PEREZ, Kenneth Robert": 154
+     },
+     "write_in": 4,
+     "total_votes": 890,
+     "overvotes": 12,
+     "undervotes": 451,
+     "contest_totals": 1353
+    },
+    "PRECINCT 18F": {
+     "votes": {
+      "SANCHEZ, Simon A.": 200,
+      "LIMTIACO, Michael Troy": 196,
+      "ADONAY, Roy Salvador Agudon": 178,
+      "PEREZ, Kenneth Robert": 159,
+      "SANTOS, Francis Edward Borja": 150
+     },
+     "write_in": 4,
+     "total_votes": 887,
+     "overvotes": 12,
+     "undervotes": 409,
+     "contest_totals": 1308
+    },
+    "PRECINCT 18G": {
+     "votes": {
+      "SANCHEZ, Simon A.": 202,
+      "LIMTIACO, Michael Troy": 186,
+      "ADONAY, Roy Salvador Agudon": 167,
+      "SANTOS, Francis Edward Borja": 139,
+      "PEREZ, Kenneth Robert": 128
+     },
+     "write_in": 3,
+     "total_votes": 825,
+     "overvotes": 9,
+     "undervotes": 471,
+     "contest_totals": 1305
+    },
+    "PRECINCT 18H": {
+     "votes": {
+      "SANCHEZ, Simon A.": 205,
+      "LIMTIACO, Michael Troy": 196,
+      "ADONAY, Roy Salvador Agudon": 170,
+      "SANTOS, Francis Edward Borja": 161,
+      "PEREZ, Kenneth Robert": 145
+     },
+     "write_in": 3,
+     "total_votes": 880,
+     "overvotes": 3,
+     "undervotes": 458,
+     "contest_totals": 1341
+    },
+    "PRECINCT 18I": {
+     "votes": {
+      "SANCHEZ, Simon A.": 237,
+      "LIMTIACO, Michael Troy": 208,
+      "SANTOS, Francis Edward Borja": 192,
+      "ADONAY, Roy Salvador Agudon": 175,
+      "PEREZ, Kenneth Robert": 168
+     },
+     "write_in": 0,
+     "total_votes": 980,
+     "overvotes": 15,
+     "undervotes": 469,
+     "contest_totals": 1464
+    },
+    "PRECINCT 18J": {
+     "votes": {
+      "SANCHEZ, Simon A.": 272,
+      "LIMTIACO, Michael Troy": 239,
+      "SANTOS, Francis Edward Borja": 211,
+      "PEREZ, Kenneth Robert": 187,
+      "ADONAY, Roy Salvador Agudon": 187
+     },
+     "write_in": 3,
+     "total_votes": 1099,
+     "overvotes": 6,
+     "undervotes": 566,
+     "contest_totals": 1671
+    },
+    "PRECINCT 18K": {
+     "votes": {
+      "LIMTIACO, Michael Troy": 267,
+      "SANCHEZ, Simon A.": 267,
+      "SANTOS, Francis Edward Borja": 234,
+      "ADONAY, Roy Salvador Agudon": 200,
+      "PEREZ, Kenneth Robert": 183
+     },
+     "write_in": 2,
+     "total_votes": 1153,
+     "overvotes": 6,
+     "undervotes": 692,
+     "contest_totals": 1851
+    },
+    "PRECINCT 18L": {
+     "votes": {
+      "SANCHEZ, Simon A.": 281,
+      "LIMTIACO, Michael Troy": 272,
+      "ADONAY, Roy Salvador Agudon": 256,
+      "PEREZ, Kenneth Robert": 229,
+      "SANTOS, Francis Edward Borja": 207
+     },
+     "write_in": 2,
+     "total_votes": 1247,
+     "overvotes": 15,
+     "undervotes": 664,
+     "contest_totals": 1926
+    },
+    "PRECINCT 19": {
+     "votes": {
+      "SANCHEZ, Simon A.": 241,
+      "LIMTIACO, Michael Troy": 210,
+      "ADONAY, Roy Salvador Agudon": 187,
+      "PEREZ, Kenneth Robert": 156,
+      "SANTOS, Francis Edward Borja": 150
+     },
+     "write_in": 3,
+     "total_votes": 947,
+     "overvotes": 12,
+     "undervotes": 562,
+     "contest_totals": 1521
+    },
+    "PRECINCT 19A": {
+     "votes": {
+      "SANCHEZ, Simon A.": 311,
+      "LIMTIACO, Michael Troy": 268,
+      "PEREZ, Kenneth Robert": 217,
+      "SANTOS, Francis Edward Borja": 213,
+      "ADONAY, Roy Salvador Agudon": 197
+     },
+     "write_in": 5,
+     "total_votes": 1211,
+     "overvotes": 3,
+     "undervotes": 583,
+     "contest_totals": 1797
+    },
+    "PRECINCT 19B": {
+     "votes": {
+      "SANCHEZ, Simon A.": 304,
+      "LIMTIACO, Michael Troy": 250,
+      "ADONAY, Roy Salvador Agudon": 198,
+      "PEREZ, Kenneth Robert": 193,
+      "SANTOS, Francis Edward Borja": 190
+     },
+     "write_in": 5,
+     "total_votes": 1140,
+     "overvotes": 9,
+     "undervotes": 525,
+     "contest_totals": 1674
+    },
+    "PRECINCT 19C": {
+     "votes": {
+      "SANCHEZ, Simon A.": 237,
+      "LIMTIACO, Michael Troy": 219,
+      "ADONAY, Roy Salvador Agudon": 165,
+      "PEREZ, Kenneth Robert": 163,
+      "SANTOS, Francis Edward Borja": 155
+     },
+     "write_in": 0,
+     "total_votes": 939,
+     "overvotes": 12,
+     "undervotes": 546,
+     "contest_totals": 1497
+    },
+    "PRECINCT 19D": {
+     "votes": {
+      "SANCHEZ, Simon A.": 188,
+      "LIMTIACO, Michael Troy": 171,
+      "PEREZ, Kenneth Robert": 156,
+      "SANTOS, Francis Edward Borja": 143,
+      "ADONAY, Roy Salvador Agudon": 127
+     },
+     "write_in": 4,
+     "total_votes": 789,
+     "overvotes": 0,
+     "undervotes": 447,
+     "contest_totals": 1236
+    },
+    "PRECINCT 19E": {
+     "votes": {
+      "SANCHEZ, Simon A.": 197,
+      "ADONAY, Roy Salvador Agudon": 153,
+      "LIMTIACO, Michael Troy": 151,
+      "PEREZ, Kenneth Robert": 145,
+      "SANTOS, Francis Edward Borja": 136
+     },
+     "write_in": 3,
+     "total_votes": 785,
+     "overvotes": 6,
+     "undervotes": 493,
+     "contest_totals": 1284
+    },
+    "PRECINCT 19F": {
+     "votes": {
+      "SANCHEZ, Simon A.": 200,
+      "LIMTIACO, Michael Troy": 164,
+      "PEREZ, Kenneth Robert": 160,
+      "ADONAY, Roy Salvador Agudon": 153,
+      "SANTOS, Francis Edward Borja": 151
+     },
+     "write_in": 4,
+     "total_votes": 832,
+     "overvotes": 12,
+     "undervotes": 434,
+     "contest_totals": 1278
+    }
+   }
   },
   {
    "id": "guam-education-board",
@@ -405,15 +6082,853 @@
    "overvotes": 0,
    "undervotes": 79925,
    "contest_totals": 125656,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 59,
+   "by_precinct": {
+    "PRECINCT 1": {
+     "votes": {
+      "TAITANO, John R. II": 108,
+      "MC NINCH, Ronald Lewis Jr.": 82,
+      "AGUON, Isaiah John": 77,
+      "AYUYU, Ronald Anthony": 64
+     },
+     "write_in": null,
+     "total_votes": 331,
+     "overvotes": 0,
+     "undervotes": 641,
+     "contest_totals": 972
+    },
+    "PRECINCT 2": {
+     "votes": {
+      "TAITANO, John R. II": 248,
+      "MC NINCH, Ronald Lewis Jr.": 215,
+      "AGUON, Isaiah John": 150,
+      "AYUYU, Ronald Anthony": 131
+     },
+     "write_in": null,
+     "total_votes": 744,
+     "overvotes": 0,
+     "undervotes": 1524,
+     "contest_totals": 2268
+    },
+    "PRECINCT 3": {
+     "votes": {
+      "TAITANO, John R. II": 218,
+      "MC NINCH, Ronald Lewis Jr.": 206,
+      "AGUON, Isaiah John": 145,
+      "AYUYU, Ronald Anthony": 118
+     },
+     "write_in": null,
+     "total_votes": 687,
+     "overvotes": 0,
+     "undervotes": 1353,
+     "contest_totals": 2040
+    },
+    "PRECINCT 4": {
+     "votes": {
+      "TAITANO, John R. II": 247,
+      "MC NINCH, Ronald Lewis Jr.": 218,
+      "AGUON, Isaiah John": 210,
+      "AYUYU, Ronald Anthony": 159
+     },
+     "write_in": null,
+     "total_votes": 834,
+     "overvotes": 0,
+     "undervotes": 1686,
+     "contest_totals": 2520
+    },
+    "PRECINCT 4A": {
+     "votes": {
+      "TAITANO, John R. II": 233,
+      "MC NINCH, Ronald Lewis Jr.": 193,
+      "AGUON, Isaiah John": 177,
+      "AYUYU, Ronald Anthony": 122
+     },
+     "write_in": null,
+     "total_votes": 725,
+     "overvotes": 0,
+     "undervotes": 1443,
+     "contest_totals": 2168
+    },
+    "PRECINCT 5": {
+     "votes": {
+      "TAITANO, John R. II": 260,
+      "MC NINCH, Ronald Lewis Jr.": 197,
+      "AGUON, Isaiah John": 193,
+      "AYUYU, Ronald Anthony": 159
+     },
+     "write_in": null,
+     "total_votes": 809,
+     "overvotes": 0,
+     "undervotes": 1327,
+     "contest_totals": 2136
+    },
+    "PRECINCT 5A": {
+     "votes": {
+      "TAITANO, John R. II": 273,
+      "MC NINCH, Ronald Lewis Jr.": 204,
+      "AGUON, Isaiah John": 192,
+      "AYUYU, Ronald Anthony": 165
+     },
+     "write_in": null,
+     "total_votes": 834,
+     "overvotes": 0,
+     "undervotes": 1526,
+     "contest_totals": 2360
+    },
+    "PRECINCT 6": {
+     "votes": {
+      "AGUON, Isaiah John": 116,
+      "TAITANO, John R. II": 104,
+      "MC NINCH, Ronald Lewis Jr.": 63,
+      "AYUYU, Ronald Anthony": 51
+     },
+     "write_in": null,
+     "total_votes": 334,
+     "overvotes": 0,
+     "undervotes": 750,
+     "contest_totals": 1084
+    },
+    "PRECINCT 7": {
+     "votes": {
+      "TAITANO, John R. II": 271,
+      "MC NINCH, Ronald Lewis Jr.": 197,
+      "AGUON, Isaiah John": 192,
+      "AYUYU, Ronald Anthony": 151
+     },
+     "write_in": null,
+     "total_votes": 811,
+     "overvotes": 0,
+     "undervotes": 1529,
+     "contest_totals": 2340
+    },
+    "PRECINCT 8": {
+     "votes": {
+      "TAITANO, John R. II": 200,
+      "MC NINCH, Ronald Lewis Jr.": 168,
+      "AGUON, Isaiah John": 147,
+      "AYUYU, Ronald Anthony": 119
+     },
+     "write_in": null,
+     "total_votes": 634,
+     "overvotes": 0,
+     "undervotes": 1346,
+     "contest_totals": 1980
+    },
+    "PRECINCT 8A": {
+     "votes": {
+      "TAITANO, John R. II": 169,
+      "AGUON, Isaiah John": 153,
+      "MC NINCH, Ronald Lewis Jr.": 147,
+      "AYUYU, Ronald Anthony": 107
+     },
+     "write_in": null,
+     "total_votes": 576,
+     "overvotes": 0,
+     "undervotes": 1200,
+     "contest_totals": 1776
+    },
+    "PRECINCT 9": {
+     "votes": {
+      "TAITANO, John R. II": 271,
+      "MC NINCH, Ronald Lewis Jr.": 220,
+      "AGUON, Isaiah John": 206,
+      "AYUYU, Ronald Anthony": 165
+     },
+     "write_in": null,
+     "total_votes": 862,
+     "overvotes": 0,
+     "undervotes": 1434,
+     "contest_totals": 2296
+    },
+    "PRECINCT 9A": {
+     "votes": {
+      "TAITANO, John R. II": 261,
+      "MC NINCH, Ronald Lewis Jr.": 203,
+      "AGUON, Isaiah John": 175,
+      "AYUYU, Ronald Anthony": 161
+     },
+     "write_in": null,
+     "total_votes": 800,
+     "overvotes": 0,
+     "undervotes": 1200,
+     "contest_totals": 2000
+    },
+    "PRECINCT 10": {
+     "votes": {
+      "TAITANO, John R. II": 273,
+      "AGUON, Isaiah John": 220,
+      "MC NINCH, Ronald Lewis Jr.": 217,
+      "AYUYU, Ronald Anthony": 169
+     },
+     "write_in": null,
+     "total_votes": 879,
+     "overvotes": 0,
+     "undervotes": 1637,
+     "contest_totals": 2516
+    },
+    "PRECINCT 10A": {
+     "votes": {
+      "TAITANO, John R. II": 286,
+      "MC NINCH, Ronald Lewis Jr.": 252,
+      "AGUON, Isaiah John": 198,
+      "AYUYU, Ronald Anthony": 175
+     },
+     "write_in": null,
+     "total_votes": 911,
+     "overvotes": 0,
+     "undervotes": 1413,
+     "contest_totals": 2324
+    },
+    "PRECINCT 10B": {
+     "votes": {
+      "TAITANO, John R. II": 271,
+      "MC NINCH, Ronald Lewis Jr.": 241,
+      "AGUON, Isaiah John": 204,
+      "AYUYU, Ronald Anthony": 149
+     },
+     "write_in": null,
+     "total_votes": 865,
+     "overvotes": 0,
+     "undervotes": 1583,
+     "contest_totals": 2448
+    },
+    "PRECINCT 11": {
+     "votes": {
+      "TAITANO, John R. II": 281,
+      "MC NINCH, Ronald Lewis Jr.": 252,
+      "AGUON, Isaiah John": 218,
+      "AYUYU, Ronald Anthony": 169
+     },
+     "write_in": null,
+     "total_votes": 920,
+     "overvotes": 0,
+     "undervotes": 1548,
+     "contest_totals": 2468
+    },
+    "PRECINCT 11A": {
+     "votes": {
+      "TAITANO, John R. II": 273,
+      "MC NINCH, Ronald Lewis Jr.": 258,
+      "AGUON, Isaiah John": 195,
+      "AYUYU, Ronald Anthony": 169
+     },
+     "write_in": null,
+     "total_votes": 895,
+     "overvotes": 0,
+     "undervotes": 1377,
+     "contest_totals": 2272
+    },
+    "PRECINCT 11B": {
+     "votes": {
+      "TAITANO, John R. II": 286,
+      "MC NINCH, Ronald Lewis Jr.": 252,
+      "AGUON, Isaiah John": 185,
+      "AYUYU, Ronald Anthony": 177
+     },
+     "write_in": null,
+     "total_votes": 900,
+     "overvotes": 0,
+     "undervotes": 1508,
+     "contest_totals": 2408
+    },
+    "PRECINCT 12": {
+     "votes": {
+      "TAITANO, John R. II": 305,
+      "MC NINCH, Ronald Lewis Jr.": 228,
+      "AGUON, Isaiah John": 190,
+      "AYUYU, Ronald Anthony": 183
+     },
+     "write_in": null,
+     "total_votes": 906,
+     "overvotes": 0,
+     "undervotes": 1310,
+     "contest_totals": 2216
+    },
+    "PRECINCT 12A": {
+     "votes": {
+      "TAITANO, John R. II": 231,
+      "MC NINCH, Ronald Lewis Jr.": 170,
+      "AGUON, Isaiah John": 143,
+      "AYUYU, Ronald Anthony": 119
+     },
+     "write_in": null,
+     "total_votes": 663,
+     "overvotes": 0,
+     "undervotes": 1313,
+     "contest_totals": 1976
+    },
+    "PRECINCT 13": {
+     "votes": {
+      "TAITANO, John R. II": 276,
+      "MC NINCH, Ronald Lewis Jr.": 190,
+      "AGUON, Isaiah John": 145,
+      "AYUYU, Ronald Anthony": 135
+     },
+     "write_in": null,
+     "total_votes": 746,
+     "overvotes": 0,
+     "undervotes": 1366,
+     "contest_totals": 2112
+    },
+    "PRECINCT 13A": {
+     "votes": {
+      "TAITANO, John R. II": 261,
+      "MC NINCH, Ronald Lewis Jr.": 192,
+      "AGUON, Isaiah John": 146,
+      "AYUYU, Ronald Anthony": 112
+     },
+     "write_in": null,
+     "total_votes": 711,
+     "overvotes": 0,
+     "undervotes": 1237,
+     "contest_totals": 1948
+    },
+    "PRECINCT 14": {
+     "votes": {
+      "TAITANO, John R. II": 384,
+      "MC NINCH, Ronald Lewis Jr.": 295,
+      "AGUON, Isaiah John": 238,
+      "AYUYU, Ronald Anthony": 209
+     },
+     "write_in": null,
+     "total_votes": 1126,
+     "overvotes": 0,
+     "undervotes": 1606,
+     "contest_totals": 2732
+    },
+    "PRECINCT 14A": {
+     "votes": {
+      "TAITANO, John R. II": 340,
+      "MC NINCH, Ronald Lewis Jr.": 263,
+      "AGUON, Isaiah John": 229,
+      "AYUYU, Ronald Anthony": 205
+     },
+     "write_in": null,
+     "total_votes": 1037,
+     "overvotes": 0,
+     "undervotes": 1499,
+     "contest_totals": 2536
+    },
+    "PRECINCT 15": {
+     "votes": {
+      "TAITANO, John R. II": 277,
+      "MC NINCH, Ronald Lewis Jr.": 231,
+      "AGUON, Isaiah John": 199,
+      "AYUYU, Ronald Anthony": 164
+     },
+     "write_in": null,
+     "total_votes": 871,
+     "overvotes": 0,
+     "undervotes": 1461,
+     "contest_totals": 2332
+    },
+    "PRECINCT 15A": {
+     "votes": {
+      "TAITANO, John R. II": 246,
+      "MC NINCH, Ronald Lewis Jr.": 208,
+      "AGUON, Isaiah John": 154,
+      "AYUYU, Ronald Anthony": 130
+     },
+     "write_in": null,
+     "total_votes": 738,
+     "overvotes": 0,
+     "undervotes": 1338,
+     "contest_totals": 2076
+    },
+    "PRECINCT 15B": {
+     "votes": {
+      "TAITANO, John R. II": 300,
+      "MC NINCH, Ronald Lewis Jr.": 230,
+      "AYUYU, Ronald Anthony": 191,
+      "AGUON, Isaiah John": 184
+     },
+     "write_in": null,
+     "total_votes": 905,
+     "overvotes": 0,
+     "undervotes": 1467,
+     "contest_totals": 2372
+    },
+    "PRECINCT 15C": {
+     "votes": {
+      "TAITANO, John R. II": 267,
+      "MC NINCH, Ronald Lewis Jr.": 239,
+      "AGUON, Isaiah John": 175,
+      "AYUYU, Ronald Anthony": 136
+     },
+     "write_in": null,
+     "total_votes": 817,
+     "overvotes": 0,
+     "undervotes": 1707,
+     "contest_totals": 2524
+    },
+    "PRECINCT 16": {
+     "votes": {
+      "TAITANO, John R. II": 298,
+      "MC NINCH, Ronald Lewis Jr.": 230,
+      "AGUON, Isaiah John": 201,
+      "AYUYU, Ronald Anthony": 194
+     },
+     "write_in": null,
+     "total_votes": 923,
+     "overvotes": 0,
+     "undervotes": 1417,
+     "contest_totals": 2340
+    },
+    "PRECINCT 16A": {
+     "votes": {
+      "TAITANO, John R. II": 309,
+      "MC NINCH, Ronald Lewis Jr.": 275,
+      "AGUON, Isaiah John": 231,
+      "AYUYU, Ronald Anthony": 213
+     },
+     "write_in": null,
+     "total_votes": 1028,
+     "overvotes": 0,
+     "undervotes": 1440,
+     "contest_totals": 2468
+    },
+    "PRECINCT 16B": {
+     "votes": {
+      "TAITANO, John R. II": 260,
+      "MC NINCH, Ronald Lewis Jr.": 225,
+      "AGUON, Isaiah John": 195,
+      "AYUYU, Ronald Anthony": 177
+     },
+     "write_in": null,
+     "total_votes": 857,
+     "overvotes": 0,
+     "undervotes": 1367,
+     "contest_totals": 2224
+    },
+    "PRECINCT 16C": {
+     "votes": {
+      "TAITANO, John R. II": 240,
+      "MC NINCH, Ronald Lewis Jr.": 231,
+      "AGUON, Isaiah John": 190,
+      "AYUYU, Ronald Anthony": 163
+     },
+     "write_in": null,
+     "total_votes": 824,
+     "overvotes": 0,
+     "undervotes": 1208,
+     "contest_totals": 2032
+    },
+    "PRECINCT 16D": {
+     "votes": {
+      "TAITANO, John R. II": 270,
+      "MC NINCH, Ronald Lewis Jr.": 235,
+      "AGUON, Isaiah John": 180,
+      "AYUYU, Ronald Anthony": 153
+     },
+     "write_in": null,
+     "total_votes": 838,
+     "overvotes": 0,
+     "undervotes": 1486,
+     "contest_totals": 2324
+    },
+    "PRECINCT 17": {
+     "votes": {
+      "TAITANO, John R. II": 244,
+      "MC NINCH, Ronald Lewis Jr.": 222,
+      "AGUON, Isaiah John": 170,
+      "AYUYU, Ronald Anthony": 122
+     },
+     "write_in": null,
+     "total_votes": 758,
+     "overvotes": 0,
+     "undervotes": 1382,
+     "contest_totals": 2140
+    },
+    "PRECINCT 17A": {
+     "votes": {
+      "TAITANO, John R. II": 239,
+      "MC NINCH, Ronald Lewis Jr.": 203,
+      "AGUON, Isaiah John": 145,
+      "AYUYU, Ronald Anthony": 108
+     },
+     "write_in": null,
+     "total_votes": 695,
+     "overvotes": 0,
+     "undervotes": 1445,
+     "contest_totals": 2140
+    },
+    "PRECINCT 17B": {
+     "votes": {
+      "TAITANO, John R. II": 224,
+      "MC NINCH, Ronald Lewis Jr.": 178,
+      "AGUON, Isaiah John": 150,
+      "AYUYU, Ronald Anthony": 110
+     },
+     "write_in": null,
+     "total_votes": 662,
+     "overvotes": 0,
+     "undervotes": 1134,
+     "contest_totals": 1796
+    },
+    "PRECINCT 17C": {
+     "votes": {
+      "TAITANO, John R. II": 239,
+      "MC NINCH, Ronald Lewis Jr.": 193,
+      "AGUON, Isaiah John": 157,
+      "AYUYU, Ronald Anthony": 113
+     },
+     "write_in": null,
+     "total_votes": 702,
+     "overvotes": 0,
+     "undervotes": 1374,
+     "contest_totals": 2076
+    },
+    "PRECINCT 17D": {
+     "votes": {
+      "TAITANO, John R. II": 212,
+      "MC NINCH, Ronald Lewis Jr.": 211,
+      "AGUON, Isaiah John": 134,
+      "AYUYU, Ronald Anthony": 106
+     },
+     "write_in": null,
+     "total_votes": 663,
+     "overvotes": 0,
+     "undervotes": 1385,
+     "contest_totals": 2048
+    },
+    "PRECINCT 18": {
+     "votes": {
+      "TAITANO, John R. II": 276,
+      "MC NINCH, Ronald Lewis Jr.": 262,
+      "AGUON, Isaiah John": 223,
+      "AYUYU, Ronald Anthony": 152
+     },
+     "write_in": null,
+     "total_votes": 913,
+     "overvotes": 0,
+     "undervotes": 1459,
+     "contest_totals": 2372
+    },
+    "PRECINCT 18A": {
+     "votes": {
+      "TAITANO, John R. II": 285,
+      "MC NINCH, Ronald Lewis Jr.": 263,
+      "AGUON, Isaiah John": 158,
+      "AYUYU, Ronald Anthony": 125
+     },
+     "write_in": null,
+     "total_votes": 831,
+     "overvotes": 0,
+     "undervotes": 1665,
+     "contest_totals": 2496
+    },
+    "PRECINCT 18B": {
+     "votes": {
+      "TAITANO, John R. II": 302,
+      "MC NINCH, Ronald Lewis Jr.": 238,
+      "AGUON, Isaiah John": 216,
+      "AYUYU, Ronald Anthony": 184
+     },
+     "write_in": null,
+     "total_votes": 940,
+     "overvotes": 0,
+     "undervotes": 1408,
+     "contest_totals": 2348
+    },
+    "PRECINCT 18C": {
+     "votes": {
+      "MC NINCH, Ronald Lewis Jr.": 196,
+      "TAITANO, John R. II": 192,
+      "AGUON, Isaiah John": 109,
+      "AYUYU, Ronald Anthony": 80
+     },
+     "write_in": null,
+     "total_votes": 577,
+     "overvotes": 0,
+     "undervotes": 1171,
+     "contest_totals": 1748
+    },
+    "PRECINCT 18D": {
+     "votes": {
+      "TAITANO, John R. II": 197,
+      "MC NINCH, Ronald Lewis Jr.": 197,
+      "AGUON, Isaiah John": 146,
+      "AYUYU, Ronald Anthony": 101
+     },
+     "write_in": null,
+     "total_votes": 641,
+     "overvotes": 0,
+     "undervotes": 1255,
+     "contest_totals": 1896
+    },
+    "PRECINCT 18E": {
+     "votes": {
+      "TAITANO, John R. II": 218,
+      "MC NINCH, Ronald Lewis Jr.": 195,
+      "AGUON, Isaiah John": 135,
+      "AYUYU, Ronald Anthony": 94
+     },
+     "write_in": null,
+     "total_votes": 642,
+     "overvotes": 0,
+     "undervotes": 1162,
+     "contest_totals": 1804
+    },
+    "PRECINCT 18F": {
+     "votes": {
+      "TAITANO, John R. II": 212,
+      "MC NINCH, Ronald Lewis Jr.": 190,
+      "AGUON, Isaiah John": 155,
+      "AYUYU, Ronald Anthony": 108
+     },
+     "write_in": null,
+     "total_votes": 665,
+     "overvotes": 0,
+     "undervotes": 1079,
+     "contest_totals": 1744
+    },
+    "PRECINCT 18G": {
+     "votes": {
+      "TAITANO, John R. II": 216,
+      "MC NINCH, Ronald Lewis Jr.": 200,
+      "AGUON, Isaiah John": 158,
+      "AYUYU, Ronald Anthony": 125
+     },
+     "write_in": null,
+     "total_votes": 699,
+     "overvotes": 0,
+     "undervotes": 1041,
+     "contest_totals": 1740
+    },
+    "PRECINCT 18H": {
+     "votes": {
+      "TAITANO, John R. II": 190,
+      "MC NINCH, Ronald Lewis Jr.": 189,
+      "AGUON, Isaiah John": 150,
+      "AYUYU, Ronald Anthony": 105
+     },
+     "write_in": null,
+     "total_votes": 634,
+     "overvotes": 0,
+     "undervotes": 1154,
+     "contest_totals": 1788
+    },
+    "PRECINCT 18I": {
+     "votes": {
+      "TAITANO, John R. II": 243,
+      "MC NINCH, Ronald Lewis Jr.": 225,
+      "AGUON, Isaiah John": 182,
+      "AYUYU, Ronald Anthony": 134
+     },
+     "write_in": null,
+     "total_votes": 784,
+     "overvotes": 0,
+     "undervotes": 1168,
+     "contest_totals": 1952
+    },
+    "PRECINCT 18J": {
+     "votes": {
+      "TAITANO, John R. II": 271,
+      "MC NINCH, Ronald Lewis Jr.": 237,
+      "AGUON, Isaiah John": 202,
+      "AYUYU, Ronald Anthony": 145
+     },
+     "write_in": null,
+     "total_votes": 855,
+     "overvotes": 0,
+     "undervotes": 1373,
+     "contest_totals": 2228
+    },
+    "PRECINCT 18K": {
+     "votes": {
+      "TAITANO, John R. II": 275,
+      "MC NINCH, Ronald Lewis Jr.": 263,
+      "AGUON, Isaiah John": 202,
+      "AYUYU, Ronald Anthony": 155
+     },
+     "write_in": null,
+     "total_votes": 895,
+     "overvotes": 0,
+     "undervotes": 1573,
+     "contest_totals": 2468
+    },
+    "PRECINCT 18L": {
+     "votes": {
+      "TAITANO, John R. II": 298,
+      "MC NINCH, Ronald Lewis Jr.": 271,
+      "AGUON, Isaiah John": 193,
+      "AYUYU, Ronald Anthony": 140
+     },
+     "write_in": null,
+     "total_votes": 902,
+     "overvotes": 0,
+     "undervotes": 1666,
+     "contest_totals": 2568
+    },
+    "PRECINCT 19": {
+     "votes": {
+      "TAITANO, John R. II": 223,
+      "MC NINCH, Ronald Lewis Jr.": 200,
+      "AGUON, Isaiah John": 158,
+      "AYUYU, Ronald Anthony": 97
+     },
+     "write_in": null,
+     "total_votes": 678,
+     "overvotes": 0,
+     "undervotes": 1350,
+     "contest_totals": 2028
+    },
+    "PRECINCT 19A": {
+     "votes": {
+      "TAITANO, John R. II": 329,
+      "MC NINCH, Ronald Lewis Jr.": 250,
+      "AGUON, Isaiah John": 207,
+      "AYUYU, Ronald Anthony": 162
+     },
+     "write_in": null,
+     "total_votes": 948,
+     "overvotes": 0,
+     "undervotes": 1448,
+     "contest_totals": 2396
+    },
+    "PRECINCT 19B": {
+     "votes": {
+      "TAITANO, John R. II": 279,
+      "MC NINCH, Ronald Lewis Jr.": 236,
+      "AGUON, Isaiah John": 199,
+      "AYUYU, Ronald Anthony": 152
+     },
+     "write_in": null,
+     "total_votes": 866,
+     "overvotes": 0,
+     "undervotes": 1366,
+     "contest_totals": 2232
+    },
+    "PRECINCT 19C": {
+     "votes": {
+      "TAITANO, John R. II": 255,
+      "MC NINCH, Ronald Lewis Jr.": 209,
+      "AGUON, Isaiah John": 170,
+      "AYUYU, Ronald Anthony": 141
+     },
+     "write_in": null,
+     "total_votes": 775,
+     "overvotes": 0,
+     "undervotes": 1221,
+     "contest_totals": 1996
+    },
+    "PRECINCT 19D": {
+     "votes": {
+      "TAITANO, John R. II": 188,
+      "MC NINCH, Ronald Lewis Jr.": 126,
+      "AGUON, Isaiah John": 125,
+      "AYUYU, Ronald Anthony": 73
+     },
+     "write_in": null,
+     "total_votes": 512,
+     "overvotes": 0,
+     "undervotes": 1136,
+     "contest_totals": 1648
+    },
+    "PRECINCT 19E": {
+     "votes": {
+      "TAITANO, John R. II": 184,
+      "MC NINCH, Ronald Lewis Jr.": 150,
+      "AGUON, Isaiah John": 111,
+      "AYUYU, Ronald Anthony": 94
+     },
+     "write_in": null,
+     "total_votes": 539,
+     "overvotes": 0,
+     "undervotes": 1173,
+     "contest_totals": 1712
+    },
+    "PRECINCT 19F": {
+     "votes": {
+      "TAITANO, John R. II": 203,
+      "MC NINCH, Ronald Lewis Jr.": 172,
+      "AGUON, Isaiah John": 143,
+      "AYUYU, Ronald Anthony": 96
+     },
+     "write_in": null,
+     "total_votes": 614,
+     "overvotes": 0,
+     "undervotes": 1090,
+     "contest_totals": 1704
+    }
+   }
   }
  ],
- "warning_count": 2,
- "warnings": [
-  "The report says it has 3 pages, but 5 were read.",
-  "Guam Legislature / ALL: candidate votes add up to 330469, but the report says 339971."
- ],
+ "warning_count": 0,
+ "warnings": [],
  "credit": "Source: Guam Election Commission. Compiled by Pasquines.",
- "watch": []
+ "watch": [
+  {
+   "id": "governor-lieutenant-governor-of-guam",
+   "contest": "Governor & Lieutenant Governor of Guam",
+   "office": "Governor & Lieutenant Governor of Guam",
+   "party": null,
+   "level": "complete",
+   "majority_needed": true,
+   "leader": "ADA/CALVO",
+   "leader_pct": 51.4,
+   "runner_up": "TERLAJE/PEREZ",
+   "runner_up_pct": 48.2,
+   "third": null,
+   "third_pct": null,
+   "margin": 1020,
+   "counted_pct": 100,
+   "precincts_reported": 59,
+   "precincts_total": 59,
+   "precincts_led": 39,
+   "precincts_with_votes": 59,
+   "runner_up_needs_pct": null,
+   "runner_up_best_pct": 63.4,
+   "runner_up_best_at": "PRECINCT 7",
+   "est_votes_out": 0
+  },
+  {
+   "id": "delegate-to-congress",
+   "contest": "Delegate to Congress",
+   "office": "Delegate to Congress",
+   "party": null,
+   "level": "complete",
+   "majority_needed": false,
+   "leader": "LIMTIACO, Alicia Anne Garrido",
+   "leader_pct": 51,
+   "runner_up": "MOYLAN, James Craig",
+   "runner_up_pct": 48.8,
+   "third": null,
+   "third_pct": null,
+   "margin": 662,
+   "counted_pct": 100,
+   "precincts_reported": 59,
+   "precincts_total": 59,
+   "precincts_led": 30,
+   "precincts_with_votes": 59,
+   "runner_up_needs_pct": null,
+   "runner_up_best_pct": 57.5,
+   "runner_up_best_at": "PRECINCT 18C",
+   "est_votes_out": 0
+  },
+  {
+   "id": "attorney-general-of-guam",
+   "contest": "Attorney General of Guam",
+   "office": "Attorney General of Guam",
+   "party": null,
+   "level": "complete",
+   "majority_needed": false,
+   "leader": "TYDINGCO, Phillip James",
+   "leader_pct": 38.3,
+   "runner_up": "MOYLAN, Douglas B.",
+   "runner_up_pct": 33.1,
+   "third": "FISHER, Thomas Joseph",
+   "third_pct": 12.7,
+   "margin": 1575,
+   "counted_pct": 100,
+   "precincts_reported": 59,
+   "precincts_total": 59,
+   "precincts_led": 39,
+   "precincts_with_votes": 59,
+   "runner_up_needs_pct": null,
+   "runner_up_best_pct": 64.7,
+   "runner_up_best_at": "PRECINCT 18H",
+   "est_votes_out": 0
+  }
+ ]
 }
