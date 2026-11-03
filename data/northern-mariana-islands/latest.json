@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "2db6863f1d333639959cf6d6a8dc7cb2fbcf8790cbe7ac425dbb00d6bfd1969c",
-  "fetched_at": "2026-11-03T19:31:47.783Z",
-  "file_last_modified": "Tue, 03 Nov 2026 19:31:23 GMT"
+  "sha256": "ae7d5508123a87fe04f5ce7d89e9fd4b7d6c0ce275a55193766ec972ceff08df",
+  "fetched_at": "2026-11-03T19:32:47.252Z",
+  "file_last_modified": "Tue, 03 Nov 2026 19:32:22 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1175,89 +1175,111 @@
     {
      "name": "Roy Christoper Aldan Ada",
      "party": "REP",
-     "votes": 1608,
-     "pct": 9.88
+     "votes": 1736,
+     "pct": 9.77
     },
     {
      "name": "Vincent \"Kobre\" Seman Aldan",
      "party": "IND",
-     "votes": 1522,
-     "pct": 9.36
+     "votes": 1656,
+     "pct": 9.32
     },
     {
      "name": "Diego Vincent Fejeran Camacho",
      "party": "IND",
-     "votes": 1463,
-     "pct": 8.99
+     "votes": 1602,
+     "pct": 9.02
     },
     {
      "name": "Janet Ulloa Maratita",
      "party": "IND",
-     "votes": 1354,
-     "pct": 8.32
+     "votes": 1513,
+     "pct": 8.51
     },
     {
      "name": "Raymond Ulloa Palacios",
      "party": "IND",
-     "votes": 1325,
-     "pct": 8.14
-    },
-    {
-     "name": "Roman Cepeda Benavente",
-     "party": "IND",
-     "votes": 1320,
-     "pct": 8.11
+     "votes": 1493,
+     "pct": 8.4
     },
     {
      "name": "Joseph Arriola Flores",
      "party": "IND",
-     "votes": 1271,
-     "pct": 7.81
+     "votes": 1437,
+     "pct": 8.09
+    },
+    {
+     "name": "Roman Cepeda Benavente",
+     "party": "IND",
+     "votes": 1433,
+     "pct": 8.06
     },
     {
      "name": "Cecilia Taitano Fitial",
      "party": "REP",
-     "votes": 1263,
-     "pct": 7.76
+     "votes": 1349,
+     "pct": 7.59
     },
     {
      "name": "John DLG Demapan Jr.",
      "party": "REP",
-     "votes": 1236,
-     "pct": 7.6
+     "votes": 1343,
+     "pct": 7.56
     },
     {
      "name": "Patrick Matagolai Cepeda",
      "party": "REP",
-     "votes": 1126,
-     "pct": 6.92
+     "votes": 1188,
+     "pct": 6.69
     },
     {
      "name": "Ricardo Castro Cruz Jr.",
      "party": "DEM",
-     "votes": 1062,
-     "pct": 6.53
+     "votes": 1158,
+     "pct": 6.52
     },
     {
      "name": "Benusto Piteg",
      "party": "REP",
-     "votes": 1009,
-     "pct": 6.2
+     "votes": 1087,
+     "pct": 6.12
     },
     {
      "name": "Alfredo Javier Cabael",
      "party": "REP",
-     "votes": 710,
+     "votes": 774,
      "pct": 4.36
     }
    ],
    "write_in": 0,
-   "total_votes": 16269,
+   "total_votes": 17769,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 4,
+   "precincts_in_report": 5,
    "by_precinct": {
+    "ED1A": {
+     "votes": {
+      "Roy Christoper Aldan Ada": 128,
+      "Ricardo Castro Cruz Jr.": 96,
+      "Janet Ulloa Maratita": 159,
+      "Raymond Ulloa Palacios": 168,
+      "Roman Cepeda Benavente": 113,
+      "Joseph Arriola Flores": 166,
+      "Alfredo Javier Cabael": 64,
+      "Benusto Piteg": 78,
+      "Diego Vincent Fejeran Camacho": 139,
+      "Patrick Matagolai Cepeda": 62,
+      "John DLG Demapan Jr.": 107,
+      "Vincent \"Kobre\" Seman Aldan": 134,
+      "Cecilia Taitano Fitial": 86
+     },
+     "write_in": null,
+     "total_votes": 1500,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED1B": {
      "votes": {
       "Roy Christoper Aldan Ada": 415,
@@ -2733,23 +2755,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 7425,
-     "pct": 63.69
+     "votes": 7602,
+     "pct": 63.74
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 4233,
-     "pct": 36.31
+     "votes": 4324,
+     "pct": 36.26
     }
    ],
    "write_in": 0,
-   "total_votes": 11658,
+   "total_votes": 11926,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 13,
+   "precincts_in_report": 14,
    "by_precinct": {
+    "ED1A": {
+     "votes": {
+      "YES": 177,
+      "NO": 91
+     },
+     "write_in": null,
+     "total_votes": 268,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED1B": {
      "votes": {
       "YES": 493,
