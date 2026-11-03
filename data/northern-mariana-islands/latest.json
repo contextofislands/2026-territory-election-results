@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "904bf2daad3f1c4868df5b15b1bbb6f3da2b18403ed8d20063440d5f7213870a",
-  "fetched_at": "2026-11-03T12:08:40.191Z",
-  "file_last_modified": "Tue, 03 Nov 2026 12:08:40 GMT"
+  "sha256": "76e0e0e678721cd32fada3edae862ed230278aeca927438beed39229c6e37e1f",
+  "fetched_at": "2026-11-03T12:09:39.708Z",
+  "file_last_modified": "Tue, 03 Nov 2026 12:09:39 GMT"
  },
  "report": {
   "title": "Election results",
@@ -373,6 +373,50 @@
    }
   },
   {
+   "id": "0-votes",
+   "name": "0 votes",
+   "party": null,
+   "office": "0 votes",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 0,
+     "pct": 0
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
+   "id": "0-votes-2",
+   "name": "0 votes (2)",
+   "party": null,
+   "office": "0 votes (2)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 0,
+     "pct": 0
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
    "id": "0-votes-3",
    "name": "0 votes (3)",
    "party": null,
@@ -615,10 +659,10 @@
    "by_precinct": {}
   },
   {
-   "id": "0-votes-14",
-   "name": "0 votes (14)",
+   "id": "0-votes-38",
+   "name": "0 votes (38)",
    "party": null,
-   "office": "0 votes (14)",
+   "office": "0 votes (38)",
    "vote_for": null,
    "candidates": [
     {
@@ -637,10 +681,10 @@
    "by_precinct": {}
   },
   {
-   "id": "0-votes-15",
-   "name": "0 votes (15)",
+   "id": "0-votes-39",
+   "name": "0 votes (39)",
    "party": null,
-   "office": "0 votes (15)",
+   "office": "0 votes (39)",
    "vote_for": null,
    "candidates": [
     {
@@ -681,54 +725,10 @@
    "by_precinct": {}
   },
   {
-   "id": "0-votes-41",
-   "name": "0 votes (41)",
+   "id": "0-votes-47",
+   "name": "0 votes (47)",
    "party": null,
-   "office": "0 votes (41)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-42",
-   "name": "0 votes (42)",
-   "party": null,
-   "office": "0 votes (42)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-49",
-   "name": "0 votes (49)",
-   "party": null,
-   "office": "0 votes (49)",
+   "office": "0 votes (47)",
    "vote_for": null,
    "candidates": [
     {
