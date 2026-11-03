@@ -186,6 +186,9 @@ MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Benusto Piteg,35
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Ricardo Castro Cruz Jr.,53
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Alfredo Javier Cabael,35
+MP,ED2,House - Saipan - Election District 2,,House - Saipan - Election District 2,John Paul Sablan,291
+MP,ED2,House - Saipan - Election District 2,,House - Saipan - Election District 2,Daniel Iwashita Aquino Jr.,252
+MP,ED2,House - Saipan - Election District 2,,House - Saipan - Election District 2,Keith Cabrera Ada,137
 MP,EV,House - Saipan - Election District 2,,House - Saipan - Election District 2,John Paul Sablan,364
 MP,EV,House - Saipan - Election District 2,,House - Saipan - Election District 2,Daniel Iwashita Aquino Jr.,336
 MP,EV,House - Saipan - Election District 2,,House - Saipan - Election District 2,Keith Cabrera Ada,220
@@ -318,6 +321,7 @@ MP,EV,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Jonovan Hocog Lizama,136
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Sandra Mesngon Masga,146
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,143
+MP,ED2,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,303
 MP,ED3A,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,233
 MP,ED3B,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,583
 MP,ED4A,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,259
@@ -359,6 +363,8 @@ MP,EV,Attorney General,,Attorney General,Jonathan Robert Glass,1871
 MP,ABS,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,337
 MP,ABS,Attorney General,,Attorney General,Michael Norita Evangelista,248
 MP,ABS,Attorney General,,Attorney General,Jonathan Robert Glass,292
+MP,ED2,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,317
+MP,ED2,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,57
 MP,ED3A,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,241
 MP,ED3A,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,47
 MP,ED3B,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,578
@@ -379,6 +385,8 @@ MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cru
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,935
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,758
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,93
+MP,ED2,Constitutional Convention,,Constitutional Convention,YES,241
+MP,ED2,Constitutional Convention,,Constitutional Convention,NO,121
 MP,ED3A,Constitutional Convention,,Constitutional Convention,YES,172
 MP,ED3A,Constitutional Convention,,Constitutional Convention,NO,106
 MP,ED3B,Constitutional Convention,,Constitutional Convention,YES,465
