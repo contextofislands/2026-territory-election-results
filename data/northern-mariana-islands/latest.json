@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "49343b4da8ec05d7fe3ca9c2d4055c63fd34a178514899068a2ea5cecf64b4c7",
-  "fetched_at": "2026-11-03T18:21:42.067Z",
-  "file_last_modified": "Tue, 03 Nov 2026 18:21:41 GMT"
+  "sha256": "89d992696e6ebeb2edb916b386b5be58891697959cff814560572ffc03e645f5",
+  "fetched_at": "2026-11-03T18:22:41.151Z",
+  "file_last_modified": "Tue, 03 Nov 2026 18:21:48 GMT"
  },
  "report": {
   "title": "Election results",
@@ -2181,23 +2181,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 5802,
-     "pct": 63.84
+     "votes": 6267,
+     "pct": 63.99
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 3286,
-     "pct": 36.16
+     "votes": 3526,
+     "pct": 36.01
     }
    ],
    "write_in": 0,
-   "total_votes": 9088,
+   "total_votes": 9793,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 8,
+   "precincts_in_report": 9,
    "by_precinct": {
+    "ED3B": {
+     "votes": {
+      "YES": 465,
+      "NO": 240
+     },
+     "write_in": null,
+     "total_votes": 705,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4A": {
      "votes": {
       "YES": 218,
@@ -2469,21 +2480,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 63.8,
+   "leader_pct": 64,
    "runner_up": "NO",
-   "runner_up_pct": 36.2,
+   "runner_up_pct": 36,
    "third": null,
    "third_pct": null,
-   "margin": 2516,
-   "counted_pct": 74.9,
-   "precincts_reported": 8,
+   "margin": 2741,
+   "counted_pct": 82.6,
+   "precincts_reported": 9,
    "precincts_total": 15,
-   "precincts_led": 7,
-   "precincts_with_votes": 8,
-   "runner_up_needs_pct": 83,
+   "precincts_led": 8,
+   "precincts_with_votes": 9,
+   "runner_up_needs_pct": null,
    "runner_up_best_pct": 51.9,
    "runner_up_best_at": "ED6",
-   "est_votes_out": 3051
+   "est_votes_out": 2063
   }
  ]
 }
