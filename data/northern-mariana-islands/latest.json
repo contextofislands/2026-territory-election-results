@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "3e9094d1922fe2d7a97693285592d34da4b4a757baa513286dc199d9ed0e7e69",
-  "fetched_at": "2026-11-03T17:17:40.302Z",
-  "file_last_modified": "Tue, 03 Nov 2026 17:16:56 GMT"
+  "sha256": "f03b8c5f10202b5a3a871115f56ac35f4cbf03ce2c109efb19c282fcbad786f8",
+  "fetched_at": "2026-11-03T17:18:39.561Z",
+  "file_last_modified": "Tue, 03 Nov 2026 17:18:16 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1480,41 +1480,29 @@
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 3784,
-     "pct": 46.12
+     "votes": 3609,
+     "pct": 45.24
     },
     {
      "name": "Jonathan Robert Glass",
      "party": "NP",
-     "votes": 2298,
-     "pct": 28.01
+     "votes": 2270,
+     "pct": 28.45
     },
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 2122,
-     "pct": 25.87
+     "votes": 2099,
+     "pct": 26.31
     }
    ],
    "write_in": 0,
-   "total_votes": 8204,
+   "total_votes": 7978,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 4,
    "by_precinct": {
-    "ED5": {
-     "votes": {
-      "Michael Norita Evangelista": 23,
-      "Joaquin Deleon Guerrero Torres": 175,
-      "Jonathan Robert Glass": 28
-     },
-     "write_in": null,
-     "total_votes": 226,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
     "ED6": {
      "votes": {
       "Michael Norita Evangelista": 23,
@@ -1844,21 +1832,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "Joaquin Deleon Guerrero Torres",
-   "leader_pct": 46.1,
+   "leader_pct": 45.2,
    "runner_up": "Jonathan Robert Glass",
-   "runner_up_pct": 28,
+   "runner_up_pct": 28.5,
    "third": "Michael Norita Evangelista",
-   "third_pct": 25.9,
-   "margin": 1486,
-   "counted_pct": 83.8,
-   "precincts_reported": 5,
+   "third_pct": 26.3,
+   "margin": 1339,
+   "counted_pct": 75,
+   "precincts_reported": 4,
    "precincts_total": 15,
-   "precincts_led": 5,
-   "precincts_with_votes": 5,
-   "runner_up_needs_pct": null,
+   "precincts_led": 4,
+   "precincts_with_votes": 4,
+   "runner_up_needs_pct": 77.4,
    "runner_up_best_pct": 46.4,
    "runner_up_best_at": "ABS",
-   "est_votes_out": 1588
+   "est_votes_out": 2653
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
