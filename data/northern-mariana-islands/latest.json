@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "c82d670b805a7ea1b19790fd84e4d48a1db86af87dc0bb12f166f0228c6faebd",
-  "fetched_at": "2026-11-03T17:33:40.226Z",
-  "file_last_modified": "Tue, 03 Nov 2026 17:33:25 GMT"
+  "sha256": "62b703659f0e284c616dab4b88a4c3ec9574e8540432ecd9a2b22cc788dac9e6",
+  "fetched_at": "2026-11-03T17:35:40.016Z",
+  "file_last_modified": "Tue, 03 Nov 2026 17:35:24 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1113,35 +1113,48 @@
     {
      "name": "Leila Haveia Fleming Clark Staffler",
      "party": "DEM",
-     "votes": 641,
-     "pct": 34.93
+     "votes": 1344,
+     "pct": 37.58
     },
     {
      "name": "Angelo Atalig Camacho",
      "party": "IND",
-     "votes": 482,
-     "pct": 26.27
+     "votes": 958,
+     "pct": 26.79
     },
     {
      "name": "Ted Anthony Deleon Guerrero",
      "party": "REP",
-     "votes": 407,
-     "pct": 22.18
+     "votes": 646,
+     "pct": 18.06
     },
     {
      "name": "Peter Francis Reyes Muna",
      "party": "DEM",
-     "votes": 305,
-     "pct": 16.62
+     "votes": 628,
+     "pct": 17.56
     }
    ],
    "write_in": 0,
-   "total_votes": 1835,
+   "total_votes": 3576,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED5": {
+     "votes": {
+      "Ted Anthony Deleon Guerrero": 239,
+      "Peter Francis Reyes Muna": 323,
+      "Leila Haveia Fleming Clark Staffler": 703,
+      "Angelo Atalig Camacho": 476
+     },
+     "write_in": null,
+     "total_votes": 1741,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Ted Anthony Deleon Guerrero": 360,
@@ -1286,29 +1299,41 @@
     {
      "name": "Anthony Tenorio Benavente",
      "party": "NP",
-     "votes": 3814,
-     "pct": 34.56
+     "votes": 4439,
+     "pct": 34.42
     },
     {
      "name": "Marian Deleon Guerrero Tudela",
      "party": "NP",
-     "votes": 3730,
-     "pct": 33.8
+     "votes": 4362,
+     "pct": 33.82
     },
     {
      "name": "Antonia Manibusan Tudela",
      "party": "NP",
-     "votes": 3493,
-     "pct": 31.65
+     "votes": 4095,
+     "pct": 31.75
     }
    ],
    "write_in": 0,
-   "total_votes": 11037,
+   "total_votes": 12896,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED5": {
+     "votes": {
+      "Antonia Manibusan Tudela": 602,
+      "Marian Deleon Guerrero Tudela": 632,
+      "Anthony Tenorio Benavente": 625
+     },
+     "write_in": null,
+     "total_votes": 1859,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Antonia Manibusan Tudela": 3126,
@@ -1487,17 +1512,27 @@
     {
      "name": "Daniel Ogo Quitugua",
      "party": "NP",
-     "votes": 4171,
+     "votes": 4908,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 4171,
+   "total_votes": 4908,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 2,
+   "precincts_in_report": 3,
    "by_precinct": {
+    "ED5": {
+     "votes": {
+      "Daniel Ogo Quitugua": 737
+     },
+     "write_in": null,
+     "total_votes": 737,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "EV": {
      "votes": {
       "Daniel Ogo Quitugua": 3767
@@ -1625,23 +1660,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 6534,
-     "pct": 85.88
+     "votes": 7297,
+     "pct": 85.46
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 1074,
-     "pct": 14.12
+     "votes": 1241,
+     "pct": 14.54
     }
    ],
    "write_in": 0,
-   "total_votes": 7608,
+   "total_votes": 8538,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 4,
+   "precincts_in_report": 5,
    "by_precinct": {
+    "ED5": {
+     "votes": {
+      "YES": 763,
+      "NO": 167
+     },
+     "write_in": null,
+     "total_votes": 930,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED6": {
      "votes": {
       "YES": 179,
@@ -1698,23 +1744,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 4701,
-     "pct": 63.15
+     "votes": 5307,
+     "pct": 63.36
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 2743,
-     "pct": 36.85
+     "votes": 3069,
+     "pct": 36.64
     }
    ],
    "write_in": 0,
-   "total_votes": 7444,
+   "total_votes": 8376,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 4,
+   "precincts_in_report": 5,
    "by_precinct": {
+    "ED5": {
+     "votes": {
+      "YES": 606,
+      "NO": 326
+     },
+     "write_in": null,
+     "total_votes": 932,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED6": {
      "votes": {
       "YES": 100,
@@ -1918,21 +1975,21 @@
    "level": "clinched",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 85.9,
+   "leader_pct": 85.5,
    "runner_up": "NO",
-   "runner_up_pct": 14.1,
+   "runner_up_pct": 14.5,
    "third": null,
    "third_pct": null,
-   "margin": 5460,
-   "counted_pct": 75.8,
-   "precincts_reported": 4,
+   "margin": 6056,
+   "counted_pct": 74.2,
+   "precincts_reported": 5,
    "precincts_total": 15,
-   "precincts_led": 4,
-   "precincts_with_votes": 4,
+   "precincts_led": 5,
+   "precincts_with_votes": 5,
    "runner_up_needs_pct": null,
-   "runner_up_best_pct": 14.9,
-   "runner_up_best_at": "EV",
-   "est_votes_out": 2423
+   "runner_up_best_pct": 18,
+   "runner_up_best_at": "ED5",
+   "est_votes_out": 2969
   },
   {
    "id": "constitutional-convention",
@@ -1942,21 +1999,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 63.2,
+   "leader_pct": 63.4,
    "runner_up": "NO",
-   "runner_up_pct": 36.8,
+   "runner_up_pct": 36.6,
    "third": null,
    "third_pct": null,
-   "margin": 1958,
-   "counted_pct": 75.6,
-   "precincts_reported": 4,
+   "margin": 2238,
+   "counted_pct": 73.9,
+   "precincts_reported": 5,
    "precincts_total": 15,
-   "precincts_led": 3,
-   "precincts_with_votes": 4,
-   "runner_up_needs_pct": 82.6,
+   "precincts_led": 4,
+   "precincts_with_votes": 5,
+   "runner_up_needs_pct": 80.2,
    "runner_up_best_pct": 51.9,
    "runner_up_best_at": "ED6",
-   "est_votes_out": 2403
+   "est_votes_out": 2965
   }
  ]
 }
