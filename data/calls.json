@@ -1,5 +1,14 @@
 {
- "calls": [],
+ "calls": [
+  {
+   "code": "GU",
+   "race": "Governor",
+   "call": "Projection",
+   "winner": "",
+   "runoff_opponent": "",
+   "majority": "Yes"
+  }
+ ],
  "other_calls": [
   {
    "code": "MP",
