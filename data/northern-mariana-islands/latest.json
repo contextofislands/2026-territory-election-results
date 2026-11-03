@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "76e0e0e678721cd32fada3edae862ed230278aeca927438beed39229c6e37e1f",
-  "fetched_at": "2026-11-03T12:09:39.708Z",
-  "file_last_modified": "Tue, 03 Nov 2026 12:09:39 GMT"
+  "sha256": "c779246570700c636583ec592643c1822cb527ecfabeef8f18199f30fe5b3184",
+  "fetched_at": "2026-11-03T12:10:42.490Z",
+  "file_last_modified": "Tue, 03 Nov 2026 12:10:42 GMT"
  },
  "report": {
   "title": "Election results",
@@ -659,76 +659,109 @@
    "by_precinct": {}
   },
   {
-   "id": "0-votes-38",
-   "name": "0 votes (38)",
+   "id": "3rd-3",
+   "name": "3rd (3)",
    "party": null,
-   "office": "0 votes (38)",
+   "office": "3rd (3)",
    "vote_for": null,
    "candidates": [
     {
      "name": "—",
      "party": null,
-     "votes": 0,
-     "pct": 0
+     "votes": 3126,
+     "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 3126,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 3126
+     },
+     "write_in": null,
+     "total_votes": 3126,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
-   "id": "0-votes-39",
-   "name": "0 votes (39)",
+   "id": "2nd-6",
+   "name": "2nd (6)",
    "party": null,
-   "office": "0 votes (39)",
+   "office": "2nd (6)",
    "vote_for": null,
    "candidates": [
     {
      "name": "—",
      "party": null,
-     "votes": 0,
-     "pct": 0
+     "votes": 3343,
+     "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 3343,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 3343
+     },
+     "write_in": null,
+     "total_votes": 3343,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
-   "id": "0-votes-40",
-   "name": "0 votes (40)",
+   "id": "1st-8",
+   "name": "1st (8)",
    "party": null,
-   "office": "0 votes (40)",
+   "office": "1st (8)",
    "vote_for": null,
    "candidates": [
     {
      "name": "—",
      "party": null,
-     "votes": 0,
-     "pct": 0
+     "votes": 3400,
+     "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 3400,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 3400
+     },
+     "write_in": null,
+     "total_votes": 3400,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
-   "id": "0-votes-47",
-   "name": "0 votes (47)",
+   "id": "0-votes-41",
+   "name": "0 votes (41)",
    "party": null,
-   "office": "0 votes (47)",
+   "office": "0 votes (41)",
    "vote_for": null,
    "candidates": [
     {
