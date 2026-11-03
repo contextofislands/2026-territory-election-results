@@ -1,4 +1,7 @@
 territory,precinct,contest,party,office,candidate,votes
+MP,ED1B,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,367
+MP,ED1B,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,388
+MP,ED1B,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,137
 MP,ED1C,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,203
 MP,ED1C,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,213
 MP,ED1C,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,51
@@ -35,6 +38,8 @@ MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Ed
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,414
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,339
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,133
+MP,ED1B,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,488
+MP,ED1B,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,384
 MP,ED1C,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,269
 MP,ED1C,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,193
 MP,ED2,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,225
@@ -59,6 +64,13 @@ MP,EV,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,4388
 MP,EV,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,2260
 MP,ABS,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,611
 MP,ABS,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,272
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,429
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,424
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Marco Peter,194
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Corina Lorraine Magofna,182
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Vicente Castro Camacho,177
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Crispin Manglona Sablan,114
+MP,ED1B,Senate - Saipan,,Senate - Saipan,Edwin Raymond Borja Quitugua,67
 MP,ED1C,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,216
 MP,ED1C,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,227
 MP,ED1C,Senate - Saipan,,Senate - Saipan,Marco Peter,110
@@ -361,42 +373,45 @@ MP,ED4C,Saipan & Northern Islands - Board of Education,,Saipan & Northern Island
 MP,ED5,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,737
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
+MP,ED1B,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,280
+MP,ED1B,Attorney General,,Attorney General,Jonathan Robert Glass,306
+MP,ED1B,Attorney General,,Attorney General,Michael Norita Evangelista,281
 MP,ED1C,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,155
-MP,ED1C,Attorney General,,Attorney General,Michael Norita Evangelista,150
 MP,ED1C,Attorney General,,Attorney General,Jonathan Robert Glass,149
+MP,ED1C,Attorney General,,Attorney General,Michael Norita Evangelista,150
 MP,ED2,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,127
-MP,ED2,Attorney General,,Attorney General,Michael Norita Evangelista,131
 MP,ED2,Attorney General,,Attorney General,Jonathan Robert Glass,129
+MP,ED2,Attorney General,,Attorney General,Michael Norita Evangelista,131
 MP,ED3A,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,105
-MP,ED3A,Attorney General,,Attorney General,Michael Norita Evangelista,106
 MP,ED3A,Attorney General,,Attorney General,Jonathan Robert Glass,90
+MP,ED3A,Attorney General,,Attorney General,Michael Norita Evangelista,106
 MP,ED3B,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,200
-MP,ED3B,Attorney General,,Attorney General,Michael Norita Evangelista,257
 MP,ED3B,Attorney General,,Attorney General,Jonathan Robert Glass,301
+MP,ED3B,Attorney General,,Attorney General,Michael Norita Evangelista,257
 MP,ED4A,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,72
-MP,ED4A,Attorney General,,Attorney General,Michael Norita Evangelista,206
 MP,ED4A,Attorney General,,Attorney General,Jonathan Robert Glass,54
+MP,ED4A,Attorney General,,Attorney General,Michael Norita Evangelista,206
 MP,ED4B,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,69
-MP,ED4B,Attorney General,,Attorney General,Michael Norita Evangelista,100
 MP,ED4B,Attorney General,,Attorney General,Jonathan Robert Glass,104
+MP,ED4B,Attorney General,,Attorney General,Michael Norita Evangelista,100
 MP,ED4C,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,36
-MP,ED4C,Attorney General,,Attorney General,Michael Norita Evangelista,77
 MP,ED4C,Attorney General,,Attorney General,Jonathan Robert Glass,38
+MP,ED4C,Attorney General,,Attorney General,Michael Norita Evangelista,77
 MP,ED5,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,311
-MP,ED5,Attorney General,,Attorney General,Michael Norita Evangelista,343
 MP,ED5,Attorney General,,Attorney General,Jonathan Robert Glass,310
+MP,ED5,Attorney General,,Attorney General,Michael Norita Evangelista,343
 MP,ED6,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,175
-MP,ED6,Attorney General,,Attorney General,Michael Norita Evangelista,23
 MP,ED6,Attorney General,,Attorney General,Jonathan Robert Glass,28
+MP,ED6,Attorney General,,Attorney General,Michael Norita Evangelista,23
 MP,ED7,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,182
-MP,ED7,Attorney General,,Attorney General,Michael Norita Evangelista,44
 MP,ED7,Attorney General,,Attorney General,Jonathan Robert Glass,79
+MP,ED7,Attorney General,,Attorney General,Michael Norita Evangelista,44
 MP,EV,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,2915
-MP,EV,Attorney General,,Attorney General,Michael Norita Evangelista,1784
 MP,EV,Attorney General,,Attorney General,Jonathan Robert Glass,1871
+MP,EV,Attorney General,,Attorney General,Michael Norita Evangelista,1784
 MP,ABS,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,337
-MP,ABS,Attorney General,,Attorney General,Michael Norita Evangelista,248
 MP,ABS,Attorney General,,Attorney General,Jonathan Robert Glass,292
+MP,ABS,Attorney General,,Attorney General,Michael Norita Evangelista,248
 MP,ED1C,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,350
 MP,ED1C,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,88
 MP,ED2,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,317
