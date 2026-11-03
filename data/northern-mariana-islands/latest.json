@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "2296872b83887c936f57e3631435b828528f5283389a4c958aafd6126294bb1c",
-  "fetched_at": "2026-11-03T14:01:39.088Z",
-  "file_last_modified": "Tue, 03 Nov 2026 14:00:03 GMT"
+  "sha256": "57ddcb22d87a2e5d07d663d38c763f2e72dd8fc0cf66bc9a6b7f99f0b46d9870",
+  "fetched_at": "2026-11-03T15:32:39.811Z",
+  "file_last_modified": "Tue, 03 Nov 2026 15:31:46 GMT"
  },
  "report": {
   "title": "Election results",
@@ -748,9 +748,9 @@
   },
   {
    "id": "house-saipan-election-district-4-northern-islands-4d",
-   "name": "House - Saipan - Election District 4 -& Northern Islands (4D)",
+   "name": "House - Saipan - Election District 4 & Northern Islands (4D)",
    "party": null,
-   "office": "House - Saipan - Election District 4 -& Northern Islands (4D)",
+   "office": "House - Saipan - Election District 4 & Northern Islands (4D)",
    "vote_for": 2,
    "candidates": [
     {
