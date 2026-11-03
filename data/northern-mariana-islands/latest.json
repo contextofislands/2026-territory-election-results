@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "931a907583e2306732fb18db53935d250585fce7758fca6e5f8345fce7b9624d",
-  "fetched_at": "2026-11-03T16:42:39.841Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:41:54 GMT"
+  "sha256": "1cbf1ac9a133ebd302d07255933ac42e6644dd75347f1be1f7cead3f217923b7",
+  "fetched_at": "2026-11-03T16:44:40.028Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:43:58 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1086,28 +1086,28 @@
     {
      "name": "Anne Marie Cruz San Nicolas",
      "party": "NP",
-     "votes": 553,
-     "pct": 34.63
+     "votes": 666,
+     "pct": 34.58
     },
     {
      "name": "Chad Ellie Palacios",
      "party": "NP",
-     "votes": 543,
-     "pct": 34
+     "votes": 656,
+     "pct": 34.06
     },
     {
      "name": "Wally Flores Villagomez",
      "party": "NP",
-     "votes": 501,
-     "pct": 31.37
+     "votes": 604,
+     "pct": 31.36
     }
    ],
    "write_in": 0,
-   "total_votes": 1597,
+   "total_votes": 1926,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1117,6 +1117,18 @@
      },
      "write_in": null,
      "total_votes": 1597,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Chad Ellie Palacios": 113,
+      "Anne Marie Cruz San Nicolas": 113,
+      "Wally Flores Villagomez": 103
+     },
+     "write_in": null,
+     "total_votes": 329,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1133,28 +1145,28 @@
     {
      "name": "Jonovan Hocog Lizama",
      "party": "NP",
-     "votes": 574,
-     "pct": 34.83
+     "votes": 710,
+     "pct": 34.25
     },
     {
      "name": "Sandra Mesngon Masga",
      "party": "NP",
-     "votes": 551,
-     "pct": 33.43
+     "votes": 697,
+     "pct": 33.62
     },
     {
      "name": "Tillie Castro Taimanao",
      "party": "NP",
-     "votes": 523,
-     "pct": 31.74
+     "votes": 666,
+     "pct": 32.13
     }
    ],
    "write_in": 0,
-   "total_votes": 1648,
+   "total_votes": 2073,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1164,6 +1176,18 @@
      },
      "write_in": null,
      "total_votes": 1648,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Jonovan Hocog Lizama": 136,
+      "Tillie Castro Taimanao": 143,
+      "Sandra Mesngon Masga": 146
+     },
+     "write_in": null,
+     "total_votes": 425,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1180,16 +1204,16 @@
     {
      "name": "Daniel Ogo Quitugua",
      "party": "NP",
-     "votes": 3767,
+     "votes": 4171,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 3767,
+   "total_votes": 4171,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1197,6 +1221,16 @@
      },
      "write_in": null,
      "total_votes": 3767,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Daniel Ogo Quitugua": 404
+     },
+     "write_in": null,
+     "total_votes": 404,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1272,22 +1306,22 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 5337,
-     "pct": 85.09
+     "votes": 6095,
+     "pct": 85.57
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 935,
-     "pct": 14.91
+     "votes": 1028,
+     "pct": 14.43
     }
    ],
    "write_in": 0,
-   "total_votes": 6272,
+   "total_votes": 7123,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1296,6 +1330,17 @@
      },
      "write_in": null,
      "total_votes": 6272,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "YES": 758,
+      "NO": 93
+     },
+     "write_in": null,
+     "total_votes": 851,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1499,21 +1544,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 85.1,
+   "leader_pct": 85.6,
    "runner_up": "NO",
-   "runner_up_pct": 14.9,
+   "runner_up_pct": 14.4,
    "third": null,
    "third_pct": null,
-   "margin": 4402,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "margin": 5067,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 52.1,
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 54.4,
    "runner_up_best_pct": 14.9,
    "runner_up_best_at": "EV",
-   "est_votes_out": 84672
+   "est_votes_out": 46300
   },
   {
    "id": "constitutional-convention",
