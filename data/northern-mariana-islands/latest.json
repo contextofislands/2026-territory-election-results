@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "314f670122f5c6a58dbeed916bed649432ab33fdcbbb81af3dd59024c0845c35",
-  "fetched_at": "2026-11-03T17:52:40.195Z",
-  "file_last_modified": "Tue, 03 Nov 2026 17:52:26 GMT"
+  "sha256": "6e4de4d121da5fdb0ed7d52f2b309bf6ee7f701e9adf7f4c9892fd83c3b5fdb9",
+  "fetched_at": "2026-11-03T17:53:39.339Z",
+  "file_last_modified": "Tue, 03 Nov 2026 17:53:00 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1154,29 +1154,41 @@
     {
      "name": "James Kennedy Weilbacher DLG Benjamin",
      "party": "REP",
-     "votes": 482,
-     "pct": 41.34
+     "votes": 661,
+     "pct": 40.08
     },
     {
      "name": "Joel Castro Camacho",
      "party": "IND",
-     "votes": 355,
-     "pct": 30.45
+     "votes": 565,
+     "pct": 34.26
     },
     {
      "name": "Malcom Jason Omar",
      "party": "REP",
-     "votes": 329,
-     "pct": 28.22
+     "votes": 423,
+     "pct": 25.65
     }
    ],
    "write_in": 0,
-   "total_votes": 1166,
+   "total_votes": 1649,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 3,
+   "precincts_in_report": 4,
    "by_precinct": {
+    "ED4B": {
+     "votes": {
+      "James Kennedy Weilbacher DLG Benjamin": 179,
+      "Malcom Jason Omar": 94,
+      "Joel Castro Camacho": 210
+     },
+     "write_in": null,
+     "total_votes": 483,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4C": {
      "votes": {
       "James Kennedy Weilbacher DLG Benjamin": 100,
@@ -1946,23 +1958,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 5399,
-     "pct": 63.36
+     "votes": 5584,
+     "pct": 63.66
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 3122,
-     "pct": 36.64
+     "votes": 3187,
+     "pct": 36.34
     }
    ],
    "write_in": 0,
-   "total_votes": 8521,
+   "total_votes": 8771,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 6,
+   "precincts_in_report": 7,
    "by_precinct": {
+    "ED4B": {
+     "votes": {
+      "YES": 185,
+      "NO": 65
+     },
+     "write_in": null,
+     "total_votes": 250,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4C": {
      "votes": {
       "YES": 92,
@@ -2212,21 +2235,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 63.4,
+   "leader_pct": 63.7,
    "runner_up": "NO",
-   "runner_up_pct": 36.6,
+   "runner_up_pct": 36.3,
    "third": null,
    "third_pct": null,
-   "margin": 2277,
-   "counted_pct": 74.2,
-   "precincts_reported": 6,
+   "margin": 2397,
+   "counted_pct": 74.5,
+   "precincts_reported": 7,
    "precincts_total": 15,
-   "precincts_led": 5,
-   "precincts_with_votes": 6,
-   "runner_up_needs_pct": 80.7,
+   "precincts_led": 6,
+   "precincts_with_votes": 7,
+   "runner_up_needs_pct": 81.9,
    "runner_up_best_pct": 51.9,
    "runner_up_best_at": "ED6",
-   "est_votes_out": 2970
+   "est_votes_out": 3001
   }
  ]
 }
