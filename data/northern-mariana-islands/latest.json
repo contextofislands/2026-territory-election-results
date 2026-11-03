@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "5eef9aaa290f206f7031199ce2c0542de71b853be0fe281e765f1f60531a248f",
-  "fetched_at": "2026-11-03T18:28:41.055Z",
-  "file_last_modified": "Tue, 03 Nov 2026 18:27:59 GMT"
+  "sha256": "714248294eac93ca02fccbdb6d859b8d552ccf6b91407a61f7b11ea8ab80e319",
+  "fetched_at": "2026-11-03T18:29:41.046Z",
+  "file_last_modified": "Tue, 03 Nov 2026 18:29:06 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1173,83 +1173,104 @@
     {
      "name": "Marissa Renee Flores",
      "party": "IND",
-     "votes": 1397,
-     "pct": 11.43
-    },
-    {
-     "name": "Ralph Naraja Yumul",
-     "party": "IND",
-     "votes": 1233,
-     "pct": 10.09
+     "votes": 1541,
+     "pct": 11.17
     },
     {
      "name": "Elias Malite Rangamar",
      "party": "IND",
-     "votes": 1180,
-     "pct": 9.65
+     "votes": 1378,
+     "pct": 9.99
+    },
+    {
+     "name": "Ralph Naraja Yumul",
+     "party": "IND",
+     "votes": 1353,
+     "pct": 9.81
     },
     {
      "name": "Edward C. Arriola Jr.",
      "party": "REP",
-     "votes": 1086,
-     "pct": 8.88
-    },
-    {
-     "name": "Steve Kap Soo Jang",
-     "party": "IND",
-     "votes": 1071,
-     "pct": 8.76
+     "votes": 1223,
+     "pct": 8.87
     },
     {
      "name": "Andrew Lujan Orsini",
      "party": "REP",
-     "votes": 1029,
-     "pct": 8.42
+     "votes": 1200,
+     "pct": 8.7
+    },
+    {
+     "name": "Steve Kap Soo Jang",
+     "party": "IND",
+     "votes": 1199,
+     "pct": 8.69
     },
     {
      "name": "Yvette Reyes Sablan",
      "party": "REP",
-     "votes": 987,
-     "pct": 8.07
+     "votes": 1102,
+     "pct": 7.99
     },
     {
      "name": "Denita Kaipat Yangetmai",
      "party": "DEM",
-     "votes": 951,
-     "pct": 7.78
+     "votes": 1101,
+     "pct": 7.98
     },
     {
      "name": "Quaid Taima Ogumoro Ngirchongor",
      "party": "REP",
-     "votes": 864,
-     "pct": 7.07
-    },
-    {
-     "name": "Carlos Ebert Santos",
-     "party": "IND",
-     "votes": 835,
-     "pct": 6.83
+     "votes": 1024,
+     "pct": 7.42
     },
     {
      "name": "Del Ariel Benson",
      "party": "REP",
-     "votes": 812,
-     "pct": 6.64
+     "votes": 922,
+     "pct": 6.69
+    },
+    {
+     "name": "Carlos Ebert Santos",
+     "party": "IND",
+     "votes": 896,
+     "pct": 6.5
     },
     {
      "name": "Gabriel \"Boki\" Babauta",
      "party": "DEM",
-     "votes": 781,
-     "pct": 6.39
+     "votes": 853,
+     "pct": 6.18
     }
    ],
    "write_in": 0,
-   "total_votes": 12226,
+   "total_votes": 13792,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 3,
+   "precincts_in_report": 4,
    "by_precinct": {
+    "ED3A": {
+     "votes": {
+      "Steve Kap Soo Jang": 128,
+      "Elias Malite Rangamar": 198,
+      "Edward C. Arriola Jr.": 137,
+      "Gabriel \"Boki\" Babauta": 72,
+      "Quaid Taima Ogumoro Ngirchongor": 160,
+      "Denita Kaipat Yangetmai": 150,
+      "Ralph Naraja Yumul": 120,
+      "Marissa Renee Flores": 144,
+      "Yvette Reyes Sablan": 115,
+      "Andrew Lujan Orsini": 171,
+      "Carlos Ebert Santos": 61,
+      "Del Ariel Benson": 110
+     },
+     "write_in": null,
+     "total_votes": 1566,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED3B": {
      "votes": {
       "Steve Kap Soo Jang": 375,
@@ -2276,23 +2297,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 6267,
-     "pct": 63.99
+     "votes": 6439,
+     "pct": 63.94
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 3526,
-     "pct": 36.01
+     "votes": 3632,
+     "pct": 36.06
     }
    ],
    "write_in": 0,
-   "total_votes": 9793,
+   "total_votes": 10071,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 9,
+   "precincts_in_report": 10,
    "by_precinct": {
+    "ED3A": {
+     "votes": {
+      "YES": 172,
+      "NO": 106
+     },
+     "write_in": null,
+     "total_votes": 278,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED3B": {
      "votes": {
       "YES": 465,
@@ -2575,21 +2607,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 64,
+   "leader_pct": 63.9,
    "runner_up": "NO",
-   "runner_up_pct": 36,
+   "runner_up_pct": 36.1,
    "third": null,
    "third_pct": null,
-   "margin": 2741,
-   "counted_pct": 82.6,
-   "precincts_reported": 9,
+   "margin": 2807,
+   "counted_pct": 84.7,
+   "precincts_reported": 10,
    "precincts_total": 15,
-   "precincts_led": 8,
-   "precincts_with_votes": 9,
+   "precincts_led": 9,
+   "precincts_with_votes": 10,
    "runner_up_needs_pct": null,
    "runner_up_best_pct": 51.9,
    "runner_up_best_at": "ED6",
-   "est_votes_out": 2063
+   "est_votes_out": 1817
   }
  ]
 }
