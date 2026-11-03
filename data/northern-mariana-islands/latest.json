@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "d7645a93dc7f3d8bf69522c6e318e99d75b7557a3b7f8428b90a082ed038e4f9",
-  "fetched_at": "2026-11-03T16:46:40.201Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:46:02 GMT"
+  "sha256": "d506a7052610a6912379ee7177e1c57f90e73a4f48fc8fd7ad9bd98c2e870f5e",
+  "fetched_at": "2026-11-03T16:48:39.831Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:48:05 GMT"
  },
  "report": {
   "title": "Election results",
@@ -915,28 +915,28 @@
     {
      "name": "James Kennedy Weilbacher DLG Benjamin",
      "party": "REP",
-     "votes": 316,
-     "pct": 41.58
-    },
-    {
-     "name": "Malcom Jason Omar",
-     "party": "REP",
-     "votes": 227,
-     "pct": 29.87
+     "votes": 382,
+     "pct": 42.49
     },
     {
      "name": "Joel Castro Camacho",
      "party": "IND",
-     "votes": 217,
-     "pct": 28.55
+     "votes": 265,
+     "pct": 29.48
+    },
+    {
+     "name": "Malcom Jason Omar",
+     "party": "REP",
+     "votes": 252,
+     "pct": 28.03
     }
    ],
    "write_in": 0,
-   "total_votes": 760,
+   "total_votes": 899,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -946,6 +946,18 @@
      },
      "write_in": null,
      "total_votes": 760,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "James Kennedy Weilbacher DLG Benjamin": 66,
+      "Malcom Jason Omar": 25,
+      "Joel Castro Camacho": 48
+     },
+     "write_in": null,
+     "total_votes": 139,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -962,34 +974,34 @@
     {
      "name": "Leila Haveia Fleming Clark Staffler",
      "party": "DEM",
-     "votes": 580,
-     "pct": 35.65
+     "votes": 641,
+     "pct": 34.93
     },
     {
      "name": "Angelo Atalig Camacho",
      "party": "IND",
-     "votes": 421,
-     "pct": 25.88
+     "votes": 482,
+     "pct": 26.27
     },
     {
      "name": "Ted Anthony Deleon Guerrero",
      "party": "REP",
-     "votes": 360,
-     "pct": 22.13
+     "votes": 407,
+     "pct": 22.18
     },
     {
      "name": "Peter Francis Reyes Muna",
      "party": "DEM",
-     "votes": 266,
-     "pct": 16.35
+     "votes": 305,
+     "pct": 16.62
     }
    ],
    "write_in": 0,
-   "total_votes": 1627,
+   "total_votes": 1835,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1000,6 +1012,19 @@
      },
      "write_in": null,
      "total_votes": 1627,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Ted Anthony Deleon Guerrero": 47,
+      "Peter Francis Reyes Muna": 39,
+      "Leila Haveia Fleming Clark Staffler": 61,
+      "Angelo Atalig Camacho": 61
+     },
+     "write_in": null,
+     "total_votes": 208,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1016,16 +1041,16 @@
     {
      "name": "Joseph Romaldo Evangelista Santos",
      "party": "REP",
-     "votes": 589,
+     "votes": 703,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 589,
+   "total_votes": 703,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1033,6 +1058,16 @@
      },
      "write_in": null,
      "total_votes": 589,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Joseph Romaldo Evangelista Santos": 114
+     },
+     "write_in": null,
+     "total_votes": 114,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1049,16 +1084,16 @@
     {
      "name": "Julie Marie Atalig Ogo",
      "party": "IND",
-     "votes": 563,
+     "votes": 701,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 563,
+   "total_votes": 701,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1066,6 +1101,16 @@
      },
      "write_in": null,
      "total_votes": 563,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Julie Marie Atalig Ogo": 138
+     },
+     "write_in": null,
+     "total_votes": 138,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1412,22 +1457,22 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 3925,
-     "pct": 64.02
+     "votes": 4391,
+     "pct": 63.06
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 2206,
-     "pct": 35.98
+     "votes": 2572,
+     "pct": 36.94
     }
    ],
    "write_in": 0,
-   "total_votes": 6131,
+   "total_votes": 6963,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1436,6 +1481,17 @@
      },
      "write_in": null,
      "total_votes": 6131,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "YES": 466,
+      "NO": 366
+     },
+     "write_in": null,
+     "total_votes": 832,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1623,21 +1679,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 64,
+   "leader_pct": 63.1,
    "runner_up": "NO",
-   "runner_up_pct": 36,
+   "runner_up_pct": 36.9,
    "third": null,
    "third_pct": null,
-   "margin": 1719,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "margin": 1819,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.8,
-   "runner_up_best_pct": 36,
-   "runner_up_best_at": "EV",
-   "est_votes_out": 82769
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 51.6,
+   "runner_up_best_pct": 44,
+   "runner_up_best_at": "ABS",
+   "est_votes_out": 45260
   }
  ]
 }
