@@ -4,9 +4,9 @@
  "source": {
   "agency": "Guam Election Commission",
   "url": "https://drive.google.com/file/d/14aF8IpDgLDc-qawFgNGSuVlVr0slazeU/view?usp=sharing",
-  "sha256": "991fec6fa23fac334418be25aa695a39b49bf6a0e40099899ed4546b755b3715",
-  "fetched_at": "2026-11-03T15:08:38.473Z",
-  "file_last_modified": "Tue, 03 Nov 2026 15:08:27 GMT",
+  "sha256": "41a46f21b6d06e41f86c3f3b194b168c3f60195ad3d1d76fa7d04da188b8e79e",
+  "fetched_at": "2026-11-03T15:36:38.328Z",
+  "file_last_modified": "Tue, 03 Nov 2026 15:36:01 GMT",
   "page": "https://gec.guam.gov/2026-general-election-info/"
  },
  "report": {
@@ -16,15 +16,15 @@
   "election_date": "November 3, 2026",
   "jurisdiction": "GUAM",
   "type": "Election Summary",
-  "generated": "11/04/2026 12:59AM",
+  "generated": "11/04/2026 01:30AM",
   "pages": 3
  },
  "statistics": {
   "totals": {
    "Registered Voters - Total": 59146,
-   "Ballots Cast - Total": 20197,
-   "Ballots Cast - Blank": 3,
-   "Voter Turnout - Total": 34.15
+   "Ballots Cast - Total": 31414,
+   "Ballots Cast - Blank": 9,
+   "Voter Turnout - Total": 53.11
   },
   "by_precinct": {}
  },
@@ -40,21 +40,21 @@
     {
      "name": "ADA/CALVO",
      "party": "REP",
-     "votes": 10179,
-     "pct": 51.08
+     "votes": 15945,
+     "pct": 51.45
     },
     {
      "name": "TERLAJE/PEREZ",
      "party": "DEM",
-     "votes": 9682,
-     "pct": 48.58
+     "votes": 14925,
+     "pct": 48.15
     }
    ],
-   "write_in": 68,
-   "total_votes": 19929,
-   "overvotes": 43,
-   "undervotes": 225,
-   "contest_totals": 20197,
+   "write_in": 124,
+   "total_votes": 30994,
+   "overvotes": 69,
+   "undervotes": 351,
+   "contest_totals": 31414,
    "precincts_in_report": 0,
    "by_precinct": {}
   },
@@ -68,21 +68,21 @@
     {
      "name": "LIMTIACO, Alicia Anne Garrido",
      "party": "DEM",
-     "votes": 10016,
-     "pct": 50.75
+     "votes": 15645,
+     "pct": 51
     },
     {
      "name": "MOYLAN, James Craig",
      "party": "REP",
-     "votes": 9692,
-     "pct": 49.11
+     "votes": 14983,
+     "pct": 48.84
     }
    ],
-   "write_in": 28,
-   "total_votes": 19736,
-   "overvotes": 49,
-   "undervotes": 412,
-   "contest_totals": 20197,
+   "write_in": 49,
+   "total_votes": 30677,
+   "overvotes": 79,
+   "undervotes": 658,
+   "contest_totals": 31414,
    "precincts_in_report": 0,
    "by_precinct": {}
   },
@@ -96,183 +96,183 @@
     {
      "name": "BARNETT, Darrel Christopher",
      "party": "DEM",
-     "votes": 12790,
-     "pct": 5.84
+     "votes": 19783,
+     "pct": 5.82
     },
     {
      "name": "SHELTON, Amanda L.",
      "party": "DEM",
-     "votes": 10203,
+     "votes": 15835,
      "pct": 4.66
     },
     {
      "name": "MATANANE, Sabrina Salas",
      "party": "REP",
-     "votes": 9095,
-     "pct": 4.15
+     "votes": 14220,
+     "pct": 4.18
     },
     {
      "name": "LUJAN, Jesse Michael A.",
      "party": "REP",
-     "votes": 8879,
-     "pct": 4.05
+     "votes": 13917,
+     "pct": 4.09
     },
     {
      "name": "DUENAS, Christopher M.",
      "party": "REP",
-     "votes": 8806,
-     "pct": 4.02
+     "votes": 13746,
+     "pct": 4.04
     },
     {
      "name": "NELSON, Telena Monique Cruz",
      "party": "DEM",
-     "votes": 8689,
-     "pct": 3.96
-    },
-    {
-     "name": "NGUYEN, Hoa Van",
-     "party": "REP",
-     "votes": 8656,
-     "pct": 3.95
+     "votes": 13488,
+     "pct": 3.97
     },
     {
      "name": "TAITAGUE, Telo Teresa",
      "party": "REP",
-     "votes": 8588,
+     "votes": 13330,
+     "pct": 3.92
+    },
+    {
+     "name": "NGUYEN, Hoa Van",
+     "party": "REP",
+     "votes": 13329,
      "pct": 3.92
     },
     {
      "name": "PARKINSON, William Mark",
      "party": "DEM",
-     "votes": 8517,
-     "pct": 3.89
+     "votes": 13120,
+     "pct": 3.86
     },
     {
      "name": "QUINATA, Donna Rita Muna",
      "party": "DEM",
-     "votes": 8240,
-     "pct": 3.76
+     "votes": 12670,
+     "pct": 3.73
     },
     {
      "name": "RIDGELL, Clynton E.",
      "party": "DEM",
-     "votes": 8197,
-     "pct": 3.74
+     "votes": 12595,
+     "pct": 3.7
     },
     {
      "name": "BORJA, Vincent Anthony Velasco",
      "party": "REP",
-     "votes": 7855,
-     "pct": 3.58
+     "votes": 12235,
+     "pct": 3.6
     },
     {
      "name": "CALVO, Shelly Vargas",
      "party": "REP",
-     "votes": 7366,
+     "votes": 11428,
      "pct": 3.36
     },
     {
      "name": "PEREZ, Kallen Marie E.",
      "party": "DEM",
-     "votes": 7193,
-     "pct": 3.28
+     "votes": 11203,
+     "pct": 3.3
     },
     {
      "name": "GUMATAOTAO, Eulogio S.",
      "party": "REP",
-     "votes": 7037,
-     "pct": 3.21
-    },
-    {
-     "name": "SABLAN, Angel Anthony R.",
-     "party": "DEM",
-     "votes": 7028,
-     "pct": 3.21
+     "votes": 11031,
+     "pct": 3.24
     },
     {
      "name": "CASTRO, William Mendiola",
      "party": "REP",
-     "votes": 6951,
-     "pct": 3.17
+     "votes": 10884,
+     "pct": 3.2
     },
     {
-     "name": "BORJA, Louisa Jean",
-     "party": "REP",
-     "votes": 6767,
-     "pct": 3.09
-    },
-    {
-     "name": "QUINATA, Roy Anthony",
+     "name": "SABLAN, Angel Anthony R.",
      "party": "DEM",
-     "votes": 6752,
-     "pct": 3.08
-    },
-    {
-     "name": "SGAMBELLURI, Raffaele M.",
-     "party": "REP",
-     "votes": 6697,
-     "pct": 3.06
+     "votes": 10764,
+     "pct": 3.17
     },
     {
      "name": "SAVARES, Jonathan James",
      "party": "REP",
-     "votes": 6689,
-     "pct": 3.05
+     "votes": 10497,
+     "pct": 3.09
+    },
+    {
+     "name": "BORJA, Louisa Jean",
+     "party": "REP",
+     "votes": 10458,
+     "pct": 3.08
+    },
+    {
+     "name": "QUINATA, Roy Anthony",
+     "party": "DEM",
+     "votes": 10407,
+     "pct": 3.06
+    },
+    {
+     "name": "SGAMBELLURI, Raffaele M.",
+     "party": "REP",
+     "votes": 10398,
+     "pct": 3.06
     },
     {
      "name": "BORDALLO, Fred E. Jr.",
      "party": "DEM",
-     "votes": 6163,
-     "pct": 2.81
+     "votes": 9534,
+     "pct": 2.8
     },
     {
      "name": "NEDEDOG, Sarah Mattie Villaranda Thomas DEM CRUZ, Joaquin Alan",
      "party": "DEM",
-     "votes": 6058,
+     "votes": 9393,
      "pct": 2.76
-    },
-    {
-     "name": "TAIJERON, Anthony W.",
-     "party": "DEM",
-     "votes": 5871,
-     "pct": 2.68
     },
     {
      "name": "SANTOS, Angela Therese A.M.",
      "party": "DEM",
-     "votes": 5785,
-     "pct": 2.64
+     "votes": 9024,
+     "pct": 2.65
+    },
+    {
+     "name": "TAIJERON, Anthony W.",
+     "party": "DEM",
+     "votes": 9012,
+     "pct": 2.65
     },
     {
      "name": "TAITAGUE, Joaquin Manuel",
      "party": "DEM",
-     "votes": 5343,
-     "pct": 2.44
+     "votes": 8100,
+     "pct": 2.38
     },
     {
      "name": "CALVO, Gregorio Salas",
      "party": "REP",
-     "votes": 4596,
-     "pct": 2.1
+     "votes": 7194,
+     "pct": 2.12
     },
     {
      "name": "MORTERA, Matteo Thomas",
      "party": "REP",
-     "votes": 4514,
-     "pct": 2.06
+     "votes": 7045,
+     "pct": 2.07
     },
     {
      "name": "ARRIOLA, Joseph B.D.",
      "party": "REP",
-     "votes": 3374,
-     "pct": 1.54
+     "votes": 5326,
+     "pct": 1.57
     }
    ],
-   "write_in": 344,
-   "total_votes": 219144,
-   "overvotes": 2865,
-   "undervotes": 80946,
-   "contest_totals": 302955,
+   "write_in": 503,
+   "total_votes": 339971,
+   "overvotes": 4350,
+   "undervotes": 126889,
+   "contest_totals": 471210,
    "precincts_in_report": 0,
    "by_precinct": {}
   },
@@ -286,39 +286,39 @@
     {
      "name": "TYDINGCO, Phillip James",
      "party": null,
-     "votes": 7412,
-     "pct": 38.06
+     "votes": 11583,
+     "pct": 38.29
     },
     {
      "name": "MOYLAN, Douglas B.",
      "party": null,
-     "votes": 6481,
-     "pct": 33.28
+     "votes": 10008,
+     "pct": 33.08
     },
     {
      "name": "FISHER, Thomas Joseph",
      "party": null,
-     "votes": 2482,
-     "pct": 12.75
+     "votes": 3842,
+     "pct": 12.7
     },
     {
      "name": "SANTOS, Peter John",
      "party": null,
-     "votes": 2171,
-     "pct": 11.15
+     "votes": 3353,
+     "pct": 11.08
     },
     {
      "name": "PAULUHN, Jordan Lawrence",
      "party": null,
-     "votes": 913,
-     "pct": 4.69
+     "votes": 1448,
+     "pct": 4.79
     }
    ],
-   "write_in": 14,
-   "total_votes": 19473,
-   "overvotes": 118,
-   "undervotes": 606,
-   "contest_totals": 20197,
+   "write_in": 20,
+   "total_votes": 30254,
+   "overvotes": 178,
+   "undervotes": 982,
+   "contest_totals": 31414,
    "precincts_in_report": 0,
    "by_precinct": {}
   },
@@ -332,39 +332,39 @@
     {
      "name": "SANCHEZ, Simon A.",
      "party": null,
-     "votes": 9421,
-     "pct": 24.13
+     "votes": 14624,
+     "pct": 24.11
     },
     {
      "name": "LIMTIACO, Michael Troy",
      "party": null,
-     "votes": 8882,
-     "pct": 22.75
+     "votes": 13773,
+     "pct": 22.71
     },
     {
      "name": "SANTOS, Francis Edward Borja",
      "party": null,
-     "votes": 7933,
-     "pct": 20.32
+     "votes": 12408,
+     "pct": 20.46
     },
     {
      "name": "PEREZ, Kenneth Robert",
      "party": null,
-     "votes": 6692,
-     "pct": 17.14
+     "votes": 10369,
+     "pct": 17.09
     },
     {
      "name": "ADONAY, Roy Salvador Agudon",
      "party": null,
-     "votes": 6010,
-     "pct": 15.39
+     "votes": 9323,
+     "pct": 15.37
     }
    ],
-   "write_in": 101,
-   "total_votes": 39039,
-   "overvotes": 264,
-   "undervotes": 21288,
-   "contest_totals": 60591,
+   "write_in": 160,
+   "total_votes": 60657,
+   "overvotes": 408,
+   "undervotes": 33177,
+   "contest_totals": 94242,
    "precincts_in_report": 0,
    "by_precinct": {}
   },
@@ -378,41 +378,41 @@
     {
      "name": "TAITANO, John R. II",
      "party": null,
-     "votes": 9695,
-     "pct": 32.39
+     "votes": 14791,
+     "pct": 32.34
     },
     {
      "name": "MC NINCH, Ronald Lewis Jr.",
      "party": null,
-     "votes": 8087,
-     "pct": 27.02
+     "votes": 12503,
+     "pct": 27.34
     },
     {
      "name": "AGUON, Isaiah John",
      "party": null,
-     "votes": 6721,
-     "pct": 22.46
+     "votes": 10251,
+     "pct": 22.42
     },
     {
      "name": "AYUYU, Ronald Anthony",
      "party": null,
-     "votes": 5426,
-     "pct": 18.13
+     "votes": 8186,
+     "pct": 17.9
     }
    ],
    "write_in": 0,
-   "total_votes": 29929,
+   "total_votes": 45731,
    "overvotes": 0,
-   "undervotes": 50859,
-   "contest_totals": 80788,
+   "undervotes": 79925,
+   "contest_totals": 125656,
    "precincts_in_report": 0,
    "by_precinct": {}
   }
  ],
  "warning_count": 2,
  "warnings": [
-  "The report says it has 3 pages, but 4 were read.",
-  "Guam Legislature / ALL: candidate votes add up to 213043, but the report says 219144."
+  "The report says it has 3 pages, but 5 were read.",
+  "Guam Legislature / ALL: candidate votes add up to 330469, but the report says 339971."
  ],
  "credit": "Source: Guam Election Commission. Compiled by Pasquines.",
  "watch": []
