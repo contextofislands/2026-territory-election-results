@@ -1,4 +1,7 @@
 territory,precinct,contest,party,office,candidate,votes
+MP,ED2,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,175
+MP,ED2,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,159
+MP,ED2,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,61
 MP,ED3A,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,144
 MP,ED3A,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,152
 MP,ED3A,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,21
@@ -29,6 +32,8 @@ MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Ed
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,414
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,339
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,133
+MP,ED2,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,225
+MP,ED2,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,166
 MP,ED3A,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,200
 MP,ED3A,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,106
 MP,ED3B,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,408
@@ -49,6 +54,13 @@ MP,EV,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,4388
 MP,EV,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,2260
 MP,ABS,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,611
 MP,ABS,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,272
+MP,ED2,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,199
+MP,ED2,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,162
+MP,ED2,Senate - Saipan,,Senate - Saipan,Marco Peter,105
+MP,ED2,Senate - Saipan,,Senate - Saipan,Corina Lorraine Magofna,87
+MP,ED2,Senate - Saipan,,Senate - Saipan,Vicente Castro Camacho,65
+MP,ED2,Senate - Saipan,,Senate - Saipan,Crispin Manglona Sablan,66
+MP,ED2,Senate - Saipan,,Senate - Saipan,Edwin Raymond Borja Quitugua,31
 MP,ED3A,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,156
 MP,ED3A,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,111
 MP,ED3A,Senate - Saipan,,Senate - Saipan,Marco Peter,124
@@ -120,6 +132,8 @@ MP,EV,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,239
 MP,ABS,Senate - Rota,,Senate - Rota,Donald Manalang Manglona,125
 MP,ABS,Senate - Rota,,Senate - Rota,Tito Songao Hocog II,111
 MP,ABS,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,51
+MP,ED2,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",307
+MP,ED2,Mayor - Saipan,,Mayor - Saipan,Joseph Muna Mendiola,85
 MP,ED3A,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",241
 MP,ED3A,Mayor - Saipan,,Mayor - Saipan,Joseph Muna Mendiola,63
 MP,ED3B,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",570
@@ -259,6 +273,9 @@ MP,ABS,House- Tinian & Aguiguan - Election District 6,,House- Tinian & Aguiguan 
 MP,ED7,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,261
 MP,EV,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,563
 MP,ABS,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,138
+MP,ED2,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Anthony Tenorio Benavente,243
+MP,ED2,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Marian Deleon Guerrero Tudela,258
+MP,ED2,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Antonia Manibusan Tudela,227
 MP,ED3A,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Anthony Tenorio Benavente,189
 MP,ED3A,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Marian Deleon Guerrero Tudela,199
 MP,ED3A,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Antonia Manibusan Tudela,170
@@ -309,6 +326,9 @@ MP,ED4C,Saipan & Northern Islands - Board of Education,,Saipan & Northern Island
 MP,ED5,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,737
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
+MP,ED2,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,127
+MP,ED2,Attorney General,,Attorney General,Michael Norita Evangelista,131
+MP,ED2,Attorney General,,Attorney General,Jonathan Robert Glass,129
 MP,ED3A,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,105
 MP,ED3A,Attorney General,,Attorney General,Michael Norita Evangelista,106
 MP,ED3A,Attorney General,,Attorney General,Jonathan Robert Glass,90
