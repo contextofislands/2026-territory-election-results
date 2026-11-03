@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "1a0e63643a0b420d20c0e99f101cec42cf22fce77b24cc8d40ae8bcb7ad56e04",
-  "fetched_at": "2026-11-03T16:19:40.030Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:19:32 GMT"
+  "sha256": "8c5dc474a941c0ae52e2fd19f637aa728146019d11cb0676632cc271f58a1e0b",
+  "fetched_at": "2026-11-03T16:26:41.119Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:26:27 GMT"
  },
  "report": {
   "title": "Election results",
@@ -857,12 +857,12 @@
     {
      "name": "Joseph Romaldo Evangelista Santos",
      "party": "REP",
-     "votes": 102,
+     "votes": 589,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 102,
+   "total_votes": 589,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -870,10 +870,10 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Joseph Romaldo Evangelista Santos": 102
+      "Joseph Romaldo Evangelista Santos": 589
      },
      "write_in": null,
-     "total_votes": 102,
+     "total_votes": 589,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -890,12 +890,12 @@
     {
      "name": "Julie Marie Atalig Ogo",
      "party": "IND",
-     "votes": 109,
+     "votes": 563,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 109,
+   "total_votes": 563,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -903,10 +903,10 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Julie Marie Atalig Ogo": 109
+      "Julie Marie Atalig Ogo": 563
      },
      "write_in": null,
-     "total_votes": 109,
+     "total_votes": 563,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
