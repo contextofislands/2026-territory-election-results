@@ -1,4 +1,10 @@
 territory,precinct,contest,party,office,candidate,votes
+MP,ED5,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,192
+MP,ED5,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,32
+MP,ED5,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,13
+MP,ED6,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,192
+MP,ED6,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,32
+MP,ED6,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,13
 MP,ED7,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,202
 MP,ED7,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,94
 MP,ED7,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,20
@@ -152,6 +158,9 @@ MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Sandra Mesngon Masga,1
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,143
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
+MP,ED5,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,175
+MP,ED5,Attorney General,,Attorney General,Jonathan Robert Glass,28
+MP,ED5,Attorney General,,Attorney General,Michael Norita Evangelista,23
 MP,ED7,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,182
 MP,ED7,Attorney General,,Attorney General,Jonathan Robert Glass,79
 MP,ED7,Attorney General,,Attorney General,Michael Norita Evangelista,44
