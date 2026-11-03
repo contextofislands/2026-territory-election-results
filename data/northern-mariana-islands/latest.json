@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "8c5dc474a941c0ae52e2fd19f637aa728146019d11cb0676632cc271f58a1e0b",
-  "fetched_at": "2026-11-03T16:26:41.119Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:26:27 GMT"
+  "sha256": "745b6d193ab052eaf067a539750e59a1543fc7a632b740a42cdeeb5f60fb887e",
+  "fetched_at": "2026-11-03T16:30:40.720Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:30:36 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1017,24 +1017,24 @@
     {
      "name": "Jonovan Hocog Lizama",
      "party": "NP",
-     "votes": 573,
-     "pct": 34.79
+     "votes": 574,
+     "pct": 34.83
     },
     {
      "name": "Sandra Mesngon Masga",
      "party": "NP",
      "votes": 551,
-     "pct": 33.45
+     "pct": 33.43
     },
     {
      "name": "Tillie Castro Taimanao",
      "party": "NP",
      "votes": 523,
-     "pct": 31.75
+     "pct": 31.74
     }
    ],
    "write_in": 0,
-   "total_votes": 1647,
+   "total_votes": 1648,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -1042,12 +1042,12 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "Jonovan Hocog Lizama": 573,
+      "Jonovan Hocog Lizama": 574,
       "Tillie Castro Taimanao": 523,
       "Sandra Mesngon Masga": 551
      },
      "write_in": null,
-     "total_votes": 1647,
+     "total_votes": 1648,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
