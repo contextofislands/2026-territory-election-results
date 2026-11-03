@@ -6,14 +6,34 @@ MP,EV,2nd,,2nd,—,2207
 MP,EV,3rd,,3rd,—,1748
 MP,EV,1st,,1st,—,2828
 MP,EV,4th,,4th,—,1107
-MP,All,0 votes (6),,0 votes (6),—,0
-MP,All,0 votes (6),,0 votes (6),(Write-ins),0
-MP,All,0 votes (6),,0 votes (6),(Overvotes),0
-MP,All,0 votes (6),,0 votes (6),(Undervotes),0
+MP,All,0 votes,,0 votes,—,0
+MP,All,0 votes,,0 votes,(Write-ins),0
+MP,All,0 votes,,0 votes,(Overvotes),0
+MP,All,0 votes,,0 votes,(Undervotes),0
+MP,All,0 votes (2),,0 votes (2),—,0
+MP,All,0 votes (2),,0 votes (2),(Write-ins),0
+MP,All,0 votes (2),,0 votes (2),(Overvotes),0
+MP,All,0 votes (2),,0 votes (2),(Undervotes),0
 MP,All,0 votes (7),,0 votes (7),—,0
 MP,All,0 votes (7),,0 votes (7),(Write-ins),0
 MP,All,0 votes (7),,0 votes (7),(Overvotes),0
 MP,All,0 votes (7),,0 votes (7),(Undervotes),0
+MP,All,0 votes (8),,0 votes (8),—,0
+MP,All,0 votes (8),,0 votes (8),(Write-ins),0
+MP,All,0 votes (8),,0 votes (8),(Overvotes),0
+MP,All,0 votes (8),,0 votes (8),(Undervotes),0
+MP,All,0 votes (9),,0 votes (9),—,0
+MP,All,0 votes (9),,0 votes (9),(Write-ins),0
+MP,All,0 votes (9),,0 votes (9),(Overvotes),0
+MP,All,0 votes (9),,0 votes (9),(Undervotes),0
+MP,All,0 votes (10),,0 votes (10),—,0
+MP,All,0 votes (10),,0 votes (10),(Write-ins),0
+MP,All,0 votes (10),,0 votes (10),(Overvotes),0
+MP,All,0 votes (10),,0 votes (10),(Undervotes),0
+MP,All,0 votes (11),,0 votes (11),—,0
+MP,All,0 votes (11),,0 votes (11),(Write-ins),0
+MP,All,0 votes (11),,0 votes (11),(Overvotes),0
+MP,All,0 votes (11),,0 votes (11),(Undervotes),0
 MP,All,0 votes (12),,0 votes (12),—,0
 MP,All,0 votes (12),,0 votes (12),(Write-ins),0
 MP,All,0 votes (12),,0 votes (12),(Overvotes),0
@@ -46,42 +66,22 @@ MP,All,0 votes (19),,0 votes (19),—,0
 MP,All,0 votes (19),,0 votes (19),(Write-ins),0
 MP,All,0 votes (19),,0 votes (19),(Overvotes),0
 MP,All,0 votes (19),,0 votes (19),(Undervotes),0
-MP,All,0 votes (20),,0 votes (20),—,0
-MP,All,0 votes (20),,0 votes (20),(Write-ins),0
-MP,All,0 votes (20),,0 votes (20),(Overvotes),0
-MP,All,0 votes (20),,0 votes (20),(Undervotes),0
-MP,All,0 votes (21),,0 votes (21),—,0
-MP,All,0 votes (21),,0 votes (21),(Write-ins),0
-MP,All,0 votes (21),,0 votes (21),(Overvotes),0
-MP,All,0 votes (21),,0 votes (21),(Undervotes),0
-MP,All,0 votes (22),,0 votes (22),—,0
-MP,All,0 votes (22),,0 votes (22),(Write-ins),0
-MP,All,0 votes (22),,0 votes (22),(Overvotes),0
-MP,All,0 votes (22),,0 votes (22),(Undervotes),0
-MP,All,0 votes (23),,0 votes (23),—,0
-MP,All,0 votes (23),,0 votes (23),(Write-ins),0
-MP,All,0 votes (23),,0 votes (23),(Overvotes),0
-MP,All,0 votes (23),,0 votes (23),(Undervotes),0
-MP,All,0 votes (24),,0 votes (24),—,0
-MP,All,0 votes (24),,0 votes (24),(Write-ins),0
-MP,All,0 votes (24),,0 votes (24),(Overvotes),0
-MP,All,0 votes (24),,0 votes (24),(Undervotes),0
-MP,All,0 votes (49),,0 votes (49),—,0
-MP,All,0 votes (49),,0 votes (49),(Write-ins),0
-MP,All,0 votes (49),,0 votes (49),(Overvotes),0
-MP,All,0 votes (49),,0 votes (49),(Undervotes),0
-MP,All,0 votes (50),,0 votes (50),—,0
-MP,All,0 votes (50),,0 votes (50),(Write-ins),0
-MP,All,0 votes (50),,0 votes (50),(Overvotes),0
-MP,All,0 votes (50),,0 votes (50),(Undervotes),0
-MP,All,0 votes (51),,0 votes (51),—,0
-MP,All,0 votes (51),,0 votes (51),(Write-ins),0
-MP,All,0 votes (51),,0 votes (51),(Overvotes),0
-MP,All,0 votes (51),,0 votes (51),(Undervotes),0
-MP,All,0 votes (58),,0 votes (58),—,0
-MP,All,0 votes (58),,0 votes (58),(Write-ins),0
-MP,All,0 votes (58),,0 votes (58),(Overvotes),0
-MP,All,0 votes (58),,0 votes (58),(Undervotes),0
+MP,All,0 votes (44),,0 votes (44),—,0
+MP,All,0 votes (44),,0 votes (44),(Write-ins),0
+MP,All,0 votes (44),,0 votes (44),(Overvotes),0
+MP,All,0 votes (44),,0 votes (44),(Undervotes),0
+MP,All,0 votes (45),,0 votes (45),—,0
+MP,All,0 votes (45),,0 votes (45),(Write-ins),0
+MP,All,0 votes (45),,0 votes (45),(Overvotes),0
+MP,All,0 votes (45),,0 votes (45),(Undervotes),0
+MP,All,0 votes (46),,0 votes (46),—,0
+MP,All,0 votes (46),,0 votes (46),(Write-ins),0
+MP,All,0 votes (46),,0 votes (46),(Overvotes),0
+MP,All,0 votes (46),,0 votes (46),(Undervotes),0
+MP,All,0 votes (53),,0 votes (53),—,0
+MP,All,0 votes (53),,0 votes (53),(Write-ins),0
+MP,All,0 votes (53),,0 votes (53),(Overvotes),0
+MP,All,0 votes (53),,0 votes (53),(Undervotes),0
 MP,ED1A,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,YES,0
 MP,ED1A,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,NO,0
 MP,ED1B,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,YES,0
