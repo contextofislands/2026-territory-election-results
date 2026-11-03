@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "f9428449bade9f0a3ec0cc3ed66ca7728f8000c0c99d27a2debf505bc4410cc3",
-  "fetched_at": "2026-11-03T12:14:40.177Z",
-  "file_last_modified": "Tue, 03 Nov 2026 12:14:40 GMT"
+  "sha256": "b9e32e7926dbaed12001fba74e8c2015154d62e5e8e9c62cc5938540ce7bd453",
+  "fetched_at": "2026-11-03T12:16:40.598Z",
+  "file_last_modified": "Tue, 03 Nov 2026 12:16:40 GMT"
  },
  "report": {
   "title": "Election results",
@@ -802,10 +802,10 @@
    }
   },
   {
-   "id": "3rd-4",
-   "name": "3rd (4)",
+   "id": "3rd-5",
+   "name": "3rd (5)",
    "party": null,
-   "office": "3rd (4)",
+   "office": "3rd (5)",
    "vote_for": null,
    "candidates": [
     {
@@ -835,10 +835,10 @@
    }
   },
   {
-   "id": "2nd-7",
-   "name": "2nd (7)",
+   "id": "2nd-8",
+   "name": "2nd (8)",
    "party": null,
-   "office": "2nd (7)",
+   "office": "2nd (8)",
    "vote_for": null,
    "candidates": [
     {
@@ -868,10 +868,10 @@
    }
   },
   {
-   "id": "1st-10",
-   "name": "1st (10)",
+   "id": "1st-12",
+   "name": "1st (12)",
    "party": null,
-   "office": "1st (10)",
+   "office": "1st (12)",
    "vote_for": null,
    "candidates": [
     {
@@ -901,10 +901,10 @@
    }
   },
   {
-   "id": "1st-13",
-   "name": "1st (13)",
+   "id": "1st-15",
+   "name": "1st (15)",
    "party": null,
-   "office": "1st (13)",
+   "office": "1st (15)",
    "vote_for": null,
    "candidates": [
     {
