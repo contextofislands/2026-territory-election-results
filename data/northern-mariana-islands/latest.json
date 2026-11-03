@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "a81904f039955aa3cd12bcbd0c12ef3935994748090b2b49ff1bbd91d8e8a76d",
-  "fetched_at": "2026-11-03T12:18:40.164Z",
-  "file_last_modified": "Tue, 03 Nov 2026 12:18:40 GMT"
+  "sha256": "2025b0daf940f5a26edcc007bad20e2aa9d2be0f7feee11081dcfc3939c2348f",
+  "fetched_at": "2026-11-03T12:47:04.311Z",
+  "file_last_modified": "Tue, 03 Nov 2026 12:47:04 GMT"
  },
  "report": {
   "title": "Election results",
@@ -15,12 +15,231 @@
  },
  "statistics": {
   "totals": {},
-  "by_precinct": {}
+  "by_precinct": {
+   "ED1A": {
+    "Registered Voters - Total": 900
+   },
+   "ED1B": {
+    "Registered Voters - Total": 2884
+   },
+   "ED1C": {
+    "Registered Voters - Total": 1350
+   },
+   "ED2": {
+    "Registered Voters - Total": 1519
+   },
+   "ED3A": {
+    "Registered Voters - Total": 975
+   },
+   "ED3B": {
+    "Registered Voters - Total": 3108
+   },
+   "ED4A": {
+    "Registered Voters - Total": 641
+   },
+   "ED4B": {
+    "Registered Voters - Total": 590
+   },
+   "ED4C": {
+    "Registered Voters - Total": 395
+   },
+   "ED4D": {
+    "Registered Voters - Total": 181
+   },
+   "ED5": {
+    "Registered Voters - Total": 2889
+   },
+   "ED6": {
+    "Registered Voters - Total": 1462
+   },
+   "ED7": {
+    "Registered Voters - Total": 1627
+   }
+  }
  },
  "precincts": [
-  "EV"
+  "EV",
+  "ED1A",
+  "ED1B",
+  "ED1C",
+  "ED2",
+  "ED3A",
+  "ED3B",
+  "ED4A",
+  "ED4B",
+  "ED4C",
+  "ED4D",
+  "ED5",
+  "ED6",
+  "ED7",
+  "ABS"
  ],
  "contests": [
+  {
+   "id": "2nd",
+   "name": "2nd",
+   "party": null,
+   "office": "2nd",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 2158,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 2158,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 2158
+     },
+     "write_in": null,
+     "total_votes": 2158,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "1st",
+   "name": "1st",
+   "party": null,
+   "office": "1st",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 2778,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 2778,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 2778
+     },
+     "write_in": null,
+     "total_votes": 2778,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "3rd",
+   "name": "3rd",
+   "party": null,
+   "office": "3rd",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 622,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 622,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 622
+     },
+     "write_in": null,
+     "total_votes": 622,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "1st-2",
+   "name": "1st (2)",
+   "party": null,
+   "office": "1st (2)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 3441,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 3441,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 3441
+     },
+     "write_in": null,
+     "total_votes": 3441,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "2nd-2",
+   "name": "2nd (2)",
+   "party": null,
+   "office": "2nd (2)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 2057,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 2057,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 2057
+     },
+     "write_in": null,
+     "total_votes": 2057,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
   {
    "id": "3-6",
    "name": "3.6%",
@@ -121,10 +340,10 @@
    }
   },
   {
-   "id": "2nd",
-   "name": "2nd",
+   "id": "2nd-3",
+   "name": "2nd (3)",
    "party": null,
-   "office": "2nd",
+   "office": "2nd (3)",
    "vote_for": null,
    "candidates": [
     {
@@ -154,10 +373,10 @@
    }
   },
   {
-   "id": "3rd",
-   "name": "3rd",
+   "id": "3rd-2",
+   "name": "3rd (2)",
    "party": null,
-   "office": "3rd",
+   "office": "3rd (2)",
    "vote_for": null,
    "candidates": [
     {
@@ -187,10 +406,10 @@
    }
   },
   {
-   "id": "1st",
-   "name": "1st",
+   "id": "1st-3",
+   "name": "1st (3)",
    "party": null,
-   "office": "1st",
+   "office": "1st (3)",
    "vote_for": null,
    "candidates": [
     {
@@ -253,10 +472,10 @@
    }
   },
   {
-   "id": "2nd-4",
-   "name": "2nd (4)",
+   "id": "2nd-6",
+   "name": "2nd (6)",
    "party": null,
-   "office": "2nd (4)",
+   "office": "2nd (6)",
    "vote_for": null,
    "candidates": [
     {
@@ -286,10 +505,10 @@
    }
   },
   {
-   "id": "1st-4",
-   "name": "1st (4)",
+   "id": "1st-6",
+   "name": "1st (6)",
    "party": null,
-   "office": "1st (4)",
+   "office": "1st (6)",
    "vote_for": null,
    "candidates": [
     {
@@ -319,10 +538,10 @@
    }
   },
   {
-   "id": "1st-8",
-   "name": "1st (8)",
+   "id": "1st-10",
+   "name": "1st (10)",
    "party": null,
-   "office": "1st (8)",
+   "office": "1st (10)",
    "vote_for": null,
    "candidates": [
     {
@@ -748,10 +967,10 @@
    }
   },
   {
-   "id": "3rd-6",
-   "name": "3rd (6)",
+   "id": "3rd-7",
+   "name": "3rd (7)",
    "party": null,
-   "office": "3rd (6)",
+   "office": "3rd (7)",
    "vote_for": null,
    "candidates": [
     {
@@ -781,10 +1000,10 @@
    }
   },
   {
-   "id": "2nd-9",
-   "name": "2nd (9)",
+   "id": "2nd-11",
+   "name": "2nd (11)",
    "party": null,
-   "office": "2nd (9)",
+   "office": "2nd (11)",
    "vote_for": null,
    "candidates": [
     {
@@ -814,10 +1033,10 @@
    }
   },
   {
-   "id": "1st-15",
-   "name": "1st (15)",
+   "id": "1st-17",
+   "name": "1st (17)",
    "party": null,
-   "office": "1st (15)",
+   "office": "1st (17)",
    "vote_for": null,
    "candidates": [
     {
@@ -847,10 +1066,10 @@
    }
   },
   {
-   "id": "1st-18",
-   "name": "1st (18)",
+   "id": "1st-20",
+   "name": "1st (20)",
    "party": null,
-   "office": "1st (18)",
+   "office": "1st (20)",
    "vote_for": null,
    "candidates": [
     {
@@ -878,10 +1097,522 @@
      "contest_totals": null
     }
    }
+  },
+  {
+   "id": "3rd-10",
+   "name": "3rd (10)",
+   "party": null,
+   "office": "3rd (10)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 1622,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 1622,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 1622
+     },
+     "write_in": null,
+     "total_votes": 1622,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "1st-21",
+   "name": "1st (21)",
+   "party": null,
+   "office": "1st (21)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 2149,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 2149,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 2149
+     },
+     "write_in": null,
+     "total_votes": 2149,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "2nd-14",
+   "name": "2nd (14)",
+   "party": null,
+   "office": "2nd (14)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 1665,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 1665,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 1665
+     },
+     "write_in": null,
+     "total_votes": 1665,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "shall-chief-justice-alexandro-cruz-castro-of-the-cnmi-supreme-court-be-retained-in-office",
+   "name": "SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?",
+   "party": null,
+   "office": "SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?",
+   "vote_for": 1,
+   "candidates": [
+    {
+     "name": "YES",
+     "party": null,
+     "votes": 4389,
+     "pct": 84.19
+    },
+    {
+     "name": "NO",
+     "party": null,
+     "votes": 824,
+     "pct": 15.81
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 5213,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 15,
+   "by_precinct": {
+    "ED1A": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED1B": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED1C": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED2": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED3A": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED3B": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED4A": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED4B": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED4C": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED4D": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED5": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED6": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED7": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "EV": {
+     "votes": {
+      "YES": 4389,
+      "NO": 824
+     },
+     "write_in": null,
+     "total_votes": 5213,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "shall-there-be-a-constitutional-convention-to-propose-amendments-to-the-constitution",
+   "name": "SHALL THERE BE A CONSTITUTIONAL CONVENTION TO PROPOSE AMENDMENTS TO THE CONSTITUTION?",
+   "party": null,
+   "office": "SHALL THERE BE A CONSTITUTIONAL CONVENTION TO PROPOSE AMENDMENTS TO THE CONSTITUTION?",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "YES",
+     "party": null,
+     "votes": 3249,
+     "pct": 63.99
+    },
+    {
+     "name": "NO",
+     "party": null,
+     "votes": 1828,
+     "pct": 36.01
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 5077,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 15,
+   "by_precinct": {
+    "ED1A": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED1B": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED1C": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED2": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED3A": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED3B": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED4A": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED4B": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED4C": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED4D": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED5": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED6": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED7": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "EV": {
+     "votes": {
+      "YES": 3249,
+      "NO": 1828
+     },
+     "write_in": null,
+     "total_votes": 5077,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "YES": 0,
+      "NO": 0
+     },
+     "write_in": null,
+     "total_votes": 0,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   }
  ],
  "warning_count": 0,
  "warnings": [],
  "credit": "Source: Commonwealth Election Commission. Compiled by Pasquines.",
- "watch": []
+ "watch": [
+  {
+   "id": "shall-chief-justice-alexandro-cruz-castro-of-the-cnmi-supreme-court-be-retained-in-office",
+   "contest": "SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?",
+   "office": "SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?",
+   "party": null,
+   "level": "none",
+   "majority_needed": false,
+   "leader": "YES",
+   "leader_pct": 84.2,
+   "runner_up": "NO",
+   "runner_up_pct": 15.8,
+   "third": null,
+   "third_pct": null,
+   "margin": 3565,
+   "counted_pct": 6.9,
+   "precincts_reported": 1,
+   "precincts_total": 15,
+   "precincts_led": 1,
+   "precincts_with_votes": 1,
+   "runner_up_needs_pct": 52,
+   "runner_up_best_pct": 15.8,
+   "runner_up_best_at": "EV",
+   "est_votes_out": 70376
+  }
+ ]
 }
