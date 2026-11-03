@@ -4,9 +4,17 @@
    "code": "GU",
    "race": "Governor",
    "call": "Projection",
-   "winner": "",
+   "winner": "Vicente A. Ada",
    "runoff_opponent": "",
    "majority": "Yes"
+  },
+  {
+   "code": "GU",
+   "race": "US House delegate",
+   "call": "Projection",
+   "winner": "Alicia Anne Garrido Limtiaco",
+   "runoff_opponent": "",
+   "majority": ""
   }
  ],
  "other_calls": [
