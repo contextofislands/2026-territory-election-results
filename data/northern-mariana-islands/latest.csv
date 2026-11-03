@@ -1,10 +1,15 @@
 territory,precinct,contest,party,office,candidate,votes
+MP,ED7,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,202
+MP,ED7,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,94
+MP,ED7,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,20
 MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,3611
 MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,2415
 MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,690
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,414
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,339
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,133
+MP,ED7,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,243
+MP,ED7,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,70
 MP,EV,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,4388
 MP,EV,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,2260
 MP,ABS,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,611
@@ -27,6 +32,9 @@ MP,EV,Senate - Tinian,,Senate - Tinian,Frank Quichuchu Cruz,580
 MP,EV,Senate - Tinian,,Senate - Tinian,Jude Untalan Hofschneider,531
 MP,ABS,Senate - Tinian,,Senate - Tinian,Frank Quichuchu Cruz,111
 MP,ABS,Senate - Tinian,,Senate - Tinian,Jude Untalan Hofschneider,97
+MP,ED7,Senate - Rota,,Senate - Rota,Donald Manalang Manglona,234
+MP,ED7,Senate - Rota,,Senate - Rota,Tito Songao Hocog II,203
+MP,ED7,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,120
 MP,EV,Senate - Rota,,Senate - Rota,Donald Manalang Manglona,499
 MP,EV,Senate - Rota,,Senate - Rota,Tito Songao Hocog II,459
 MP,EV,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,239
@@ -43,6 +51,7 @@ MP,ABS,Mayor - Northern Islands,,Mayor - Northern Islands,Keli Aiken Tenorio,7
 MP,ABS,Mayor - Northern Islands,,Mayor - Northern Islands,Valentino Taisacan Jr.,5
 MP,EV,Mayor - Tinian,,Mayor - Tinian,Antonio San Nicolas Borja,639
 MP,ABS,Mayor - Tinian,,Mayor - Tinian,Antonio San Nicolas Borja,118
+MP,ED7,Mayor - Rota,,Mayor - Rota,Aubry Manglona Hocog,292
 MP,EV,Mayor - Rota,,Mayor - Rota,Aubry Manglona Hocog,660
 MP,ABS,Mayor - Rota,,Mayor - Rota,Aubry Manglona Hocog,159
 MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roy Christoper Aldan Ada,918
@@ -139,6 +148,9 @@ MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Sandra Mesngon Masga,1
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,143
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
+MP,ED7,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,182
+MP,ED7,Attorney General,,Attorney General,Jonathan Robert Glass,79
+MP,ED7,Attorney General,,Attorney General,Michael Norita Evangelista,44
 MP,EV,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,2915
 MP,EV,Attorney General,,Attorney General,Jonathan Robert Glass,1871
 MP,EV,Attorney General,,Attorney General,Michael Norita Evangelista,1784
