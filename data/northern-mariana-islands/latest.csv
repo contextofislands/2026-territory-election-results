@@ -72,6 +72,8 @@ MP,EV,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,239
 MP,ABS,Senate - Rota,,Senate - Rota,Donald Manalang Manglona,125
 MP,ABS,Senate - Rota,,Senate - Rota,Tito Songao Hocog II,111
 MP,ABS,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,51
+MP,ED4C,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",128
+MP,ED4C,Mayor - Saipan,,Mayor - Saipan,Joseph Muna Mendiola,16
 MP,ED5,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",728
 MP,ED5,Mayor - Saipan,,Mayor - Saipan,Joseph Muna Mendiola,220
 MP,EV,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",4145
@@ -144,6 +146,9 @@ MP,ABS,House - Saipan - Election District 3,,House - Saipan - Election District 
 MP,ABS,House - Saipan - Election District 3,,House - Saipan - Election District 3,Carlos Ebert Santos,67
 MP,ABS,House - Saipan - Election District 3,,House - Saipan - Election District 3,Del Ariel Benson,54
 MP,ABS,House - Saipan - Election District 3,,House - Saipan - Election District 3,"Gabriel ""Boki"" Babauta",60
+MP,ED4C,House - Saipan - Election District 4 & Northern Islands (4D),,House - Saipan - Election District 4 & Northern Islands (4D),James Kennedy Weilbacher DLG Benjamin,100
+MP,ED4C,House - Saipan - Election District 4 & Northern Islands (4D),,House - Saipan - Election District 4 & Northern Islands (4D),Joel Castro Camacho,90
+MP,ED4C,House - Saipan - Election District 4 & Northern Islands (4D),,House - Saipan - Election District 4 & Northern Islands (4D),Malcom Jason Omar,77
 MP,EV,House - Saipan - Election District 4 & Northern Islands (4D),,House - Saipan - Election District 4 & Northern Islands (4D),James Kennedy Weilbacher DLG Benjamin,316
 MP,EV,House - Saipan - Election District 4 & Northern Islands (4D),,House - Saipan - Election District 4 & Northern Islands (4D),Joel Castro Camacho,217
 MP,EV,House - Saipan - Election District 4 & Northern Islands (4D),,House - Saipan - Election District 4 & Northern Islands (4D),Malcom Jason Omar,227
@@ -168,6 +173,9 @@ MP,ABS,House- Tinian & Aguiguan - Election District 6,,House- Tinian & Aguiguan 
 MP,ED7,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,261
 MP,EV,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,563
 MP,ABS,House - Rota - Election District 7,,House - Rota - Election District 7,Julie Marie Atalig Ogo,138
+MP,ED4C,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Anthony Tenorio Benavente,101
+MP,ED4C,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Marian Deleon Guerrero Tudela,97
+MP,ED4C,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Antonia Manibusan Tudela,82
 MP,ED5,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Anthony Tenorio Benavente,625
 MP,ED5,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Marian Deleon Guerrero Tudela,632
 MP,ED5,Saipan & Northern Islands - Municipal Council,,Saipan & Northern Islands - Municipal Council,Antonia Manibusan Tudela,602
@@ -195,6 +203,7 @@ MP,EV,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Jonovan Hocog Lizama,136
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Sandra Mesngon Masga,146
 MP,ABS,Rota - Municipal Council,,Rota - Municipal Council,Tillie Castro Taimanao,143
+MP,ED4C,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,117
 MP,ED5,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,737
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
@@ -216,6 +225,8 @@ MP,EV,Attorney General,,Attorney General,Michael Norita Evangelista,1784
 MP,ABS,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,337
 MP,ABS,Attorney General,,Attorney General,Jonathan Robert Glass,292
 MP,ABS,Attorney General,,Attorney General,Michael Norita Evangelista,248
+MP,ED4C,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,123
+MP,ED4C,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,19
 MP,ED5,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,763
 MP,ED5,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,167
 MP,ED6,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,179
@@ -226,6 +237,8 @@ MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cru
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,935
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,758
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,93
+MP,ED4C,Constitutional Convention,,Constitutional Convention,YES,92
+MP,ED4C,Constitutional Convention,,Constitutional Convention,NO,53
 MP,ED5,Constitutional Convention,,Constitutional Convention,YES,606
 MP,ED5,Constitutional Convention,,Constitutional Convention,NO,326
 MP,ED6,Constitutional Convention,,Constitutional Convention,YES,100
