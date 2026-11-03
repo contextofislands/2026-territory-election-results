@@ -35,6 +35,8 @@ MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Ed
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,414
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,339
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,133
+MP,ED1C,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,269
+MP,ED1C,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,193
 MP,ED2,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,225
 MP,ED2,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,166
 MP,ED3A,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,200
@@ -57,6 +59,13 @@ MP,EV,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,4388
 MP,EV,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,2260
 MP,ABS,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,611
 MP,ABS,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,272
+MP,ED1C,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,216
+MP,ED1C,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,227
+MP,ED1C,Senate - Saipan,,Senate - Saipan,Marco Peter,110
+MP,ED1C,Senate - Saipan,,Senate - Saipan,Corina Lorraine Magofna,124
+MP,ED1C,Senate - Saipan,,Senate - Saipan,Vicente Castro Camacho,65
+MP,ED1C,Senate - Saipan,,Senate - Saipan,Crispin Manglona Sablan,71
+MP,ED1C,Senate - Saipan,,Senate - Saipan,Edwin Raymond Borja Quitugua,29
 MP,ED2,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,199
 MP,ED2,Senate - Saipan,,Senate - Saipan,Celina Roberto Babauta,162
 MP,ED2,Senate - Saipan,,Senate - Saipan,Marco Peter,105
@@ -135,6 +144,8 @@ MP,EV,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,239
 MP,ABS,Senate - Rota,,Senate - Rota,Donald Manalang Manglona,125
 MP,ABS,Senate - Rota,,Senate - Rota,Tito Songao Hocog II,111
 MP,ABS,Senate - Rota,,Senate - Rota,Robert Harrison Atalig Myers Jr.,51
+MP,ED1C,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",362
+MP,ED1C,Mayor - Saipan,,Mayor - Saipan,Joseph Muna Mendiola,95
 MP,ED2,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",307
 MP,ED2,Mayor - Saipan,,Mayor - Saipan,Joseph Muna Mendiola,85
 MP,ED3A,Mayor - Saipan,,Mayor - Saipan,"Ramon ""RB"" Jose Blas Camacho",241
@@ -333,6 +344,9 @@ MP,ED4C,Saipan & Northern Islands - Board of Education,,Saipan & Northern Island
 MP,ED5,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,737
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
+MP,ED1C,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,155
+MP,ED1C,Attorney General,,Attorney General,Michael Norita Evangelista,150
+MP,ED1C,Attorney General,,Attorney General,Jonathan Robert Glass,149
 MP,ED2,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,127
 MP,ED2,Attorney General,,Attorney General,Michael Norita Evangelista,131
 MP,ED2,Attorney General,,Attorney General,Jonathan Robert Glass,129
