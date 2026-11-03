@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "89d992696e6ebeb2edb916b386b5be58891697959cff814560572ffc03e645f5",
-  "fetched_at": "2026-11-03T18:22:41.151Z",
-  "file_last_modified": "Tue, 03 Nov 2026 18:21:48 GMT"
+  "sha256": "af5164df82cf9931ed7d04df05984f32b73ff5aaf96c3b3100a594dcee8f9f24",
+  "fetched_at": "2026-11-03T18:26:40.807Z",
+  "file_last_modified": "Tue, 03 Nov 2026 18:25:53 GMT"
  },
  "report": {
   "title": "Election results",
@@ -87,29 +87,41 @@
     {
      "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
      "party": "REP",
-     "votes": 5419,
-     "pct": 50.89
+     "votes": 5563,
+     "pct": 50.73
     },
     {
      "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
      "party": "IND",
-     "votes": 4005,
-     "pct": 37.61
+     "votes": 4157,
+     "pct": 37.91
     },
     {
      "name": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
      "party": "IND",
-     "votes": 1225,
-     "pct": 11.5
+     "votes": 1246,
+     "pct": 11.36
     }
    ],
    "write_in": 0,
-   "total_votes": 10649,
+   "total_votes": 10966,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 9,
+   "precincts_in_report": 10,
    "by_precinct": {
+    "ED3A": {
+     "votes": {
+      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 152,
+      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 144,
+      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 21
+     },
+     "write_in": null,
+     "total_votes": 317,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED3B": {
      "votes": {
       "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 380,
@@ -230,23 +242,34 @@
     {
      "name": "Kimberly King-Hinds",
      "party": "REP",
-     "votes": 6829,
-     "pct": 64.77
+     "votes": 7029,
+     "pct": 64.78
     },
     {
      "name": "Galvin Sablan Deleon Guerrero",
      "party": "DEM",
-     "votes": 3715,
-     "pct": 35.23
+     "votes": 3821,
+     "pct": 35.22
     }
    ],
    "write_in": 0,
-   "total_votes": 10544,
+   "total_votes": 10850,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 9,
+   "precincts_in_report": 10,
    "by_precinct": {
+    "ED3A": {
+     "votes": {
+      "Kimberly King-Hinds": 200,
+      "Galvin Sablan Deleon Guerrero": 106
+     },
+     "write_in": null,
+     "total_votes": 306,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED3B": {
      "votes": {
       "Kimberly King-Hinds": 408,
@@ -1910,29 +1933,41 @@
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 4297,
-     "pct": 41.1
+     "votes": 4402,
+     "pct": 40.92
     },
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 3082,
-     "pct": 29.48
+     "votes": 3188,
+     "pct": 29.64
     },
     {
      "name": "Jonathan Robert Glass",
      "party": "NP",
-     "votes": 3077,
-     "pct": 29.43
+     "votes": 3167,
+     "pct": 29.44
     }
    ],
    "write_in": 0,
-   "total_votes": 10456,
+   "total_votes": 10757,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 9,
+   "precincts_in_report": 10,
    "by_precinct": {
+    "ED3A": {
+     "votes": {
+      "Michael Norita Evangelista": 106,
+      "Joaquin Deleon Guerrero Torres": 105,
+      "Jonathan Robert Glass": 90
+     },
+     "write_in": null,
+     "total_votes": 301,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED3B": {
      "votes": {
       "Michael Norita Evangelista": 257,
@@ -2312,21 +2347,21 @@
    "level": "none",
    "majority_needed": true,
    "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
-   "leader_pct": 50.9,
+   "leader_pct": 50.7,
    "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-   "runner_up_pct": 37.6,
+   "runner_up_pct": 37.9,
    "third": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
-   "third_pct": 11.5,
-   "margin": 1414,
-   "counted_pct": 82.7,
-   "precincts_reported": 9,
+   "third_pct": 11.4,
+   "margin": 1406,
+   "counted_pct": 84.8,
+   "precincts_reported": 10,
    "precincts_total": 15,
    "precincts_led": 6,
-   "precincts_with_votes": 9,
-   "runner_up_needs_pct": 78.8,
+   "precincts_with_votes": 10,
+   "runner_up_needs_pct": 82.3,
    "runner_up_best_pct": 59.4,
    "runner_up_best_at": "ED3B",
-   "est_votes_out": 2221
+   "est_votes_out": 1967
   },
   {
    "id": "washington-delegate",
@@ -2341,16 +2376,16 @@
    "runner_up_pct": 35.2,
    "third": null,
    "third_pct": null,
-   "margin": 3114,
-   "counted_pct": 82.8,
-   "precincts_reported": 9,
+   "margin": 3208,
+   "counted_pct": 84.8,
+   "precincts_reported": 10,
    "precincts_total": 15,
-   "precincts_led": 9,
-   "precincts_with_votes": 9,
+   "precincts_led": 10,
+   "precincts_with_votes": 10,
    "runner_up_needs_pct": null,
    "runner_up_best_pct": 48.5,
    "runner_up_best_at": "ED4B",
-   "est_votes_out": 2196
+   "est_votes_out": 1941
   },
   {
    "id": "senate-rota",
@@ -2432,21 +2467,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Joaquin Deleon Guerrero Torres",
-   "leader_pct": 41.1,
+   "leader_pct": 40.9,
    "runner_up": "Michael Norita Evangelista",
-   "runner_up_pct": 29.5,
+   "runner_up_pct": 29.6,
    "third": "Jonathan Robert Glass",
    "third_pct": 29.4,
-   "margin": 1215,
-   "counted_pct": 82.7,
-   "precincts_reported": 9,
+   "margin": 1214,
+   "counted_pct": 84.8,
+   "precincts_reported": 10,
    "precincts_total": 15,
    "precincts_led": 4,
-   "precincts_with_votes": 9,
-   "runner_up_needs_pct": 81.4,
+   "precincts_with_votes": 10,
+   "runner_up_needs_pct": 85.6,
    "runner_up_best_pct": 74.1,
    "runner_up_best_at": "ED4A",
-   "est_votes_out": 2194
+   "est_votes_out": 1936
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
