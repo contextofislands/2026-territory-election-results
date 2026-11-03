@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "065c604132bdb329fc91058546e99c7323c42298644d775b7106c15eed2e4a58",
-  "fetched_at": "2026-11-03T16:15:43.089Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:15:15 GMT"
+  "sha256": "9a1c9679a9fba30f18a9906205024dee644598ac8b3efee6bd86661054e223d8",
+  "fetched_at": "2026-11-03T16:17:42.037Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:17:27 GMT"
  },
  "report": {
   "title": "Election results",
@@ -1144,18 +1144,18 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 4389,
-     "pct": 84.19
+     "votes": 5337,
+     "pct": 85.09
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 824,
-     "pct": 15.81
+     "votes": 935,
+     "pct": 14.91
     }
    ],
    "write_in": 0,
-   "total_votes": 5213,
+   "total_votes": 6272,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -1163,11 +1163,11 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "YES": 4389,
-      "NO": 824
+      "YES": 5337,
+      "NO": 935
      },
      "write_in": null,
-     "total_votes": 5213,
+     "total_votes": 6272,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1184,18 +1184,18 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 3249,
-     "pct": 63.99
+     "votes": 3925,
+     "pct": 64.02
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 1828,
-     "pct": 36.01
+     "votes": 2206,
+     "pct": 35.98
     }
    ],
    "write_in": 0,
-   "total_votes": 5077,
+   "total_votes": 6131,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -1203,11 +1203,11 @@
    "by_precinct": {
     "EV": {
      "votes": {
-      "YES": 3249,
-      "NO": 1828
+      "YES": 3925,
+      "NO": 2206
      },
      "write_in": null,
-     "total_votes": 5077,
+     "total_votes": 6131,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1371,21 +1371,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 84.2,
+   "leader_pct": 85.1,
    "runner_up": "NO",
-   "runner_up_pct": 15.8,
+   "runner_up_pct": 14.9,
    "third": null,
    "third_pct": null,
-   "margin": 3565,
+   "margin": 4402,
    "counted_pct": 6.9,
    "precincts_reported": 1,
    "precincts_total": 15,
    "precincts_led": 1,
    "precincts_with_votes": 1,
-   "runner_up_needs_pct": 52,
-   "runner_up_best_pct": 15.8,
+   "runner_up_needs_pct": 52.1,
+   "runner_up_best_pct": 14.9,
    "runner_up_best_at": "EV",
-   "est_votes_out": 70376
+   "est_votes_out": 84672
   },
   {
    "id": "constitutional-convention",
@@ -1400,7 +1400,7 @@
    "runner_up_pct": 36,
    "third": null,
    "third_pct": null,
-   "margin": 1421,
+   "margin": 1719,
    "counted_pct": 6.9,
    "precincts_reported": 1,
    "precincts_total": 15,
@@ -1409,7 +1409,7 @@
    "runner_up_needs_pct": 50.8,
    "runner_up_best_pct": 36,
    "runner_up_best_at": "EV",
-   "est_votes_out": 68540
+   "est_votes_out": 82769
   }
  ]
 }
