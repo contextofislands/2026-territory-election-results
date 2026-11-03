@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "62b703659f0e284c616dab4b88a4c3ec9574e8540432ecd9a2b22cc788dac9e6",
-  "fetched_at": "2026-11-03T17:35:40.016Z",
-  "file_last_modified": "Tue, 03 Nov 2026 17:35:24 GMT"
+  "sha256": "63535bcc29f7137a6ffa7babbfa6fbdb69a814aa6d90cf7c08b200275eeb8419",
+  "fetched_at": "2026-11-03T17:39:40.004Z",
+  "file_last_modified": "Tue, 03 Nov 2026 17:39:32 GMT"
  },
  "report": {
   "title": "Election results",
@@ -87,29 +87,41 @@
     {
      "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
      "party": "REP",
-     "votes": 4852,
-     "pct": 53.16
+     "votes": 4920,
+     "pct": 53.03
     },
     {
      "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
      "party": "IND",
-     "votes": 3298,
-     "pct": 36.13
+     "votes": 3364,
+     "pct": 36.26
     },
     {
      "name": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
      "party": "IND",
-     "votes": 977,
-     "pct": 10.7
+     "votes": 994,
+     "pct": 10.71
     }
    ],
    "write_in": 0,
-   "total_votes": 9127,
+   "total_votes": 9278,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
+    "ED4C": {
+     "votes": {
+      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 66,
+      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 68,
+      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 17
+     },
+     "write_in": null,
+     "total_votes": 151,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED5": {
      "votes": {
       "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 418,
@@ -182,23 +194,34 @@
     {
      "name": "Kimberly King-Hinds",
      "party": "REP",
-     "votes": 6018,
-     "pct": 66.61
+     "votes": 6102,
+     "pct": 66.43
     },
     {
      "name": "Galvin Sablan Deleon Guerrero",
      "party": "DEM",
-     "votes": 3017,
-     "pct": 33.39
+     "votes": 3084,
+     "pct": 33.57
     }
    ],
    "write_in": 0,
-   "total_votes": 9035,
+   "total_votes": 9186,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
+    "ED4C": {
+     "votes": {
+      "Kimberly King-Hinds": 84,
+      "Galvin Sablan Deleon Guerrero": 67
+     },
+     "write_in": null,
+     "total_votes": 151,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED5": {
      "votes": {
       "Kimberly King-Hinds": 565,
@@ -266,53 +289,69 @@
     {
      "name": "Vinnie Vinson Flores Sablan",
      "party": "REP",
-     "votes": 3642,
-     "pct": 29.28
+     "votes": 3734,
+     "pct": 29.36
     },
     {
      "name": "Celina Roberto Babauta",
      "party": "DEM",
-     "votes": 2946,
+     "votes": 3012,
      "pct": 23.69
     },
     {
      "name": "Marco Peter",
      "party": "REP",
-     "votes": 2157,
-     "pct": 17.34
+     "votes": 2201,
+     "pct": 17.31
     },
     {
      "name": "Corina Lorraine Magofna",
      "party": "IND",
-     "votes": 1467,
-     "pct": 11.8
+     "votes": 1509,
+     "pct": 11.87
     },
     {
      "name": "Vicente Castro Camacho",
      "party": "IND",
-     "votes": 895,
-     "pct": 7.2
+     "votes": 911,
+     "pct": 7.16
     },
     {
      "name": "Crispin Manglona Sablan",
      "party": "IND",
-     "votes": 887,
-     "pct": 7.13
+     "votes": 900,
+     "pct": 7.08
     },
     {
      "name": "Edwin Raymond Borja Quitugua",
      "party": "IND",
-     "votes": 443,
-     "pct": 3.56
+     "votes": 449,
+     "pct": 3.53
     }
    ],
    "write_in": 0,
-   "total_votes": 12437,
+   "total_votes": 12716,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 3,
+   "precincts_in_report": 4,
    "by_precinct": {
+    "ED4C": {
+     "votes": {
+      "Edwin Raymond Borja Quitugua": 6,
+      "Crispin Manglona Sablan": 13,
+      "Vicente Castro Camacho": 16,
+      "Celina Roberto Babauta": 66,
+      "Marco Peter": 44,
+      "Vinnie Vinson Flores Sablan": 92,
+      "Corina Lorraine Magofna": 42
+     },
+     "write_in": null,
+     "total_votes": 279,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED5": {
      "votes": {
       "Edwin Raymond Borja Quitugua": 67,
@@ -1565,29 +1604,41 @@
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 3920,
-     "pct": 43.84
+     "votes": 3956,
+     "pct": 43.51
     },
     {
      "name": "Jonathan Robert Glass",
      "party": "NP",
-     "votes": 2580,
-     "pct": 28.85
+     "votes": 2618,
+     "pct": 28.79
     },
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 2442,
-     "pct": 27.31
+     "votes": 2519,
+     "pct": 27.7
     }
    ],
    "write_in": 0,
-   "total_votes": 8942,
+   "total_votes": 9093,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
+    "ED4C": {
+     "votes": {
+      "Michael Norita Evangelista": 77,
+      "Joaquin Deleon Guerrero Torres": 36,
+      "Jonathan Robert Glass": 38
+     },
+     "write_in": null,
+     "total_votes": 151,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED5": {
      "votes": {
       "Michael Norita Evangelista": 343,
@@ -1831,21 +1882,21 @@
    "level": "review",
    "majority_needed": true,
    "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
-   "leader_pct": 53.2,
+   "leader_pct": 53,
    "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-   "runner_up_pct": 36.1,
+   "runner_up_pct": 36.3,
    "third": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
    "third_pct": 10.7,
-   "margin": 1554,
-   "counted_pct": 74,
-   "precincts_reported": 5,
+   "margin": 1556,
+   "counted_pct": 74.4,
+   "precincts_reported": 6,
    "precincts_total": 15,
-   "precincts_led": 5,
-   "precincts_with_votes": 5,
+   "precincts_led": 6,
+   "precincts_with_votes": 6,
    "runner_up_needs_pct": 71.8,
-   "runner_up_best_pct": 49.1,
-   "runner_up_best_at": "ED5",
-   "est_votes_out": 3200
+   "runner_up_best_pct": 49.3,
+   "runner_up_best_at": "ED4C",
+   "est_votes_out": 3195
   },
   {
    "id": "washington-delegate",
@@ -1855,21 +1906,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "Kimberly King-Hinds",
-   "leader_pct": 66.6,
+   "leader_pct": 66.4,
    "runner_up": "Galvin Sablan Deleon Guerrero",
-   "runner_up_pct": 33.4,
+   "runner_up_pct": 33.6,
    "third": null,
    "third_pct": null,
-   "margin": 3001,
-   "counted_pct": 74.1,
-   "precincts_reported": 5,
+   "margin": 3018,
+   "counted_pct": 74.4,
+   "precincts_reported": 6,
    "precincts_total": 15,
-   "precincts_led": 5,
-   "precincts_with_votes": 5,
-   "runner_up_needs_pct": 88,
-   "runner_up_best_pct": 41.2,
-   "runner_up_best_at": "ED5",
-   "est_votes_out": 3156
+   "precincts_led": 6,
+   "precincts_with_votes": 6,
+   "runner_up_needs_pct": 88.3,
+   "runner_up_best_pct": 44.4,
+   "runner_up_best_at": "ED4C",
+   "est_votes_out": 3155
   },
   {
    "id": "senate-rota",
@@ -1951,21 +2002,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "Joaquin Deleon Guerrero Torres",
-   "leader_pct": 43.8,
+   "leader_pct": 43.5,
    "runner_up": "Jonathan Robert Glass",
-   "runner_up_pct": 28.9,
+   "runner_up_pct": 28.8,
    "third": "Michael Norita Evangelista",
-   "third_pct": 27.3,
-   "margin": 1340,
-   "counted_pct": 74,
-   "precincts_reported": 5,
+   "third_pct": 27.7,
+   "margin": 1338,
+   "counted_pct": 74.3,
+   "precincts_reported": 6,
    "precincts_total": 15,
    "precincts_led": 5,
-   "precincts_with_votes": 5,
-   "runner_up_needs_pct": 73.5,
-   "runner_up_best_pct": 49.9,
-   "runner_up_best_at": "ED5",
-   "est_votes_out": 3137
+   "precincts_with_votes": 6,
+   "runner_up_needs_pct": 73.6,
+   "runner_up_best_pct": 51.4,
+   "runner_up_best_at": "ED4C",
+   "est_votes_out": 3138
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
