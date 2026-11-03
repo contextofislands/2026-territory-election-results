@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "7e95832f5747ead680d9a311d6c3572928dd6ae51ea956b3cf03d1b25d204008",
-  "fetched_at": "2026-11-03T16:40:39.733Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:39:50 GMT"
+  "sha256": "931a907583e2306732fb18db53935d250585fce7758fca6e5f8345fce7b9624d",
+  "fetched_at": "2026-11-03T16:42:39.841Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:41:54 GMT"
  },
  "report": {
   "title": "Election results",
@@ -449,22 +449,22 @@
     {
      "name": "Keli Aiken Tenorio",
      "party": "REP",
-     "votes": 81,
-     "pct": 60.45
+     "votes": 88,
+     "pct": 60.27
     },
     {
      "name": "Valentino Taisacan Jr.",
      "party": "IND",
-     "votes": 53,
-     "pct": 39.55
+     "votes": 58,
+     "pct": 39.73
     }
    ],
    "write_in": 0,
-   "total_votes": 134,
+   "total_votes": 146,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -473,6 +473,17 @@
      },
      "write_in": null,
      "total_votes": 134,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Keli Aiken Tenorio": 7,
+      "Valentino Taisacan Jr.": 5
+     },
+     "write_in": null,
+     "total_votes": 12,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -489,16 +500,16 @@
     {
      "name": "Antonio San Nicolas Borja",
      "party": "REP",
-     "votes": 639,
+     "votes": 757,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 639,
+   "total_votes": 757,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -506,6 +517,16 @@
      },
      "write_in": null,
      "total_votes": 639,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Antonio San Nicolas Borja": 118
+     },
+     "write_in": null,
+     "total_votes": 118,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -522,16 +543,16 @@
     {
      "name": "Aubry Manglona Hocog",
      "party": "REP",
-     "votes": 660,
+     "votes": 819,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 660,
+   "total_votes": 819,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -539,6 +560,16 @@
      },
      "write_in": null,
      "total_votes": 660,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Aubry Manglona Hocog": 159
+     },
+     "write_in": null,
+     "total_votes": 159,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -996,28 +1027,28 @@
     {
      "name": "Anthony Tenorio Benavente",
      "party": "NP",
-     "votes": 3400,
-     "pct": 34.45
+     "votes": 3814,
+     "pct": 34.56
     },
     {
      "name": "Marian Deleon Guerrero Tudela",
      "party": "NP",
-     "votes": 3344,
-     "pct": 33.88
+     "votes": 3730,
+     "pct": 33.8
     },
     {
      "name": "Antonia Manibusan Tudela",
      "party": "NP",
-     "votes": 3126,
-     "pct": 31.67
+     "votes": 3493,
+     "pct": 31.65
     }
    ],
    "write_in": 0,
-   "total_votes": 9870,
+   "total_votes": 11037,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -1027,6 +1058,18 @@
      },
      "write_in": null,
      "total_votes": 9870,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Antonia Manibusan Tudela": 367,
+      "Marian Deleon Guerrero Tudela": 386,
+      "Anthony Tenorio Benavente": 414
+     },
+     "write_in": null,
+     "total_votes": 1167,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -1408,21 +1451,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Keli Aiken Tenorio",
-   "leader_pct": 60.4,
+   "leader_pct": 60.3,
    "runner_up": "Valentino Taisacan Jr.",
-   "runner_up_pct": 39.6,
+   "runner_up_pct": 39.7,
    "third": null,
    "third_pct": null,
-   "margin": 28,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "margin": 30,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.6,
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 51.3,
    "runner_up_best_pct": 39.6,
    "runner_up_best_at": "EV",
-   "est_votes_out": 1809
+   "est_votes_out": 949
   },
   {
    "id": "attorney-general",
