@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "5e04c6b8d31ef9cc720e8188470f8b9ef0890d1e0b1c37652f1a3e8385bfb49c",
-  "fetched_at": "2026-11-03T19:23:48.928Z",
-  "file_last_modified": "Tue, 03 Nov 2026 19:23:09 GMT"
+  "sha256": "b7ce4953363c5b41ecca80e65434797ba28a9d1cf5a26c3c53675e32cea53988",
+  "fetched_at": "2026-11-03T19:25:41.748Z",
+  "file_last_modified": "Tue, 03 Nov 2026 19:25:13 GMT"
  },
  "report": {
   "title": "Election results",
@@ -818,23 +818,34 @@
     {
      "name": "Ramon \"RB\" Jose Blas Camacho",
      "party": "IND",
-     "votes": 7416,
-     "pct": 81.75
+     "votes": 8100,
+     "pct": 81.55
     },
     {
      "name": "Joseph Muna Mendiola",
      "party": "IND",
-     "votes": 1656,
-     "pct": 18.25
+     "votes": 1832,
+     "pct": 18.45
     }
    ],
    "write_in": 0,
-   "total_votes": 9072,
+   "total_votes": 9932,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 10,
+   "precincts_in_report": 11,
    "by_precinct": {
+    "ED1B": {
+     "votes": {
+      "Joseph Muna Mendiola": 176,
+      "Ramon \"RB\" Jose Blas Camacho": 684
+     },
+     "write_in": null,
+     "total_votes": 860,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED1C": {
      "votes": {
       "Joseph Muna Mendiola": 95,
@@ -1800,29 +1811,41 @@
     {
      "name": "Anthony Tenorio Benavente",
      "party": "NP",
-     "votes": 6186,
-     "pct": 34.61
+     "votes": 6748,
+     "pct": 34.64
     },
     {
      "name": "Marian Deleon Guerrero Tudela",
      "party": "NP",
-     "votes": 6069,
-     "pct": 33.96
+     "votes": 6597,
+     "pct": 33.86
     },
     {
      "name": "Antonia Manibusan Tudela",
      "party": "NP",
-     "votes": 5617,
-     "pct": 31.43
+     "votes": 6136,
+     "pct": 31.5
     }
    ],
    "write_in": 0,
-   "total_votes": 17872,
+   "total_votes": 19481,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 10,
+   "precincts_in_report": 11,
    "by_precinct": {
+    "ED1B": {
+     "votes": {
+      "Antonia Manibusan Tudela": 519,
+      "Marian Deleon Guerrero Tudela": 528,
+      "Anthony Tenorio Benavente": 562
+     },
+     "write_in": null,
+     "total_votes": 1609,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED1C": {
      "votes": {
       "Antonia Manibusan Tudela": 279,
@@ -2097,17 +2120,27 @@
     {
      "name": "Daniel Ogo Quitugua",
      "party": "NP",
-     "votes": 6965,
+     "votes": 7611,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 6965,
+   "total_votes": 7611,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 10,
+   "precincts_in_report": 11,
    "by_precinct": {
+    "ED1B": {
+     "votes": {
+      "Daniel Ogo Quitugua": 646
+     },
+     "write_in": null,
+     "total_votes": 646,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED1C": {
      "votes": {
       "Daniel Ogo Quitugua": 345
@@ -2411,23 +2444,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 9425,
-     "pct": 85.08
+     "votes": 10117,
+     "pct": 84.95
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 1653,
-     "pct": 14.92
+     "votes": 1793,
+     "pct": 15.05
     }
    ],
    "write_in": 0,
-   "total_votes": 11078,
+   "total_votes": 11910,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 12,
+   "precincts_in_report": 13,
    "by_precinct": {
+    "ED1B": {
+     "votes": {
+      "YES": 692,
+      "NO": 140
+     },
+     "write_in": null,
+     "total_votes": 832,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED1C": {
      "votes": {
       "YES": 350,
@@ -2808,21 +2852,21 @@
    "level": "clinched",
    "majority_needed": false,
    "leader": "Ramon \"RB\" Jose Blas Camacho",
-   "leader_pct": 81.7,
+   "leader_pct": 81.6,
    "runner_up": "Joseph Muna Mendiola",
-   "runner_up_pct": 18.3,
+   "runner_up_pct": 18.4,
    "third": null,
    "third_pct": null,
-   "margin": 5760,
-   "counted_pct": 80.5,
-   "precincts_reported": 10,
+   "margin": 6268,
+   "counted_pct": 88.5,
+   "precincts_reported": 11,
    "precincts_total": 15,
-   "precincts_led": 10,
-   "precincts_with_votes": 10,
+   "precincts_led": 11,
+   "precincts_with_votes": 11,
    "runner_up_needs_pct": null,
    "runner_up_best_pct": 23.2,
    "runner_up_best_at": "ED5",
-   "est_votes_out": 2200
+   "est_votes_out": 1289
   },
   {
    "id": "mayor-northern-islands",
@@ -2880,21 +2924,21 @@
    "level": "clinched",
    "majority_needed": true,
    "leader": "YES",
-   "leader_pct": 85.1,
+   "leader_pct": 84.9,
    "runner_up": "NO",
-   "runner_up_pct": 14.9,
+   "runner_up_pct": 15.1,
    "third": null,
    "third_pct": null,
-   "margin": 7772,
-   "counted_pct": 91.1,
-   "precincts_reported": 12,
+   "margin": 8324,
+   "counted_pct": 97.6,
+   "precincts_reported": 13,
    "precincts_total": 15,
-   "precincts_led": 12,
-   "precincts_with_votes": 12,
+   "precincts_led": 13,
+   "precincts_with_votes": 13,
    "runner_up_needs_pct": null,
    "runner_up_best_pct": 20.1,
    "runner_up_best_at": "ED1C",
-   "est_votes_out": 1077
+   "est_votes_out": 297
   }
  ]
 }
