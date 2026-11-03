@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "ae5660eddc6d185a81e195344635d5dea786191b9d78e1f22faf1e3bfb13a422",
-  "fetched_at": "2026-11-03T18:00:40.490Z",
-  "file_last_modified": "Tue, 03 Nov 2026 18:00:38 GMT"
+  "sha256": "814b762effe8b23795a86ae90ba03d08ef795139b45feaec2d4085cae0a5f19b",
+  "fetched_at": "2026-11-03T18:02:40.354Z",
+  "file_last_modified": "Tue, 03 Nov 2026 18:02:32 GMT"
  },
  "report": {
   "title": "Election results",
@@ -335,53 +335,69 @@
     {
      "name": "Vinnie Vinson Flores Sablan",
      "party": "REP",
-     "votes": 3869,
-     "pct": 29.26
+     "votes": 4060,
+     "pct": 29.4
     },
     {
      "name": "Celina Roberto Babauta",
      "party": "DEM",
-     "votes": 3156,
-     "pct": 23.87
+     "votes": 3274,
+     "pct": 23.71
     },
     {
      "name": "Marco Peter",
      "party": "REP",
-     "votes": 2270,
-     "pct": 17.17
+     "votes": 2345,
+     "pct": 16.98
     },
     {
      "name": "Corina Lorraine Magofna",
      "party": "IND",
-     "votes": 1574,
-     "pct": 11.9
+     "votes": 1690,
+     "pct": 12.24
     },
     {
      "name": "Vicente Castro Camacho",
      "party": "IND",
-     "votes": 963,
-     "pct": 7.28
+     "votes": 1002,
+     "pct": 7.26
     },
     {
      "name": "Crispin Manglona Sablan",
      "party": "IND",
-     "votes": 930,
-     "pct": 7.03
+     "votes": 964,
+     "pct": 6.98
     },
     {
      "name": "Edwin Raymond Borja Quitugua",
      "party": "IND",
-     "votes": 461,
-     "pct": 3.49
+     "votes": 476,
+     "pct": 3.45
     }
    ],
    "write_in": 0,
-   "total_votes": 13223,
+   "total_votes": 13811,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
+    "ED4A": {
+     "votes": {
+      "Edwin Raymond Borja Quitugua": 15,
+      "Crispin Manglona Sablan": 34,
+      "Vicente Castro Camacho": 39,
+      "Celina Roberto Babauta": 118,
+      "Marco Peter": 75,
+      "Vinnie Vinson Flores Sablan": 191,
+      "Corina Lorraine Magofna": 116
+     },
+     "write_in": null,
+     "total_votes": 588,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4B": {
      "votes": {
       "Edwin Raymond Borja Quitugua": 12,
@@ -607,23 +623,34 @@
     {
      "name": "Ramon \"RB\" Jose Blas Camacho",
      "party": "IND",
-     "votes": 5681,
-     "pct": 82.87
+     "votes": 5936,
+     "pct": 82.65
     },
     {
      "name": "Joseph Muna Mendiola",
      "party": "IND",
-     "votes": 1174,
-     "pct": 17.13
+     "votes": 1246,
+     "pct": 17.35
     }
    ],
    "write_in": 0,
-   "total_votes": 6855,
+   "total_votes": 7182,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
+    "ED4A": {
+     "votes": {
+      "Joseph Muna Mendiola": 72,
+      "Ramon \"RB\" Jose Blas Camacho": 255
+     },
+     "write_in": null,
+     "total_votes": 327,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4B": {
      "votes": {
       "Joseph Muna Mendiola": 57,
@@ -1177,29 +1204,41 @@
     {
      "name": "James Kennedy Weilbacher DLG Benjamin",
      "party": "REP",
-     "votes": 661,
-     "pct": 40.08
+     "votes": 849,
+     "pct": 38.14
     },
     {
      "name": "Joel Castro Camacho",
      "party": "IND",
-     "votes": 565,
-     "pct": 34.26
+     "votes": 772,
+     "pct": 34.68
     },
     {
      "name": "Malcom Jason Omar",
      "party": "REP",
-     "votes": 423,
-     "pct": 25.65
+     "votes": 605,
+     "pct": 27.18
     }
    ],
    "write_in": 0,
-   "total_votes": 1649,
+   "total_votes": 2226,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 4,
+   "precincts_in_report": 5,
    "by_precinct": {
+    "ED4A": {
+     "votes": {
+      "James Kennedy Weilbacher DLG Benjamin": 188,
+      "Malcom Jason Omar": 182,
+      "Joel Castro Camacho": 207
+     },
+     "write_in": null,
+     "total_votes": 577,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4B": {
      "votes": {
       "James Kennedy Weilbacher DLG Benjamin": 179,
@@ -1446,29 +1485,41 @@
     {
      "name": "Anthony Tenorio Benavente",
      "party": "NP",
-     "votes": 4744,
-     "pct": 34.61
+     "votes": 4952,
+     "pct": 34.69
     },
     {
      "name": "Marian Deleon Guerrero Tudela",
      "party": "NP",
-     "votes": 4626,
-     "pct": 33.75
+     "votes": 4827,
+     "pct": 33.82
     },
     {
      "name": "Antonia Manibusan Tudela",
      "party": "NP",
-     "votes": 4337,
-     "pct": 31.64
+     "votes": 4495,
+     "pct": 31.49
     }
    ],
    "write_in": 0,
-   "total_votes": 13707,
+   "total_votes": 14274,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
+    "ED4A": {
+     "votes": {
+      "Antonia Manibusan Tudela": 158,
+      "Marian Deleon Guerrero Tudela": 201,
+      "Anthony Tenorio Benavente": 208
+     },
+     "write_in": null,
+     "total_votes": 567,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4B": {
      "votes": {
       "Antonia Manibusan Tudela": 160,
@@ -1683,17 +1734,27 @@
     {
      "name": "Daniel Ogo Quitugua",
      "party": "NP",
-     "votes": 5242,
+     "votes": 5501,
      "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 5242,
+   "total_votes": 5501,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
+    "ED4A": {
+     "votes": {
+      "Daniel Ogo Quitugua": 259
+     },
+     "write_in": null,
+     "total_votes": 259,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4B": {
      "votes": {
       "Daniel Ogo Quitugua": 217
@@ -1887,23 +1948,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 7660,
-     "pct": 85.64
+     "votes": 7939,
+     "pct": 85.71
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 1284,
-     "pct": 14.36
+     "votes": 1324,
+     "pct": 14.29
     }
    ],
    "write_in": 0,
-   "total_votes": 8944,
+   "total_votes": 9263,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 7,
+   "precincts_in_report": 8,
    "by_precinct": {
+    "ED4A": {
+     "votes": {
+      "YES": 279,
+      "NO": 40
+     },
+     "write_in": null,
+     "total_votes": 319,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4B": {
      "votes": {
       "YES": 240,
@@ -1993,23 +2065,34 @@
     {
      "name": "YES",
      "party": null,
-     "votes": 5584,
-     "pct": 63.66
+     "votes": 5802,
+     "pct": 63.84
     },
     {
      "name": "NO",
      "party": null,
-     "votes": 3187,
-     "pct": 36.34
+     "votes": 3286,
+     "pct": 36.16
     }
    ],
    "write_in": 0,
-   "total_votes": 8771,
+   "total_votes": 9088,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 7,
+   "precincts_in_report": 8,
    "by_precinct": {
+    "ED4A": {
+     "votes": {
+      "YES": 218,
+      "NO": 99
+     },
+     "write_in": null,
+     "total_votes": 317,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ED4B": {
      "votes": {
       "YES": 185,
@@ -2174,21 +2257,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "Ramon \"RB\" Jose Blas Camacho",
-   "leader_pct": 82.9,
+   "leader_pct": 82.7,
    "runner_up": "Joseph Muna Mendiola",
-   "runner_up_pct": 17.1,
+   "runner_up_pct": 17.3,
    "third": null,
    "third_pct": null,
-   "margin": 4507,
-   "counted_pct": 57.2,
-   "precincts_reported": 5,
+   "margin": 4690,
+   "counted_pct": 57.9,
+   "precincts_reported": 6,
    "precincts_total": 15,
-   "precincts_led": 5,
-   "precincts_with_votes": 5,
-   "runner_up_needs_pct": 85.1,
+   "precincts_led": 6,
+   "precincts_with_votes": 6,
+   "runner_up_needs_pct": 85.9,
    "runner_up_best_pct": 23.2,
    "runner_up_best_at": "ED5",
-   "est_votes_out": 5138
+   "est_votes_out": 5230
   },
   {
    "id": "mayor-northern-islands",
@@ -2246,21 +2329,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 85.6,
+   "leader_pct": 85.7,
    "runner_up": "NO",
-   "runner_up_pct": 14.4,
+   "runner_up_pct": 14.3,
    "third": null,
    "third_pct": null,
-   "margin": 6376,
-   "counted_pct": 74.7,
-   "precincts_reported": 7,
+   "margin": 6615,
+   "counted_pct": 75.1,
+   "precincts_reported": 8,
    "precincts_total": 15,
-   "precincts_led": 7,
-   "precincts_with_votes": 7,
+   "precincts_led": 8,
+   "precincts_with_votes": 8,
    "runner_up_needs_pct": null,
    "runner_up_best_pct": 18,
    "runner_up_best_at": "ED5",
-   "est_votes_out": 3023
+   "est_votes_out": 3072
   },
   {
    "id": "constitutional-convention",
@@ -2270,21 +2353,21 @@
    "level": "review",
    "majority_needed": false,
    "leader": "YES",
-   "leader_pct": 63.7,
+   "leader_pct": 63.8,
    "runner_up": "NO",
-   "runner_up_pct": 36.3,
+   "runner_up_pct": 36.2,
    "third": null,
    "third_pct": null,
-   "margin": 2397,
-   "counted_pct": 74.5,
-   "precincts_reported": 7,
+   "margin": 2516,
+   "counted_pct": 74.9,
+   "precincts_reported": 8,
    "precincts_total": 15,
-   "precincts_led": 6,
-   "precincts_with_votes": 7,
-   "runner_up_needs_pct": 81.9,
+   "precincts_led": 7,
+   "precincts_with_votes": 8,
+   "runner_up_needs_pct": 83,
    "runner_up_best_pct": 51.9,
    "runner_up_best_at": "ED6",
-   "est_votes_out": 3001
+   "est_votes_out": 3051
   }
  ]
 }
