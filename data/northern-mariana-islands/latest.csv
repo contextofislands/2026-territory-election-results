@@ -2,6 +2,9 @@ territory,precinct,contest,party,office,candidate,votes
 MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,3611
 MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,2415
 MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,690
+MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,414
+MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,339
+MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,133
 MP,EV,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,4388
 MP,EV,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,2260
 MP,EV,Senate - Saipan,,Senate - Saipan,Vinnie Vinson Flores Sablan,2828
@@ -72,6 +75,9 @@ MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands 
 MP,EV,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,2915
 MP,EV,Attorney General,,Attorney General,Jonathan Robert Glass,1871
 MP,EV,Attorney General,,Attorney General,Michael Norita Evangelista,1784
+MP,ABS,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,337
+MP,ABS,Attorney General,,Attorney General,Jonathan Robert Glass,292
+MP,ABS,Attorney General,,Attorney General,Michael Norita Evangelista,248
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,5337
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,935
 MP,EV,Constitutional Convention,,Constitutional Convention,YES,3925
