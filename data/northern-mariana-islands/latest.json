@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "1cbf1ac9a133ebd302d07255933ac42e6644dd75347f1be1f7cead3f217923b7",
-  "fetched_at": "2026-11-03T16:44:40.028Z",
-  "file_last_modified": "Tue, 03 Nov 2026 16:43:58 GMT"
+  "sha256": "d7645a93dc7f3d8bf69522c6e318e99d75b7557a3b7f8428b90a082ed038e4f9",
+  "fetched_at": "2026-11-03T16:46:40.201Z",
+  "file_last_modified": "Tue, 03 Nov 2026 16:46:02 GMT"
  },
  "report": {
   "title": "Election results",
@@ -586,88 +586,88 @@
     {
      "name": "Roy Christoper Aldan Ada",
      "party": "REP",
-     "votes": 918,
-     "pct": 10.51
+     "votes": 996,
+     "pct": 10.4
     },
     {
      "name": "Vincent \"Kobre\" Seman Aldan",
      "party": "IND",
-     "votes": 764,
-     "pct": 8.75
+     "votes": 853,
+     "pct": 8.91
     },
     {
      "name": "Cecilia Taitano Fitial",
      "party": "REP",
-     "votes": 737,
-     "pct": 8.44
+     "votes": 800,
+     "pct": 8.36
     },
     {
      "name": "Janet Ulloa Maratita",
      "party": "IND",
-     "votes": 712,
-     "pct": 8.15
-    },
-    {
-     "name": "Diego Vincent Fejeran Camacho",
-     "party": "IND",
-     "votes": 711,
-     "pct": 8.14
+     "votes": 793,
+     "pct": 8.28
     },
     {
      "name": "John DLG Demapan Jr.",
      "party": "REP",
-     "votes": 710,
-     "pct": 8.13
+     "votes": 785,
+     "pct": 8.2
+    },
+    {
+     "name": "Diego Vincent Fejeran Camacho",
+     "party": "IND",
+     "votes": 783,
+     "pct": 8.18
     },
     {
      "name": "Roman Cepeda Benavente",
      "party": "IND",
-     "votes": 671,
-     "pct": 7.68
+     "votes": 736,
+     "pct": 7.69
     },
     {
      "name": "Raymond Ulloa Palacios",
      "party": "IND",
-     "votes": 670,
-     "pct": 7.67
+     "votes": 731,
+     "pct": 7.64
     },
     {
      "name": "Patrick Matagolai Cepeda",
      "party": "REP",
-     "votes": 666,
-     "pct": 7.63
+     "votes": 731,
+     "pct": 7.64
     },
     {
      "name": "Joseph Arriola Flores",
      "party": "IND",
-     "votes": 637,
-     "pct": 7.29
+     "votes": 704,
+     "pct": 7.35
     },
     {
      "name": "Benusto Piteg",
      "party": "REP",
-     "votes": 571,
-     "pct": 6.54
+     "votes": 606,
+     "pct": 6.33
     },
     {
      "name": "Ricardo Castro Cruz Jr.",
      "party": "DEM",
-     "votes": 534,
-     "pct": 6.11
+     "votes": 587,
+     "pct": 6.13
     },
     {
      "name": "Alfredo Javier Cabael",
      "party": "REP",
-     "votes": 433,
-     "pct": 4.96
+     "votes": 468,
+     "pct": 4.89
     }
    ],
    "write_in": 0,
-   "total_votes": 8734,
+   "total_votes": 9573,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -690,6 +690,28 @@
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Roy Christoper Aldan Ada": 78,
+      "Ricardo Castro Cruz Jr.": 53,
+      "Janet Ulloa Maratita": 81,
+      "Raymond Ulloa Palacios": 61,
+      "Roman Cepeda Benavente": 65,
+      "Joseph Arriola Flores": 67,
+      "Alfredo Javier Cabael": 35,
+      "Benusto Piteg": 35,
+      "Diego Vincent Fejeran Camacho": 72,
+      "Patrick Matagolai Cepeda": 65,
+      "John DLG Demapan Jr.": 75,
+      "Vincent \"Kobre\" Seman Aldan": 89,
+      "Cecilia Taitano Fitial": 63
+     },
+     "write_in": null,
+     "total_votes": 839,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
     }
    }
   },
@@ -703,28 +725,28 @@
     {
      "name": "John Paul Sablan",
      "party": "IND",
-     "votes": 364,
-     "pct": 39.57
+     "votes": 379,
+     "pct": 39.27
     },
     {
      "name": "Daniel Iwashita Aquino Jr.",
      "party": "IND",
-     "votes": 336,
-     "pct": 36.52
+     "votes": 354,
+     "pct": 36.68
     },
     {
      "name": "Keith Cabrera Ada",
      "party": "REP",
-     "votes": 220,
-     "pct": 23.91
+     "votes": 232,
+     "pct": 24.04
     }
    ],
    "write_in": 0,
-   "total_votes": 920,
+   "total_votes": 965,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -734,6 +756,18 @@
      },
      "write_in": null,
      "total_votes": 920,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "John Paul Sablan": 15,
+      "Daniel Iwashita Aquino Jr.": 18,
+      "Keith Cabrera Ada": 12
+     },
+     "write_in": null,
+     "total_votes": 45,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -750,82 +784,82 @@
     {
      "name": "Marissa Renee Flores",
      "party": "IND",
-     "votes": 821,
-     "pct": 10.79
+     "votes": 925,
+     "pct": 10.93
     },
     {
      "name": "Ralph Naraja Yumul",
      "party": "IND",
-     "votes": 727,
-     "pct": 9.56
+     "votes": 823,
+     "pct": 9.73
     },
     {
      "name": "Elias Malite Rangamar",
      "party": "IND",
-     "votes": 725,
-     "pct": 9.53
+     "votes": 816,
+     "pct": 9.64
     },
     {
      "name": "Edward C. Arriola Jr.",
      "party": "REP",
-     "votes": 702,
-     "pct": 9.23
+     "votes": 765,
+     "pct": 9.04
     },
     {
      "name": "Andrew Lujan Orsini",
      "party": "REP",
-     "votes": 679,
-     "pct": 8.93
+     "votes": 740,
+     "pct": 8.75
     },
     {
      "name": "Yvette Reyes Sablan",
      "party": "REP",
-     "votes": 651,
-     "pct": 8.56
+     "votes": 715,
+     "pct": 8.45
     },
     {
      "name": "Steve Kap Soo Jang",
      "party": "IND",
-     "votes": 633,
-     "pct": 8.32
-    },
-    {
-     "name": "Quaid Taima Ogumoro Ngirchongor",
-     "party": "REP",
-     "votes": 581,
-     "pct": 7.64
+     "votes": 696,
+     "pct": 8.23
     },
     {
      "name": "Denita Kaipat Yangetmai",
      "party": "DEM",
-     "votes": 578,
-     "pct": 7.6
+     "votes": 653,
+     "pct": 7.72
     },
     {
-     "name": "Del Ariel Benson",
+     "name": "Quaid Taima Ogumoro Ngirchongor",
      "party": "REP",
-     "votes": 532,
-     "pct": 6.99
+     "votes": 638,
+     "pct": 7.54
     },
     {
      "name": "Carlos Ebert Santos",
      "party": "IND",
-     "votes": 521,
-     "pct": 6.85
+     "votes": 588,
+     "pct": 6.95
+    },
+    {
+     "name": "Del Ariel Benson",
+     "party": "REP",
+     "votes": 586,
+     "pct": 6.93
     },
     {
      "name": "Gabriel \"Boki\" Babauta",
      "party": "DEM",
-     "votes": 456,
-     "pct": 6
+     "votes": 516,
+     "pct": 6.1
     }
    ],
    "write_in": 0,
-   "total_votes": 7606,
+   "total_votes": 8461,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
     "EV": {
      "votes": {
@@ -844,6 +878,27 @@
      },
      "write_in": null,
      "total_votes": 7606,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ABS": {
+     "votes": {
+      "Steve Kap Soo Jang": 63,
+      "Elias Malite Rangamar": 91,
+      "Edward C. Arriola Jr.": 63,
+      "Gabriel \"Boki\" Babauta": 60,
+      "Quaid Taima Ogumoro Ngirchongor": 57,
+      "Denita Kaipat Yangetmai": 75,
+      "Ralph Naraja Yumul": 96,
+      "Marissa Renee Flores": 104,
+      "Yvette Reyes Sablan": 64,
+      "Andrew Lujan Orsini": 61,
+      "Carlos Ebert Santos": 67,
+      "Del Ariel Benson": 54
+     },
+     "write_in": null,
+     "total_votes": 855,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
