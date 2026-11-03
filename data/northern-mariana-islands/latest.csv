@@ -1,24 +1,11 @@
 territory,precinct,contest,party,office,candidate,votes
-MP,All,0 votes,,0 votes,—,0
-MP,All,0 votes,,0 votes,(Write-ins),0
-MP,All,0 votes,,0 votes,(Overvotes),0
-MP,All,0 votes,,0 votes,(Undervotes),0
-MP,All,0 votes (2),,0 votes (2),—,0
-MP,All,0 votes (2),,0 votes (2),(Write-ins),0
-MP,All,0 votes (2),,0 votes (2),(Overvotes),0
-MP,All,0 votes (2),,0 votes (2),(Undervotes),0
-MP,All,0 votes (3),,0 votes (3),—,0
-MP,All,0 votes (3),,0 votes (3),(Write-ins),0
-MP,All,0 votes (3),,0 votes (3),(Overvotes),0
-MP,All,0 votes (3),,0 votes (3),(Undervotes),0
-MP,All,0 votes (4),,0 votes (4),—,0
-MP,All,0 votes (4),,0 votes (4),(Write-ins),0
-MP,All,0 votes (4),,0 votes (4),(Overvotes),0
-MP,All,0 votes (4),,0 votes (4),(Undervotes),0
-MP,All,0 votes (5),,0 votes (5),—,0
-MP,All,0 votes (5),,0 votes (5),(Write-ins),0
-MP,All,0 votes (5),,0 votes (5),(Overvotes),0
-MP,All,0 votes (5),,0 votes (5),(Undervotes),0
+MP,EV,3.6%,,3.6%,—,343
+MP,EV,7.2%,,7.2%,—,695
+MP,EV,7.1%,,7.1%,—,687
+MP,EV,2nd,,2nd,—,2207
+MP,EV,3rd,,3rd,—,1748
+MP,EV,1st,,1st,—,2828
+MP,EV,4th,,4th,—,1107
 MP,All,0 votes (6),,0 votes (6),—,0
 MP,All,0 votes (6),,0 votes (6),(Write-ins),0
 MP,All,0 votes (6),,0 votes (6),(Overvotes),0
@@ -27,6 +14,10 @@ MP,All,0 votes (7),,0 votes (7),—,0
 MP,All,0 votes (7),,0 votes (7),(Write-ins),0
 MP,All,0 votes (7),,0 votes (7),(Overvotes),0
 MP,All,0 votes (7),,0 votes (7),(Undervotes),0
+MP,All,0 votes (12),,0 votes (12),—,0
+MP,All,0 votes (12),,0 votes (12),(Write-ins),0
+MP,All,0 votes (12),,0 votes (12),(Overvotes),0
+MP,All,0 votes (12),,0 votes (12),(Undervotes),0
 MP,All,0 votes (13),,0 votes (13),—,0
 MP,All,0 votes (13),,0 votes (13),(Write-ins),0
 MP,All,0 votes (13),,0 votes (13),(Overvotes),0
@@ -35,6 +26,22 @@ MP,All,0 votes (14),,0 votes (14),—,0
 MP,All,0 votes (14),,0 votes (14),(Write-ins),0
 MP,All,0 votes (14),,0 votes (14),(Overvotes),0
 MP,All,0 votes (14),,0 votes (14),(Undervotes),0
+MP,All,0 votes (15),,0 votes (15),—,0
+MP,All,0 votes (15),,0 votes (15),(Write-ins),0
+MP,All,0 votes (15),,0 votes (15),(Overvotes),0
+MP,All,0 votes (15),,0 votes (15),(Undervotes),0
+MP,All,0 votes (16),,0 votes (16),—,0
+MP,All,0 votes (16),,0 votes (16),(Write-ins),0
+MP,All,0 votes (16),,0 votes (16),(Overvotes),0
+MP,All,0 votes (16),,0 votes (16),(Undervotes),0
+MP,All,0 votes (17),,0 votes (17),—,0
+MP,All,0 votes (17),,0 votes (17),(Write-ins),0
+MP,All,0 votes (17),,0 votes (17),(Overvotes),0
+MP,All,0 votes (17),,0 votes (17),(Undervotes),0
+MP,All,0 votes (18),,0 votes (18),—,0
+MP,All,0 votes (18),,0 votes (18),(Write-ins),0
+MP,All,0 votes (18),,0 votes (18),(Overvotes),0
+MP,All,0 votes (18),,0 votes (18),(Undervotes),0
 MP,All,0 votes (19),,0 votes (19),—,0
 MP,All,0 votes (19),,0 votes (19),(Write-ins),0
 MP,All,0 votes (19),,0 votes (19),(Overvotes),0
@@ -59,50 +66,22 @@ MP,All,0 votes (24),,0 votes (24),—,0
 MP,All,0 votes (24),,0 votes (24),(Write-ins),0
 MP,All,0 votes (24),,0 votes (24),(Overvotes),0
 MP,All,0 votes (24),,0 votes (24),(Undervotes),0
-MP,All,0 votes (25),,0 votes (25),—,0
-MP,All,0 votes (25),,0 votes (25),(Write-ins),0
-MP,All,0 votes (25),,0 votes (25),(Overvotes),0
-MP,All,0 votes (25),,0 votes (25),(Undervotes),0
-MP,All,0 votes (26),,0 votes (26),—,0
-MP,All,0 votes (26),,0 votes (26),(Write-ins),0
-MP,All,0 votes (26),,0 votes (26),(Overvotes),0
-MP,All,0 votes (26),,0 votes (26),(Undervotes),0
-MP,All,0 votes (27),,0 votes (27),—,0
-MP,All,0 votes (27),,0 votes (27),(Write-ins),0
-MP,All,0 votes (27),,0 votes (27),(Overvotes),0
-MP,All,0 votes (27),,0 votes (27),(Undervotes),0
-MP,All,0 votes (28),,0 votes (28),—,0
-MP,All,0 votes (28),,0 votes (28),(Write-ins),0
-MP,All,0 votes (28),,0 votes (28),(Overvotes),0
-MP,All,0 votes (28),,0 votes (28),(Undervotes),0
-MP,All,0 votes (29),,0 votes (29),—,0
-MP,All,0 votes (29),,0 votes (29),(Write-ins),0
-MP,All,0 votes (29),,0 votes (29),(Overvotes),0
-MP,All,0 votes (29),,0 votes (29),(Undervotes),0
-MP,All,0 votes (30),,0 votes (30),—,0
-MP,All,0 votes (30),,0 votes (30),(Write-ins),0
-MP,All,0 votes (30),,0 votes (30),(Overvotes),0
-MP,All,0 votes (30),,0 votes (30),(Undervotes),0
-MP,All,0 votes (31),,0 votes (31),—,0
-MP,All,0 votes (31),,0 votes (31),(Write-ins),0
-MP,All,0 votes (31),,0 votes (31),(Overvotes),0
-MP,All,0 votes (31),,0 votes (31),(Undervotes),0
-MP,All,0 votes (56),,0 votes (56),—,0
-MP,All,0 votes (56),,0 votes (56),(Write-ins),0
-MP,All,0 votes (56),,0 votes (56),(Overvotes),0
-MP,All,0 votes (56),,0 votes (56),(Undervotes),0
-MP,All,0 votes (57),,0 votes (57),—,0
-MP,All,0 votes (57),,0 votes (57),(Write-ins),0
-MP,All,0 votes (57),,0 votes (57),(Overvotes),0
-MP,All,0 votes (57),,0 votes (57),(Undervotes),0
+MP,All,0 votes (49),,0 votes (49),—,0
+MP,All,0 votes (49),,0 votes (49),(Write-ins),0
+MP,All,0 votes (49),,0 votes (49),(Overvotes),0
+MP,All,0 votes (49),,0 votes (49),(Undervotes),0
+MP,All,0 votes (50),,0 votes (50),—,0
+MP,All,0 votes (50),,0 votes (50),(Write-ins),0
+MP,All,0 votes (50),,0 votes (50),(Overvotes),0
+MP,All,0 votes (50),,0 votes (50),(Undervotes),0
+MP,All,0 votes (51),,0 votes (51),—,0
+MP,All,0 votes (51),,0 votes (51),(Write-ins),0
+MP,All,0 votes (51),,0 votes (51),(Overvotes),0
+MP,All,0 votes (51),,0 votes (51),(Undervotes),0
 MP,All,0 votes (58),,0 votes (58),—,0
 MP,All,0 votes (58),,0 votes (58),(Write-ins),0
 MP,All,0 votes (58),,0 votes (58),(Overvotes),0
 MP,All,0 votes (58),,0 votes (58),(Undervotes),0
-MP,All,0 votes (65),,0 votes (65),—,0
-MP,All,0 votes (65),,0 votes (65),(Write-ins),0
-MP,All,0 votes (65),,0 votes (65),(Overvotes),0
-MP,All,0 votes (65),,0 votes (65),(Undervotes),0
 MP,ED1A,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,YES,0
 MP,ED1A,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,NO,0
 MP,ED1B,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,,SHALL CHIEF JUSTICE ALEXANDRO CRUZ CASTRO OF THE CNMI SUPREME COURT BE RETAINED IN OFFICE?,YES,0
