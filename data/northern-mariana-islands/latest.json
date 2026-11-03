@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "a29381b0e13759e953778e4b99372fd6f8c5da9bde06bd6a58dc35df2b8cafcf",
-  "fetched_at": "2026-11-03T12:04:40.122Z",
-  "file_last_modified": "Tue, 03 Nov 2026 12:04:40 GMT"
+  "sha256": "22cf373c185638ea54d7182dd99e2a39167d208071e647bc17e1fcf804be7061",
+  "fetched_at": "2026-11-03T12:06:40.401Z",
+  "file_last_modified": "Tue, 03 Nov 2026 12:06:40 GMT"
  },
  "report": {
   "title": "Election results",
@@ -58,6 +58,7 @@
   }
  },
  "precincts": [
+  "EV",
   "ED1A",
   "ED1B",
   "ED1C",
@@ -71,119 +72,239 @@
   "ED5",
   "ED6",
   "ED7",
-  "EV",
   "ABS"
  ],
  "contests": [
   {
-   "id": "0-votes",
-   "name": "0 votes",
+   "id": "3-6",
+   "name": "3.6%",
    "party": null,
-   "office": "0 votes",
+   "office": "3.6%",
    "vote_for": null,
    "candidates": [
     {
      "name": "—",
      "party": null,
-     "votes": 0,
-     "pct": 0
+     "votes": 343,
+     "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 343,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 343
+     },
+     "write_in": null,
+     "total_votes": 343,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
-   "id": "0-votes-2",
-   "name": "0 votes (2)",
+   "id": "7-2",
+   "name": "7.2%",
    "party": null,
-   "office": "0 votes (2)",
+   "office": "7.2%",
    "vote_for": null,
    "candidates": [
     {
      "name": "—",
      "party": null,
-     "votes": 0,
-     "pct": 0
+     "votes": 695,
+     "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 695,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 695
+     },
+     "write_in": null,
+     "total_votes": 695,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
-   "id": "0-votes-3",
-   "name": "0 votes (3)",
+   "id": "7-1",
+   "name": "7.1%",
    "party": null,
-   "office": "0 votes (3)",
+   "office": "7.1%",
    "vote_for": null,
    "candidates": [
     {
      "name": "—",
      "party": null,
-     "votes": 0,
-     "pct": 0
+     "votes": 687,
+     "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 687,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 687
+     },
+     "write_in": null,
+     "total_votes": 687,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
-   "id": "0-votes-4",
-   "name": "0 votes (4)",
+   "id": "2nd",
+   "name": "2nd",
    "party": null,
-   "office": "0 votes (4)",
+   "office": "2nd",
    "vote_for": null,
    "candidates": [
     {
      "name": "—",
      "party": null,
-     "votes": 0,
-     "pct": 0
+     "votes": 2207,
+     "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 2207,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 2207
+     },
+     "write_in": null,
+     "total_votes": 2207,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
-   "id": "0-votes-5",
-   "name": "0 votes (5)",
+   "id": "3rd",
+   "name": "3rd",
    "party": null,
-   "office": "0 votes (5)",
+   "office": "3rd",
    "vote_for": null,
    "candidates": [
     {
      "name": "—",
      "party": null,
-     "votes": 0,
-     "pct": 0
+     "votes": 1748,
+     "pct": 100
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 1748,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 1748
+     },
+     "write_in": null,
+     "total_votes": 1748,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "1st",
+   "name": "1st",
+   "party": null,
+   "office": "1st",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 2828,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 2828,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 2828
+     },
+     "write_in": null,
+     "total_votes": 2828,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
+  },
+  {
+   "id": "4th",
+   "name": "4th",
+   "party": null,
+   "office": "4th",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 1107,
+     "pct": 100
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 1107,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "EV": {
+     "votes": {
+      "—": 1107
+     },
+     "write_in": null,
+     "total_votes": 1107,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
    "id": "0-votes-6",
@@ -230,6 +351,28 @@
    "by_precinct": {}
   },
   {
+   "id": "0-votes-12",
+   "name": "0 votes (12)",
+   "party": null,
+   "office": "0 votes (12)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 0,
+     "pct": 0
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
    "id": "0-votes-13",
    "name": "0 votes (13)",
    "party": null,
@@ -256,6 +399,94 @@
    "name": "0 votes (14)",
    "party": null,
    "office": "0 votes (14)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 0,
+     "pct": 0
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
+   "id": "0-votes-15",
+   "name": "0 votes (15)",
+   "party": null,
+   "office": "0 votes (15)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 0,
+     "pct": 0
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
+   "id": "0-votes-16",
+   "name": "0 votes (16)",
+   "party": null,
+   "office": "0 votes (16)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 0,
+     "pct": 0
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
+   "id": "0-votes-17",
+   "name": "0 votes (17)",
+   "party": null,
+   "office": "0 votes (17)",
+   "vote_for": null,
+   "candidates": [
+    {
+     "name": "—",
+     "party": null,
+     "votes": 0,
+     "pct": 0
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
+   "id": "0-votes-18",
+   "name": "0 votes (18)",
+   "party": null,
+   "office": "0 votes (18)",
    "vote_for": null,
    "candidates": [
     {
@@ -406,10 +637,10 @@
    "by_precinct": {}
   },
   {
-   "id": "0-votes-25",
-   "name": "0 votes (25)",
+   "id": "0-votes-49",
+   "name": "0 votes (49)",
    "party": null,
-   "office": "0 votes (25)",
+   "office": "0 votes (49)",
    "vote_for": null,
    "candidates": [
     {
@@ -428,10 +659,10 @@
    "by_precinct": {}
   },
   {
-   "id": "0-votes-26",
-   "name": "0 votes (26)",
+   "id": "0-votes-50",
+   "name": "0 votes (50)",
    "party": null,
-   "office": "0 votes (26)",
+   "office": "0 votes (50)",
    "vote_for": null,
    "candidates": [
     {
@@ -450,142 +681,10 @@
    "by_precinct": {}
   },
   {
-   "id": "0-votes-27",
-   "name": "0 votes (27)",
+   "id": "0-votes-51",
+   "name": "0 votes (51)",
    "party": null,
-   "office": "0 votes (27)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-28",
-   "name": "0 votes (28)",
-   "party": null,
-   "office": "0 votes (28)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-29",
-   "name": "0 votes (29)",
-   "party": null,
-   "office": "0 votes (29)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-30",
-   "name": "0 votes (30)",
-   "party": null,
-   "office": "0 votes (30)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-31",
-   "name": "0 votes (31)",
-   "party": null,
-   "office": "0 votes (31)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-56",
-   "name": "0 votes (56)",
-   "party": null,
-   "office": "0 votes (56)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-57",
-   "name": "0 votes (57)",
-   "party": null,
-   "office": "0 votes (57)",
+   "office": "0 votes (51)",
    "vote_for": null,
    "candidates": [
     {
@@ -608,28 +707,6 @@
    "name": "0 votes (58)",
    "party": null,
    "office": "0 votes (58)",
-   "vote_for": null,
-   "candidates": [
-    {
-     "name": "—",
-     "party": null,
-     "votes": 0,
-     "pct": 0
-    }
-   ],
-   "write_in": 0,
-   "total_votes": 0,
-   "overvotes": 0,
-   "undervotes": 0,
-   "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
-  },
-  {
-   "id": "0-votes-65",
-   "name": "0 votes (65)",
-   "party": null,
-   "office": "0 votes (65)",
    "vote_for": null,
    "candidates": [
     {
