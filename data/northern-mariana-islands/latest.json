@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "c779246570700c636583ec592643c1822cb527ecfabeef8f18199f30fe5b3184",
-  "fetched_at": "2026-11-03T12:10:42.490Z",
-  "file_last_modified": "Tue, 03 Nov 2026 12:10:42 GMT"
+  "sha256": "b3ad47759179748f7b6ab2a0698b602ba819056fcb8fa82626a84bff7e5c3072",
+  "fetched_at": "2026-11-03T12:11:40.898Z",
+  "file_last_modified": "Tue, 03 Nov 2026 12:11:40 GMT"
  },
  "report": {
   "title": "Election results",
@@ -758,10 +758,10 @@
    }
   },
   {
-   "id": "0-votes-41",
-   "name": "0 votes (41)",
+   "id": "0-votes-38",
+   "name": "0 votes (38)",
    "party": null,
-   "office": "0 votes (41)",
+   "office": "0 votes (38)",
    "vote_for": null,
    "candidates": [
     {
