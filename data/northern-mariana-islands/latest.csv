@@ -1,4 +1,7 @@
 territory,precinct,contest,party,office,candidate,votes
+MP,ED3A,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,144
+MP,ED3A,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,152
+MP,ED3A,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,21
 MP,ED3B,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,260
 MP,ED3B,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,380
 MP,ED3B,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,121
@@ -26,6 +29,8 @@ MP,EV,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Ed
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Ralph DLG Torres / Ben Mendiola Jones Jr.,414
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,339
 MP,ABS,Governor/Lt. Governor,,Governor/Lt. Governor,Lawrence Fejeran Camacho / Edith E. Deleon Guerrero,133
+MP,ED3A,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,200
+MP,ED3A,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,106
 MP,ED3B,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,408
 MP,ED3B,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,350
 MP,ED4A,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,180
@@ -279,6 +284,9 @@ MP,ED4C,Saipan & Northern Islands - Board of Education,,Saipan & Northern Island
 MP,ED5,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,737
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
+MP,ED3A,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,105
+MP,ED3A,Attorney General,,Attorney General,Michael Norita Evangelista,106
+MP,ED3A,Attorney General,,Attorney General,Jonathan Robert Glass,90
 MP,ED3B,Attorney General,,Attorney General,Joaquin Deleon Guerrero Torres,200
 MP,ED3B,Attorney General,,Attorney General,Michael Norita Evangelista,257
 MP,ED3B,Attorney General,,Attorney General,Jonathan Robert Glass,301
