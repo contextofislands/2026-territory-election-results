@@ -202,13 +202,26 @@ MP,ABS,Mayor - Tinian,,Mayor - Tinian,Antonio San Nicolas Borja,118
 MP,ED7,Mayor - Rota,,Mayor - Rota,Aubry Manglona Hocog,292
 MP,EV,Mayor - Rota,,Mayor - Rota,Aubry Manglona Hocog,660
 MP,ABS,Mayor - Rota,,Mayor - Rota,Aubry Manglona Hocog,159
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roy Christoper Aldan Ada,128
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,"Vincent ""Kobre"" Seman Aldan",134
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Diego Vincent Fejeran Camacho,139
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Janet Ulloa Maratita,159
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Raymond Ulloa Palacios,168
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Joseph Arriola Flores,166
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,113
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Cecilia Taitano Fitial,86
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,John DLG Demapan Jr.,107
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Patrick Matagolai Cepeda,62
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Ricardo Castro Cruz Jr.,96
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Benusto Piteg,78
+MP,ED1A,House - Saipan - Election District 1,,House - Saipan - Election District 1,Alfredo Javier Cabael,64
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roy Christoper Aldan Ada,415
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,"Vincent ""Kobre"" Seman Aldan",456
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Diego Vincent Fejeran Camacho,462
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Janet Ulloa Maratita,346
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Raymond Ulloa Palacios,353
-MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,390
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Joseph Arriola Flores,373
+MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,390
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Cecilia Taitano Fitial,292
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,John DLG Demapan Jr.,291
 MP,ED1B,House - Saipan - Election District 1,,House - Saipan - Election District 1,Patrick Matagolai Cepeda,265
@@ -220,8 +233,8 @@ MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District
 MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,Diego Vincent Fejeran Camacho,218
 MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,Janet Ulloa Maratita,215
 MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,Raymond Ulloa Palacios,241
-MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,194
 MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,Joseph Arriola Flores,194
+MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,194
 MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,Cecilia Taitano Fitial,171
 MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,John DLG Demapan Jr.,160
 MP,ED1C,House - Saipan - Election District 1,,House - Saipan - Election District 1,Patrick Matagolai Cepeda,130
@@ -233,8 +246,8 @@ MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1
 MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Diego Vincent Fejeran Camacho,711
 MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Janet Ulloa Maratita,712
 MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Raymond Ulloa Palacios,670
-MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,671
 MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Joseph Arriola Flores,637
+MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,671
 MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Cecilia Taitano Fitial,737
 MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,John DLG Demapan Jr.,710
 MP,EV,House - Saipan - Election District 1,,House - Saipan - Election District 1,Patrick Matagolai Cepeda,666
@@ -246,8 +259,8 @@ MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Diego Vincent Fejeran Camacho,72
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Janet Ulloa Maratita,81
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Raymond Ulloa Palacios,61
-MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,65
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Joseph Arriola Flores,67
+MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Roman Cepeda Benavente,65
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Cecilia Taitano Fitial,63
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,John DLG Demapan Jr.,75
 MP,ABS,House - Saipan - Election District 1,,House - Saipan - Election District 1,Patrick Matagolai Cepeda,65
@@ -480,6 +493,8 @@ MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cru
 MP,EV,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,935
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,758
 MP,ABS,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,NO,93
+MP,ED1A,Constitutional Convention,,Constitutional Convention,YES,177
+MP,ED1A,Constitutional Convention,,Constitutional Convention,NO,91
 MP,ED1B,Constitutional Convention,,Constitutional Convention,YES,493
 MP,ED1B,Constitutional Convention,,Constitutional Convention,NO,293
 MP,ED1C,Constitutional Convention,,Constitutional Convention,YES,252
