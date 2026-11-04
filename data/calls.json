@@ -17,6 +17,22 @@
    "majority": "Yes"
   },
   {
+   "code": "VI",
+   "race": "Governor",
+   "call": "Projection",
+   "winner": "Stacey E. Plaskett",
+   "runoff_opponent": "",
+   "majority": "Yes"
+  },
+  {
+   "code": "VI",
+   "race": "US House delegate",
+   "call": "Projection",
+   "winner": "Janelle K. Sarauw",
+   "runoff_opponent": "",
+   "majority": "Yes"
+  },
+  {
    "code": "MP",
    "race": "US House delegate",
    "call": "Projection",
@@ -151,6 +167,14 @@
    "race": "Mayor - Saipan",
    "call": "Projection",
    "winner": "Ramon \"RB\" Jose Blas Camacho",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "VI",
+   "race": "LEGISLATURE OF THE VIRGIN ISLANDS AT LARGE",
+   "call": "Projection",
+   "winner": "Hadiya Sewer",
    "runoff_opponent": "",
    "majority": ""
   }
