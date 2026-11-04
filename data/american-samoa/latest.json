@@ -4,15 +4,16 @@
  "source": {
   "agency": "American Samoa Election Office",
   "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/594/2026/11/03213139/2026-midterm-unofficial-returns-from-election-office.pdf",
-  "sha256": "0b0d721fd90b5878b457686313f54c623a53d27c06d360e285e6ce19e6565a3c",
-  "fetched_at": "2026-11-04T08:48:43.949Z",
+  "sha256": "48322d33055939d3af79f08e3586f4f6d0fc2c7866c95cff31f83ee43701aa9f",
+  "fetched_at": "2026-11-04T08:53:42.923Z",
   "file_last_modified": null,
   "page": "sheet:AS results"
  },
  "report": {
   "title": "Results entered from American Samoa election office posts",
   "type": "Manual entry",
-  "status": "UNOFFICIAL"
+  "status": "UNOFFICIAL",
+  "generated": "Nov. 3, all polling stations (Election Office unofficial returns)"
  },
  "statistics": {
   "totals": {},
