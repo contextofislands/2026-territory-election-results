@@ -3,23 +3,41 @@
  "territory_name": "American Samoa",
  "source": {
   "agency": "American Samoa Election Office",
-  "url": "https://www.facebook.com/KVZKTV/videos/1660516928988244/",
-  "sha256": "2fdf3846d6fd87ae7579dc9c0643efcd863dbad490bca79eceacefa34d7ab87f",
-  "fetched_at": "2026-11-04T08:25:41.690Z",
+  "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/594/2026/11/03213139/2026-midterm-unofficial-returns-from-election-office.pdf",
+  "sha256": "849d1086935117881f120e1504ded2fe9a22a195a6c0744ac5d1212682f63363",
+  "fetched_at": "2026-11-04T08:47:42.248Z",
   "file_last_modified": null,
   "page": "sheet:AS results"
  },
  "report": {
   "title": "Results entered from American Samoa election office posts",
   "type": "Manual entry",
-  "status": "UNOFFICIAL",
-  "generated": "Nov. 3, all polling stations (election night returns, not certified)"
+  "status": "UNOFFICIAL"
  },
  "statistics": {
   "totals": {},
   "by_precinct": {}
  },
- "precincts": [],
+ "precincts": [
+  "District 1 (Manu'a: Ta'u, Fitiuta, Faleasao)",
+  "District 2 (Manu'a: Ofu, Olosega, Sili)",
+  "District 3 (Vaifanua)",
+  "District 4 (Saole)",
+  "District 5 (Sua #1)",
+  "District 6 (Sua #2)",
+  "District 7 (Maoputasi #1)",
+  "District 8 (Maoputasi #2)",
+  "District 9 (Maoputasi #3)",
+  "District 10 (Maoputasi #4)",
+  "District 11 (Maoputasi #5)",
+  "District 12 (Ituau)",
+  "District 13 (Fofo)",
+  "District 14 (Alataua)",
+  "District 15 (Tualauta)",
+  "District 16 (Tualatai)",
+  "District 17 (Aitulagi/Leasina)",
+  "Swains Island"
+ ],
  "contests": [
   {
    "id": "delegate-to-the-us-house",
@@ -61,15 +79,293 @@
    ],
    "write_in": 0,
    "total_votes": 6948,
-   "overvotes": null,
-   "undervotes": null,
-   "contest_totals": null,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 18,
+   "by_precinct": {
+    "District 1 (Manu'a: Ta'u, Fitiuta, Faleasao)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 285,
+      "Fualaau Rosie Tago Lancaster": 4,
+      "Meleagi Suitonu Chapman": 38,
+      "Sandra King Young": 159,
+      "Tuifagaloa Dr. Afu Lefaoseu": 12
+     },
+     "write_in": null,
+     "total_votes": 498,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 2 (Manu'a: Ofu, Olosega, Sili)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 149,
+      "Fualaau Rosie Tago Lancaster": 5,
+      "Meleagi Suitonu Chapman": 5,
+      "Sandra King Young": 105,
+      "Tuifagaloa Dr. Afu Lefaoseu": 7
+     },
+     "write_in": null,
+     "total_votes": 271,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 3 (Vaifanua)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 299,
+      "Fualaau Rosie Tago Lancaster": 23,
+      "Meleagi Suitonu Chapman": 5,
+      "Sandra King Young": 81,
+      "Tuifagaloa Dr. Afu Lefaoseu": 15
+     },
+     "write_in": null,
+     "total_votes": 423,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 4 (Saole)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 203,
+      "Fualaau Rosie Tago Lancaster": 2,
+      "Meleagi Suitonu Chapman": 2,
+      "Sandra King Young": 68,
+      "Tuifagaloa Dr. Afu Lefaoseu": 13
+     },
+     "write_in": null,
+     "total_votes": 288,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 5 (Sua #1)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 261,
+      "Fualaau Rosie Tago Lancaster": 7,
+      "Meleagi Suitonu Chapman": 3,
+      "Sandra King Young": 94,
+      "Tuifagaloa Dr. Afu Lefaoseu": 11
+     },
+     "write_in": null,
+     "total_votes": 376,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 6 (Sua #2)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 158,
+      "Fualaau Rosie Tago Lancaster": 0,
+      "Meleagi Suitonu Chapman": 4,
+      "Sandra King Young": 70,
+      "Tuifagaloa Dr. Afu Lefaoseu": 13
+     },
+     "write_in": null,
+     "total_votes": 245,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 7 (Maoputasi #1)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 142,
+      "Fualaau Rosie Tago Lancaster": 5,
+      "Meleagi Suitonu Chapman": 4,
+      "Sandra King Young": 58,
+      "Tuifagaloa Dr. Afu Lefaoseu": 1
+     },
+     "write_in": null,
+     "total_votes": 210,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 8 (Maoputasi #2)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 180,
+      "Fualaau Rosie Tago Lancaster": 3,
+      "Meleagi Suitonu Chapman": 3,
+      "Sandra King Young": 132,
+      "Tuifagaloa Dr. Afu Lefaoseu": 15
+     },
+     "write_in": null,
+     "total_votes": 333,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 9 (Maoputasi #3)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 270,
+      "Fualaau Rosie Tago Lancaster": 2,
+      "Meleagi Suitonu Chapman": 7,
+      "Sandra King Young": 105,
+      "Tuifagaloa Dr. Afu Lefaoseu": 17
+     },
+     "write_in": null,
+     "total_votes": 401,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 10 (Maoputasi #4)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 155,
+      "Fualaau Rosie Tago Lancaster": 1,
+      "Meleagi Suitonu Chapman": 1,
+      "Sandra King Young": 61,
+      "Tuifagaloa Dr. Afu Lefaoseu": 5
+     },
+     "write_in": null,
+     "total_votes": 223,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 11 (Maoputasi #5)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 183,
+      "Fualaau Rosie Tago Lancaster": 6,
+      "Meleagi Suitonu Chapman": 5,
+      "Sandra King Young": 80,
+      "Tuifagaloa Dr. Afu Lefaoseu": 13
+     },
+     "write_in": null,
+     "total_votes": 287,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 12 (Ituau)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 345,
+      "Fualaau Rosie Tago Lancaster": 35,
+      "Meleagi Suitonu Chapman": 13,
+      "Sandra King Young": 239,
+      "Tuifagaloa Dr. Afu Lefaoseu": 22
+     },
+     "write_in": null,
+     "total_votes": 654,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 13 (Fofo)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 194,
+      "Fualaau Rosie Tago Lancaster": 11,
+      "Meleagi Suitonu Chapman": 1,
+      "Sandra King Young": 191,
+      "Tuifagaloa Dr. Afu Lefaoseu": 28
+     },
+     "write_in": null,
+     "total_votes": 425,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 14 (Alataua)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 185,
+      "Fualaau Rosie Tago Lancaster": 4,
+      "Meleagi Suitonu Chapman": 2,
+      "Sandra King Young": 96,
+      "Tuifagaloa Dr. Afu Lefaoseu": 10
+     },
+     "write_in": null,
+     "total_votes": 297,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 15 (Tualauta)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 816,
+      "Fualaau Rosie Tago Lancaster": 25,
+      "Meleagi Suitonu Chapman": 7,
+      "Sandra King Young": 444,
+      "Tuifagaloa Dr. Afu Lefaoseu": 106
+     },
+     "write_in": null,
+     "total_votes": 1398,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 16 (Tualatai)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 207,
+      "Fualaau Rosie Tago Lancaster": 4,
+      "Meleagi Suitonu Chapman": 5,
+      "Sandra King Young": 121,
+      "Tuifagaloa Dr. Afu Lefaoseu": 15
+     },
+     "write_in": null,
+     "total_votes": 352,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "District 17 (Aitulagi/Leasina)": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 183,
+      "Fualaau Rosie Tago Lancaster": 2,
+      "Meleagi Suitonu Chapman": 2,
+      "Sandra King Young": 64,
+      "Tuifagaloa Dr. Afu Lefaoseu": 13
+     },
+     "write_in": null,
+     "total_votes": 264,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "Swains Island": {
+     "votes": {
+      "Aumua Amata Coleman Radewagen": 0,
+      "Fualaau Rosie Tago Lancaster": 1,
+      "Meleagi Suitonu Chapman": 1,
+      "Sandra King Young": 1,
+      "Tuifagaloa Dr. Afu Lefaoseu": 0
+     },
+     "write_in": null,
+     "total_votes": 3,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   }
  ],
  "warning_count": 0,
  "warnings": [],
  "credit": "Source: American Samoa Election Office. Compiled by Pasquines.",
- "watch": []
+ "watch": [
+  {
+   "id": "delegate-to-the-us-house",
+   "contest": "Delegate to the US House",
+   "office": "Delegate to the US House",
+   "party": null,
+   "level": "complete",
+   "majority_needed": false,
+   "leader": "Aumua Amata Coleman Radewagen",
+   "leader_pct": 60.7,
+   "runner_up": "Sandra King Young",
+   "runner_up_pct": 31.2,
+   "third": "Tuifagaloa Dr. Afu Lefaoseu",
+   "third_pct": 4.5,
+   "margin": 2046,
+   "counted_pct": 100,
+   "precincts_reported": 18,
+   "precincts_total": 18,
+   "precincts_led": 17,
+   "precincts_with_votes": 18,
+   "runner_up_needs_pct": null,
+   "runner_up_best_pct": 49.6,
+   "runner_up_best_at": "District 13 (Fofo)",
+   "est_votes_out": 0
+  }
+ ]
 }
