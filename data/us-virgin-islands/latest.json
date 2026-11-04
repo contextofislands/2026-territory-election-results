@@ -5,7 +5,7 @@
   "agency": "Elections System of the Virgin Islands",
   "url": "https://vivote.gov/wp-content/uploads/2026/11/Territorial-Summary-w-detail.pdf",
   "sha256": "4215eda6662dfdd94488197436580b53c304be8a492af529e8b039251f4dbbb5",
-  "fetched_at": "2026-11-04T01:22:42.282Z",
+  "fetched_at": "2026-11-04T01:26:42.755Z",
   "file_last_modified": "Wed, 04 Nov 2026 01:10:15 GMT",
   "page": "https://vivote.gov/?elections=2026-general-election"
  },
@@ -21,8 +21,8 @@
  },
  "statistics": {
   "totals": {
-   "Ballots Cast - Total": 12242,
-   "Ballots Cast - Blank": 13
+   "Ballots Cast - Total": 20047,
+   "Ballots Cast - Blank": 38
   },
   "by_precinct": {}
  },
