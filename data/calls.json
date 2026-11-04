@@ -42,6 +42,14 @@
   },
   {
    "code": "MP",
+   "race": "Governor",
+   "call": "Runoff",
+   "winner": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
+   "runoff_opponent": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
+   "majority": "Yes"
+  },
+  {
+   "code": "MP",
    "race": "US House delegate",
    "call": "Projection",
    "winner": "Kimberly King-Hinds",
@@ -377,6 +385,14 @@
    "winner": "Kevin A. Rodriguez",
    "runoff_opponent": "",
    "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Attorney General",
+   "call": "Runoff",
+   "winner": "Joaquin Deleon Guerrero Torres",
+   "runoff_opponent": "",
+   "majority": "Yes"
   }
  ]
 }
