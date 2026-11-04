@@ -4,8 +4,8 @@
  "source": {
   "agency": "American Samoa Election Office",
   "url": "https://www.talanei.com/2026/11/03/election-results-from-manua-polling-stations/",
-  "sha256": "78d3837dfd75f60ed0f3e851a107793889dcbec811fb2deb170dac235bcfef59",
-  "fetched_at": "2026-11-04T08:07:43.968Z",
+  "sha256": "579f4ff4ef36ee5d06cf20a34387a784a957878a06b43389ae50833fadea8126",
+  "fetched_at": "2026-11-04T08:13:50.845Z",
   "file_last_modified": null,
   "page": "sheet:AS results"
  },
@@ -75,12 +75,6 @@
      "party": null,
      "votes": 4,
      "pct": 1.6
-    },
-    {
-     "name": "Samana Semo Veavea",
-     "party": null,
-     "votes": 0,
-     "pct": 0
     }
    ],
    "write_in": 0,
@@ -95,7 +89,6 @@
       "Aumua Amata Coleman Radewagen": 91,
       "Fualaau Rosie Tago Lancaster": 2,
       "Meleagi Suitonu Chapman": 16,
-      "Samana Semo Veavea": 0,
       "Sandra King Young": 60,
       "Tuifagaloa Dr. Afu Lefaoseu": 3
      },
@@ -110,7 +103,6 @@
       "Aumua Amata Coleman Radewagen": 40,
       "Fualaau Rosie Tago Lancaster": 2,
       "Meleagi Suitonu Chapman": 0,
-      "Samana Semo Veavea": 0,
       "Sandra King Young": 35,
       "Tuifagaloa Dr. Afu Lefaoseu": 1
      },
