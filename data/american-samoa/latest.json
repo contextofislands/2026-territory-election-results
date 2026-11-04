@@ -4,8 +4,8 @@
  "source": {
   "agency": "American Samoa Election Office",
   "url": "https://www.talanei.com/2026/11/03/election-results-from-manua-polling-stations/",
-  "sha256": "fa8007b3239694f91203f2b727407c1f42bed17bfa3818f0e872ea202e0eaea2",
-  "fetched_at": "2026-11-04T08:20:46.550Z",
+  "sha256": "d8f0dcbc0a432263a064a8dfb143ed7e5234a4f8279a23dcbf3bf6656c05f42d",
+  "fetched_at": "2026-11-04T08:24:42.030Z",
   "file_last_modified": null,
   "page": "sheet:AS results"
  },
@@ -49,36 +49,36 @@
     {
      "name": "Aumua Amata Coleman Radewagen",
      "party": null,
-     "votes": 974,
-     "pct": 60.38
+     "votes": 1359,
+     "pct": 60.08
     },
     {
      "name": "Sandra King Young",
      "party": null,
-     "votes": 514,
-     "pct": 31.87
+     "votes": 703,
+     "pct": 31.08
     },
     {
      "name": "Tuifagaloa Dr. Afu Lefaoseu",
      "party": null,
-     "votes": 65,
-     "pct": 4.03
-    },
-    {
-     "name": "Meleagi Suitonu Chapman",
-     "party": null,
-     "votes": 31,
-     "pct": 1.92
+     "votes": 128,
+     "pct": 5.66
     },
     {
      "name": "Fualaau Rosie Tago Lancaster",
      "party": null,
-     "votes": 29,
-     "pct": 1.8
+     "votes": 37,
+     "pct": 1.64
+    },
+    {
+     "name": "Meleagi Suitonu Chapman",
+     "party": null,
+     "votes": 35,
+     "pct": 1.55
     }
    ],
    "write_in": 0,
-   "total_votes": 1613,
+   "total_votes": 2262,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -142,14 +142,14 @@
     },
     "District 15 (Tualauta)": {
      "votes": {
-      "Aumua Amata Coleman Radewagen": 431,
-      "Fualaau Rosie Tago Lancaster": 17,
-      "Meleagi Suitonu Chapman": 3,
-      "Sandra King Young": 255,
-      "Tuifagaloa Dr. Afu Lefaoseu": 43
+      "Aumua Amata Coleman Radewagen": 816,
+      "Fualaau Rosie Tago Lancaster": 25,
+      "Meleagi Suitonu Chapman": 7,
+      "Sandra King Young": 444,
+      "Tuifagaloa Dr. Afu Lefaoseu": 106
      },
      "write_in": null,
-     "total_votes": 749,
+     "total_votes": 1398,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -183,21 +183,21 @@
    "level": "none",
    "majority_needed": false,
    "leader": "Aumua Amata Coleman Radewagen",
-   "leader_pct": 60.4,
+   "leader_pct": 60.1,
    "runner_up": "Sandra King Young",
-   "runner_up_pct": 31.9,
+   "runner_up_pct": 31.1,
    "third": "Tuifagaloa Dr. Afu Lefaoseu",
-   "third_pct": 4,
-   "margin": 460,
+   "third_pct": 5.7,
+   "margin": 656,
    "counted_pct": 33.3,
    "precincts_reported": 6,
    "precincts_total": 18,
    "precincts_led": 5,
    "precincts_with_votes": 6,
-   "runner_up_needs_pct": 56.2,
+   "runner_up_needs_pct": 56.4,
    "runner_up_best_pct": 46.7,
    "runner_up_best_at": "District 2 (Manu'a: Ofu, Olosega, Sili)",
-   "est_votes_out": 3226
+   "est_votes_out": 4524
   }
  ]
 }
