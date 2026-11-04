@@ -4,15 +4,15 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "9cc5aa1091d9aef7ca9b65c591ea18d1d904d81063da506455f09e469ca6c5ab",
-  "fetched_at": "2026-11-04T20:34:13.675Z",
-  "file_last_modified": "Wed, 04 Nov 2026 20:32:30 GMT"
+  "sha256": "0966e8ed9c2660f1e4dd7c1fd5d9017e663f33fc28311c404244b3e60f445e36",
+  "fetched_at": "2026-11-04T21:11:08.481Z",
+  "file_last_modified": "Wed, 04 Nov 2026 21:10:32 GMT"
  },
  "report": {
   "title": "Election results",
   "type": "HTML results page",
   "status": "UNOFFICIAL",
-  "note": "The counting has ended.",
+  "note": "Awaiting certification",
   "election": "General Election 2026"
  },
  "statistics": {
