@@ -1,7 +1,91 @@
 territory,precinct,contest,party,office,candidate,votes
-AS,All,Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,4215
-AS,All,Delegate to the US House,,Delegate to the US House,Sandra King Young,2169
-AS,All,Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,316
-AS,All,Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,140
-AS,All,Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,108
-AS,All,Delegate to the US House,,Delegate to the US House,(Write-ins),0
+AS,"District 1 (Manu'a: Ta'u, Fitiuta, Faleasao)",Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,285
+AS,"District 1 (Manu'a: Ta'u, Fitiuta, Faleasao)",Delegate to the US House,,Delegate to the US House,Sandra King Young,159
+AS,"District 1 (Manu'a: Ta'u, Fitiuta, Faleasao)",Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,12
+AS,"District 1 (Manu'a: Ta'u, Fitiuta, Faleasao)",Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,4
+AS,"District 1 (Manu'a: Ta'u, Fitiuta, Faleasao)",Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,38
+AS,"District 2 (Manu'a: Ofu, Olosega, Sili)",Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,149
+AS,"District 2 (Manu'a: Ofu, Olosega, Sili)",Delegate to the US House,,Delegate to the US House,Sandra King Young,105
+AS,"District 2 (Manu'a: Ofu, Olosega, Sili)",Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,7
+AS,"District 2 (Manu'a: Ofu, Olosega, Sili)",Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,5
+AS,"District 2 (Manu'a: Ofu, Olosega, Sili)",Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,5
+AS,District 3 (Vaifanua),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,299
+AS,District 3 (Vaifanua),Delegate to the US House,,Delegate to the US House,Sandra King Young,81
+AS,District 3 (Vaifanua),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,15
+AS,District 3 (Vaifanua),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,23
+AS,District 3 (Vaifanua),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,5
+AS,District 4 (Saole),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,203
+AS,District 4 (Saole),Delegate to the US House,,Delegate to the US House,Sandra King Young,68
+AS,District 4 (Saole),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,13
+AS,District 4 (Saole),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,2
+AS,District 4 (Saole),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,2
+AS,District 5 (Sua #1),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,261
+AS,District 5 (Sua #1),Delegate to the US House,,Delegate to the US House,Sandra King Young,94
+AS,District 5 (Sua #1),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,11
+AS,District 5 (Sua #1),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,7
+AS,District 5 (Sua #1),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,3
+AS,District 6 (Sua #2),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,158
+AS,District 6 (Sua #2),Delegate to the US House,,Delegate to the US House,Sandra King Young,70
+AS,District 6 (Sua #2),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,13
+AS,District 6 (Sua #2),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,0
+AS,District 6 (Sua #2),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,4
+AS,District 7 (Maoputasi #1),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,142
+AS,District 7 (Maoputasi #1),Delegate to the US House,,Delegate to the US House,Sandra King Young,58
+AS,District 7 (Maoputasi #1),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,1
+AS,District 7 (Maoputasi #1),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,5
+AS,District 7 (Maoputasi #1),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,4
+AS,District 8 (Maoputasi #2),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,180
+AS,District 8 (Maoputasi #2),Delegate to the US House,,Delegate to the US House,Sandra King Young,132
+AS,District 8 (Maoputasi #2),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,15
+AS,District 8 (Maoputasi #2),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,3
+AS,District 8 (Maoputasi #2),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,3
+AS,District 9 (Maoputasi #3),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,270
+AS,District 9 (Maoputasi #3),Delegate to the US House,,Delegate to the US House,Sandra King Young,105
+AS,District 9 (Maoputasi #3),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,17
+AS,District 9 (Maoputasi #3),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,2
+AS,District 9 (Maoputasi #3),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,7
+AS,District 10 (Maoputasi #4),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,155
+AS,District 10 (Maoputasi #4),Delegate to the US House,,Delegate to the US House,Sandra King Young,61
+AS,District 10 (Maoputasi #4),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,5
+AS,District 10 (Maoputasi #4),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,1
+AS,District 10 (Maoputasi #4),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,1
+AS,District 11 (Maoputasi #5),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,183
+AS,District 11 (Maoputasi #5),Delegate to the US House,,Delegate to the US House,Sandra King Young,80
+AS,District 11 (Maoputasi #5),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,13
+AS,District 11 (Maoputasi #5),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,6
+AS,District 11 (Maoputasi #5),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,5
+AS,District 12 (Ituau),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,345
+AS,District 12 (Ituau),Delegate to the US House,,Delegate to the US House,Sandra King Young,239
+AS,District 12 (Ituau),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,22
+AS,District 12 (Ituau),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,35
+AS,District 12 (Ituau),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,13
+AS,District 13 (Fofo),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,194
+AS,District 13 (Fofo),Delegate to the US House,,Delegate to the US House,Sandra King Young,191
+AS,District 13 (Fofo),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,28
+AS,District 13 (Fofo),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,11
+AS,District 13 (Fofo),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,1
+AS,District 14 (Alataua),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,185
+AS,District 14 (Alataua),Delegate to the US House,,Delegate to the US House,Sandra King Young,96
+AS,District 14 (Alataua),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,10
+AS,District 14 (Alataua),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,4
+AS,District 14 (Alataua),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,2
+AS,District 15 (Tualauta),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,816
+AS,District 15 (Tualauta),Delegate to the US House,,Delegate to the US House,Sandra King Young,444
+AS,District 15 (Tualauta),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,106
+AS,District 15 (Tualauta),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,25
+AS,District 15 (Tualauta),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,7
+AS,District 16 (Tualatai),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,207
+AS,District 16 (Tualatai),Delegate to the US House,,Delegate to the US House,Sandra King Young,121
+AS,District 16 (Tualatai),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,15
+AS,District 16 (Tualatai),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,4
+AS,District 16 (Tualatai),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,5
+AS,District 17 (Aitulagi/Leasina),Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,183
+AS,District 17 (Aitulagi/Leasina),Delegate to the US House,,Delegate to the US House,Sandra King Young,64
+AS,District 17 (Aitulagi/Leasina),Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,13
+AS,District 17 (Aitulagi/Leasina),Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,2
+AS,District 17 (Aitulagi/Leasina),Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,2
+AS,Swains Island,Delegate to the US House,,Delegate to the US House,Aumua Amata Coleman Radewagen,0
+AS,Swains Island,Delegate to the US House,,Delegate to the US House,Sandra King Young,1
+AS,Swains Island,Delegate to the US House,,Delegate to the US House,Tuifagaloa Dr. Afu Lefaoseu,0
+AS,Swains Island,Delegate to the US House,,Delegate to the US House,Fualaau Rosie Tago Lancaster,1
+AS,Swains Island,Delegate to the US House,,Delegate to the US House,Meleagi Suitonu Chapman,1
