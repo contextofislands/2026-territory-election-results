@@ -3,39 +3,26 @@
  "territory_name": "US Virgin Islands",
  "source": {
   "agency": "Elections System of the Virgin Islands",
-  "url": "https://vivote.gov/wp-content/uploads/2026/11/Election-Summary.pdf",
-  "sha256": "8755551b0062d986c3a82d9e9985b0b6599cdc621c79d877d13469dcaebc3633",
-  "fetched_at": "2026-11-04T01:01:42.519Z",
-  "file_last_modified": null,
+  "url": "https://vivote.gov/wp-content/uploads/2026/11/Territorial-Summary-w-detail.pdf",
+  "sha256": "4215eda6662dfdd94488197436580b53c304be8a492af529e8b039251f4dbbb5",
+  "fetched_at": "2026-11-04T01:12:42.439Z",
+  "file_last_modified": "Wed, 04 Nov 2026 01:10:15 GMT",
   "page": "https://vivote.gov/?elections=2026-general-election"
  },
  "report": {
-  "title": "Early voting and Election Day reports added together (absentee and provisional ballots not included)",
+  "title": "Territorial Election Summary Results Report",
   "status": "UNOFFICIAL",
   "election": "GENERAL ELECTION 2026",
   "election_date": "November 3, 2026",
   "jurisdiction": "USVI",
-  "type": "Combined summary",
-  "generated": "11/03/2026 08:56PM",
-  "pages": 4,
-  "parts": [
-   {
-    "type": "Early Voting Summary",
-    "generated": "11/03/2026 08:22PM",
-    "url": "https://vivote.gov/wp-content/uploads/2026/11/Early-Voting.pdf"
-   },
-   {
-    "type": "Territorial Summary",
-    "generated": "11/03/2026 08:56PM",
-    "url": "https://vivote.gov/wp-content/uploads/2026/11/Election-Summary.pdf"
-   }
-  ]
+  "type": "Territorial Summary",
+  "generated": "11/03/2026 09:00PM",
+  "pages": 4
  },
  "statistics": {
   "totals": {
-   "Ballots Cast - Total": 20047,
-   "Ballots Cast - Blank": 38,
-   "Voter Turnout - Total": 19.15
+   "Ballots Cast - Total": 12242,
+   "Ballots Cast - Blank": 13
   },
   "by_precinct": {}
  },
@@ -51,18 +38,18 @@
     {
      "name": "Janelle K. Sarauw",
      "party": "DEM",
-     "votes": 13029,
-     "pct": 76.93
+     "votes": 8243,
+     "pct": 78.45
     },
     {
      "name": "Shelley A. H. Moorhead",
      "party": "IND",
-     "votes": 3586,
-     "pct": 21.17
+     "votes": 2060,
+     "pct": 19.61
     }
    ],
-   "write_in": 321,
-   "total_votes": 16936,
+   "write_in": 204,
+   "total_votes": 10507,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -79,36 +66,36 @@
     {
      "name": "Stacey E. Plaskett",
      "party": "DEM",
-     "votes": 11865,
-     "pct": 62.81
+     "votes": 7763,
+     "pct": 67.28
     },
     {
      "name": "Adlah \"Foncie\" Donastorg",
      "party": "IND",
-     "votes": 2507,
-     "pct": 13.27
+     "votes": 1298,
+     "pct": 11.25
     },
     {
      "name": "Oakland Benta",
      "party": "IND",
-     "votes": 2273,
-     "pct": 12.03
+     "votes": 1195,
+     "pct": 10.36
     },
     {
      "name": "Warren Mosler",
      "party": "IND",
-     "votes": 1293,
-     "pct": 6.84
+     "votes": 721,
+     "pct": 6.25
     },
     {
      "name": "Gustav James",
      "party": "IND",
-     "votes": 637,
-     "pct": 3.37
+     "votes": 337,
+     "pct": 2.92
     }
    ],
-   "write_in": 316,
-   "total_votes": 18891,
+   "write_in": 224,
+   "total_votes": 11538,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -125,18 +112,18 @@
     {
      "name": "Hadiya Sewer",
      "party": "IND",
-     "votes": 9809,
-     "pct": 61.06
+     "votes": 5985,
+     "pct": 60.04
     },
     {
      "name": "Angel Bolques Jr.",
      "party": "DEM",
-     "votes": 6204,
-     "pct": 38.62
+     "votes": 3957,
+     "pct": 39.69
     }
    ],
-   "write_in": 52,
-   "total_votes": 16065,
+   "write_in": 27,
+   "total_votes": 9969,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -153,150 +140,150 @@
     {
      "name": "Kurt Vialet",
      "party": "DEM",
-     "votes": 6494,
-     "pct": 12.26
+     "votes": 4124,
+     "pct": 12.55
     },
     {
      "name": "Kenneth Kenny Gittens",
      "party": "DEM",
-     "votes": 4408,
-     "pct": 8.32
+     "votes": 2867,
+     "pct": 8.73
     },
     {
      "name": "Franklin D. Johnson",
      "party": "IND",
-     "votes": 4166,
-     "pct": 7.87
+     "votes": 2700,
+     "pct": 8.22
     },
     {
      "name": "Clifford A. Joseph",
      "party": "DEM",
-     "votes": 4026,
-     "pct": 7.6
-    },
-    {
-     "name": "Lisa J. Charles",
-     "party": "DEM",
-     "votes": 3714,
-     "pct": 7.01
+     "votes": 2619,
+     "pct": 7.97
     },
     {
      "name": "Nemmy Williams-Jackson",
      "party": "DEM",
-     "votes": 3706,
-     "pct": 7
+     "votes": 2386,
+     "pct": 7.26
+    },
+    {
+     "name": "Lisa J. Charles",
+     "party": "DEM",
+     "votes": 2364,
+     "pct": 7.19
     },
     {
      "name": "Jose \"Besse\" Gonzalez",
      "party": "DEM",
-     "votes": 3693,
-     "pct": 6.97
-    },
-    {
-     "name": "Nellie Rivera O'Reilly",
-     "party": "IND",
-     "votes": 3000,
-     "pct": 5.66
+     "votes": 2330,
+     "pct": 7.09
     },
     {
      "name": "Hubert L. Frederick",
      "party": "DEM",
-     "votes": 2990,
-     "pct": 5.65
+     "votes": 1957,
+     "pct": 5.96
+    },
+    {
+     "name": "Nellie Rivera O'Reilly",
+     "party": "IND",
+     "votes": 1852,
+     "pct": 5.64
     },
     {
      "name": "Samuel Carrion",
      "party": "IND",
-     "votes": 2838,
-     "pct": 5.36
+     "votes": 1715,
+     "pct": 5.22
     },
     {
      "name": "Bianca Francis",
      "party": "IND",
-     "votes": 2637,
-     "pct": 4.98
+     "votes": 1481,
+     "pct": 4.51
     },
     {
      "name": "Alvin Milligan",
      "party": "IND",
-     "votes": 2209,
-     "pct": 4.17
+     "votes": 1454,
+     "pct": 4.43
     },
     {
      "name": "Elizabeth HansenWatley",
      "party": "IND",
-     "votes": 1945,
-     "pct": 3.67
+     "votes": 1154,
+     "pct": 3.51
     },
     {
      "name": "Mustasem Moe Mustafa",
      "party": "IND",
-     "votes": 914,
-     "pct": 1.73
+     "votes": 458,
+     "pct": 1.39
     },
     {
      "name": "Norman Bapo JnBaptiste",
      "party": "IND",
-     "votes": 801,
-     "pct": 1.51
+     "votes": 444,
+     "pct": 1.35
     },
     {
      "name": "Raymond T. James Esq",
      "party": "REP",
-     "votes": 783,
-     "pct": 1.48
-    },
-    {
-     "name": "Jay Watson",
-     "party": "IND",
-     "votes": 699,
-     "pct": 1.32
+     "votes": 437,
+     "pct": 1.33
     },
     {
      "name": "Diane Prosper",
      "party": "IND",
-     "votes": 694,
-     "pct": 1.31
+     "votes": 392,
+     "pct": 1.19
     },
     {
-     "name": "Julian S. Viera",
+     "name": "Jay Watson",
      "party": "IND",
-     "votes": 692,
-     "pct": 1.31
+     "votes": 384,
+     "pct": 1.17
     },
     {
      "name": "Troy D. Mason",
      "party": "IND",
-     "votes": 611,
-     "pct": 1.15
+     "votes": 337,
+     "pct": 1.03
+    },
+    {
+     "name": "Julian S. Viera",
+     "party": "IND",
+     "votes": 332,
+     "pct": 1.01
     },
     {
      "name": "Gage Edmunds",
      "party": "IND",
-     "votes": 564,
-     "pct": 1.06
+     "votes": 313,
+     "pct": 0.95
     },
     {
      "name": "Troy C. Williams Sr.",
      "party": "IND",
-     "votes": 528,
-     "pct": 1
+     "votes": 281,
+     "pct": 0.86
     },
     {
      "name": "Luz \"Lucy\" Browne",
      "party": "IND",
-     "votes": 468,
-     "pct": 0.88
+     "votes": 271,
+     "pct": 0.82
     },
     {
      "name": "Tyler Courtland Fay",
      "party": "IND",
-     "votes": 260,
-     "pct": 0.49
+     "votes": 138,
+     "pct": 0.42
     }
    ],
-   "write_in": 122,
-   "total_votes": 52962,
+   "write_in": 68,
+   "total_votes": 32858,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -311,128 +298,128 @@
    "vote_for": 7,
    "candidates": [
     {
-     "name": "Imani Daniel",
-     "party": "IND",
-     "votes": 4516,
-     "pct": 8.84
+     "name": "Avery L. Lewis",
+     "party": "DEM",
+     "votes": 2851,
+     "pct": 9.11
     },
     {
      "name": "Alma Francis Heyliger",
      "party": "IND",
-     "votes": 4460,
+     "votes": 2747,
+     "pct": 8.78
+    },
+    {
+     "name": "Imani Daniel",
+     "party": "IND",
+     "votes": 2732,
      "pct": 8.73
-    },
-    {
-     "name": "Avery L. Lewis",
-     "party": "DEM",
-     "votes": 4405,
-     "pct": 8.63
-    },
-    {
-     "name": "Marvin A. Blyden",
-     "party": "DEM",
-     "votes": 3880,
-     "pct": 7.6
     },
     {
      "name": "Rudel A. Hodge, Jr.",
      "party": "DEM",
-     "votes": 3794,
-     "pct": 7.43
+     "votes": 2414,
+     "pct": 7.71
+    },
+    {
+     "name": "Marvin A. Blyden",
+     "party": "DEM",
+     "votes": 2393,
+     "pct": 7.64
     },
     {
      "name": "Sennai Habtes",
      "party": "IND",
-     "votes": 3598,
-     "pct": 7.04
+     "votes": 2241,
+     "pct": 7.16
     },
     {
      "name": "Carla Joseph",
      "party": "DEM",
-     "votes": 3431,
-     "pct": 6.72
-    },
-    {
-     "name": "Shenelle Fina Francis",
-     "party": "DEM",
-     "votes": 3245,
-     "pct": 6.35
+     "votes": 2127,
+     "pct": 6.79
     },
     {
      "name": "Dwayne M. DeGraff",
      "party": "IND",
-     "votes": 3140,
-     "pct": 6.15
+     "votes": 2072,
+     "pct": 6.62
+    },
+    {
+     "name": "Shenelle Fina Francis",
+     "party": "DEM",
+     "votes": 1980,
+     "pct": 6.33
     },
     {
      "name": "Vernon Araujo",
      "party": "IND",
-     "votes": 2575,
-     "pct": 5.04
+     "votes": 1588,
+     "pct": 5.07
     },
     {
      "name": "Ray \"PuPa\" Fonseca",
      "party": "DEM",
-     "votes": 2519,
-     "pct": 4.93
+     "votes": 1539,
+     "pct": 4.92
     },
     {
      "name": "Joel S. Browne Connors",
      "party": "DEM",
-     "votes": 2276,
-     "pct": 4.46
+     "votes": 1455,
+     "pct": 4.65
     },
     {
      "name": "Eugene D. Farrell",
      "party": "IND",
-     "votes": 1959,
-     "pct": 3.84
+     "votes": 1166,
+     "pct": 3.72
     },
     {
      "name": "Paula A. Duke",
      "party": "IND",
-     "votes": 1502,
-     "pct": 2.94
-    },
-    {
-     "name": "Derrick A. Callwood",
-     "party": "REP",
-     "votes": 1462,
-     "pct": 2.86
+     "votes": 876,
+     "pct": 2.8
     },
     {
      "name": "Dr. Krishna Kilaru MD",
      "party": "IND",
-     "votes": 1423,
-     "pct": 2.79
+     "votes": 816,
+     "pct": 2.61
     },
     {
-     "name": "Gregory P. Smith",
-     "party": "IND",
-     "votes": 731,
-     "pct": 1.43
+     "name": "Derrick A. Callwood",
+     "party": "REP",
+     "votes": 780,
+     "pct": 2.49
     },
     {
      "name": "David Sierra",
      "party": "ICM",
-     "votes": 700,
-     "pct": 1.37
+     "votes": 379,
+     "pct": 1.21
+    },
+    {
+     "name": "Gregory P. Smith",
+     "party": "IND",
+     "votes": 378,
+     "pct": 1.21
     },
     {
      "name": "Collister M. Fahie",
      "party": "REP",
-     "votes": 655,
-     "pct": 1.28
+     "votes": 320,
+     "pct": 1.02
     },
     {
      "name": "Eric Tillett",
      "party": "REP",
-     "votes": 586,
-     "pct": 1.15
+     "votes": 314,
+     "pct": 1
     }
    ],
-   "write_in": 215,
-   "total_votes": 51072,
+   "write_in": 135,
+   "total_votes": 31303,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -449,30 +436,30 @@
     {
      "name": "Vincent HA GordonJr PhD",
      "party": "IND",
-     "votes": 3269,
-     "pct": 27.23
-    },
-    {
-     "name": "Lucy M. Jackson PhD",
-     "party": "IND",
-     "votes": 3085,
-     "pct": 25.7
+     "votes": 2094,
+     "pct": 27.27
     },
     {
      "name": "Terrence T. Joseph",
      "party": "DEM",
-     "votes": 3011,
-     "pct": 25.08
+     "votes": 1945,
+     "pct": 25.33
+    },
+    {
+     "name": "Lucy M. Jackson PhD",
+     "party": "IND",
+     "votes": 1889,
+     "pct": 24.6
     },
     {
      "name": "Winona A. Hendricks",
      "party": "DEM",
-     "votes": 2574,
-     "pct": 21.44
+     "votes": 1708,
+     "pct": 22.25
     }
    ],
-   "write_in": 67,
-   "total_votes": 12006,
+   "write_in": 42,
+   "total_votes": 7678,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -489,24 +476,24 @@
     {
      "name": "Judy M. Gomez",
      "party": "DEM",
-     "votes": 4975,
-     "pct": 44.52
+     "votes": 3175,
+     "pct": 45.03
     },
     {
      "name": "Arah C. Lockhart",
      "party": "DEM",
-     "votes": 3909,
-     "pct": 34.98
+     "votes": 2554,
+     "pct": 36.22
     },
     {
      "name": "Bruce C. Flamon",
      "party": "IND",
-     "votes": 2155,
-     "pct": 19.28
+     "votes": 1240,
+     "pct": 17.59
     }
    ],
-   "write_in": 136,
-   "total_votes": 11175,
+   "write_in": 82,
+   "total_votes": 7051,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -523,36 +510,36 @@
     {
      "name": "Shamari I. Haynes",
      "party": "DEM",
-     "votes": 4332,
-     "pct": 28.81
+     "votes": 2819,
+     "pct": 29.77
     },
     {
      "name": "Mary \"Peggy\" Moorhead",
      "party": "IND",
-     "votes": 3270,
-     "pct": 21.75
+     "votes": 1989,
+     "pct": 21.01
     },
     {
      "name": "Kareem T. Francis",
      "party": "IND",
-     "votes": 2760,
-     "pct": 18.36
+     "votes": 1778,
+     "pct": 18.78
     },
     {
      "name": "Franz A. Christian, Jr.",
      "party": "REP",
-     "votes": 2436,
-     "pct": 16.2
+     "votes": 1543,
+     "pct": 16.3
     },
     {
      "name": "Juliet L. Liburd",
      "party": "IND",
-     "votes": 2180,
-     "pct": 14.5
+     "votes": 1302,
+     "pct": 13.75
     }
    ],
-   "write_in": 58,
-   "total_votes": 15036,
+   "write_in": 38,
+   "total_votes": 9469,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -569,18 +556,18 @@
     {
      "name": "Raven Phillips",
      "party": "IND",
-     "votes": 3458,
-     "pct": 62.06
+     "votes": 2010,
+     "pct": 60.91
     },
     {
      "name": "Preston R. Evans",
      "party": "DEM",
-     "votes": 2057,
-     "pct": 36.92
+     "votes": 1267,
+     "pct": 38.39
     }
    ],
-   "write_in": 57,
-   "total_votes": 5572,
+   "write_in": 23,
+   "total_votes": 3300,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -597,24 +584,24 @@
     {
      "name": "Barbara A. Petersen",
      "party": "DEM",
-     "votes": 3787,
-     "pct": 36.5
+     "votes": 2437,
+     "pct": 37.43
     },
     {
      "name": "Kevin A. Rodriquez",
      "party": "DEM",
-     "votes": 3594,
-     "pct": 34.64
+     "votes": 2286,
+     "pct": 35.12
     },
     {
      "name": "Harriet A. Mercer",
      "party": "REP",
-     "votes": 2881,
-     "pct": 27.77
+     "votes": 1734,
+     "pct": 26.64
     }
    ],
-   "write_in": 114,
-   "total_votes": 10376,
+   "write_in": 53,
+   "total_votes": 6510,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
