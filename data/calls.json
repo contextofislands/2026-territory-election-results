@@ -393,6 +393,14 @@
    "winner": "Joaquin Deleon Guerrero Torres",
    "runoff_opponent": "",
    "majority": "Yes"
+  },
+  {
+   "code": "MP",
+   "race": "Constitutional Convention",
+   "call": "Projection",
+   "winner": "No",
+   "runoff_opponent": "",
+   "majority": ""
   }
  ]
 }
