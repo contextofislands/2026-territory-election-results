@@ -3,26 +3,27 @@
  "territory_name": "US Virgin Islands",
  "source": {
   "agency": "Elections System of the Virgin Islands",
-  "url": "https://vivote.gov/wp-content/uploads/2026/11/Detailed-Territorial-Summary-2.pdf",
-  "sha256": "7bfb73f0e1666994c0c5f9ed0260b3d6c07945cbfaea2fef84aa2e5d46c97fca",
-  "fetched_at": "2026-11-05T20:52:09.468Z",
-  "file_last_modified": "Thu, 05 Nov 2026 20:50:39 GMT",
-  "page": "https://vivote.gov/?elections=2026-general-election"
+  "url": "https://vivote.gov/wp-content/uploads/2026/11/Detailed-Territorial-.pdf",
+  "sha256": "ca8dc254d56b307401a6f0e3471c124c9e2662a295f7c6752c1351dde4ff1241",
+  "fetched_at": "2026-11-14T22:14:05.874Z",
+  "file_last_modified": "Sat, 14 Nov 2026 22:09:55 GMT"
  },
  "report": {
   "title": "Territorial Election Summary Results Report",
-  "status": "UNOFFICIAL",
+  "status": "OFFICIAL",
   "election": "GENERAL ELECTION 2026",
   "election_date": "November 3, 2026",
   "jurisdiction": "USVI",
   "type": "Territorial Summary",
-  "generated": "11/05/2026 04:30PM",
+  "generated": "11/13/2026 04:09PM",
   "pages": 4
  },
  "statistics": {
   "totals": {
-   "Ballots Cast - Total": 20880,
-   "Ballots Cast - Blank": 40
+   "Registered Voters - Total": 32757,
+   "Ballots Cast - Total": 20926,
+   "Ballots Cast - Blank": 40,
+   "Voter Turnout - Total": 63.88
   },
   "by_precinct": {}
  },
@@ -38,18 +39,18 @@
     {
      "name": "Janelle K. Sarauw",
      "party": "DEM",
-     "votes": 13584,
-     "pct": 76.89
+     "votes": 13613,
+     "pct": 76.88
     },
     {
      "name": "Shelley A. H. Moorhead",
      "party": "IND",
-     "votes": 3727,
-     "pct": 21.1
+     "votes": 3738,
+     "pct": 21.11
     }
    ],
-   "write_in": 355,
-   "total_votes": 17666,
+   "write_in": 356,
+   "total_votes": 17707,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -66,36 +67,36 @@
     {
      "name": "Stacey E. Plaskett",
      "party": "DEM",
-     "votes": 12402,
-     "pct": 62.98
+     "votes": 12427,
+     "pct": 62.97
     },
     {
      "name": "Adlah \"Foncie\" Donastorg",
      "party": "IND",
-     "votes": 2566,
-     "pct": 13.03
+     "votes": 2574,
+     "pct": 13.04
     },
     {
      "name": "Oakland Benta",
      "party": "IND",
-     "votes": 2364,
+     "votes": 2368,
      "pct": 12
     },
     {
      "name": "Warren Mosler",
      "party": "IND",
-     "votes": 1353,
-     "pct": 6.87
+     "votes": 1354,
+     "pct": 6.86
     },
     {
      "name": "Gustav James",
      "party": "IND",
-     "votes": 675,
+     "votes": 677,
      "pct": 3.43
     }
    ],
-   "write_in": 333,
-   "total_votes": 19693,
+   "write_in": 335,
+   "total_votes": 19735,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -112,18 +113,18 @@
     {
      "name": "Hadiya Sewer",
      "party": "IND",
-     "votes": 10213,
-     "pct": 60.93
+     "votes": 10239,
+     "pct": 60.95
     },
     {
      "name": "Angel Bolques Jr.",
      "party": "DEM",
-     "votes": 6492,
-     "pct": 38.73
+     "votes": 6504,
+     "pct": 38.71
     }
    ],
-   "write_in": 56,
-   "total_votes": 16761,
+   "write_in": 57,
+   "total_votes": 16800,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -140,67 +141,67 @@
     {
      "name": "Kurt Vialet",
      "party": "DEM",
-     "votes": 6774,
+     "votes": 6778,
      "pct": 12.26
     },
     {
      "name": "Kenneth Kenny Gittens",
      "party": "DEM",
-     "votes": 4610,
+     "votes": 4612,
      "pct": 8.34
     },
     {
      "name": "Franklin D. Johnson",
      "party": "IND",
-     "votes": 4353,
+     "votes": 4356,
      "pct": 7.88
     },
     {
      "name": "Clifford A. Joseph",
      "party": "DEM",
-     "votes": 4228,
+     "votes": 4229,
      "pct": 7.65
     },
     {
      "name": "Nemmy Williams-Jackson",
      "party": "DEM",
-     "votes": 3877,
+     "votes": 3880,
      "pct": 7.02
     },
     {
      "name": "Lisa J. Charles",
      "party": "DEM",
-     "votes": 3866,
+     "votes": 3870,
      "pct": 7
     },
     {
      "name": "Jose \"Besse\" Gonzalez",
      "party": "DEM",
-     "votes": 3825,
+     "votes": 3827,
      "pct": 6.92
     },
     {
      "name": "Hubert L. Frederick",
      "party": "DEM",
-     "votes": 3140,
+     "votes": 3142,
      "pct": 5.68
     },
     {
      "name": "Nellie Rivera O'Reilly",
      "party": "IND",
-     "votes": 3134,
+     "votes": 3135,
      "pct": 5.67
     },
     {
      "name": "Samuel Carrion",
      "party": "IND",
-     "votes": 2955,
+     "votes": 2957,
      "pct": 5.35
     },
     {
      "name": "Bianca Francis",
      "party": "IND",
-     "votes": 2740,
+     "votes": 2741,
      "pct": 4.96
     },
     {
@@ -212,7 +213,7 @@
     {
      "name": "Elizabeth HansenWatley",
      "party": "IND",
-     "votes": 2029,
+     "votes": 2030,
      "pct": 3.67
     },
     {
@@ -224,19 +225,19 @@
     {
      "name": "Norman Bapo JnBaptiste",
      "party": "IND",
-     "votes": 822,
+     "votes": 823,
      "pct": 1.49
     },
     {
      "name": "Raymond T. James Esq",
      "party": "REP",
-     "votes": 819,
+     "votes": 820,
      "pct": 1.48
     },
     {
      "name": "Diane Prosper",
      "party": "IND",
-     "votes": 724,
+     "votes": 726,
      "pct": 1.31
     },
     {
@@ -248,19 +249,19 @@
     {
      "name": "Julian S. Viera",
      "party": "IND",
-     "votes": 715,
-     "pct": 1.29
+     "votes": 717,
+     "pct": 1.3
     },
     {
      "name": "Troy D. Mason",
      "party": "IND",
-     "votes": 637,
+     "votes": 638,
      "pct": 1.15
     },
     {
      "name": "Gage Edmunds",
      "party": "IND",
-     "votes": 585,
+     "votes": 586,
      "pct": 1.06
     },
     {
@@ -283,7 +284,7 @@
     }
    ],
    "write_in": 131,
-   "total_votes": 55265,
+   "total_votes": 55299,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -300,126 +301,126 @@
     {
      "name": "Imani Daniel",
      "party": "IND",
-     "votes": 4656,
+     "votes": 4667,
      "pct": 8.75
     },
     {
      "name": "Alma Francis Heyliger",
      "party": "IND",
-     "votes": 4650,
-     "pct": 8.74
+     "votes": 4667,
+     "pct": 8.75
     },
     {
      "name": "Avery L. Lewis",
      "party": "DEM",
-     "votes": 4584,
+     "votes": 4602,
      "pct": 8.62
     },
     {
      "name": "Marvin A. Blyden",
      "party": "DEM",
-     "votes": 4033,
+     "votes": 4046,
      "pct": 7.58
     },
     {
      "name": "Rudel A. Hodge, Jr.",
      "party": "DEM",
-     "votes": 3963,
+     "votes": 3976,
      "pct": 7.45
     },
     {
      "name": "Sennai Habtes",
      "party": "IND",
-     "votes": 3746,
+     "votes": 3759,
      "pct": 7.04
     },
     {
      "name": "Carla Joseph",
      "party": "DEM",
-     "votes": 3590,
-     "pct": 6.75
+     "votes": 3606,
+     "pct": 6.76
     },
     {
      "name": "Shenelle Fina Francis",
      "party": "DEM",
-     "votes": 3356,
+     "votes": 3366,
      "pct": 6.31
     },
     {
      "name": "Dwayne M. DeGraff",
      "party": "IND",
-     "votes": 3291,
-     "pct": 6.19
+     "votes": 3300,
+     "pct": 6.18
     },
     {
      "name": "Vernon Araujo",
      "party": "IND",
-     "votes": 2684,
-     "pct": 5.05
+     "votes": 2690,
+     "pct": 5.04
     },
     {
      "name": "Ray \"PuPa\" Fonseca",
      "party": "DEM",
-     "votes": 2633,
+     "votes": 2642,
      "pct": 4.95
     },
     {
      "name": "Joel S. Browne Connors",
      "party": "DEM",
-     "votes": 2379,
+     "votes": 2383,
      "pct": 4.47
     },
     {
      "name": "Eugene D. Farrell",
      "party": "IND",
-     "votes": 2051,
-     "pct": 3.86
+     "votes": 2057,
+     "pct": 3.85
     },
     {
      "name": "Paula A. Duke",
      "party": "IND",
-     "votes": 1560,
+     "votes": 1565,
      "pct": 2.93
     },
     {
      "name": "Derrick A. Callwood",
      "party": "REP",
-     "votes": 1516,
+     "votes": 1521,
      "pct": 2.85
     },
     {
      "name": "Dr. Krishna Kilaru MD",
      "party": "IND",
-     "votes": 1471,
-     "pct": 2.77
+     "votes": 1475,
+     "pct": 2.76
     },
     {
      "name": "Gregory P. Smith",
      "party": "IND",
-     "votes": 754,
+     "votes": 759,
      "pct": 1.42
     },
     {
      "name": "David Sierra",
      "party": "ICM",
-     "votes": 733,
+     "votes": 737,
      "pct": 1.38
     },
     {
      "name": "Collister M. Fahie",
      "party": "REP",
-     "votes": 686,
+     "votes": 689,
      "pct": 1.29
     },
     {
      "name": "Eric Tillett",
      "party": "REP",
-     "votes": 628,
+     "votes": 630,
      "pct": 1.18
     }
    ],
-   "write_in": 228,
-   "total_votes": 53192,
+   "write_in": 229,
+   "total_votes": 53366,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -436,30 +437,30 @@
     {
      "name": "Vincent HA GordonJr PhD",
      "party": "IND",
-     "votes": 3459,
+     "votes": 3462,
      "pct": 27.41
     },
     {
      "name": "Lucy M. Jackson PhD",
      "party": "IND",
-     "votes": 3254,
+     "votes": 3256,
      "pct": 25.78
     },
     {
      "name": "Terrence T. Joseph",
      "party": "DEM",
-     "votes": 3125,
-     "pct": 24.76
+     "votes": 3126,
+     "pct": 24.75
     },
     {
      "name": "Winona A. Hendricks",
      "party": "DEM",
-     "votes": 2712,
+     "votes": 2714,
      "pct": 21.49
     }
    ],
-   "write_in": 71,
-   "total_votes": 12621,
+   "write_in": 72,
+   "total_votes": 12630,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -476,24 +477,24 @@
     {
      "name": "Judy M. Gomez",
      "party": "DEM",
-     "votes": 5191,
-     "pct": 44.51
+     "votes": 5215,
+     "pct": 44.53
     },
     {
      "name": "Arah C. Lockhart",
      "party": "DEM",
-     "votes": 4081,
-     "pct": 34.99
+     "votes": 4100,
+     "pct": 35.01
     },
     {
      "name": "Bruce C. Flamon",
      "party": "IND",
-     "votes": 2242,
-     "pct": 19.22
+     "votes": 2244,
+     "pct": 19.16
     }
    ],
-   "write_in": 149,
-   "total_votes": 11663,
+   "write_in": 151,
+   "total_votes": 11710,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -510,36 +511,36 @@
     {
      "name": "Shamari I. Haynes",
      "party": "DEM",
-     "votes": 4533,
+     "votes": 4537,
      "pct": 28.76
     },
     {
      "name": "Mary \"Peggy\" Moorhead",
      "party": "IND",
-     "votes": 3415,
-     "pct": 21.67
+     "votes": 3417,
+     "pct": 21.66
     },
     {
      "name": "Kareem T. Francis",
      "party": "IND",
-     "votes": 2905,
+     "votes": 2907,
      "pct": 18.43
     },
     {
      "name": "Franz A. Christian, Jr.",
      "party": "REP",
-     "votes": 2564,
+     "votes": 2566,
      "pct": 16.27
     },
     {
      "name": "Juliet L. Liburd",
      "party": "IND",
-     "votes": 2283,
+     "votes": 2285,
      "pct": 14.48
     }
    ],
-   "write_in": 62,
-   "total_votes": 15762,
+   "write_in": 63,
+   "total_votes": 15775,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -556,18 +557,18 @@
     {
      "name": "Raven Phillips",
      "party": "IND",
-     "votes": 3593,
-     "pct": 61.8
+     "votes": 3602,
+     "pct": 61.72
     },
     {
      "name": "Preston R. Evans",
      "party": "DEM",
-     "votes": 2158,
-     "pct": 37.12
+     "votes": 2170,
+     "pct": 37.18
     }
    ],
-   "write_in": 63,
-   "total_votes": 5814,
+   "write_in": 64,
+   "total_votes": 5836,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
@@ -584,24 +585,24 @@
     {
      "name": "Barbara A. Petersen",
      "party": "DEM",
-     "votes": 3934,
-     "pct": 36.33
+     "votes": 3951,
+     "pct": 36.35
     },
     {
      "name": "Kevin A. Rodriquez",
      "party": "DEM",
-     "votes": 3750,
-     "pct": 34.63
+     "votes": 3761,
+     "pct": 34.6
     },
     {
      "name": "Harriet A. Mercer",
      "party": "REP",
-     "votes": 3021,
+     "votes": 3032,
      "pct": 27.9
     }
    ],
-   "write_in": 124,
-   "total_votes": 10829,
+   "write_in": 125,
+   "total_votes": 10869,
    "overvotes": null,
    "undervotes": null,
    "contest_totals": null,
