@@ -51,7 +51,7 @@
   {
    "code": "MP",
    "race": "US House delegate",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Kimberly King-Hinds",
    "runoff_opponent": "",
    "majority": "No"
@@ -181,7 +181,7 @@
   {
    "code": "MP",
    "race": "Justice Retention: Alexandro Cruz Castro",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Yes",
    "runoff_opponent": "",
    "majority": ""
@@ -189,7 +189,7 @@
   {
    "code": "MP",
    "race": "Mayor - Saipan",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Ramon \"RB\" Jose Blas Camacho",
    "runoff_opponent": "",
    "majority": ""
@@ -333,7 +333,7 @@
   {
    "code": "MP",
    "race": "Senate - Saipan",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Vinnie Vinson Flores Sablan",
    "runoff_opponent": "",
    "majority": ""
@@ -341,7 +341,7 @@
   {
    "code": "MP",
    "race": "Senate - Saipan",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Celina Roberto Babauta",
    "runoff_opponent": "",
    "majority": ""
@@ -391,13 +391,13 @@
    "race": "Attorney General",
    "call": "Runoff",
    "winner": "Joaquin Deleon Guerrero Torres",
-   "runoff_opponent": "",
+   "runoff_opponent": "Michael Norita Evangelista",
    "majority": "Yes"
   },
   {
    "code": "MP",
    "race": "Constitutional Convention",
-   "call": "Projection",
+   "call": "Final",
    "winner": "No",
    "runoff_opponent": "",
    "majority": ""
@@ -711,6 +711,222 @@
    "race": "House of Representatives - District 17 (Aitulagi/Leasina)",
    "call": "Final",
    "winner": "Ape Mike Asifoa",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Senate - Rota",
+   "call": "Final",
+   "winner": "Donald Manalang Manglona",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Senate - Rota",
+   "call": "Final",
+   "winner": "Tito Songao Hocog II",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Mayor - Northern Islands",
+   "call": "Final",
+   "winner": "Keli Aiken Tenorio",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 1",
+   "call": "Final",
+   "winner": "Roy Christoper Aldan Ada",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 1",
+   "call": "Final",
+   "winner": "Vincent \"Kobre\" Seman Aldan",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 1",
+   "call": "Final",
+   "winner": "Diego Vincent Fejeran Camacho",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 1",
+   "call": "Final",
+   "winner": "Janet Ulloa Maratita",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 1",
+   "call": "Final",
+   "winner": "Raymond Ulloa Palacios",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 1",
+   "call": "Final",
+   "winner": "Joseph Arriola Flores",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 2",
+   "call": "Final",
+   "winner": "John Paul Sablan",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 2",
+   "call": "Final",
+   "winner": "Daniel Iwashita Aquino Jr.",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 3",
+   "call": "Final",
+   "winner": "Marissa Renee Flores",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 3",
+   "call": "Final",
+   "winner": "Elias Malite Rangamar",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 3",
+   "call": "Final",
+   "winner": "Ralph Naraja Yumul",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 3",
+   "call": "Final",
+   "winner": "Edward C. Arriola Jr.",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 3",
+   "call": "Final",
+   "winner": "Andrew Lujan Orsini",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 3",
+   "call": "Final",
+   "winner": "Steve Kap Soo Jang",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 4 & Northern Islands (4D)",
+   "call": "Final",
+   "winner": "James Kennedy Weilbacher DLG Benjamin",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 4 & Northern Islands (4D)",
+   "call": "Final",
+   "winner": "Joel Castro Camacho",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 5",
+   "call": "Final",
+   "winner": "Leila Haveia Fleming Clark Staffler",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "House - Saipan - Election District 5",
+   "call": "Final",
+   "winner": "Angelo Atalig Camacho",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Tinian & Aguiguan - Municipal Council",
+   "call": "Final",
+   "winner": "Anne Marie Cruz San Nicolas",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Tinian & Aguiguan - Municipal Council",
+   "call": "Final",
+   "winner": "Chad Ellie Palacios",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Tinian & Aguiguan - Municipal Council",
+   "call": "Final",
+   "winner": "Wally Flores Villagomez",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Rota - Municipal Council",
+   "call": "Final",
+   "winner": "Jonovan Hocog Lizama",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Rota - Municipal Council",
+   "call": "Final",
+   "winner": "Sandra Mesngon Masga",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "MP",
+   "race": "Rota - Municipal Council",
+   "call": "Final",
+   "winner": "Tillie Castro Taimanao",
    "runoff_opponent": "",
    "majority": ""
   }
