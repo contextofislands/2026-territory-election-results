@@ -19,7 +19,7 @@
   {
    "code": "VI",
    "race": "Governor",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Stacey E. Plaskett",
    "runoff_opponent": "",
    "majority": "Yes"
@@ -27,7 +27,7 @@
   {
    "code": "VI",
    "race": "US House delegate",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Janelle K. Sarauw",
    "runoff_opponent": "",
    "majority": "Yes"
@@ -59,7 +59,7 @@
   {
    "code": "VI",
    "race": "Senate majority",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Democratic",
    "runoff_opponent": "",
    "majority": ""
@@ -197,7 +197,7 @@
   {
    "code": "VI",
    "race": "LEGISLATURE OF THE VIRGIN ISLANDS AT LARGE",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Hadiya Sewer",
    "runoff_opponent": "",
    "majority": ""
@@ -349,7 +349,7 @@
   {
    "code": "VI",
    "race": "BOARD OF EDUCATION ST. THOMAS / ST. JOHN",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Judy M. Gomez",
    "runoff_opponent": "",
    "majority": ""
@@ -357,7 +357,7 @@
   {
    "code": "VI",
    "race": "BOARD OF EDUCATION ST. THOMAS / ST. JOHN",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Arah C. Lockhart",
    "runoff_opponent": "",
    "majority": ""
@@ -365,7 +365,7 @@
   {
    "code": "VI",
    "race": "BOARD OF ELECTIONS - STJ ST. THOMAS / ST. JOHN",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Raven Phillips",
    "runoff_opponent": "",
    "majority": ""
@@ -373,7 +373,7 @@
   {
    "code": "VI",
    "race": "BOARD OF ELECTIONS - STT ST. THOMAS / ST. JOHN",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Barbara A. Petersen",
    "runoff_opponent": "",
    "majority": ""
@@ -381,7 +381,7 @@
   {
    "code": "VI",
    "race": "BOARD OF ELECTIONS - STT ST. THOMAS / ST. JOHN",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Kevin A. Rodriguez",
    "runoff_opponent": "",
    "majority": ""
