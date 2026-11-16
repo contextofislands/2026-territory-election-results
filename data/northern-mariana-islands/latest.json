@@ -4,15 +4,15 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "0966e8ed9c2660f1e4dd7c1fd5d9017e663f33fc28311c404244b3e60f445e36",
-  "fetched_at": "2026-11-04T21:11:08.481Z",
-  "file_last_modified": "Wed, 04 Nov 2026 21:10:32 GMT"
+  "sha256": "ed77e94ff6f80bf943a04b85233e1ae4e780fb66d060924ec5782eb6504a6ea0",
+  "fetched_at": "2026-11-16T00:57:33.917Z",
+  "file_last_modified": "Mon, 16 Nov 2026 00:56:00 GMT"
  },
  "report": {
   "title": "Election results",
   "type": "HTML results page",
-  "status": "UNOFFICIAL",
-  "note": "Awaiting certification",
+  "status": "OFFICIAL",
+  "note": "Certified on November 6, 2026",
   "election": "General Election 2026"
  },
  "statistics": {
@@ -781,7 +781,7 @@
    "name": "Senate - Rota",
    "party": null,
    "office": "Senate - Rota",
-   "vote_for": 1,
+   "vote_for": 2,
    "candidates": [
     {
      "name": "Donald Manalang Manglona",
@@ -2079,7 +2079,7 @@
    "name": "Tinian & Aguiguan - Municipal Council",
    "party": null,
    "office": "Tinian & Aguiguan - Municipal Council",
-   "vote_for": 2,
+   "vote_for": 3,
    "candidates": [
     {
      "name": "Anne Marie Cruz San Nicolas",
@@ -2150,7 +2150,7 @@
    "name": "Rota - Municipal Council",
    "party": null,
    "office": "Rota - Municipal Council",
-   "vote_for": 2,
+   "vote_for": 3,
    "candidates": [
     {
      "name": "Jonovan Hocog Lizama",
@@ -2980,30 +2980,6 @@
    "runner_up_best_pct": 48.5,
    "runner_up_best_at": "ED4B",
    "est_votes_out": 53
-  },
-  {
-   "id": "senate-rota",
-   "contest": "Senate - Rota",
-   "office": "Senate - Rota",
-   "party": null,
-   "level": "none",
-   "majority_needed": false,
-   "leader": "Donald Manalang Manglona",
-   "leader_pct": 42,
-   "runner_up": "Tito Songao Hocog II",
-   "runner_up_pct": 37.9,
-   "third": "Robert Harrison Atalig Myers Jr.",
-   "third_pct": 20.1,
-   "margin": 85,
-   "counted_pct": 26.1,
-   "precincts_reported": 3,
-   "precincts_total": 15,
-   "precincts_led": 3,
-   "precincts_with_votes": 3,
-   "runner_up_needs_pct": 50.7,
-   "runner_up_best_pct": 47.9,
-   "runner_up_best_at": "EV",
-   "est_votes_out": 5784
   },
   {
    "id": "mayor-saipan",
