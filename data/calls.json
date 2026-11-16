@@ -35,7 +35,7 @@
   {
    "code": "AS",
    "race": "US House delegate",
-   "call": "Projection",
+   "call": "Final",
    "winner": "Aumua Amata Coleman Radewagen",
    "runoff_opponent": "",
    "majority": "No"
@@ -551,6 +551,166 @@
    "race": "BOARD OF ELECTIONS ST. CROIX",
    "call": "Final",
    "winner": "Kareem T. Francis",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 1 (Manu'a)",
+   "call": "Final",
+   "winner": "Fetui F. Fetu Jr.",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 1 (Manu'a)",
+   "call": "Final",
+   "winner": "Vala Porotesano Liusamoa",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 2 (Manu'a)",
+   "call": "Final",
+   "winner": "Tiaoali’i Fauagiga T. Sai",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 3 (Vaifanua)",
+   "call": "Final",
+   "winner": "Shaun O. Va’a",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 4 (Saole)",
+   "call": "Final",
+   "winner": "Dr. Va’asa Simanu",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 5 (Sua #1)",
+   "call": "Final",
+   "winner": "Luaitaua Gene Pan",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 6 (Sua #2)",
+   "call": "Final",
+   "winner": "Matagaono Vaimaga Maiava",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 7 (Maoputasi #1)",
+   "call": "Final",
+   "winner": "Vailoata Eteuati Amituanai",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 8 (Maoputasi #2)",
+   "call": "Final",
+   "winner": "Malaeoletalu Melesio Gurr",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 9 (Maoputasi #3)",
+   "call": "Final",
+   "winner": "Trude Gasetotolemasina Ledoux-Sunia",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 10 (Maoputasi #4)",
+   "call": "Final",
+   "winner": "Saena Omar Shalhout",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 11 (Maoputasi #5)",
+   "call": "Final",
+   "winner": "Faimealelei Anthony Fu’e Allen",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 12 (Ituau)",
+   "call": "Final",
+   "winner": "Manumaua Wayne Wilson",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 12 (Ituau)",
+   "call": "Final",
+   "winner": "Sauasetoa Tautoloitua Soliai Ho Ching",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 13 (Fofo)",
+   "call": "Final",
+   "winner": "Fiu J. Saelua",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 14 (Alataua)",
+   "call": "Final",
+   "winner": "Savali Talavou Ale",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 15 (Tualauta)",
+   "call": "Final",
+   "winner": "Fagaima Larry Sanitoa",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 15 (Tualauta)",
+   "call": "Final",
+   "winner": "Ben Vaomu Solomona Sauvao",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 16 (Tualatai)",
+   "call": "Final",
+   "winner": "Manavaalofa Tutuila Manase",
+   "runoff_opponent": "",
+   "majority": ""
+  },
+  {
+   "code": "AS",
+   "race": "House of Representatives - District 17 (Aitulagi/Leasina)",
+   "call": "Final",
+   "winner": "Ape Mike Asifoa",
    "runoff_opponent": "",
    "majority": ""
   }
