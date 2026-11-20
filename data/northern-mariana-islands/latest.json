@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "fe88725fbd0358ffc5a7180811dba333afa9acca64c0f0ce338e41080a640c02",
-  "fetched_at": "2026-11-20T14:44:36.207Z",
-  "file_last_modified": "Fri, 20 Nov 2026 14:43:55 GMT",
+  "sha256": "08180288d7aeeacf85b7ed4bb79f453021bac6da2942637ce8c3e69b2f4a256c",
+  "fetched_at": "2026-11-20T14:54:37.669Z",
+  "file_last_modified": "Fri, 20 Nov 2026 14:53:45 GMT",
   "page": "https://www.votecnmi.gov.mp/"
  },
  "report": {
@@ -88,22 +88,22 @@
     {
      "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
      "party": "REP",
-     "votes": 4267,
-     "pct": 53.5
+     "votes": 4444,
+     "pct": 53.13
     },
     {
      "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
      "party": "IND",
-     "votes": 3708,
-     "pct": 46.5
+     "votes": 3920,
+     "pct": 46.87
     }
    ],
    "write_in": 0,
-   "total_votes": 7975,
+   "total_votes": 8364,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
     "ED1A": {
      "votes": {
@@ -134,6 +134,17 @@
      },
      "write_in": null,
      "total_votes": 416,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED2": {
+     "votes": {
+      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 212,
+      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 177
+     },
+     "write_in": null,
+     "total_votes": 389,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -172,22 +183,22 @@
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 3949,
-     "pct": 50.11
+     "votes": 4160,
+     "pct": 50.32
     },
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 3931,
-     "pct": 49.89
+     "votes": 4107,
+     "pct": 49.68
     }
    ],
    "write_in": 0,
-   "total_votes": 7880,
+   "total_votes": 8267,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 5,
+   "precincts_in_report": 6,
    "by_precinct": {
     "ED1A": {
      "votes": {
@@ -218,6 +229,17 @@
      },
      "write_in": null,
      "total_votes": 408,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
+    "ED2": {
+     "votes": {
+      "Michael Norita Evangelista": 211,
+      "Joaquin Deleon Guerrero Torres": 176
+     },
+     "write_in": null,
+     "total_votes": 387,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -2704,21 +2726,21 @@
    "level": "none",
    "majority_needed": true,
    "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
-   "leader_pct": 53.5,
+   "leader_pct": 53.1,
    "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-   "runner_up_pct": 46.5,
+   "runner_up_pct": 46.9,
    "third": null,
    "third_pct": null,
-   "margin": 559,
-   "counted_pct": 68.3,
-   "precincts_reported": 5,
+   "margin": 524,
+   "counted_pct": 72.2,
+   "precincts_reported": 6,
    "precincts_total": 15,
    "precincts_led": 3,
-   "precincts_with_votes": 5,
-   "runner_up_needs_pct": 56,
-   "runner_up_best_pct": 54,
-   "runner_up_best_at": "ED1B",
-   "est_votes_out": 3703
+   "precincts_with_votes": 6,
+   "runner_up_needs_pct": 56.5,
+   "runner_up_best_pct": 54.5,
+   "runner_up_best_at": "ED2",
+   "est_votes_out": 3227
   },
   {
    "id": "attorney-general-runoff",
@@ -2728,21 +2750,21 @@
    "level": "none",
    "majority_needed": true,
    "leader": "Michael Norita Evangelista",
-   "leader_pct": 50.1,
+   "leader_pct": 50.3,
    "runner_up": "Joaquin Deleon Guerrero Torres",
-   "runner_up_pct": 49.9,
+   "runner_up_pct": 49.7,
    "third": null,
    "third_pct": null,
-   "margin": 18,
-   "counted_pct": 68.5,
-   "precincts_reported": 5,
+   "margin": 53,
+   "counted_pct": 72.3,
+   "precincts_reported": 6,
    "precincts_total": 15,
-   "precincts_led": 3,
-   "precincts_with_votes": 5,
-   "runner_up_needs_pct": 50.2,
+   "precincts_led": 4,
+   "precincts_with_votes": 6,
+   "runner_up_needs_pct": 50.7,
    "runner_up_best_pct": 57,
    "runner_up_best_at": "ABS",
-   "est_votes_out": 3624
+   "est_votes_out": 3170
   },
   {
    "id": "washington-delegate",
