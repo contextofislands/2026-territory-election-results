@@ -4,16 +4,15 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "ef72b4f6451e9591640c249c189c930151647d988f3fdffc14f2ea20769e5648",
-  "fetched_at": "2026-11-20T22:46:35.520Z",
-  "file_last_modified": "Fri, 20 Nov 2026 22:45:51 GMT",
+  "sha256": "e85565e31700d4b5ac9e42e36d97bc6011fd34092979a21213894a221a57e950",
+  "fetched_at": "2026-11-20T22:54:36.725Z",
+  "file_last_modified": "Fri, 20 Nov 2026 22:54:05 GMT",
   "page": "https://www.votecnmi.gov.mp/"
  },
  "report": {
   "title": "Runoff election: governor and attorney general (other races: general election, certified Nov. 6)",
   "type": "HTML results page",
   "status": "UNOFFICIAL",
-  "note": "Run-Off election ballots are currently being counted",
   "election": "General Election 2026"
  },
  "statistics": {
