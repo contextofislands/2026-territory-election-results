@@ -4,15 +4,16 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "ed77e94ff6f80bf943a04b85233e1ae4e780fb66d060924ec5782eb6504a6ea0",
-  "fetched_at": "2026-11-16T00:57:33.917Z",
-  "file_last_modified": "Mon, 16 Nov 2026 00:56:00 GMT"
+  "sha256": "bb4f510c84ec72371ae9a32ca2c345d6eb7d3ec13ee81f136f44861d81c449ec",
+  "fetched_at": "2026-11-20T10:17:44.760Z",
+  "file_last_modified": "Fri, 20 Nov 2026 10:17:41 GMT",
+  "page": "https://www.votecnmi.gov.mp/"
  },
  "report": {
-  "title": "Election results",
+  "title": "Runoff election: governor and attorney general (other races: general election, certified Nov. 6)",
   "type": "HTML results page",
-  "status": "OFFICIAL",
-  "note": "Certified on November 6, 2026",
+  "status": "UNOFFICIAL",
+  "note": "Run-Off election ballots are currently being counted",
   "election": "General Election 2026"
  },
  "statistics": {
@@ -78,207 +79,88 @@
  ],
  "contests": [
   {
-   "id": "governor-lt-governor",
-   "name": "Governor/Lt. Governor",
+   "id": "governor-lt-governor-runoff",
+   "name": "Governor/Lt. Governor (Runoff)",
    "party": null,
-   "office": "Governor/Lt. Governor",
+   "office": "Governor/Lt. Governor (Runoff)",
    "vote_for": 1,
    "candidates": [
     {
-     "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
-     "party": "REP",
-     "votes": 6437,
-     "pct": 49.45
-    },
-    {
      "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
      "party": "IND",
-     "votes": 5043,
-     "pct": 38.74
+     "votes": 0,
+     "pct": 0
     },
     {
-     "name": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
-     "party": "IND",
-     "votes": 1537,
-     "pct": 11.81
+     "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
+     "party": "REP",
+     "votes": 0,
+     "pct": 0
     }
    ],
    "write_in": 0,
-   "total_votes": 13017,
+   "total_votes": 0,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 14,
-   "by_precinct": {
-    "ED1A": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 126,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 129,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 42
-     },
-     "write_in": null,
-     "total_votes": 297,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
+   "id": "attorney-general-runoff",
+   "name": "Attorney General (Runoff)",
+   "party": null,
+   "office": "Attorney General (Runoff)",
+   "vote_for": 1,
+   "candidates": [
+    {
+     "name": "Michael Norita Evangelista",
+     "party": "NP",
+     "votes": 0,
+     "pct": 0
     },
-    "ED1B": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 388,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 367,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 137
-     },
-     "write_in": null,
-     "total_votes": 892,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED1C": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 213,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 203,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 51
-     },
-     "write_in": null,
-     "total_votes": 467,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED2": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 159,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 175,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 61
-     },
-     "write_in": null,
-     "total_votes": 395,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED3A": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 152,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 144,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 21
-     },
-     "write_in": null,
-     "total_votes": 317,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED3B": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 380,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 260,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 121
-     },
-     "write_in": null,
-     "total_votes": 761,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED4A": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 163,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 152,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 23
-     },
-     "write_in": null,
-     "total_votes": 338,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED4B": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 98,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 87,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 87
-     },
-     "write_in": null,
-     "total_votes": 272,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED4C": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 66,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 68,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 17
-     },
-     "write_in": null,
-     "total_votes": 151,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED5": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 418,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 433,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 121
-     },
-     "write_in": null,
-     "total_votes": 972,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED6": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 32,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 192,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 13
-     },
-     "write_in": null,
-     "total_votes": 237,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED7": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 94,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 202,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 20
-     },
-     "write_in": null,
-     "total_votes": 316,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "EV": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 2415,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 3611,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 690
-     },
-     "write_in": null,
-     "total_votes": 6716,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ABS": {
-     "votes": {
-      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 339,
-      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 414,
-      "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero": 133
-     },
-     "write_in": null,
-     "total_votes": 886,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
+    {
+     "name": "Joaquin Deleon Guerrero Torres",
+     "party": "NP",
+     "votes": 0,
+     "pct": 0
     }
-   }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
+  },
+  {
+   "id": "governor-lt-governor-runoff",
+   "name": "Governor/Lt. Governor (Runoff)",
+   "party": null,
+   "office": "Governor/Lt. Governor (Runoff)",
+   "vote_for": 1,
+   "candidates": [
+    {
+     "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
+     "party": "IND",
+     "votes": 0,
+     "pct": 0
+    },
+    {
+     "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
+     "party": "REP",
+     "votes": 0,
+     "pct": 0
+    }
+   ],
+   "write_in": 0,
+   "total_votes": 0,
+   "overvotes": 0,
+   "undervotes": 0,
+   "contest_totals": 0,
+   "precincts_in_report": 0,
+   "by_precinct": {}
   },
   {
    "id": "washington-delegate",
@@ -2360,207 +2242,32 @@
    }
   },
   {
-   "id": "attorney-general",
-   "name": "Attorney General",
+   "id": "attorney-general-runoff",
+   "name": "Attorney General (Runoff)",
    "party": null,
-   "office": "Attorney General",
+   "office": "Attorney General (Runoff)",
    "vote_for": 1,
    "candidates": [
     {
-     "name": "Joaquin Deleon Guerrero Torres",
-     "party": "NP",
-     "votes": 5073,
-     "pct": 39.75
-    },
-    {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 3854,
-     "pct": 30.2
+     "votes": 0,
+     "pct": 0
     },
     {
-     "name": "Jonathan Robert Glass",
+     "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 3836,
-     "pct": 30.06
+     "votes": 0,
+     "pct": 0
     }
    ],
    "write_in": 0,
-   "total_votes": 12763,
+   "total_votes": 0,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 14,
-   "by_precinct": {
-    "ED1A": {
-     "votes": {
-      "Michael Norita Evangelista": 104,
-      "Joaquin Deleon Guerrero Torres": 109,
-      "Jonathan Robert Glass": 85
-     },
-     "write_in": null,
-     "total_votes": 298,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED1B": {
-     "votes": {
-      "Michael Norita Evangelista": 281,
-      "Joaquin Deleon Guerrero Torres": 280,
-      "Jonathan Robert Glass": 306
-     },
-     "write_in": null,
-     "total_votes": 867,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED1C": {
-     "votes": {
-      "Michael Norita Evangelista": 150,
-      "Joaquin Deleon Guerrero Torres": 155,
-      "Jonathan Robert Glass": 149
-     },
-     "write_in": null,
-     "total_votes": 454,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED2": {
-     "votes": {
-      "Michael Norita Evangelista": 131,
-      "Joaquin Deleon Guerrero Torres": 127,
-      "Jonathan Robert Glass": 129
-     },
-     "write_in": null,
-     "total_votes": 387,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED3A": {
-     "votes": {
-      "Michael Norita Evangelista": 106,
-      "Joaquin Deleon Guerrero Torres": 105,
-      "Jonathan Robert Glass": 90
-     },
-     "write_in": null,
-     "total_votes": 301,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED3B": {
-     "votes": {
-      "Michael Norita Evangelista": 257,
-      "Joaquin Deleon Guerrero Torres": 200,
-      "Jonathan Robert Glass": 301
-     },
-     "write_in": null,
-     "total_votes": 758,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED4A": {
-     "votes": {
-      "Michael Norita Evangelista": 206,
-      "Joaquin Deleon Guerrero Torres": 72,
-      "Jonathan Robert Glass": 54
-     },
-     "write_in": null,
-     "total_votes": 332,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED4B": {
-     "votes": {
-      "Michael Norita Evangelista": 100,
-      "Joaquin Deleon Guerrero Torres": 69,
-      "Jonathan Robert Glass": 104
-     },
-     "write_in": null,
-     "total_votes": 273,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED4C": {
-     "votes": {
-      "Michael Norita Evangelista": 77,
-      "Joaquin Deleon Guerrero Torres": 36,
-      "Jonathan Robert Glass": 38
-     },
-     "write_in": null,
-     "total_votes": 151,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED5": {
-     "votes": {
-      "Michael Norita Evangelista": 343,
-      "Joaquin Deleon Guerrero Torres": 311,
-      "Jonathan Robert Glass": 310
-     },
-     "write_in": null,
-     "total_votes": 964,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED6": {
-     "votes": {
-      "Michael Norita Evangelista": 23,
-      "Joaquin Deleon Guerrero Torres": 175,
-      "Jonathan Robert Glass": 28
-     },
-     "write_in": null,
-     "total_votes": 226,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ED7": {
-     "votes": {
-      "Michael Norita Evangelista": 44,
-      "Joaquin Deleon Guerrero Torres": 182,
-      "Jonathan Robert Glass": 79
-     },
-     "write_in": null,
-     "total_votes": 305,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "EV": {
-     "votes": {
-      "Michael Norita Evangelista": 1784,
-      "Joaquin Deleon Guerrero Torres": 2915,
-      "Jonathan Robert Glass": 1871
-     },
-     "write_in": null,
-     "total_votes": 6570,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    },
-    "ABS": {
-     "votes": {
-      "Michael Norita Evangelista": 248,
-      "Joaquin Deleon Guerrero Torres": 337,
-      "Jonathan Robert Glass": 292
-     },
-     "write_in": null,
-     "total_votes": 877,
-     "overvotes": null,
-     "undervotes": null,
-     "contest_totals": null
-    }
-   }
+   "precincts_in_report": 0,
+   "by_precinct": {}
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
@@ -2934,30 +2641,6 @@
  "credit": "Source: Commonwealth Election Commission. Compiled by Pasquines.",
  "watch": [
   {
-   "id": "governor-lt-governor",
-   "contest": "Governor/Lt. Governor",
-   "office": "Governor/Lt. Governor",
-   "party": null,
-   "level": "none",
-   "majority_needed": true,
-   "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
-   "leader_pct": 49.5,
-   "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-   "runner_up_pct": 38.7,
-   "third": "Lawrence Fejeran Camacho / Edith E. Deleon Guerrero",
-   "third_pct": 11.8,
-   "margin": 1394,
-   "counted_pct": 99.6,
-   "precincts_reported": 14,
-   "precincts_total": 15,
-   "precincts_led": 8,
-   "precincts_with_votes": 14,
-   "runner_up_needs_pct": null,
-   "runner_up_best_pct": 59.4,
-   "runner_up_best_at": "ED3B",
-   "est_votes_out": 53
-  },
-  {
    "id": "washington-delegate",
    "contest": "Washington Delegate",
    "office": "Washington Delegate",
@@ -3028,30 +2711,6 @@
    "runner_up_best_pct": 39.6,
    "runner_up_best_at": "EV",
    "est_votes_out": 949
-  },
-  {
-   "id": "attorney-general",
-   "contest": "Attorney General",
-   "office": "Attorney General",
-   "party": null,
-   "level": "none",
-   "majority_needed": true,
-   "leader": "Joaquin Deleon Guerrero Torres",
-   "leader_pct": 39.7,
-   "runner_up": "Michael Norita Evangelista",
-   "runner_up_pct": 30.2,
-   "third": "Jonathan Robert Glass",
-   "third_pct": 30.1,
-   "margin": 1219,
-   "counted_pct": 99.6,
-   "precincts_reported": 14,
-   "precincts_total": 15,
-   "precincts_led": 6,
-   "precincts_with_votes": 14,
-   "runner_up_needs_pct": null,
-   "runner_up_best_pct": 74.1,
-   "runner_up_best_at": "ED4A",
-   "est_votes_out": 52
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
