@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "628fdc56aaa07ba45efc3b99988817a1bed1db3dacb4616ac8077f7f9c655a11",
-  "fetched_at": "2026-11-20T12:01:35.329Z",
-  "file_last_modified": "Fri, 20 Nov 2026 12:00:56 GMT",
+  "sha256": "5317e354e71dd869464548a093dd28331f6d4362ef09cc31d79588fe7e101de2",
+  "fetched_at": "2026-11-20T12:07:40.574Z",
+  "file_last_modified": "Fri, 20 Nov 2026 12:07:38 GMT",
   "page": "https://www.votecnmi.gov.mp/"
  },
  "report": {
@@ -139,23 +139,34 @@
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 94,
-     "pct": 56.97
+     "votes": 3272,
+     "pct": 50.42
     },
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 71,
-     "pct": 43.03
+     "votes": 3218,
+     "pct": 49.58
     }
    ],
    "write_in": 0,
-   "total_votes": 165,
+   "total_votes": 6490,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
+    "EV": {
+     "votes": {
+      "Michael Norita Evangelista": 3147,
+      "Joaquin Deleon Guerrero Torres": 3178
+     },
+     "write_in": null,
+     "total_votes": 6325,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ABS": {
      "votes": {
       "Michael Norita Evangelista": 71,
@@ -2309,23 +2320,34 @@
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 94,
-     "pct": 56.97
+     "votes": 3272,
+     "pct": 50.42
     },
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 71,
-     "pct": 43.03
+     "votes": 3218,
+     "pct": 49.58
     }
    ],
    "write_in": 0,
-   "total_votes": 165,
+   "total_votes": 6490,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 1,
+   "precincts_in_report": 2,
    "by_precinct": {
+    "EV": {
+     "votes": {
+      "Michael Norita Evangelista": 3147,
+      "Joaquin Deleon Guerrero Torres": 3178
+     },
+     "write_in": null,
+     "total_votes": 6325,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    },
     "ABS": {
      "votes": {
       "Michael Norita Evangelista": 71,
@@ -2742,21 +2764,21 @@
    "level": "none",
    "majority_needed": true,
    "leader": "Joaquin Deleon Guerrero Torres",
-   "leader_pct": 57,
+   "leader_pct": 50.4,
    "runner_up": "Michael Norita Evangelista",
-   "runner_up_pct": 43,
+   "runner_up_pct": 49.6,
    "third": null,
    "third_pct": null,
-   "margin": 23,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "margin": 54,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.4,
-   "runner_up_best_pct": 43,
-   "runner_up_best_at": "ABS",
-   "est_votes_out": 2228
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 50.1,
+   "runner_up_best_pct": 49.8,
+   "runner_up_best_at": "EV",
+   "est_votes_out": 42185
   },
   {
    "id": "governor-lt-governor-runoff",
@@ -2862,21 +2884,21 @@
    "level": "none",
    "majority_needed": true,
    "leader": "Joaquin Deleon Guerrero Torres",
-   "leader_pct": 57,
+   "leader_pct": 50.4,
    "runner_up": "Michael Norita Evangelista",
-   "runner_up_pct": 43,
+   "runner_up_pct": 49.6,
    "third": null,
    "third_pct": null,
-   "margin": 23,
-   "counted_pct": 6.9,
-   "precincts_reported": 1,
+   "margin": 54,
+   "counted_pct": 13.3,
+   "precincts_reported": 2,
    "precincts_total": 15,
-   "precincts_led": 1,
-   "precincts_with_votes": 1,
-   "runner_up_needs_pct": 50.4,
-   "runner_up_best_pct": 43,
-   "runner_up_best_at": "ABS",
-   "est_votes_out": 2228
+   "precincts_led": 2,
+   "precincts_with_votes": 2,
+   "runner_up_needs_pct": 50.1,
+   "runner_up_best_pct": 49.8,
+   "runner_up_best_at": "EV",
+   "est_votes_out": 42185
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
