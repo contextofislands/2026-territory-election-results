@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "2c99ca56caf82a4fc84eee92041317e84f5646f42391c4621adacf4f359e93d7",
-  "fetched_at": "2026-11-20T22:42:35.759Z",
-  "file_last_modified": "Fri, 20 Nov 2026 22:42:31 GMT",
+  "sha256": "bb75af2599644b069031490bb107b7da3ff7cac19ab526ccdbaa067e06a8bc3e",
+  "fetched_at": "2026-11-20T22:44:37.686Z",
+  "file_last_modified": "Fri, 20 Nov 2026 22:44:30 GMT",
   "page": "https://www.votecnmi.gov.mp/"
  },
  "report": {
@@ -271,18 +271,18 @@
     {
      "name": "Michael Norita Evangelista",
      "party": "NP",
-     "votes": 2716,
-     "pct": 53.41
+     "votes": 2600,
+     "pct": 52.32
     },
     {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
      "votes": 2369,
-     "pct": 46.59
+     "pct": 47.68
     }
    ],
    "write_in": 0,
-   "total_votes": 5085,
+   "total_votes": 4969,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
@@ -400,11 +400,11 @@
     },
     "ED6": {
      "votes": {
-      "Michael Norita Evangelista": 145,
+      "Michael Norita Evangelista": 29,
       "Joaquin Deleon Guerrero Torres": 136
      },
      "write_in": null,
-     "total_votes": 281,
+     "total_votes": 165,
      "overvotes": null,
      "undervotes": null,
      "contest_totals": null
@@ -2926,21 +2926,21 @@
    "level": "clinched",
    "majority_needed": true,
    "leader": "Michael Norita Evangelista",
-   "leader_pct": 53.4,
+   "leader_pct": 52.3,
    "runner_up": "Joaquin Deleon Guerrero Torres",
-   "runner_up_pct": 46.6,
+   "runner_up_pct": 47.7,
    "third": null,
    "third_pct": null,
-   "margin": 347,
+   "margin": 231,
    "counted_pct": 99.1,
    "precincts_reported": 14,
    "precincts_total": 15,
-   "precincts_led": 11,
+   "precincts_led": 10,
    "precincts_with_votes": 14,
    "runner_up_needs_pct": null,
-   "runner_up_best_pct": 68.6,
-   "runner_up_best_at": "ED7",
-   "est_votes_out": 48
+   "runner_up_best_pct": 82.4,
+   "runner_up_best_at": "ED6",
+   "est_votes_out": 47
   },
   {
    "id": "washington-delegate",
