@@ -4,9 +4,9 @@
  "source": {
   "agency": "Commonwealth Election Commission",
   "url": "https://www.votecnmi.gov.mp/general-election-2026.php",
-  "sha256": "bb4f510c84ec72371ae9a32ca2c345d6eb7d3ec13ee81f136f44861d81c449ec",
-  "fetched_at": "2026-11-20T10:17:44.760Z",
-  "file_last_modified": "Fri, 20 Nov 2026 10:17:41 GMT",
+  "sha256": "79a9036180c631485c129892dad7407ae31689c0239c4272503085f4f2e440a5",
+  "fetched_at": "2026-11-20T10:20:35.799Z",
+  "file_last_modified": "Fri, 20 Nov 2026 10:20:13 GMT",
   "page": "https://www.votecnmi.gov.mp/"
  },
  "report": {
@@ -86,25 +86,37 @@
    "vote_for": 1,
    "candidates": [
     {
-     "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-     "party": "IND",
-     "votes": 0,
-     "pct": 0
-    },
-    {
      "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
      "party": "REP",
-     "votes": 0,
-     "pct": 0
+     "votes": 103,
+     "pct": 62.05
+    },
+    {
+     "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
+     "party": "IND",
+     "votes": 63,
+     "pct": 37.95
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 166,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "ABS": {
+     "votes": {
+      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 63,
+      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 103
+     },
+     "write_in": null,
+     "total_votes": 166,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
    "id": "attorney-general-runoff",
@@ -114,25 +126,37 @@
    "vote_for": 1,
    "candidates": [
     {
-     "name": "Michael Norita Evangelista",
-     "party": "NP",
-     "votes": 0,
-     "pct": 0
-    },
-    {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 0,
-     "pct": 0
+     "votes": 94,
+     "pct": 56.97
+    },
+    {
+     "name": "Michael Norita Evangelista",
+     "party": "NP",
+     "votes": 71,
+     "pct": 43.03
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 165,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "ABS": {
+     "votes": {
+      "Michael Norita Evangelista": 71,
+      "Joaquin Deleon Guerrero Torres": 94
+     },
+     "write_in": null,
+     "total_votes": 165,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
    "id": "governor-lt-governor-runoff",
@@ -142,25 +166,37 @@
    "vote_for": 1,
    "candidates": [
     {
-     "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
-     "party": "IND",
-     "votes": 0,
-     "pct": 0
-    },
-    {
      "name": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
      "party": "REP",
-     "votes": 0,
-     "pct": 0
+     "votes": 103,
+     "pct": 62.05
+    },
+    {
+     "name": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
+     "party": "IND",
+     "votes": 63,
+     "pct": 37.95
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 166,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "ABS": {
+     "votes": {
+      "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez": 63,
+      "Ralph DLG Torres / Ben Mendiola Jones Jr.": 103
+     },
+     "write_in": null,
+     "total_votes": 166,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
    "id": "washington-delegate",
@@ -2249,25 +2285,37 @@
    "vote_for": 1,
    "candidates": [
     {
-     "name": "Michael Norita Evangelista",
-     "party": "NP",
-     "votes": 0,
-     "pct": 0
-    },
-    {
      "name": "Joaquin Deleon Guerrero Torres",
      "party": "NP",
-     "votes": 0,
-     "pct": 0
+     "votes": 94,
+     "pct": 56.97
+    },
+    {
+     "name": "Michael Norita Evangelista",
+     "party": "NP",
+     "votes": 71,
+     "pct": 43.03
     }
    ],
    "write_in": 0,
-   "total_votes": 0,
+   "total_votes": 165,
    "overvotes": 0,
    "undervotes": 0,
    "contest_totals": 0,
-   "precincts_in_report": 0,
-   "by_precinct": {}
+   "precincts_in_report": 1,
+   "by_precinct": {
+    "ABS": {
+     "votes": {
+      "Michael Norita Evangelista": 71,
+      "Joaquin Deleon Guerrero Torres": 94
+     },
+     "write_in": null,
+     "total_votes": 165,
+     "overvotes": null,
+     "undervotes": null,
+     "contest_totals": null
+    }
+   }
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
@@ -2641,6 +2689,78 @@
  "credit": "Source: Commonwealth Election Commission. Compiled by Pasquines.",
  "watch": [
   {
+   "id": "governor-lt-governor-runoff",
+   "contest": "Governor/Lt. Governor (Runoff)",
+   "office": "Governor/Lt. Governor (Runoff)",
+   "party": null,
+   "level": "none",
+   "majority_needed": true,
+   "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
+   "leader_pct": 62,
+   "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
+   "runner_up_pct": 38,
+   "third": null,
+   "third_pct": null,
+   "margin": 40,
+   "counted_pct": 6.9,
+   "precincts_reported": 1,
+   "precincts_total": 15,
+   "precincts_led": 1,
+   "precincts_with_votes": 1,
+   "runner_up_needs_pct": 50.7,
+   "runner_up_best_pct": 38,
+   "runner_up_best_at": "ABS",
+   "est_votes_out": 2241
+  },
+  {
+   "id": "attorney-general-runoff",
+   "contest": "Attorney General (Runoff)",
+   "office": "Attorney General (Runoff)",
+   "party": null,
+   "level": "none",
+   "majority_needed": true,
+   "leader": "Joaquin Deleon Guerrero Torres",
+   "leader_pct": 57,
+   "runner_up": "Michael Norita Evangelista",
+   "runner_up_pct": 43,
+   "third": null,
+   "third_pct": null,
+   "margin": 23,
+   "counted_pct": 6.9,
+   "precincts_reported": 1,
+   "precincts_total": 15,
+   "precincts_led": 1,
+   "precincts_with_votes": 1,
+   "runner_up_needs_pct": 50.4,
+   "runner_up_best_pct": 43,
+   "runner_up_best_at": "ABS",
+   "est_votes_out": 2228
+  },
+  {
+   "id": "governor-lt-governor-runoff",
+   "contest": "Governor/Lt. Governor (Runoff)",
+   "office": "Governor/Lt. Governor (Runoff)",
+   "party": null,
+   "level": "none",
+   "majority_needed": true,
+   "leader": "Ralph DLG Torres / Ben Mendiola Jones Jr.",
+   "leader_pct": 62,
+   "runner_up": "Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez",
+   "runner_up_pct": 38,
+   "third": null,
+   "third_pct": null,
+   "margin": 40,
+   "counted_pct": 6.9,
+   "precincts_reported": 1,
+   "precincts_total": 15,
+   "precincts_led": 1,
+   "precincts_with_votes": 1,
+   "runner_up_needs_pct": 50.7,
+   "runner_up_best_pct": 38,
+   "runner_up_best_at": "ABS",
+   "est_votes_out": 2241
+  },
+  {
    "id": "washington-delegate",
    "contest": "Washington Delegate",
    "office": "Washington Delegate",
@@ -2711,6 +2831,30 @@
    "runner_up_best_pct": 39.6,
    "runner_up_best_at": "EV",
    "est_votes_out": 949
+  },
+  {
+   "id": "attorney-general-runoff",
+   "contest": "Attorney General (Runoff)",
+   "office": "Attorney General (Runoff)",
+   "party": null,
+   "level": "none",
+   "majority_needed": true,
+   "leader": "Joaquin Deleon Guerrero Torres",
+   "leader_pct": 57,
+   "runner_up": "Michael Norita Evangelista",
+   "runner_up_pct": 43,
+   "third": null,
+   "third_pct": null,
+   "margin": 23,
+   "counted_pct": 6.9,
+   "precincts_reported": 1,
+   "precincts_total": 15,
+   "precincts_led": 1,
+   "precincts_with_votes": 1,
+   "runner_up_needs_pct": 50.4,
+   "runner_up_best_pct": 43,
+   "runner_up_best_at": "ABS",
+   "est_votes_out": 2228
   },
   {
    "id": "justice-retention-alexandro-cruz-castro",
