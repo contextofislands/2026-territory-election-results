@@ -1,12 +1,20 @@
 territory,precinct,contest,party,office,candidate,votes
+MP,ED1A,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Ralph DLG Torres / Ben Mendiola Jones Jr.,125
+MP,ED1A,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,120
+MP,ED1B,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Ralph DLG Torres / Ben Mendiola Jones Jr.,349
+MP,ED1B,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,410
 MP,EV,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Ralph DLG Torres / Ben Mendiola Jones Jr.,3489
 MP,EV,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,2900
 MP,ABS,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Ralph DLG Torres / Ben Mendiola Jones Jr.,103
 MP,ABS,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,63
-MP,EV,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,3178
+MP,ED1A,Attorney General (Runoff),,Attorney General (Runoff),Michael Norita Evangelista,126
+MP,ED1A,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,116
+MP,ED1B,Attorney General (Runoff),,Attorney General (Runoff),Michael Norita Evangelista,395
+MP,ED1B,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,345
 MP,EV,Attorney General (Runoff),,Attorney General (Runoff),Michael Norita Evangelista,3147
-MP,ABS,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,94
+MP,EV,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,3178
 MP,ABS,Attorney General (Runoff),,Attorney General (Runoff),Michael Norita Evangelista,71
+MP,ABS,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,94
 MP,ED1A,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,183
 MP,ED1A,Washington Delegate,,Washington Delegate,Galvin Sablan Deleon Guerrero,111
 MP,ED1B,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,488
