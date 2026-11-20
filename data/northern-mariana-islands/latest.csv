@@ -1,8 +1,14 @@
 territory,precinct,contest,party,office,candidate,votes
+MP,EV,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Ralph DLG Torres / Ben Mendiola Jones Jr.,177
+MP,EV,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,156
 MP,ABS,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Ralph DLG Torres / Ben Mendiola Jones Jr.,103
 MP,ABS,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,63
+MP,EV,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,163
+MP,EV,Attorney General (Runoff),,Attorney General (Runoff),Michael Norita Evangelista,168
 MP,ABS,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,94
 MP,ABS,Attorney General (Runoff),,Attorney General (Runoff),Michael Norita Evangelista,71
+MP,EV,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Ralph DLG Torres / Ben Mendiola Jones Jr.,177
+MP,EV,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,156
 MP,ABS,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Ralph DLG Torres / Ben Mendiola Jones Jr.,103
 MP,ABS,Governor/Lt. Governor (Runoff),,Governor/Lt. Governor (Runoff),Blas Jonathan Tenorio Attao / Edmund Sablan Villagomez,63
 MP,ED1A,Washington Delegate,,Washington Delegate,Kimberly King-Hinds,183
@@ -387,6 +393,8 @@ MP,ED4C,Saipan & Northern Islands - Board of Education,,Saipan & Northern Island
 MP,ED5,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,737
 MP,EV,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,3767
 MP,ABS,Saipan & Northern Islands - Board of Education,,Saipan & Northern Islands - Board of Education,Daniel Ogo Quitugua,404
+MP,EV,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,163
+MP,EV,Attorney General (Runoff),,Attorney General (Runoff),Michael Norita Evangelista,168
 MP,ABS,Attorney General (Runoff),,Attorney General (Runoff),Joaquin Deleon Guerrero Torres,94
 MP,ABS,Attorney General (Runoff),,Attorney General (Runoff),Michael Norita Evangelista,71
 MP,ED1A,Justice Retention: Alexandro Cruz Castro,,Justice Retention: Alexandro Cruz Castro,YES,242
